@@ -39,7 +39,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
-          key: hf-led-large-16384-v2
+          key: hf-led-large-16384-v3
 
       - name: Cache Playwright
         uses: actions/cache@v4

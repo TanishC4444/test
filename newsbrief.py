@@ -301,13 +301,9 @@ class NewsBrief:
     # ── Summarization ──────────────────────────────────────────────────────────
 
     def summarize(self, articles: list = None) -> list:
-        """
-        Summarize using allenai/led-large-16384.
-        16384 token context means almost no news article needs chunking.
-        Only falls back to chunking for extremely long pieces (10k+ words).
-        """
         try:
-            from transformers import pipeline
+            from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+            import torch
         except ImportError:
             raise ImportError("pip install transformers torch")
 
@@ -316,13 +312,11 @@ class NewsBrief:
             print("[Summarize] Nothing to summarize.")
             return []
 
-        print("[Summarize] Loading allenai/led-large-16384...")
-        summarizer = pipeline(
-            "summarization",
-            model     = "allenai/led-large-16384",
-            tokenizer = "allenai/led-large-16384",
-            device    = -1,
-        )
+        MODEL = "allenai/led-large-16384"
+        print(f"[Summarize] Loading {MODEL}...")
+        tokenizer = AutoTokenizer.from_pretrained(MODEL)
+        model     = AutoModelForSeq2SeqLM.from_pretrained(MODEL)
+        model.eval()
         print(f"[Summarize] Model ready. {len(arts)} articles to process.\n")
 
         for i, art in enumerate(arts, 1):
@@ -334,27 +328,29 @@ class NewsBrief:
             t0 = time.time()
 
             try:
-                words  = text.split()
-                # LED handles ~12000 words in one pass — chunk only if longer
-                chunks = [" ".join(words[j:j+12000]) for j in range(0, len(words), 12000)]
+                inputs = tokenizer(
+                    text,
+                    return_tensors      = "pt",
+                    max_length          = 16384,
+                    truncation          = True,
+                    padding             = "max_length",
+                )
+                # global_attention_mask: attend to first token globally (LED requirement)
+                global_attn = torch.zeros_like(inputs["input_ids"])
+                global_attn[:, 0] = 1
 
-                if len(chunks) == 1:
-                    out     = summarizer(text, max_length=180, min_length=40,
-                                         do_sample=False, truncation=True)
-                    summary = out[0]["summary_text"]
-                else:
-                    # Rare: article > 12k words, summarize chunks then reduce
-                    print(f"\n    ↳ {len(chunks)} chunks", end=" ", flush=True)
-                    chunk_sums = []
-                    for chunk in chunks:
-                        o = summarizer(chunk, max_length=130, min_length=30,
-                                       do_sample=False, truncation=True)
-                        chunk_sums.append(o[0]["summary_text"])
-                    combined = " ".join(chunk_sums)
-                    final    = summarizer(combined, max_length=180, min_length=40,
-                                          do_sample=False, truncation=True)
-                    summary  = final[0]["summary_text"]
+                with torch.no_grad():
+                    ids = model.generate(
+                        inputs["input_ids"],
+                        attention_mask        = inputs["attention_mask"],
+                        global_attention_mask = global_attn,
+                        max_length            = 180,
+                        min_length            = 40,
+                        num_beams             = 2,
+                        early_stopping        = True,
+                    )
 
+                summary = tokenizer.decode(ids[0], skip_special_tokens=True)
                 art["summary"] = summary
                 self.store.set_summary(art["link"], summary)
                 print(f"✓  ({time.time()-t0:.1f}s)")
@@ -364,7 +360,6 @@ class NewsBrief:
 
         print("\n[Summarize] Complete.\n")
         return arts
-
     # ── Read ───────────────────────────────────────────────────────────────────
 
     def get(self, source: str = "") -> list:
