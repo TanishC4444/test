@@ -2,12 +2,12 @@ name: Newsbrief
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes (GitHub's minimum)
-  workflow_dispatch:          # manual trigger from Actions tab
+    - cron: '0 */6 * * *'   # restart every 6 hours as fallback
+  workflow_dispatch:
 
 concurrency:
   group: newsbrief
-  cancel-in-progress: false  # queue runs, never kill mid-scrape
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 55       # just under 60min GitHub limit
+    timeout-minutes: 355     # just under GitHub's 6-hour max
 
     steps:
       - name: Checkout
@@ -53,16 +53,64 @@ jobs:
           pip install torch --index-url https://download.pytorch.org/whl/cpu
           playwright install chromium --with-deps
 
-      - name: Run Newsbrief
-        run: python newsbrief.py --all
-
-      - name: Commit results
+      - name: Configure git
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git stash
-          git pull --rebase origin main
-          git stash pop
-          git add store.json data/
-          git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
-          git push
+
+      - name: Run loop
+        run: |
+          START=$(date +%s)
+          MAX_SECONDS=20700      # 345 minutes — leaves 10 min buffer before timeout
+          SLEEP=300              # 5 min between runs
+
+          commit() {
+            git stash
+            git pull --rebase origin main
+            git stash pop
+            git add store.json data/
+            git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+            git push && echo "[GIT] Pushed." || echo "[GIT] Push failed, will retry next loop."
+          }
+
+          # Trap SIGTERM (GitHub sends this before killing the job)
+          # so we always commit whatever we have before dying
+          trap 'echo "[TRAP] Caught signal — committing before exit."; commit; exit 0' SIGTERM SIGINT
+
+          ITERATION=1
+          while true; do
+            NOW=$(date +%s)
+            ELAPSED=$(( NOW - START ))
+            REMAINING=$(( MAX_SECONDS - ELAPSED ))
+
+            echo ""
+            echo "═══════════════════════════════════════════"
+            echo " Iteration $ITERATION  |  elapsed ${ELAPSED}s  |  remaining ${REMAINING}s"
+            echo "═══════════════════════════════════════════"
+
+            if [ "$REMAINING" -lt 600 ]; then
+              echo "[LOOP] Less than 10 min remaining — exiting cleanly."
+              break
+            fi
+
+            python newsbrief.py --all
+
+            # Commit after every iteration so no work is lost
+            commit
+
+            ITERATION=$(( ITERATION + 1 ))
+
+            NOW=$(date +%s)
+            ELAPSED=$(( NOW - START ))
+            REMAINING=$(( MAX_SECONDS - ELAPSED ))
+
+            if [ "$REMAINING" -lt $(( SLEEP + 600 )) ]; then
+              echo "[LOOP] Not enough time for another full run — exiting."
+              break
+            fi
+
+            echo "[LOOP] Sleeping ${SLEEP}s..."
+            sleep "$SLEEP"
+          done
+
+          echo "[DONE] Loop finished after $ITERATION iteration(s)."
