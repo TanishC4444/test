@@ -1,6 +1,6 @@
 {
   "week": "2026-W14",
-  "count": 146,
+  "count": 151,
   "articles": {
     "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -746,11 +746,11 @@
       "source": "NYT World",
       "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
       "title": "Iran War Live Updates: Macron Faults Trump For Shifting U.S. Goals",
-      "date": "Thu, 02 Apr 2026 17:20:05 +0000",
+      "date": "Thu, 02 Apr 2026 17:58:31 +0000",
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:04.337777+00:00"
+      "retrieved_at": "2026-04-02T18:03:02.160079+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html": {
       "source": "NYT World",
@@ -760,7 +760,7 @@
       "author": "Valerie Hopkins",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:06.797596+00:00"
+      "retrieved_at": "2026-04-02T18:03:04.632944+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html": {
       "source": "NYT World",
@@ -770,7 +770,7 @@
       "author": "Ephrat Livni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:09.141365+00:00"
+      "retrieved_at": "2026-04-02T18:03:06.995691+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html": {
       "source": "NYT World",
@@ -780,7 +780,7 @@
       "author": "Selam Gebrekidan and Joy Dong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:11.483701+00:00"
+      "retrieved_at": "2026-04-02T18:03:09.355084+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html": {
       "source": "NYT World",
@@ -790,17 +790,17 @@
       "author": "Emma Bubola",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:13.826692+00:00"
+      "retrieved_at": "2026-04-02T18:03:11.847721+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html": {
       "source": "NYT World",
       "link": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
       "title": "Pope Leo Returns to Tradition, Washing Priests’ Feet",
-      "date": "Thu, 02 Apr 2026 16:51:07 +0000",
+      "date": "Thu, 02 Apr 2026 17:43:44 +0000",
       "author": "Elisabetta Povoledo",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:16.168795+00:00"
+      "retrieved_at": "2026-04-02T18:03:14.206973+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/uk-reopen-strait-of-hormuz-talks.html": {
       "source": "NYT World",
@@ -810,7 +810,7 @@
       "author": "Stephen Castle",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:18.513189+00:00"
+      "retrieved_at": "2026-04-02T18:03:16.567474+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html": {
       "source": "NYT World",
@@ -820,7 +820,7 @@
       "author": "John Eligon and Joao Silva",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:20.855538+00:00"
+      "retrieved_at": "2026-04-02T18:03:18.925744+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html": {
       "source": "NYT World",
@@ -830,7 +830,7 @@
       "author": "Jeanna Smialek",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:23.199473+00:00"
+      "retrieved_at": "2026-04-02T18:03:21.286487+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html": {
       "source": "NYT World",
@@ -840,7 +840,7 @@
       "author": "Adam Rasgon, Bilal Shbair and Iyad Abuheweila",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:25.544492+00:00"
+      "retrieved_at": "2026-04-02T18:03:23.646290+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html": {
       "source": "NYT World",
@@ -850,7 +850,7 @@
       "author": "Jeffrey Gettleman, Maya Tekeli and Eric Schmitt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:27.886587+00:00"
+      "retrieved_at": "2026-04-02T18:03:26.005897+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-diaspora.html": {
       "source": "NYT World",
@@ -860,7 +860,7 @@
       "author": "Yeganeh Torbati and Sanam Mahoozi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:30.262860+00:00"
+      "retrieved_at": "2026-04-02T18:03:28.364128+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html": {
       "source": "NYT World",
@@ -870,7 +870,7 @@
       "author": "Steven Erlanger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:32.606458+00:00"
+      "retrieved_at": "2026-04-02T18:03:30.722954+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html": {
       "source": "NYT World",
@@ -880,7 +880,7 @@
       "author": "Ana Ionova and Lucía Cholakian Herrera",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:34.948878+00:00"
+      "retrieved_at": "2026-04-02T18:03:33.081732+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/europe/danish-warship-britain-nelson-copenhagen.html": {
       "source": "NYT World",
@@ -890,7 +890,7 @@
       "author": "Lynsey Chutel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:37.290193+00:00"
+      "retrieved_at": "2026-04-02T18:03:42.521077+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/europe/dave-storm-name-uk.html": {
       "source": "NYT World",
@@ -900,7 +900,7 @@
       "author": "Jonathan Wolfe",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:39.631791+00:00"
+      "retrieved_at": "2026-04-02T18:03:44.880752+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/europe/museum-heist-netherlands-helmet-romania.html": {
       "source": "NYT World",
@@ -910,7 +910,7 @@
       "author": "Claire Moses",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:41.973819+00:00"
+      "retrieved_at": "2026-04-02T18:03:47.240466+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/middleeast/macron-trump-nato.html": {
       "source": "NYT World",
@@ -920,7 +920,7 @@
       "author": "Mark Landler",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:44.318866+00:00"
+      "retrieved_at": "2026-04-02T18:03:49.619385+00:00"
     },
     "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranian-officials-come-out-defiant-after-trumps-war-speech": {
       "source": "NYT World",
@@ -930,7 +930,7 @@
       "author": "Erika Solomon and Leily Nikounazar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:46.659769+00:00"
+      "retrieved_at": "2026-04-02T18:03:51.976947+00:00"
     },
     "https://www.nytimes.com/2026/04/02/world/asia/dog-rescue-new-zealand.html": {
       "source": "NYT World",
@@ -940,17 +940,17 @@
       "author": "John Yoon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:49.002786+00:00"
+      "retrieved_at": "2026-04-02T18:03:54.334017+00:00"
     },
     "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/heres-the-latest": {
       "source": "NYT World",
       "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/heres-the-latest",
       "title": "Here’s the latest.",
-      "date": "Thu, 02 Apr 2026 16:38:37 +0000",
+      "date": "Thu, 02 Apr 2026 17:58:29 +0000",
       "author": "Mark Landler, Jason Karaian, Erika Solomon and Zolan Kanno-Youngs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:51.344240+00:00"
+      "retrieved_at": "2026-04-02T18:03:56.704009+00:00"
     },
     "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html": {
       "source": "NYT World",
@@ -960,7 +960,7 @@
       "author": "Luke Broadwater and Tyler Pager",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:53.686247+00:00"
+      "retrieved_at": "2026-04-02T18:03:59.062725+00:00"
     },
     "https://www.nytimes.com/2026/04/01/us/politics/trump-transcript-speech-iran.html": {
       "source": "NYT World",
@@ -970,7 +970,7 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:56.052983+00:00"
+      "retrieved_at": "2026-04-02T18:04:01.422346+00:00"
     },
     "https://www.nytimes.com/2026/04/01/us/politics/us-lifts-sanctions-rodriguez.html": {
       "source": "NYT World",
@@ -980,7 +980,7 @@
       "author": "Chris Cameron",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:27:58.393570+00:00"
+      "retrieved_at": "2026-04-02T18:04:03.791863+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/what-happened-in-the-war-in-the-middle-east-on-wednesday.html": {
       "source": "NYT World",
@@ -990,7 +990,7 @@
       "author": "Eve Sampson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:00.732824+00:00"
+      "retrieved_at": "2026-04-02T18:04:06.150660+00:00"
     },
     "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/trump-iran-war-speech": {
       "source": "NYT World",
@@ -1000,7 +1000,7 @@
       "author": "Zolan Kanno-Youngs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:03.074825+00:00"
+      "retrieved_at": "2026-04-02T18:04:08.510040+00:00"
     },
     "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html": {
       "source": "NYT World",
@@ -1010,7 +1010,7 @@
       "author": "Edward Wong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:05.422629+00:00"
+      "retrieved_at": "2026-04-02T18:04:10.868970+00:00"
     },
     "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html": {
       "source": "NYT World",
@@ -1020,7 +1020,7 @@
       "author": "Edward Wong and Julian E. Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:07.765955+00:00"
+      "retrieved_at": "2026-04-02T18:04:13.226251+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/trump-iran-speech-artemis-moon-launch-cape-town-housing.html": {
       "source": "NYT World",
@@ -1030,7 +1030,7 @@
       "author": "Alicia P.Q. Wittmeyer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:10.107548+00:00"
+      "retrieved_at": "2026-04-02T18:04:15.583920+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/canada/stephen-lewis-dead.html": {
       "source": "NYT World",
@@ -1040,7 +1040,7 @@
       "author": "Vjosa Isai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:12.448964+00:00"
+      "retrieved_at": "2026-04-02T18:04:17.942344+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/iran-president-pezeshkian-letter-diplomacy.html": {
       "source": "NYT World",
@@ -1050,7 +1050,7 @@
       "author": "Farnaz Fassihi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:14.792175+00:00"
+      "retrieved_at": "2026-04-02T18:04:20.300642+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/shelly-kittleson-kidnapping-iraq.html": {
       "source": "NYT World",
@@ -1060,7 +1060,7 @@
       "author": "Erika Solomon and Falih Hassan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:17.165052+00:00"
+      "retrieved_at": "2026-04-02T18:04:22.657218+00:00"
     },
     "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-nuclear-uranium.html": {
       "source": "NYT World",
@@ -1070,7 +1070,7 @@
       "author": "David E. Sanger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:19.508691+00:00"
+      "retrieved_at": "2026-04-02T18:04:25.017084+00:00"
     },
     "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran": {
       "source": "NYT World",
@@ -1080,7 +1080,7 @@
       "author": "Erika Solomon and Sanam Mahoozi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:21.853420+00:00"
+      "retrieved_at": "2026-04-02T18:04:27.374723+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/strait-of-hormuz-economy-oil.html": {
       "source": "NYT World",
@@ -1090,7 +1090,7 @@
       "author": "Jenny Gross",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:24.194717+00:00"
+      "retrieved_at": "2026-04-02T18:04:29.733558+00:00"
     },
     "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/netanyahu-israel-iran-war": {
       "source": "NYT World",
@@ -1100,7 +1100,7 @@
       "author": "Adam Rasgon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:26.537407+00:00"
+      "retrieved_at": "2026-04-02T18:04:32.091854+00:00"
     },
     "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/without-the-us-what-would-happen-to-nato": {
       "source": "NYT World",
@@ -1110,7 +1110,7 @@
       "author": "Lara Jakes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:28.881951+00:00"
+      "retrieved_at": "2026-04-02T18:04:34.450530+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html": {
       "source": "NYT World",
@@ -1120,7 +1120,7 @@
       "author": "Michael D. Shear",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:31.224380+00:00"
+      "retrieved_at": "2026-04-02T18:04:36.807957+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html": {
       "source": "NYT World",
@@ -1130,7 +1130,7 @@
       "author": "Mark Landler and Lizzie Dearden",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:33.570110+00:00"
+      "retrieved_at": "2026-04-02T18:04:39.167590+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/asia/china-cambodia-huione-extradition.html": {
       "source": "NYT World",
@@ -1140,7 +1140,7 @@
       "author": "Selam Gebrekidan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:35.912577+00:00"
+      "retrieved_at": "2026-04-02T18:04:41.524495+00:00"
     },
     "https://www.nytimes.com/2026/04/01/business/baidu-robotaxi-wuhan-china.html": {
       "source": "NYT World",
@@ -1150,7 +1150,7 @@
       "author": "Keith Bradsher",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:38.255132+00:00"
+      "retrieved_at": "2026-04-02T18:04:43.883970+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html": {
       "source": "NYT World",
@@ -1160,7 +1160,7 @@
       "author": "Christina Goldbaum and David Guttenfelder",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:40.605473+00:00"
+      "retrieved_at": "2026-04-02T18:04:46.243056+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/asia/australia-albanese-fuel-speech.html": {
       "source": "NYT World",
@@ -1170,7 +1170,7 @@
       "author": "Laura Chung",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:42.948960+00:00"
+      "retrieved_at": "2026-04-02T18:04:48.601569+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html": {
       "source": "NYT World",
@@ -1180,7 +1180,7 @@
       "author": "Ivan Nechepurenko",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:45.293178+00:00"
+      "retrieved_at": "2026-04-02T18:04:50.958568+00:00"
     },
     "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heres-the-latest": {
       "source": "NYT World",
@@ -1190,7 +1190,7 @@
       "author": "Zolan Kanno-Youngs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:47.636824+00:00"
+      "retrieved_at": "2026-04-02T18:04:53.317219+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/israel-iran-passover.html": {
       "source": "NYT World",
@@ -1200,7 +1200,7 @@
       "author": "Isabel Kershner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:49.979810+00:00"
+      "retrieved_at": "2026-04-02T18:04:55.676650+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html": {
       "source": "NYT World",
@@ -1210,7 +1210,7 @@
       "author": "Aie Balagtas See",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:52.321273+00:00"
+      "retrieved_at": "2026-04-02T18:04:58.034325+00:00"
     },
     "https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html": {
       "source": "NYT World",
@@ -1220,7 +1220,7 @@
       "author": "Lizzie Dearden",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:28:54.663819+00:00"
+      "retrieved_at": "2026-04-02T18:05:00.392667+00:00"
     },
     "https://www.nytimes.com/video/world/africa/100000010700094/cape-towns-housing-problem.html": {
       "source": "NYT World",
@@ -1240,7 +1240,7 @@
       "author": "Tyler Pager and Edward Wong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:00.024113+00:00"
+      "retrieved_at": "2026-04-02T18:05:02.750812+00:00"
     },
     "https://www.nytimes.com/2026/03/31/world/middleeast/tehran-pharmaceutical-strike-israel.html": {
       "source": "NYT World",
@@ -1250,7 +1250,7 @@
       "author": "Parin Behrooz and Ephrat Livni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:02.401632+00:00"
+      "retrieved_at": "2026-04-02T18:05:05.106844+00:00"
     },
     "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/narges-mohammadi-heart-attack-iranian-prison": {
       "source": "NYT World",
@@ -1260,7 +1260,7 @@
       "author": "Farnaz Fassihi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:04.745054+00:00"
+      "retrieved_at": "2026-04-02T18:05:07.465158+00:00"
     },
     "https://www.nytimes.com/2026/03/31/world/africa/africa-iran-shipping-houthis.html": {
       "source": "NYT World",
@@ -1270,7 +1270,7 @@
       "author": "Zimasa Matiwane",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:07.089340+00:00"
+      "retrieved_at": "2026-04-02T18:05:09.822986+00:00"
     },
     "https://www.nytimes.com/2026/03/31/world/middleeast/hegseth-iran-war-testimony.html": {
       "source": "NYT World",
@@ -1280,7 +1280,7 @@
       "author": "Megan Mineiro",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:09.430227+00:00"
+      "retrieved_at": "2026-04-02T18:05:12.179939+00:00"
     },
     "https://www.nytimes.com/2026/03/31/world/middleeast/iran-war-middle-east-recap-tuesday.html": {
       "source": "NYT World",
@@ -1290,7 +1290,7 @@
       "author": "Anushka Patil",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:11.776163+00:00"
+      "retrieved_at": "2026-04-02T18:05:14.539823+00:00"
     },
     "https://www.nytimes.com/2026/03/31/world/middleeast/un-peacekeepers-lebanon-killed-security-council.html": {
       "source": "NYT World",
@@ -1300,7 +1300,7 @@
       "author": "Farnaz Fassihi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:14.119968+00:00"
+      "retrieved_at": "2026-04-02T18:05:16.898250+00:00"
     },
     "https://www.nytimes.com/2026/03/31/world/social-media-ban-case-iran-trump-russia.html": {
       "source": "NYT World",
@@ -1310,7 +1310,7 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:16.461241+00:00"
+      "retrieved_at": "2026-04-02T18:05:19.256684+00:00"
     },
     "https://www.nytimes.com/2026/03/31/world/middleeast/us-iran-b52-bombers.html": {
       "source": "NYT World",
@@ -1320,7 +1320,7 @@
       "author": "Greg Jaffe, John Ismay, Helene Cooper and Thomas Fuller",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-04-02T17:29:18.803493+00:00"
+      "retrieved_at": "2026-04-02T18:05:21.614429+00:00"
     },
     "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html": {
       "source": "NYT World",
@@ -1461,6 +1461,56 @@
       "text": "Pakistan has emerged as a key intermediary in the U.S-Israel war with Iran. It played this role before, during a high-stakes moment in diplomatic history.\n\nPakistan is at the center of a major diplomatic effort to hold peace talks between the United States and Iran. Betsy Joles reports on how Pakistan came to play peacemaker.\n\nBETSY JOLES: Pakistan says it's ready and willing to host Iran and the U.S. in Islamabad, a move supported by Egypt, Turkey and Saudi Arabia, whose officials visited the capital on Sunday. Here's Pakistan's foreign minister, Ishaq Dar, speaking after those meetings, broadcast on Hum News.\n\n(SOUNDBITE OF ARCHIVED RECORDING)\n\nISHAQ DAR: Pakistan will be honored to host and facilitate meaningful talks between the two sides in the coming days.\n\nJOLES: Pakistan has also confirmed on social media in the past week that it has been acting as a middleman between Iran and the U.S. - posts reshared by Donald Trump.\n\nASIF DURRANI: It is quite flattering. But it's also, in a way, an endorsement of Pakistan's efforts.\n\nJOLES: Asif Durrani, Pakistan's former ambassador to Iran, says these efforts are a result of carefully managed ties with Tehran and Washington. Pakistan has revamped its relationship with the U.S. over the past year, enticing Trump with business deals and even sending the country's powerful army chief, Asim Munir, to meet him directly. Aizaz Ahmad Chaudhry, chairman of the Sanober Institute in Islamabad, says a key moment in the relationship came during Pakistan's war with rival India last May, when Trump took credit for brokering a ceasefire between them.\n\nAIZAZ AHMAD CHAUDHRY: Pakistan acknowledged that. India did not. And the president of the United States felt that Pakistan was honestly acknowledging his role.\n\nJOLES: Now Pakistan is on the other side as a potential mediator, and it has been using its standing with Iran and the U.S. to relay messages between them. It has notably played this role before...\n\n(SOUNDBITE OF ARCHIVED RECORDING)\n\nRICHARD NIXON: Good evening.\n\nJOLES: ...When, in 1971, President Richard Nixon stunned the nation by announcing that he was opening the door for relations with China.\n\n(SOUNDBITE OF ARCHIVED RECORDING)\n\nNIXON: In pursuance of that goal, I sent Dr. Kissinger, my assistant for national security affairs, to Peking during his recent world tour for the purpose of having talks with Premier Zhou Enlai.\n\nJOLES: Pakistan's former president Yahya Khan helped facilitate Kissinger's secret visit to China through Pakistan, which in the same year sought Washington's help in a bloody crackdown in its east. Pakistani author Fakir Syed Aijazuddin knows a lot about Kissinger's visit.\n\nFAKIR SYED AIJAZUDDIN: I was fascinated because I thought that this was such an important part of Sino-U.S. history.\n\nJOLES: He's had first-hand access to this history through his father-in-law, a cousin of the former president. Khan's relatives kept his record of correspondence with the U.S. and China.\n\nAIJAZUDDIN: The communications that were in this file that was maintained by Yahya Khan were old handwritten notes.\n\nJOLES: Khan would indirectly pass on messages from Chinese Premier Zhou Enlai to Pakistan's ambassador in the U.S., who would dictate them to Kissinger orally. Kissinger would write them down and give them to Nixon.\n\nAIJAZUDDIN: Neither party wanted any kind of physical evidence of these communications.\n\nJOLES: It was a high-stakes maneuver during the Cold War, which helps explain why it was kept so secretive. But diplomacy looks very different now, says historian Margaret MacMillan. She's written extensively on war and statecraft.\n\nMARGARET MACMILLAN: So much more of it is open, and so much more of it is being done in nontraditional ways.\n\nJOLES: She says Pakistan and others are filling gaps left by mediators of the past, particularly those from NATO countries that have distanced themselves from Trump's war. The incentives for Pakistan to get involved seem clear. It has a mutual defense pact with Saudi Arabia that could pull it into the war, and it relies on the tightly restricted Strait of Hormuz for most of its oil imports.\n\nMACMILLAN: There's always going to be an element of self-interest, but I think the economic side is perhaps more visible than it has often been in the past.\n\nJOLES: China has also endorsed Pakistan's efforts and joined it in calling for peace talks. But there's one major player that has been absent from discussions about Islamabad hosting them, and that's Israel, since Pakistan doesn't recognize it diplomatically. Pakistan's former ambassador to the U.S. Jalil Abbas Jilani says Israel's actions could ultimately determine whether possible talks succeed.\n\nJALIL ABBAS JILANI: The kind of spoilers role that Israel has been playing - that is something that needs to be restrained.\n\nJOLES: It's still unclear if and when talks in Islamabad might be held, since Iran has not publicly agreed to them. What is clear is that Pakistan wants to play a role in how this war shakes out.\n\nFor NPR News, I'm Betsy Joles in Islamabad.\n\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\n\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
       "summary": " Pakistan has been a key intermediary in the U.S-Israel war with Iran . It played this role before, during a high-stakes moment in diplomatic history . Pakistan has also confirmed on social media in the past week that it has been acting as a middleman between Iran and the U",
       "retrieved_at": "2026-04-02T17:30:13.428045+00:00"
+    },
+    "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Trump's shifting deadlines for ending Iran war",
+      "date": "Thu, 02 Apr 2026 17:13:00 GMT",
+      "author": "",
+      "text": "Donald Trump's first primetime address since the start of the Iran war on Wednesday evening left several questions unanswered.\n\nHe said the core strategic objectives of the US-Israeli military operation were \"nearing completion\" a month into the war, and projected it would last another two to three weeks.\n\nThe BBC's Chief International Correspondent, Lyse Doucet, pointed out that the US president's deadlines have \"always been fluid\" and that his address did not provide much clarity.\n\nThe BBC was in the New York courtroom to watch the ex-Venezuelan leader argue for ability to fund his defence with Venezuelan government funds.\n\nBBC News Asia Business Correspondent Suranjana Tewari reports from a petrol station in Manila.\n\nMore than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.\n\nThe BBC’s Analysis Editor looks at President Trump’s mixed messages on the war with Iran.\n\nIn a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran.\n\nThe BBC's Will Grant reports from the island days after the entire national electric grid collapsed.\n\nVenezuela won its first-ever World Baseball Classic title, defeating the United States 3–2 in the championship game.\n\nThe Academy Award winning US actor won his third Oscar on Sunday, but skipped the ceremony to visit Ukraine.\n\nAfter Australia gave humanitarian visas to seven team members, only two decided to stay - the BBC's Katy Watson explains what happened.\n\nThe BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.\n\nVoiced by Domhnall Gleeson and directed by John Kelly, Retirement Plan is nominated for Best Animated Short Film at the 98th Academy Awards.\n\nBBC Security Brief's Mikey Kay breaks down why Kharg Island is so strategically important for Tehran.\n\nBBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.\n\nTen days since President Trump first announced the attack, people from across the US tell the BBC what they think the best outcome of the conflict could be.\n\nThe UK has deployed the Type 45 Destroyer to the Mediterranean region, after an Iranian drone struck the runway at the RAF Akrotiri base in Cyprus on 1 March.\n\nAt his press briefing, the US president claimed the operation was a \"tremendous success\", but added that he wants to ensure Iran cannot develop nuclear weaponry.\n\nAs turmoil continues in the Middle East, the price of crude oil rose to more than $100 a barrel on Monday.\n\nThe BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.\n\nUN Humanitarian Affairs Lead Tom Fletcher speaks to the BBC about the conflict in the Middle East.\n\nDuring a White House event with the Inter Miami CF soccer team, the US president said the island was “ready to fall”.\n\nCopyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+      "summary": "Donald Trump's first primetime address since the start of the Iran war left several questions unanswered . The BBC was in the New York courtroom to watch the ex-Venezuelan leader argue for ability to fund his defence with Venezuelan government funds . The UK has deployed the Type 45 Destroyer to the Mediterranean region after an Iranian drone struck",
+      "retrieved_at": "2026-04-02T18:02:58.202346+00:00"
+    },
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html": {
+      "source": "NYT World",
+      "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html",
+      "title": "How Trump Boxed Himself In on Iran",
+      "date": "Thu, 02 Apr 2026 17:55:59 +0000",
+      "author": "David E. Sanger",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-04-02T18:03:35.443794+00:00"
+    },
+    "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/law-experts-express-concerns-over-violations-of-international-law-in-the-war": {
+      "source": "NYT World",
+      "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/law-experts-express-concerns-over-violations-of-international-law-in-the-war",
+      "title": "Law experts express concerns over ‘violations of international law’ in the war.",
+      "date": "Thu, 02 Apr 2026 17:33:10 +0000",
+      "author": "Amanda Taub",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-04-02T18:03:37.804140+00:00"
+    },
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html": {
+      "source": "NYT World",
+      "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html",
+      "title": "War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care",
+      "date": "Thu, 02 Apr 2026 17:25:23 +0000",
+      "author": "Alan Rappeport",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-04-02T18:03:40.163498+00:00"
+    },
+    "https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure": {
+      "source": "NPR News",
+      "link": "https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure",
+      "title": "Attorney General Pam Bondi out at DOJ",
+      "date": "Thu, 02 Apr 2026 13:35:55 -0400",
+      "author": "Ryan Lucas",
+      "text": "Attorney General Pam Bondi is seen here during congressional testimony on Oct. 07, 2025 in Washington, D.C.\n\nPresident Trump announced Thursday that Attorney General Pam Bondi is out from the top job at the Justice Department. Her departure comes amid simmering frustration over her leadership and her handling of the Epstein files.\n\nIn social media post, Trump called Bondi \"a Great American Patriot and a loyal friend, who faithfully served as my Attorney General over the past year.\"\n\n\"Pam did a tremendous job overseeing a massive crackdown in Crime across our Country, with Murders plummeting to their lowest level since 1900,\" Trump said. \"We love Pam, and she will be transitioning to a much needed and important new job in the private sector, to be announced at a date in the near future.\"\n\nDeputy Attorney General Todd Blanche, who is Trump's former personal attorney, will step in to serve as acting attorney general, the president said.\n\nBondi, a longtime Trump loyalist, is the second member of the president's Cabinet to be forced out. Her departure comes almost one month after Trump fired Kristi Noem as secretary of Homeland Security.\n\nBondi leaves after a tumultuous 14 months in charge that critics say damaged the Justice Department's credibility, hollowed out the career ranks and undermined the rule of law.\n\nUnder Bondi, the department jettisoned its decades-old tradition of maintaining independence from the White House, particularly in investigations and prosecutions, to insulate them from partisan politics.\n\nInstead, she used the department's vast powers to go after the president's perceived foes. That includes the high-profile cases against former FBI Director James Comey and New York Attorney General Letitia James, which were brought after Trump publicly called on Bondi to prosecute them.\n\nA federal judge later tossed both cases after finding the acting U.S. attorney who secured the indictments was unlawfully appointed.\n\nOther political opponents of the president or individuals standing in the way of his agenda also have found themselves under DOJ investigation, including Federal Reserve Chairman Jerome Powell, California Democratic Sen. Adam Schiff, and former Obama-era intelligence officials James Clapper and John Brennan.\n\nBondi also oversaw sweeping changes to the career workforce at the department. The agency fired prosecutors and FBI officials who worked on Capitol riot cases or the Trump investigations.\n\nThe elite section that prosecutes public corruption was gutted; the Civil Rights Division, which protects the Constitutional rights of all Americans, experienced a mass exodus of career attorneys who say the division is being turned into an enforcement arm of the White House.\n\nBondi, a former Florida attorney general, has defended her actions. She has portrayed the firings as a necessary house cleaning of politicized career officials. She's also tried to focus on what she views as major accomplishments during her tenure: targeting drug cartels, cracking down on violent crime, and helping in immigration enforcement.\n\nBut ultimately, the department's handling of the files related to the investigations of the late convicted sex offender Jeffrey Epstein played a large role in her downfall.\n\nEarly in her tenure, Bondi told Fox News that she had Epstein's client list \"sitting on my desk right now to review.\" A few months later, the Justice Department and the FBI said there was no client list and that no additional files from the Epstein investigation would be made public.\n\nThat touched off a political firestorm and ultimately led Congress to pass the Epstein Files Transparency Act, which forced the Justice Department to make public all of the Epstein files in its possession.\n\nThe department failed to meet the Act's 30-day deadline to release the materials, fueling frustrations on Capitol Hill, before eventually releasing millions of pages of files. Democratic and Republican lawmakers also expressed concerns about heavy redactions that were made to many of the documents.",
+      "summary": " President Trump calls Pam Bondi \"a Great American Patriot and a loyal friend\" Deputy Attorney General Todd Blanche will step in to serve as acting attorney general . Bondi is the second member of the president's Cabinet to be forced out . She is the first to",
+      "retrieved_at": "2026-04-02T18:05:24.651417+00:00"
     }
   }
 }
