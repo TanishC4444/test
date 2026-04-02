@@ -312,12 +312,12 @@ class NewsBrief:
             print("[Summarize] Nothing to summarize.")
             return []
 
-        MODEL = "allenai/led-large-16384"
+        MODEL = "sshleifer/distilbart-cnn-6-6"
         print(f"[Summarize] Loading {MODEL}...")
         tokenizer = AutoTokenizer.from_pretrained(MODEL)
         model     = AutoModelForSeq2SeqLM.from_pretrained(MODEL)
         model.eval()
-        print(f"[Summarize] Model ready. {len(arts)} articles to process.\n")
+        print(f"[Summarize] Ready. {len(arts)} articles.\n")
 
         for i, art in enumerate(arts, 1):
             text = art.get("text", "")
@@ -328,29 +328,40 @@ class NewsBrief:
             t0 = time.time()
 
             try:
-                inputs = tokenizer(
-                    text,
-                    return_tensors      = "pt",
-                    max_length          = 16384,
-                    truncation          = True,
-                    padding             = "max_length",
-                )
-                # global_attention_mask: attend to first token globally (LED requirement)
-                global_attn = torch.zeros_like(inputs["input_ids"])
-                global_attn[:, 0] = 1
+                # Chunk at 900 words to stay inside 1024 token limit
+                words  = text.split()
+                chunks = [" ".join(words[j:j+900]) for j in range(0, len(words), 900)]
 
-                with torch.no_grad():
-                    ids = model.generate(
-                        inputs["input_ids"],
-                        attention_mask        = inputs["attention_mask"],
-                        global_attention_mask = global_attn,
-                        max_length            = 180,
-                        min_length            = 40,
-                        num_beams             = 2,
-                        early_stopping        = True,
+                chunk_sums = []
+                for chunk in chunks:
+                    inputs = tokenizer(
+                        chunk,
+                        return_tensors = "pt",
+                        max_length     = 1024,
+                        truncation     = True,
                     )
+                    with torch.no_grad():
+                        ids = model.generate(
+                            inputs["input_ids"],
+                            max_length     = 130,
+                            min_length     = 30,
+                            num_beams      = 1,   # greedy — much faster
+                            early_stopping = True,
+                        )
+                    chunk_sums.append(tokenizer.decode(ids[0], skip_special_tokens=True))
 
-                summary = tokenizer.decode(ids[0], skip_special_tokens=True)
+                # Reduce if chunked
+                if len(chunk_sums) > 1:
+                    combined = " ".join(chunk_sums)
+                    inputs   = tokenizer(combined, return_tensors="pt",
+                                        max_length=1024, truncation=True)
+                    with torch.no_grad():
+                        ids = model.generate(inputs["input_ids"], max_length=130,
+                                            min_length=30, num_beams=1)
+                    summary = tokenizer.decode(ids[0], skip_special_tokens=True)
+                else:
+                    summary = chunk_sums[0]
+
                 art["summary"] = summary
                 self.store.set_summary(art["link"], summary)
                 print(f"✓  ({time.time()-t0:.1f}s)")
