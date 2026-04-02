@@ -24,34 +24,320 @@ UA = (
 )
 
 FEEDS = [
-    ("https://feeds.bbci.co.uk/news/world/rss.xml",          "BBC World"),
-    ("https://feeds.bbci.co.uk/news/technology/rss.xml",      "BBC Tech"),
-    ("https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "BBC Science"),
-    ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml","NYT World"),
-    ("https://feeds.npr.org/1001/rss.xml",                    "NPR News"),
-    ("https://feeds.reuters.com/reuters/topNews",             "Reuters"),
+    # ── BBC ───────────────────────────────────────────────────────────────────
+    ("https://feeds.bbci.co.uk/news/world/rss.xml",                    "BBC World"),
+    ("https://feeds.bbci.co.uk/news/technology/rss.xml",               "BBC Tech"),
+    ("https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",  "BBC Science"),
+    ("https://feeds.bbci.co.uk/news/health/rss.xml",                   "BBC Health"),
+    ("https://feeds.bbci.co.uk/news/business/rss.xml",                 "BBC Business"),
+    ("https://feeds.bbci.co.uk/news/politics/rss.xml",                 "BBC Politics"),
+    ("https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",   "BBC Entertainment"),
+    ("https://feeds.bbci.co.uk/news/education/rss.xml",                "BBC Education"),
+
+    # ── NYT ───────────────────────────────────────────────────────────────────
+    ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml",         "NYT World"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/US.xml",            "NYT US"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",      "NYT Politics"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",    "NYT Tech"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",       "NYT Science"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",        "NYT Health"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",      "NYT Business"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",       "NYT Climate"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",       "NYT Economy"),
+
+    # ── NPR ───────────────────────────────────────────────────────────────────
+    ("https://feeds.npr.org/1001/rss.xml",                             "NPR News"),
+    ("https://feeds.npr.org/1014/rss.xml",                             "NPR Politics"),
+    ("https://feeds.npr.org/1019/rss.xml",                             "NPR Science"),
+    ("https://feeds.npr.org/1128/rss.xml",                             "NPR Business"),
+    ("https://feeds.npr.org/1039/rss.xml",                             "NPR Health"),
+    ("https://feeds.npr.org/1025/rss.xml",                             "NPR World"),
+
+    # ── Reuters ───────────────────────────────────────────────────────────────
+    ("https://feeds.reuters.com/reuters/topNews",                       "Reuters Top"),
+    ("https://feeds.reuters.com/reuters/businessNews",                  "Reuters Business"),
+    ("https://feeds.reuters.com/reuters/technologyNews",                "Reuters Tech"),
+    ("https://feeds.reuters.com/reuters/scienceNews",                   "Reuters Science"),
+    ("https://feeds.reuters.com/reuters/healthNews",                    "Reuters Health"),
+    ("https://feeds.reuters.com/reuters/worldNews",                     "Reuters World"),
+    ("https://feeds.reuters.com/reuters/politicsNews",                  "Reuters Politics"),
+    ("https://feeds.reuters.com/reuters/environment",                   "Reuters Environment"),
+
+    # ── AP News ───────────────────────────────────────────────────────────────
+    ("https://rsshub.app/apnews/topics/ap-top-news",                   "AP Top News"),
+    ("https://rsshub.app/apnews/topics/politics",                      "AP Politics"),
+    ("https://rsshub.app/apnews/topics/technology",                    "AP Tech"),
+    ("https://rsshub.app/apnews/topics/science",                       "AP Science"),
+    ("https://rsshub.app/apnews/topics/health",                        "AP Health"),
+    ("https://rsshub.app/apnews/topics/business",                      "AP Business"),
+    ("https://rsshub.app/apnews/topics/world-news",                    "AP World"),
+    ("https://rsshub.app/apnews/topics/us-news",                       "AP US"),
+
+    # ── Guardian ──────────────────────────────────────────────────────────────
+    ("https://www.theguardian.com/world/rss",                          "Guardian World"),
+    ("https://www.theguardian.com/us-news/rss",                        "Guardian US"),
+    ("https://www.theguardian.com/technology/rss",                     "Guardian Tech"),
+    ("https://www.theguardian.com/science/rss",                        "Guardian Science"),
+    ("https://www.theguardian.com/environment/rss",                    "Guardian Environment"),
+    ("https://www.theguardian.com/business/rss",                       "Guardian Business"),
+    ("https://www.theguardian.com/politics/rss",                       "Guardian Politics"),
+    ("https://www.theguardian.com/society/health/rss",                 "Guardian Health"),
+    ("https://www.theguardian.com/education/rss",                      "Guardian Education"),
+
+    # ── Al Jazeera ────────────────────────────────────────────────────────────
+    ("https://www.aljazeera.com/xml/rss/all.xml",                      "Al Jazeera"),
+    ("https://www.aljazeera.com/xml/rss/economy.xml",                  "Al Jazeera Economy"),
+
+    # ── CNN ───────────────────────────────────────────────────────────────────
+    ("http://rss.cnn.com/rss/edition.rss",                             "CNN World"),
+    ("http://rss.cnn.com/rss/edition_us.rss",                          "CNN US"),
+    ("http://rss.cnn.com/rss/edition_technology.rss",                  "CNN Tech"),
+    ("http://rss.cnn.com/rss/edition_health.rss",                      "CNN Health"),
+    ("http://rss.cnn.com/rss/edition_business.rss",                    "CNN Business"),
+    ("http://rss.cnn.com/rss/edition_space.rss",                       "CNN Space"),
+
+    # ── Washington Post ───────────────────────────────────────────────────────
+    ("https://feeds.washingtonpost.com/rss/world",                     "WashPost World"),
+    ("https://feeds.washingtonpost.com/rss/politics",                  "WashPost Politics"),
+    ("https://feeds.washingtonpost.com/rss/business",                  "WashPost Business"),
+    ("https://feeds.washingtonpost.com/rss/technology",                "WashPost Tech"),
+    ("https://feeds.washingtonpost.com/rss/national",                  "WashPost National"),
+    ("https://feeds.washingtonpost.com/rss/health-science",            "WashPost Health"),
+
+    # ── Politico ──────────────────────────────────────────────────────────────
+    ("https://www.politico.com/rss/politics08.xml",                    "Politico Politics"),
+    ("https://www.politico.com/rss/congress.xml",                      "Politico Congress"),
+    ("https://www.politico.com/rss/economy.xml",                       "Politico Economy"),
+    ("https://www.politico.com/rss/healthcare.xml",                    "Politico Health"),
+    ("https://www.politico.com/rss/defense.xml",                       "Politico Defense"),
+
+    # ── Tech ──────────────────────────────────────────────────────────────────
+    ("https://techcrunch.com/feed/",                                   "TechCrunch"),
+    ("https://www.theverge.com/rss/index.xml",                         "The Verge"),
+    ("https://www.wired.com/feed/rss",                                 "Wired"),
+    ("https://feeds.arstechnica.com/arstechnica/index",                "Ars Technica"),
+    ("https://www.technologyreview.com/feed/",                         "MIT Tech Review"),
+    ("https://venturebeat.com/feed/",                                   "VentureBeat"),
+    ("https://www.zdnet.com/news/rss.xml",                             "ZDNet"),
+    ("https://feeds.feedburner.com/TheHackersNews",                    "Hacker News THN"),
+    ("https://www.darkreading.com/rss.xml",                            "Dark Reading"),
+
+    # ── Science ───────────────────────────────────────────────────────────────
+    ("https://www.sciencedaily.com/rss/all.xml",                       "Science Daily"),
+    ("https://www.newscientist.com/feed/home/",                        "New Scientist"),
+    ("https://feeds.nature.com/nature/rss/current",                    "Nature"),
+    ("https://www.science.org/rss/news_current.xml",                   "Science Magazine"),
+    ("https://phys.org/rss-feed/",                                     "Phys.org"),
+    ("https://www.scientificamerican.com/feed/",                        "Scientific American"),
+    ("https://feeds.feedburner.com/IeeeSpectrum",                      "IEEE Spectrum"),
+    ("https://spacenews.com/feed/",                                    "Space News"),
+    ("https://www.space.com/feeds/all",                                "Space.com"),
+    ("https://earthobservatory.nasa.gov/feeds/earth-observatory.rss",  "NASA Earth Observatory"),
+
+    # ── Health / Medicine ─────────────────────────────────────────────────────
+    ("https://www.statnews.com/feed/",                                 "STAT News"),
+    ("https://www.medscape.com/cx/rssfeeds/2678.xml",                  "Medscape"),
+    ("https://jamanetwork.com/rss/site_3/67.xml",                      "JAMA"),
+    ("https://www.bmj.com/rss/current.xml",                            "BMJ"),
+    ("https://www.medicalnewstoday.com/rss",                           "Medical News Today"),
+    ("https://www.healio.com/rss/cardiology",                          "Healio Cardiology"),
+    ("https://www.nejm.org/action/showFeed?type=etoc&feed=rss",        "NEJM"),
+
+    # ── Business / Finance ────────────────────────────────────────────────────
+    ("https://feeds.bloomberg.com/markets/news.rss",                   "Bloomberg Markets"),
+    ("https://feeds.bloomberg.com/technology/news.rss",                "Bloomberg Tech"),
+    ("https://www.ft.com/rss/home",                                    "Financial Times"),
+    ("https://feeds.wsj.com/wsj/xml/rss/3_7085.xml",                  "WSJ World"),
+    ("https://feeds.wsj.com/wsj/xml/rss/3_7014.xml",                  "WSJ US Business"),
+    ("https://feeds.wsj.com/wsj/xml/rss/3_7455.xml",                  "WSJ Tech"),
+    ("https://www.forbes.com/real-time/feed2/",                        "Forbes"),
+    ("https://fortune.com/feed/",                                       "Fortune"),
+    ("https://www.cnbc.com/id/100003114/device/rss/rss.html",         "CNBC Top News"),
+    ("https://www.cnbc.com/id/10001147/device/rss/rss.html",          "CNBC Finance"),
+    ("https://www.cnbc.com/id/19854910/device/rss/rss.html",          "CNBC Tech"),
+
+    # ── Environment / Climate ─────────────────────────────────────────────────
+    ("https://insideclimatenews.org/feed/",                            "Inside Climate News"),
+    ("https://www.climatecentral.org/feed",                            "Climate Central"),
+    ("https://e360.yale.edu/feed",                                     "Yale E360"),
+    ("https://grist.org/feed/",                                        "Grist"),
+    ("https://www.carbonbrief.org/feed",                               "Carbon Brief"),
+
+    # ── Policy / Foreign Affairs ──────────────────────────────────────────────
+    ("https://foreignpolicy.com/feed/",                                "Foreign Policy"),
+    ("https://www.foreignaffairs.com/rss.xml",                         "Foreign Affairs"),
+    ("https://thehill.com/rss/syndicator/19110",                       "The Hill"),
+    ("https://www.brookings.edu/feed/",                                "Brookings"),
+    ("https://carnegieendowment.org/feed/rss",                         "Carnegie Endowment"),
+    ("https://www.cfr.org/rss.xml",                                    "Council on Foreign Relations"),
+
+    # ── International ─────────────────────────────────────────────────────────
+    ("https://www.france24.com/en/rss",                                "France 24"),
+    ("https://www.dw.com/rss/rss.xml",                                 "Deutsche Welle"),
+    ("https://feeds.skynews.com/feeds/rss/world.xml",                  "Sky News World"),
+    ("https://www.abc.net.au/news/feed/51120/rss.xml",                 "ABC Australia"),
+    ("https://timesofindia.indiatimes.com/rssfeedstopstories.cms",     "Times of India"),
+    ("https://japantimes.co.jp/feed/",                                 "Japan Times"),
+    ("https://www.scmp.com/rss/91/feed",                               "South China Morning Post"),
+    ("https://rss.dw.com/rdf/rss-en-all",                              "DW All"),
 ]
 
 SELECTORS = {
-    "bbc":          'article p, [data-component="text-block"] p',
-    "npr":          'article p, .storytext p, #storytext p',
-    "cnn":          'article p, .article__content p',
-    "apnews":       'article p, .RichTextStoryBody p',
-    "reuters":      'article p, [class*="article-body"] p',
-    "guardian":     'article p, .article-body-commercial-selector p',
-    "nytimes":      'article p, section[name="articleBody"] p',
-    "washingtonpost": 'article p, .article-body p',
-    "aljazeera":    'article p, .wysiwyg p',
-    "techcrunch":   'article p, .article-content p',
-    "theverge":     'article p, .duet--article--article-body-component p',
-    "wired":        'article p, .body__inner-container p',
-    "arstechnica":  'article p, .article-content p',
-    "politico":     'article p, .story-text p',
-    "thehill":      'article p, .field-items p',
-    "sciencedaily": 'article p, #text p, .lead',
-    "newscientist": 'article p, .article-body p',
-    "economist":    'article p, .article__body p',
-    "foreignpolicy":'article p, .post-content-main p',
+    # ── BBC ───────────────────────────────────────────────────────────────────
+    "bbc":              'article p, [data-component="text-block"] p',
+
+    # ── NPR ───────────────────────────────────────────────────────────────────
+    "npr":              'article p, .storytext p, #storytext p',
+
+    # ── CNN ───────────────────────────────────────────────────────────────────
+    "cnn":              'article p, .article__content p, .zn-body__paragraph',
+
+    # ── AP News ───────────────────────────────────────────────────────────────
+    "apnews":           'article p, .RichTextStoryBody p',
+
+    # ── Reuters ───────────────────────────────────────────────────────────────
+    "reuters":          'article p, [class*="article-body"] p, [class*="ArticleBody"] p',
+
+    # ── Guardian ──────────────────────────────────────────────────────────────
+    "theguardian":      'article p, .article-body-commercial-selector p, .dcr-1eu7p3o p',
+
+    # ── NYT ───────────────────────────────────────────────────────────────────
+    "nytimes":          'article p, section[name="articleBody"] p',
+
+    # ── Washington Post ───────────────────────────────────────────────────────
+    "washingtonpost":   'article p, .article-body p, [data-qa="article-body"] p',
+
+    # ── Al Jazeera ────────────────────────────────────────────────────────────
+    "aljazeera":        'article p, .wysiwyg p, .article-p-wrapper p',
+
+    # ── TechCrunch ────────────────────────────────────────────────────────────
+    "techcrunch":       'article p, .article-content p, .entry-content p',
+
+    # ── The Verge ─────────────────────────────────────────────────────────────
+    "theverge":         'article p, .duet--article--article-body-component p',
+
+    # ── Wired ─────────────────────────────────────────────────────────────────
+    "wired":            'article p, .body__inner-container p',
+
+    # ── Ars Technica ──────────────────────────────────────────────────────────
+    "arstechnica":      'article p, .article-content p',
+
+    # ── Politico ──────────────────────────────────────────────────────────────
+    "politico":         'article p, .story-text p, .article-body p',
+
+    # ── The Hill ──────────────────────────────────────────────────────────────
+    "thehill":          'article p, .field-items p, .article__text p',
+
+    # ── Science Daily ─────────────────────────────────────────────────────────
+    "sciencedaily":     'article p, #text p, .lead, #first p',
+
+    # ── New Scientist ─────────────────────────────────────────────────────────
+    "newscientist":     'article p, .article-body p',
+
+    # ── Economist ─────────────────────────────────────────────────────────────
+    "economist":        'article p, .article__body p, [data-body-type="figure"] p',
+
+    # ── Foreign Policy ────────────────────────────────────────────────────────
+    "foreignpolicy":    'article p, .post-content-main p',
+
+    # ── Foreign Affairs ───────────────────────────────────────────────────────
+    "foreignaffairs":   'article p, .article-body p',
+
+    # ── MIT Tech Review ───────────────────────────────────────────────────────
+    "technologyreview": 'article p, .content-body p',
+
+    # ── VentureBeat ───────────────────────────────────────────────────────────
+    "venturebeat":      'article p, .article-content p',
+
+    # ── ZDNet ─────────────────────────────────────────────────────────────────
+    "zdnet":            'article p, .c-articleBody p',
+
+    # ── Nature ────────────────────────────────────────────────────────────────
+    "nature":           'article p, .article__body p, [data-component="article-container"] p',
+
+    # ── Science Magazine ──────────────────────────────────────────────────────
+    "science.org":      'article p, .article__body p',
+
+    # ── Phys.org ──────────────────────────────────────────────────────────────
+    "phys.org":         'article p, .article-main p',
+
+    # ── Scientific American ───────────────────────────────────────────────────
+    "scientificamerican": 'article p, .article-text p',
+
+    # ── IEEE Spectrum ─────────────────────────────────────────────────────────
+    "spectrum.ieee":    'article p, .article-body p',
+
+    # ── Space News ────────────────────────────────────────────────────────────
+    "spacenews":        'article p, .entry-content p',
+
+    # ── Space.com ─────────────────────────────────────────────────────────────
+    "space.com":        'article p, #article-body p',
+
+    # ── STAT News ─────────────────────────────────────────────────────────────
+    "statnews":         'article p, .entry-content p',
+
+    # ── Medical News Today ────────────────────────────────────────────────────
+    "medicalnewstoday": 'article p, .css-1jnqwms p',
+
+    # ── Bloomberg ─────────────────────────────────────────────────────────────
+    "bloomberg":        'article p, .body-content p, [class*="body__content"] p',
+
+    # ── Financial Times ───────────────────────────────────────────────────────
+    "ft.com":           'article p, .article__content-body p',
+
+    # ── WSJ ───────────────────────────────────────────────────────────────────
+    "wsj.com":          'article p, [class*="article-wrap"] p',
+
+    # ── Forbes ────────────────────────────────────────────────────────────────
+    "forbes":           'article p, .article-body p, .body-container p',
+
+    # ── Fortune ───────────────────────────────────────────────────────────────
+    "fortune":          'article p, .article-body p',
+
+    # ── CNBC ──────────────────────────────────────────────────────────────────
+    "cnbc":             'article p, .ArticleBody-articleBody p, .RenderKeyPoints-list li',
+
+    # ── France 24 ─────────────────────────────────────────────────────────────
+    "france24":         'article p, .t-content__body p',
+
+    # ── Deutsche Welle ────────────────────────────────────────────────────────
+    "dw.com":           'article p, .longText p',
+
+    # ── Sky News ──────────────────────────────────────────────────────────────
+    "skynews":          'article p, .sdc-article-body p',
+
+    # ── ABC Australia ─────────────────────────────────────────────────────────
+    "abc.net.au":       'article p, [class*="article"] p',
+
+    # ── Times of India ────────────────────────────────────────────────────────
+    "timesofindia":     'article p, .article_content p, ._3WlLe p',
+
+    # ── Japan Times ───────────────────────────────────────────────────────────
+    "japantimes":       'article p, .article-body p',
+
+    # ── South China Morning Post ──────────────────────────────────────────────
+    "scmp":             'article p, .article-body p, [class*="article__body"] p',
+
+    # ── Brookings ─────────────────────────────────────────────────────────────
+    "brookings":        'article p, .post-body p',
+
+    # ── CFR ───────────────────────────────────────────────────────────────────
+    "cfr.org":          'article p, .body-content p',
+
+    # ── Inside Climate News ───────────────────────────────────────────────────
+    "insideclimatenews": 'article p, .entry-content p',
+
+    # ── Carbon Brief ─────────────────────────────────────────────────────────
+    "carbonbrief":      'article p, .post-content p',
+
+    # ── Grist ────────────────────────────────────────────────────────────────
+    "grist":            'article p, .post-content p',
+
+    # ── Dark Reading ─────────────────────────────────────────────────────────
+    "darkreading":      'article p, .article-body p',
+
+    # ── Hacker News (THN) ────────────────────────────────────────────────────
+    "thehackernews":    'article p, .post-content p, .articlebody p',
 }
 FALLBACK = "article p, main p, .content p, p"
 
