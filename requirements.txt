@@ -1,5 +1,5 @@
 feedparser
 playwright
-transformers
+transformers==4.44.2
 sentencepiece
 torch --index-url https://download.pytorch.org/whl/cpu
