@@ -49,7 +49,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser playwright transformers sentencepiece
+          pip install feedparser playwright transformers==4.44.2 sentencepiece
           pip install torch --index-url https://download.pytorch.org/whl/cpu
           playwright install chromium --with-deps
 
@@ -58,59 +58,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Run loop
-        run: |
-          START=$(date +%s)
-          MAX_SECONDS=20700      # 345 minutes — leaves 10 min buffer before timeout
-          SLEEP=300              # 5 min between runs
-
-          commit() {
-            git stash
-            git pull --rebase origin main
-            git stash pop
-            git add store.json data/
-            git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
-            git push && echo "[GIT] Pushed." || echo "[GIT] Push failed, will retry next loop."
-          }
-
-          # Trap SIGTERM (GitHub sends this before killing the job)
-          # so we always commit whatever we have before dying
-          trap 'echo "[TRAP] Caught signal — committing before exit."; commit; exit 0' SIGTERM SIGINT
-
-          ITERATION=1
-          while true; do
-            NOW=$(date +%s)
-            ELAPSED=$(( NOW - START ))
-            REMAINING=$(( MAX_SECONDS - ELAPSED ))
-
-            echo ""
-            echo "═══════════════════════════════════════════"
-            echo " Iteration $ITERATION  |  elapsed ${ELAPSED}s  |  remaining ${REMAINING}s"
-            echo "═══════════════════════════════════════════"
-
-            if [ "$REMAINING" -lt 600 ]; then
-              echo "[LOOP] Less than 10 min remaining — exiting cleanly."
-              break
-            fi
-
-            python newsbrief.py --all
-
-            # Commit after every iteration so no work is lost
-            commit
-
-            ITERATION=$(( ITERATION + 1 ))
-
-            NOW=$(date +%s)
-            ELAPSED=$(( NOW - START ))
-            REMAINING=$(( MAX_SECONDS - ELAPSED ))
-
-            if [ "$REMAINING" -lt $(( SLEEP + 600 )) ]; then
-              echo "[LOOP] Not enough time for another full run — exiting."
-              break
-            fi
-
-            echo "[LOOP] Sleeping ${SLEEP}s..."
-            sleep "$SLEEP"
-          done
-
-          echo "[DONE] Loop finished after $ITERATION iteration(s)."
+      - name: Run Newsbrief loop
+        run: python newsbrief.py --all --loop --hours 5.75

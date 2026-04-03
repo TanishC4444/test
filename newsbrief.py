@@ -1,22 +1,22 @@
 """
-newsbrief.py - RSS scraper + LED summarizer
-===========================================
+newsbrief.py - RSS scraper + distilbart summarizer
+===================================================
 
 Storage
     store.json          — rolling 30-day window, fast access
     data/YYYY-Www.json  — permanent weekly archive, never deleted
 
 Model
-    allenai/led-large-16384 — 16384 token context, minimal chunking needed
+    sshleifer/distilbart-cnn-6-6 — fast CPU inference, ~300MB
 """
 
-import json, os, time, argparse
+import json, os, time, argparse, signal, subprocess
 from datetime import datetime, timezone, timedelta
 
 # ── Constants ──────────────────────────────────────────────────────────────────
 
 STORE_PATH     = os.environ.get("NEWSBRIEF_STORE", "store.json")
-RETENTION_DAYS = 30   # store.json rolling window; weekly files keep everything
+RETENTION_DAYS = 30
 DEFAULT_FEED   = "https://feeds.bbci.co.uk/news/world/rss.xml"
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -117,7 +117,7 @@ FEEDS = [
     ("https://www.wired.com/feed/rss",                                 "Wired"),
     ("https://feeds.arstechnica.com/arstechnica/index",                "Ars Technica"),
     ("https://www.technologyreview.com/feed/",                         "MIT Tech Review"),
-    ("https://venturebeat.com/feed/",                                   "VentureBeat"),
+    ("https://venturebeat.com/feed/",                                  "VentureBeat"),
     ("https://www.zdnet.com/news/rss.xml",                             "ZDNet"),
     ("https://feeds.feedburner.com/TheHackersNews",                    "Hacker News THN"),
     ("https://www.darkreading.com/rss.xml",                            "Dark Reading"),
@@ -128,7 +128,7 @@ FEEDS = [
     ("https://feeds.nature.com/nature/rss/current",                    "Nature"),
     ("https://www.science.org/rss/news_current.xml",                   "Science Magazine"),
     ("https://phys.org/rss-feed/",                                     "Phys.org"),
-    ("https://www.scientificamerican.com/feed/",                        "Scientific American"),
+    ("https://www.scientificamerican.com/feed/",                       "Scientific American"),
     ("https://feeds.feedburner.com/IeeeSpectrum",                      "IEEE Spectrum"),
     ("https://spacenews.com/feed/",                                    "Space News"),
     ("https://www.space.com/feeds/all",                                "Space.com"),
@@ -151,7 +151,7 @@ FEEDS = [
     ("https://feeds.wsj.com/wsj/xml/rss/3_7014.xml",                  "WSJ US Business"),
     ("https://feeds.wsj.com/wsj/xml/rss/3_7455.xml",                  "WSJ Tech"),
     ("https://www.forbes.com/real-time/feed2/",                        "Forbes"),
-    ("https://fortune.com/feed/",                                       "Fortune"),
+    ("https://fortune.com/feed/",                                      "Fortune"),
     ("https://www.cnbc.com/id/100003114/device/rss/rss.html",         "CNBC Top News"),
     ("https://www.cnbc.com/id/10001147/device/rss/rss.html",          "CNBC Finance"),
     ("https://www.cnbc.com/id/19854910/device/rss/rss.html",          "CNBC Tech"),
@@ -183,160 +183,57 @@ FEEDS = [
 ]
 
 SELECTORS = {
-    # ── BBC ───────────────────────────────────────────────────────────────────
     "bbc":              'article p, [data-component="text-block"] p',
-
-    # ── NPR ───────────────────────────────────────────────────────────────────
     "npr":              'article p, .storytext p, #storytext p',
-
-    # ── CNN ───────────────────────────────────────────────────────────────────
     "cnn":              'article p, .article__content p, .zn-body__paragraph',
-
-    # ── AP News ───────────────────────────────────────────────────────────────
     "apnews":           'article p, .RichTextStoryBody p',
-
-    # ── Reuters ───────────────────────────────────────────────────────────────
     "reuters":          'article p, [class*="article-body"] p, [class*="ArticleBody"] p',
-
-    # ── Guardian ──────────────────────────────────────────────────────────────
     "theguardian":      'article p, .article-body-commercial-selector p, .dcr-1eu7p3o p',
-
-    # ── NYT ───────────────────────────────────────────────────────────────────
     "nytimes":          'article p, section[name="articleBody"] p',
-
-    # ── Washington Post ───────────────────────────────────────────────────────
     "washingtonpost":   'article p, .article-body p, [data-qa="article-body"] p',
-
-    # ── Al Jazeera ────────────────────────────────────────────────────────────
     "aljazeera":        'article p, .wysiwyg p, .article-p-wrapper p',
-
-    # ── TechCrunch ────────────────────────────────────────────────────────────
     "techcrunch":       'article p, .article-content p, .entry-content p',
-
-    # ── The Verge ─────────────────────────────────────────────────────────────
     "theverge":         'article p, .duet--article--article-body-component p',
-
-    # ── Wired ─────────────────────────────────────────────────────────────────
     "wired":            'article p, .body__inner-container p',
-
-    # ── Ars Technica ──────────────────────────────────────────────────────────
     "arstechnica":      'article p, .article-content p',
-
-    # ── Politico ──────────────────────────────────────────────────────────────
     "politico":         'article p, .story-text p, .article-body p',
-
-    # ── The Hill ──────────────────────────────────────────────────────────────
     "thehill":          'article p, .field-items p, .article__text p',
-
-    # ── Science Daily ─────────────────────────────────────────────────────────
     "sciencedaily":     'article p, #text p, .lead, #first p',
-
-    # ── New Scientist ─────────────────────────────────────────────────────────
     "newscientist":     'article p, .article-body p',
-
-    # ── Economist ─────────────────────────────────────────────────────────────
     "economist":        'article p, .article__body p, [data-body-type="figure"] p',
-
-    # ── Foreign Policy ────────────────────────────────────────────────────────
     "foreignpolicy":    'article p, .post-content-main p',
-
-    # ── Foreign Affairs ───────────────────────────────────────────────────────
     "foreignaffairs":   'article p, .article-body p',
-
-    # ── MIT Tech Review ───────────────────────────────────────────────────────
     "technologyreview": 'article p, .content-body p',
-
-    # ── VentureBeat ───────────────────────────────────────────────────────────
     "venturebeat":      'article p, .article-content p',
-
-    # ── ZDNet ─────────────────────────────────────────────────────────────────
     "zdnet":            'article p, .c-articleBody p',
-
-    # ── Nature ────────────────────────────────────────────────────────────────
     "nature":           'article p, .article__body p, [data-component="article-container"] p',
-
-    # ── Science Magazine ──────────────────────────────────────────────────────
     "science.org":      'article p, .article__body p',
-
-    # ── Phys.org ──────────────────────────────────────────────────────────────
     "phys.org":         'article p, .article-main p',
-
-    # ── Scientific American ───────────────────────────────────────────────────
     "scientificamerican": 'article p, .article-text p',
-
-    # ── IEEE Spectrum ─────────────────────────────────────────────────────────
     "spectrum.ieee":    'article p, .article-body p',
-
-    # ── Space News ────────────────────────────────────────────────────────────
     "spacenews":        'article p, .entry-content p',
-
-    # ── Space.com ─────────────────────────────────────────────────────────────
     "space.com":        'article p, #article-body p',
-
-    # ── STAT News ─────────────────────────────────────────────────────────────
     "statnews":         'article p, .entry-content p',
-
-    # ── Medical News Today ────────────────────────────────────────────────────
     "medicalnewstoday": 'article p, .css-1jnqwms p',
-
-    # ── Bloomberg ─────────────────────────────────────────────────────────────
     "bloomberg":        'article p, .body-content p, [class*="body__content"] p',
-
-    # ── Financial Times ───────────────────────────────────────────────────────
     "ft.com":           'article p, .article__content-body p',
-
-    # ── WSJ ───────────────────────────────────────────────────────────────────
     "wsj.com":          'article p, [class*="article-wrap"] p',
-
-    # ── Forbes ────────────────────────────────────────────────────────────────
     "forbes":           'article p, .article-body p, .body-container p',
-
-    # ── Fortune ───────────────────────────────────────────────────────────────
     "fortune":          'article p, .article-body p',
-
-    # ── CNBC ──────────────────────────────────────────────────────────────────
     "cnbc":             'article p, .ArticleBody-articleBody p, .RenderKeyPoints-list li',
-
-    # ── France 24 ─────────────────────────────────────────────────────────────
     "france24":         'article p, .t-content__body p',
-
-    # ── Deutsche Welle ────────────────────────────────────────────────────────
     "dw.com":           'article p, .longText p',
-
-    # ── Sky News ──────────────────────────────────────────────────────────────
     "skynews":          'article p, .sdc-article-body p',
-
-    # ── ABC Australia ─────────────────────────────────────────────────────────
     "abc.net.au":       'article p, [class*="article"] p',
-
-    # ── Times of India ────────────────────────────────────────────────────────
     "timesofindia":     'article p, .article_content p, ._3WlLe p',
-
-    # ── Japan Times ───────────────────────────────────────────────────────────
     "japantimes":       'article p, .article-body p',
-
-    # ── South China Morning Post ──────────────────────────────────────────────
     "scmp":             'article p, .article-body p, [class*="article__body"] p',
-
-    # ── Brookings ─────────────────────────────────────────────────────────────
     "brookings":        'article p, .post-body p',
-
-    # ── CFR ───────────────────────────────────────────────────────────────────
     "cfr.org":          'article p, .body-content p',
-
-    # ── Inside Climate News ───────────────────────────────────────────────────
     "insideclimatenews": 'article p, .entry-content p',
-
-    # ── Carbon Brief ─────────────────────────────────────────────────────────
     "carbonbrief":      'article p, .post-content p',
-
-    # ── Grist ────────────────────────────────────────────────────────────────
     "grist":            'article p, .post-content p',
-
-    # ── Dark Reading ─────────────────────────────────────────────────────────
     "darkreading":      'article p, .article-body p',
-
-    # ── Hacker News (THN) ────────────────────────────────────────────────────
     "thehackernews":    'article p, .post-content p, .articlebody p',
 }
 FALLBACK = "article p, main p, .content p, p"
@@ -384,16 +281,29 @@ def sel_for(url: str) -> str:
             return v
     return FALLBACK
 
+def git_commit():
+    """Commit and push store.json and data/ to GitHub."""
+    try:
+        subprocess.run(["git", "stash"],                              check=False, capture_output=True)
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"],check=False, capture_output=True)
+        subprocess.run(["git", "stash", "pop"],                       check=False, capture_output=True)
+        subprocess.run(["git", "add", "store.json", "data/"],         check=False, capture_output=True)
+        result = subprocess.run(
+            ["git", "commit", "-m",
+             f"data: {datetime.now(timezone.utc).isoformat()} [skip ci]"],
+            check=False, capture_output=True
+        )
+        if result.returncode == 0:
+            subprocess.run(["git", "push"], check=False, capture_output=True)
+            print("[GIT] Pushed.")
+        else:
+            print("[GIT] Nothing new to commit.")
+    except Exception as e:
+        print(f"[GIT] Error: {e}")
+
 # ── Store ──────────────────────────────────────────────────────────────────────
 
 class Store:
-    """
-    Two-tier storage:
-      store.json        — 30-day rolling window for fast access
-      data/YYYY-Www.json — permanent weekly snapshots, never purged
-    URL is the unique key; re-scraping updates in place, never duplicates.
-    """
-
     def __init__(self, path: str = STORE_PATH):
         self.path  = path
         self._data: dict[str, dict] = {}
@@ -410,34 +320,31 @@ class Store:
             print(f"[Store] Could not read store: {e}. Starting fresh.")
 
     def _purge(self):
-        """Trim store.json to rolling 30-day window only."""
         cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()
         before = len(self._data)
         self._data = {u: a for u, a in self._data.items()
                       if a.get("retrieved_at", "9999") >= cutoff}
         n = before - len(self._data)
         if n:
-            print(f"[Store] Trimmed {n} articles from store.json (kept in weekly files).")
+            print(f"[Store] Trimmed {n} articles (kept in weekly files).")
         self._save()
 
     def _save(self):
-        """Atomically write store.json and update this week's archive file."""
-        # Write store.json
+        # Write store.json atomically
         tmp = self.path + ".tmp"
         with open(tmp, "w", encoding="utf-8") as f:
             json.dump({"articles": self._data}, f, indent=2, ensure_ascii=False)
         os.replace(tmp, self.path)
 
-        # Write weekly archive file
-        week    = week_key()
-        cutoff  = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
-        weekly  = {u: a for u, a in self._data.items()
-                   if a.get("retrieved_at", "") >= cutoff}
+        # Write/update weekly archive
+        week   = week_key()
+        cutoff = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
+        weekly = {u: a for u, a in self._data.items()
+                  if a.get("retrieved_at", "") >= cutoff}
         os.makedirs("data", exist_ok=True)
-        wpath   = f"data/{week}.json"
-        wtmp    = wpath + ".tmp"
+        wpath  = f"data/{week}.json"
+        wtmp   = wpath + ".tmp"
 
-        # Merge with existing weekly file to not lose earlier entries this week
         existing = {}
         if os.path.exists(wpath):
             try:
@@ -456,8 +363,8 @@ class Store:
         url = art.get("link", "")
         if not url:
             return
-        existing = self._data.get(url, {})
-        merged   = {**existing, **art}
+        existing       = self._data.get(url, {})
+        merged         = {**existing, **art}
         if "summary" not in art and "summary" in existing:
             merged["summary"] = existing["summary"]
         self._data[url] = merged
@@ -469,13 +376,11 @@ class Store:
             self._save()
 
     def has(self, url: str) -> bool:
-        """True if article exists with text already scraped."""
         return url in self._data and bool(self._data[url].get("text"))
 
     def unsummarized(self) -> list:
-        arts = [a for a in self._data.values()
+        return [a for a in self._data.values()
                 if not a.get("summary") and a.get("text")]
-        return arts
 
     def all(self) -> list:
         arts = list(self._data.values())
@@ -489,15 +394,7 @@ class NewsBrief:
         self.store     = Store(store_path)
         self._articles = []
 
-    # ── Scraping ───────────────────────────────────────────────────────────────
-
-    def rss(
-        self,
-        feed_url:     str,
-        source:       str   = "",
-        max_articles: int   = 0,
-        delay:        float = 0.3,
-    ) -> list:
+    def rss(self, feed_url: str, source: str = "", max_articles: int = 0, delay: float = 0.3) -> list:
         try:
             import feedparser
             from playwright.sync_api import sync_playwright
@@ -505,7 +402,7 @@ class NewsBrief:
             raise ImportError(f"Missing: {e}. pip install feedparser playwright && playwright install chromium")
 
         src = source or feed_url
-        print(f"\n[RSS] {src}  ({feed_url})")
+        print(f"\n[RSS] {src}")
 
         try:
             entries = feedparser.parse(feed_url).entries
@@ -516,10 +413,9 @@ class NewsBrief:
         if max_articles > 0:
             entries = entries[:max_articles]
 
-        # Filter to new only before launching browser
         new_entries = [e for e in entries if not self.store.has(e.get("link", ""))]
         if not new_entries:
-            print(f"[RSS] All {len(entries)} articles already in store, skipping.")
+            print(f"[RSS] All {len(entries)} already in store.")
             return []
 
         print(f"[RSS] {len(new_entries)} new / {len(entries)} total")
@@ -552,17 +448,13 @@ class NewsBrief:
                 try:
                     page.goto(link, timeout=20_000, wait_until="domcontentloaded")
                     page.wait_for_timeout(2_000)
-
                     text = (page.evaluate(EXTRACT_TEXT_JS, sel_for(link)) or "").strip()
                     meta = page.evaluate(EXTRACT_META_JS) or {}
-
                     if not art["author"]: art["author"] = meta.get("author", "")
                     if not art["date"]:   art["date"]   = meta.get("date", "")
-
                     art["text"] = text
                     wc = len(text.split())
                     print(f"{'⚠' if wc < 10 else '✓'}  ({wc:,} words)")
-
                 except Exception as e:
                     print(f"✗  {e}")
 
@@ -577,16 +469,13 @@ class NewsBrief:
         print(f"[RSS] Done — {len(new_arts)} scraped.\n")
         return new_arts
 
-    def rss_all(self, feeds: list[tuple] = FEEDS) -> list:
-        """Scrape all feeds in sequence. Each tuple is (url, source_name)."""
+    def rss_all(self, feeds: list = FEEDS) -> list:
         all_arts = []
         for url, name in feeds:
             all_arts.extend(self.rss(url, source=name))
         return all_arts
 
-    # ── Summarization ──────────────────────────────────────────────────────────
-
-    def summarize(self, articles: list = None) -> list:
+    def summarize(self, articles: list = None, deadline: float = None) -> list:
         try:
             from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
             import torch
@@ -606,6 +495,11 @@ class NewsBrief:
         print(f"[Summarize] Ready. {len(arts)} articles.\n")
 
         for i, art in enumerate(arts, 1):
+            # Stop early if deadline approaching
+            if deadline and time.time() > deadline:
+                print(f"[Summarize] Deadline reached at article {i}/{len(arts)} — stopping.")
+                break
+
             text = art.get("text", "")
             if not text:
                 continue
@@ -614,36 +508,29 @@ class NewsBrief:
             t0 = time.time()
 
             try:
-                # Chunk at 900 words to stay inside 1024 token limit
+                import torch
                 words  = text.split()
                 chunks = [" ".join(words[j:j+900]) for j in range(0, len(words), 900)]
 
                 chunk_sums = []
                 for chunk in chunks:
-                    inputs = tokenizer(
-                        chunk,
-                        return_tensors = "pt",
-                        max_length     = 1024,
-                        truncation     = True,
-                    )
+                    inputs = tokenizer(chunk, return_tensors="pt",
+                                       max_length=1024, truncation=True)
                     with torch.no_grad():
                         ids = model.generate(
                             inputs["input_ids"],
-                            max_length     = 130,
-                            min_length     = 30,
-                            num_beams      = 1,   # greedy — much faster
-                            early_stopping = True,
+                            max_length=130, min_length=30,
+                            num_beams=1, early_stopping=True,
                         )
                     chunk_sums.append(tokenizer.decode(ids[0], skip_special_tokens=True))
 
-                # Reduce if chunked
                 if len(chunk_sums) > 1:
                     combined = " ".join(chunk_sums)
                     inputs   = tokenizer(combined, return_tensors="pt",
-                                        max_length=1024, truncation=True)
+                                         max_length=1024, truncation=True)
                     with torch.no_grad():
                         ids = model.generate(inputs["input_ids"], max_length=130,
-                                            min_length=30, num_beams=1)
+                                             min_length=30, num_beams=1)
                     summary = tokenizer.decode(ids[0], skip_special_tokens=True)
                 else:
                     summary = chunk_sums[0]
@@ -657,7 +544,6 @@ class NewsBrief:
 
         print("\n[Summarize] Complete.\n")
         return arts
-    # ── Read ───────────────────────────────────────────────────────────────────
 
     def get(self, source: str = "") -> list:
         arts = self.store.all()
@@ -666,30 +552,75 @@ class NewsBrief:
         return arts
 
 
-# ── CLI ────────────────────────────────────────────────────────────────────────
+# ── CLI / Loop ─────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    p = argparse.ArgumentParser(description="NewsBrief — RSS + LED summarizer")
-    p.add_argument("feed_url", nargs="?", default="")
-    p.add_argument("--source",  "-s", type=str, default="")
-    p.add_argument("--max",     "-m", type=int, default=0)
-    p.add_argument("--all",     action="store_true", help="Scrape all default feeds")
-    p.add_argument("--store",   type=str, default=STORE_PATH)
-    p.add_argument("--no-summarize", action="store_true")
+    p = argparse.ArgumentParser(description="NewsBrief — RSS + distilbart summarizer")
+    p.add_argument("feed_url",        nargs="?", default="")
+    p.add_argument("--source",  "-s", type=str,   default="")
+    p.add_argument("--max",     "-m", type=int,   default=0)
+    p.add_argument("--all",           action="store_true")
+    p.add_argument("--store",         type=str,   default=STORE_PATH)
+    p.add_argument("--no-summarize",  action="store_true")
+    p.add_argument("--loop",          action="store_true", help="Run continuously until --hours elapses")
+    p.add_argument("--hours",         type=float, default=5.75, help="Total runtime in hours")
     args = p.parse_args()
 
-    nb = NewsBrief(store_path=args.store)
+    START    = time.time()
+    DEADLINE = START + (args.hours * 3600)
+    SLEEP    = 300   # 5 min between iterations
+    BUFFER   = 600   # 10 min safety buffer before deadline
 
-    if args.all:
-        nb.rss_all()
-    elif args.feed_url:
-        nb.rss(args.feed_url, source=args.source, max_articles=args.max)
-    else:
-        print("Pass a feed URL or --all to scrape default feeds.")
-        raise SystemExit(1)
+    # Always commit on any signal so no work is lost
+    def handle_signal(sig, frame):
+        print(f"\n[SIGNAL] Caught signal {sig} — committing before exit.")
+        git_commit()
+        raise SystemExit(0)
 
-    if not args.no_summarize:
-        nb.summarize()
+    signal.signal(signal.SIGTERM, handle_signal)
+    signal.signal(signal.SIGINT,  handle_signal)
 
-    total = len(nb.get())
-    print(f"[DONE] {total} articles in store.")
+    nb        = NewsBrief(store_path=args.store)
+    iteration = 1
+
+    while True:
+        remaining = DEADLINE - time.time()
+        print(f"\n{'═'*55}")
+        print(f" Iteration {iteration}  |  {remaining/60:.1f} min remaining")
+        print(f"{'═'*55}\n")
+
+        if remaining < BUFFER:
+            print("[LOOP] Under 10 min left — committing and exiting.")
+            git_commit()
+            break
+
+        # Scrape
+        if args.all:
+            nb.rss_all()
+        elif args.feed_url:
+            nb.rss(args.feed_url, source=args.source, max_articles=args.max)
+        else:
+            print("Pass a feed URL or --all.")
+            raise SystemExit(1)
+
+        # Summarize — stop if deadline is within buffer
+        if not args.no_summarize:
+            nb.summarize(deadline=DEADLINE - BUFFER)
+
+        # Commit after every iteration — no work lost if killed after this
+        git_commit()
+
+        iteration += 1
+        remaining  = DEADLINE - time.time()
+
+        if not args.loop:
+            break
+
+        if remaining < SLEEP + BUFFER:
+            print("[LOOP] Not enough time for another full run — exiting.")
+            break
+
+        print(f"[LOOP] Sleeping 5 min... ({remaining/60:.1f} min remaining)")
+        time.sleep(SLEEP)
+
+    print(f"\n[DONE] Finished {iteration-1} iteration(s).")
