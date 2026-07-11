@@ -1,10 +1,6 @@
 {
   "week": "2026-W28",
-<<<<<<< Updated upstream
-  "count": 3624,
-=======
-  "count": 3636,
->>>>>>> Stashed changes
+  "count": 3647,
   "articles": {
     "http://money.cnn.com/2017/02/13/news/economy/mexico-trump-us-corn/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -14,11 +10,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:03.792527+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:57.126241+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:17.634143+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -28,11 +20,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:07.855788+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:00.962746+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:21.689993+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/india-h1b-visa-trump-nandan-nilekani/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -42,11 +30,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:11.456819+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:04.539653+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:25.228640+00:00"
     },
     "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -56,11 +40,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:15.056136+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:08.108829+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:28.770041+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/stocks-all-time-highs-donald-trump-janet-yellen-fed/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -70,11 +50,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:18.659421+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:11.673589+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:32.308034+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -84,11 +60,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:22.262108+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:15.259363+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:35.846574+00:00"
     },
     "http://money.cnn.com/2017/02/13/news/economy/nafta-canada-trudeau-trump-mexico/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -98,11 +70,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:25.859862+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:18.822737+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:39.387269+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/verizon-stock-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -112,11 +80,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:29.468134+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:22.383831+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:42.918807+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/oil-prices-opec-deal/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -126,11 +90,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:33.067648+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:25.944384+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:46.454910+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/tesla-uae-elon-musk/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -140,11 +100,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:36.669083+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:29.514737+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:49.990295+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/uber-ola-india-pranay-jivrajka/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -154,11 +110,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:40.266114+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:33.072781+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:53.521065+00:00"
     },
     "http://money.cnn.com/2017/02/11/media/fake-news-apple-ceo-tim-cook/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -168,11 +120,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:43.868009+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:36.640145+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:57.056734+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/trump-brand-sears-kmart/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -182,11 +130,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:47.462897+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:40.207487+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:00.606418+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/thailand-bamboo-cassava-packaging-universal-biopack/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -196,11 +140,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:51.065411+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:43.771883+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:04.141201+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/nike-equality-lebron-serena/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -210,11 +150,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:54.659763+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:47.333987+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:07.673101+00:00"
     },
     "http://money.cnn.com/2017/02/12/media/lego-batman-movie-steven-mnuchin/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -224,11 +160,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:49:58.255877+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:50.896958+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:11.204459+00:00"
     },
     "http://money.cnn.com/2017/02/08/news/economy/greece-imf-bailout-eurozone/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -238,11 +170,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:01.848347+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:54.455627+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:14.733355+00:00"
     },
     "http://money.cnn.com/2017/02/12/technology/verizon-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -252,11 +180,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:05.454850+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:03:58.025398+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:18.263594+00:00"
     },
     "http://money.cnn.com/2017/02/10/news/economy/visa-ban-rural-doctor-shortage/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -266,11 +190,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:09.088774+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:01.598668+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:21.829741+00:00"
     },
     "http://money.cnn.com/2017/02/10/investing/stocks-united-states-trump-europe-china-japan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -280,11 +200,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:12.693822+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:05.159116+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:25.354402+00:00"
     },
     "http://edition.cnn.com/2008/TECH/space/12/02/planetsalign.irpt/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -294,11 +210,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:16.922856+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:09.353389+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:29.481408+00:00"
     },
     "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -2418,11 +2330,7 @@
       "author": "Neil MacFarquhar",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:35.472051+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:22.807551+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:31.486460+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html": {
       "source": "NYT World",
@@ -2482,11 +2390,7 @@
       "author": "Matthew Mpoke Bigg, Hussein Mohamed and Ernesto Londoño",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:28.360019+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:15.630565+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:24.339934+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes-cease-fire.html": {
       "source": "NYT World",
@@ -2496,11 +2400,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:21.247415+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:08.454381+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:17.204738+00:00"
     },
     "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/iranian-port-cities-and-a-railway-were-struck-overnight": {
       "source": "NYT World",
@@ -2540,11 +2440,7 @@
       "author": "John Yoon and Rin Hindryati",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:24.803839+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:12.049012+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:20.792222+00:00"
     },
     "https://www.nytimes.com/2026/07/09/us/pope-leo-brian-burch-vatican-ambassador.html": {
       "source": "NYT World",
@@ -2554,11 +2450,7 @@
       "author": "Elizabeth Dias and Motoko Rich",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:31.913641+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:19.218899+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:27.926680+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/americas/mexico-el-mayo-fbi-us-cartel.html": {
       "source": "NYT World",
@@ -2598,11 +2490,7 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:39.041775+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:26.395391+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:35.078483+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/middleeast/iran-truce-trump.html": {
       "source": "NYT World",
@@ -2672,11 +2560,7 @@
       "author": "K. R. Callaway",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:31.933929+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:19.730226+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:27.214185+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html": {
       "source": "NYT World",
@@ -2766,11 +2650,7 @@
       "author": "Patricia Cohen",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:58.818126+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:46.712996+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:54.407319+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html": {
       "source": "NYT World",
@@ -3210,11 +3090,7 @@
       "author": "Cade Metz",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:30.757600+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:18.525359+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:26.802988+00:00"
     },
     "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html": {
       "source": "NYT Tech",
@@ -3284,11 +3160,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:34.315520+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:22.142470+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:30.377798+00:00"
     },
     "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html": {
       "source": "NYT Tech",
@@ -3318,11 +3190,7 @@
       "author": "Karen Weise and Zachary Small",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:37.881332+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:25.722309+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:33.960279+00:00"
     },
     "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html": {
       "source": "NYT Tech",
@@ -3332,11 +3200,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:41.444050+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:29.328348+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:37.511182+00:00"
     },
     "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html": {
       "source": "NYT Tech",
@@ -3426,11 +3290,7 @@
       "author": "William J. Broad",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:49.505662+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:37.177273+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:45.270684+00:00"
     },
     "https://www.nytimes.com/2026/07/09/science/fossils-earliest-handedness-righties.html": {
       "source": "NYT Science",
@@ -3440,11 +3300,7 @@
       "author": "Jack Tamisiea",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:53.075962+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:40.800106+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:48.834956+00:00"
     },
     "https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html": {
       "source": "NYT Science",
@@ -3464,11 +3320,7 @@
       "author": "Robin George Andrews",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:56.640076+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:44.387729+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:52.393013+00:00"
     },
     "https://www.nytimes.com/2026/07/08/science/russia-captured-chernobyl-the-wildlife-cameras-kept-recording.html": {
       "source": "NYT Science",
@@ -3478,11 +3330,7 @@
       "author": "Emily Anthes",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:03.765537+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:51.558474+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:59.535079+00:00"
     },
     "https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html": {
       "source": "NYT Climate",
@@ -3572,11 +3420,7 @@
       "author": "Ferris Jabr",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:35.498155+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:23.317934+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:30.764108+00:00"
     },
     "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html": {
       "source": "NYT Science",
@@ -3646,11 +3490,7 @@
       "author": "Jeré Longman",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:10.875658+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:58.729262+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:06.669811+00:00"
     },
     "https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html": {
       "source": "NYT Science",
@@ -3830,11 +3670,7 @@
       "author": "Lauren Hirsch",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:44.567147+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:32.336759+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:40.120364+00:00"
     },
     "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html": {
       "source": "NYT Business",
@@ -3844,11 +3680,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:48.131609+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:35.918274+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:43.693234+00:00"
     },
     "https://www.nytimes.com/2026/07/09/travel/help-i-refueled-my-rental-car-but-enterprise-charged-me-anyway.html": {
       "source": "NYT Business",
@@ -3858,11 +3690,7 @@
       "author": "Seth Kugel",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:51.696667+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:39.525089+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:47.269582+00:00"
     },
     "https://www.nytimes.com/2026/07/09/style/xenom-crossfit-competition-workout-fitness.html": {
       "source": "NYT Business",
@@ -3892,11 +3720,7 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:55.257382+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:43.109743+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:50.852072+00:00"
     },
     "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html": {
       "source": "NYT Business",
@@ -3946,11 +3770,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:02.382556+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:50.324275+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:57.962700+00:00"
     },
     "https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html": {
       "source": "NYT Business",
@@ -3960,11 +3780,7 @@
       "author": "Brooks Barnes",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:05.936430+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:53.929408+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:01.518305+00:00"
     },
     "https://www.nytimes.com/2026/07/08/travel/ees-europe-airports-security.html": {
       "source": "NYT Business",
@@ -3984,11 +3800,7 @@
       "author": "Jason Karaian and Jenny Gross",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:09.496006+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:57.510901+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:05.073862+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html": {
       "source": "NYT Business",
@@ -3998,11 +3810,7 @@
       "author": "Jim Tankersley",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:13.062820+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:01.095109+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:08.649837+00:00"
     },
     "https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html": {
       "source": "NYT Business",
@@ -4092,11 +3900,7 @@
       "author": "Tariq Panja and Lucía Cholakian Herrera",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:16.625464+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:04.675017+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:12.225112+00:00"
     },
     "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html": {
       "source": "NYT Business",
@@ -4166,11 +3970,7 @@
       "author": "Lydia DePillis",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:22.344311+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:10.490187+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:17.496660+00:00"
     },
     "https://www.nytimes.com/2026/07/06/business/dealbook/trump-world-cup-infantino.html": {
       "source": "NYT Business",
@@ -4320,11 +4120,7 @@
       "author": "Judson Jones",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:39.060217+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:26.901236+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:34.314260+00:00"
     },
     "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html": {
       "source": "NYT Climate",
@@ -4344,11 +4140,7 @@
       "author": "Amy Graff and Erin McCann",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:42.613998+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:30.486981+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:37.865428+00:00"
     },
     "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html": {
       "source": "NYT Climate",
@@ -4358,11 +4150,7 @@
       "author": "Kenneth P. Vogel and Karen Zraick",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:46.174135+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:34.078931+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:41.415525+00:00"
     },
     "https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html": {
       "source": "NYT Climate",
@@ -4392,11 +4180,7 @@
       "author": "Francesca Paris",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:49.734760+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:37.658882+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:44.969161+00:00"
     },
     "https://www.nytimes.com/2026/07/02/climate/court-national-parks-signs-trump.html": {
       "source": "NYT Climate",
@@ -4446,11 +4230,7 @@
       "author": "Raymond Zhong and Mira Rojanasakul",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:53.295129+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:41.260765+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:48.525776+00:00"
     },
     "https://www.nytimes.com/2026/07/02/climate/fireworks-effects-washington-smoke-dogs.html": {
       "source": "NYT Climate",
@@ -4460,11 +4240,7 @@
       "author": "Quinn Glabicki, Catrin Einhorn and Maxine Joselow",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:56.855277+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:44.841461+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:52.079736+00:00"
     },
     "https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html": {
       "source": "NYT Climate",
@@ -4484,11 +4260,7 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:00.413756+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:48.425604+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:55.630940+00:00"
     },
     "https://www.nytimes.com/2026/07/01/weather/heat-domes-europe-us.html": {
       "source": "NYT Climate",
@@ -4508,11 +4280,7 @@
       "author": "Nazaneen Ghaffar, Erin McCann and Amy Graff",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:03.968497+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:52.011441+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:59.175307+00:00"
     },
     "https://www.nytimes.com/2026/06/30/climate/heat-wave-wildfires.html": {
       "source": "NYT Climate",
@@ -4522,11 +4290,7 @@
       "author": "David Gelles",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:07.531313+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:55.600891+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:02.726869+00:00"
     },
     "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html": {
       "source": "NYT Climate",
@@ -4536,11 +4300,7 @@
       "author": "Jack Ewing",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:11.087908+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:59.186678+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:06.280123+00:00"
     },
     "https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html": {
       "source": "NYT Climate",
@@ -4570,11 +4330,7 @@
       "author": "Nazaneen Ghaffar, Judson Jones and Camille Baker",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:14.644144+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:02.777072+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:09.832705+00:00"
     },
     "https://www.nytimes.com/2026/06/29/climate/trump-offshore-wind-duke-energy.html": {
       "source": "NYT Climate",
@@ -4584,11 +4340,7 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:18.205677+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:06.369594+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:13.378523+00:00"
     },
     "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html": {
       "source": "NYT Climate",
@@ -4738,11 +4490,7 @@
       "author": "Ben Casselman",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:26.021563+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:14.155121+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:21.191335+00:00"
     },
     "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html": {
       "source": "NYT Economy",
@@ -4752,11 +4500,7 @@
       "author": "Ana Swanson and Emmy Martin",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:29.586333+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:17.764892+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:24.765592+00:00"
     },
     "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html": {
       "source": "NYT Economy",
@@ -4766,11 +4510,7 @@
       "author": "Ana Swanson, Ian Austen and Emiliano Rodríguez Mega",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:33.149320+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:21.339087+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:28.335245+00:00"
     },
     "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html": {
       "source": "NYT Economy",
@@ -4780,11 +4520,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:36.702758+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:24.928306+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:31.887098+00:00"
     },
     "https://www.nytimes.com/2026/06/26/business/economy/trump-tariffs-europe.html": {
       "source": "NYT Economy",
@@ -4804,11 +4540,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:40.277042+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:28.517551+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:21:35.444018+00:00"
     },
     "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs": {
       "source": "NPR News",
@@ -7588,11 +7320,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:53.421039+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:48.433107+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:07.489427+00:00"
     },
     "https://cnn.it/411KYN7": {
       "source": "CNN World",
@@ -7632,11 +7360,7 @@
       "author": "",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:48:58.192471+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:02:52.447669+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:22:12.193472+00:00"
     },
     "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html": {
       "source": "CNN World",
@@ -8526,11 +8250,7 @@
       "author": "Rachel Chason, Suzan Haidamous",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:36.234975+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:26.667566+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:46.940764+00:00"
     },
     "https://www.washingtonpost.com/world/2026/07/09/congo-health-workers-fighting-ebola-go-strike-after-months-without-pay/": {
       "source": "WashPost World",
@@ -8540,11 +8260,7 @@
       "author": "Rael Ombuor, Rachel Chason",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:37.841627+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:28.214328+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:48.452719+00:00"
     },
     "https://www.washingtonpost.com/world/2026/07/08/trump-declares-ceasefire-with-iran-has-ended/": {
       "source": "WashPost World",
@@ -8554,11 +8270,7 @@
       "author": "Michael Birnbaum, Victoria Craw, Dan Lamothe",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:39.385101+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:29.764013+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:49.981440+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/": {
       "source": "WashPost Politics",
@@ -8598,11 +8310,7 @@
       "author": "Dan Diamond",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:50.523721+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:39.879864+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:00.057895+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/": {
       "source": "WashPost National",
@@ -8612,11 +8320,7 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:33.468924+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:05:25.058070+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:43.959249+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/09/sens-fetterman-d-mccormick-r-form-rare-bipartisan-fundraising-committee/": {
       "source": "WashPost Politics",
@@ -8626,11 +8330,7 @@
       "author": "Praveena Somasundaram",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:53.610594+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:43.026614+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:03.208892+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/09/democrats-seek-way-forward-amid-finger-pointing-maine/": {
       "source": "WashPost Politics",
@@ -8640,11 +8340,7 @@
       "author": "Dan Merica, Alexei Koseff",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:55.161452+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:44.597697+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:04.731851+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/09/democratic-party-fissures-are-shaping-michigans-crucial-senate-primary/": {
       "source": "WashPost Politics",
@@ -8654,11 +8350,7 @@
       "author": "Karen Tumulty",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:56.686864+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:46.154715+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:06.238816+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/08/who-could-replace-platner-maine-ballot/": {
       "source": "WashPost Politics",
@@ -8698,11 +8390,7 @@
       "author": "Jarrell Dillard, Noah Robertson",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:10.472582+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:58.037276+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:19.160395+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/09/one-city-steps-snap-cuts-leave-families-struggling/": {
       "source": "WashPost National",
@@ -8712,11 +8400,7 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:35.037591+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:05:26.616823+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:45.483867+00:00"
     },
     "https://www.washingtonpost.com/obituaries/2026/07/09/wally-funk-trailblazing-aviator-who-waited-60-years-go-space-dies-87/": {
       "source": "WashPost National",
@@ -8726,11 +8410,7 @@
       "author": "Harrison Smith",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:36.560536+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:05:28.169930+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:47.000779+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/09/graham-platners-coastal-maine-hometown-his-fall-is-personal/": {
       "source": "WashPost National",
@@ -8740,11 +8420,7 @@
       "author": "Joanna Slater",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:38.081250+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:05:29.729833+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:48.523163+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/08/majority-black-memphis-anger-over-redistricting-has-turned-into-resolve/": {
       "source": "WashPost National",
@@ -12294,11 +11970,7 @@
       "author": "#author.fullName}",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:50.851415+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:06:04.374103+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:01.447267+00:00"
     },
     "https://www.newscientist.com/article/2532073-i-have-a-100-per-cent-chance-of-getting-cancer-due-to-a-rare-gene/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home": {
       "source": "New Scientist",
@@ -20918,11 +20590,7 @@
       "author": "David M. Halbfinger",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:17.691363+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:04.866730+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:13.637263+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html": {
       "source": "NYT World",
@@ -20972,11 +20640,7 @@
       "author": "Becky Ferreira",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:45.894479+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:33.513305+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:41.658016+00:00"
     },
     "https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html": {
       "source": "NYT Climate",
@@ -22996,11 +22660,7 @@
       "author": "Jarrell Dillard",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:08.893010+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:56.378304+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:17.491821+00:00"
     },
     "https://www.washingtonpost.com/lifestyle/2026/07/10/they-met-while-being-treated-brain-injuries-now-theyre-getting-married/": {
       "source": "WashPost National",
@@ -23010,11 +22670,7 @@
       "author": "Kyle Melnick",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:31.933021+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:05:23.496444+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:42.428795+00:00"
     },
     "https://www.wired.com/story/ulta-coupon/": {
       "source": "Wired",
@@ -23864,11 +23520,7 @@
       "author": "Max Bearak, Yeganeh Torbati, Eric Schmitt and Michael Levenson",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:14.134799+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:01.276533+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:10.055877+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/iran-war-hardliners-hormuz-funeral.html": {
       "source": "NYT World",
@@ -23908,11 +23560,7 @@
       "author": "Richard Fausset",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:04.532834+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:52.179183+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:00.658470+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html": {
       "source": "NYT US",
@@ -24092,11 +23740,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:30.319618+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:18.006552+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:25.798211+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/hotel-workers-world-cup.html": {
       "source": "NYT Business",
@@ -24106,11 +23750,7 @@
       "author": "Kurtis Lee",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:33.884604+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:21.588453+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:29.375125+00:00"
     },
     "https://www.nytimes.com/2026/07/10/travel/barcelona-overtourism-jose-antonio-donaire.html": {
       "source": "NYT Business",
@@ -24130,11 +23770,7 @@
       "author": "Jason Karaian",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:37.440816+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:25.170215+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:32.955374+00:00"
     },
     "https://www.nytimes.com/2026/07/09/business/warsh-announces-slate-of-new-advisers-for-fed-task-forces.html": {
       "source": "NYT Business",
@@ -24154,11 +23790,7 @@
       "author": "Steven Lee Myers and Dustin Volz",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:41.007465+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:28.759472+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:36.535212+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html": {
       "source": "NYT Climate",
@@ -24738,11 +24370,7 @@
       "author": "Jia Lynn Yang",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:19.456925+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:07.149060+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:15.478814+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html": {
       "source": "NYT Tech",
@@ -26992,11 +26620,7 @@
       "author": "Anthony Faiola",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:34.701517+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:25.103520+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:45.361001+00:00"
     },
     "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on": {
       "source": "The Verge",
@@ -27406,11 +27030,7 @@
       "author": "Jeff Sommer",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:26.747718+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:14.421972+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:22.240184+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/volkswagen-china-problems-restructuring.html": {
       "source": "NYT Business",
@@ -27440,11 +27060,7 @@
       "author": "Brianna  Abbott",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:28.372706+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:16.138952+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:23.657832+00:00"
     },
     "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-becomes-law-without-trump-signature": {
       "source": "NPR News",
@@ -29084,11 +28700,7 @@
       "author": "Cole Reynolds",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:30.385960+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:05:21.928487+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:40.914031+00:00"
     },
     "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report": {
       "source": "The Verge",
@@ -29748,11 +29360,7 @@
       "author": "Stephen Castle",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:43:59.914693+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:57:46.765093+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:16:55.781813+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html": {
       "source": "NYT US",
@@ -29862,11 +29470,7 @@
       "author": "Rachel Chason",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:33.181283+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:23.551353+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:43.834854+00:00"
     },
     "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/": {
       "source": "TechCrunch",
@@ -31106,11 +30710,7 @@
       "author": "Reid J. Epstein",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:00.976786+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:48.574150+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:57.100053+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html": {
       "source": "NYT Business",
@@ -31120,11 +30720,7 @@
       "author": "Peter Eavis, Jenny Gross and Eric Schmitt",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:23.181269+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:10.821323+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:18.679041+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/trump-climate-assessment-wielicki.html": {
       "source": "NYT Climate",
@@ -31134,11 +30730,7 @@
       "author": "Maxine Joselow and Brad Plumer",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:21.122205+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:08.836360+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:16.372317+00:00"
     },
     "https://www.theguardian.com/politics/2026/jul/10/ann-widdecombe-uncompromising-politician-who-embraced-tv-fame": {
       "source": "Guardian World",
@@ -31208,11 +30800,7 @@
       "author": "Mary Ilyushina",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:50:31.580989+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:04:21.931700+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:23:42.249874+00:00"
     },
     "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/": {
       "source": "TechCrunch",
@@ -31482,11 +31070,7 @@
       "author": "Suhasini Raj and Jeremy W. Peters",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:43:56.352509+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:57:43.186733+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:16:52.225924+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/politics/ice-deports-immigrant-pardoned-minnesota.html": {
       "source": "NYT Politics",
@@ -31496,11 +31080,7 @@
       "author": "Amy Qin",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:15.893000+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:03.563820+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:11.910995+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html": {
       "source": "NYT World",
@@ -31900,11 +31480,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:10.580616+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:57:57.678493+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:06.498425+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/charlie-kirk-shooting-hearing.html": {
       "source": "NYT US",
@@ -31914,11 +31490,7 @@
       "author": "Nicholas Bogel-Burroughs",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:46.756744+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:34.198373+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:42.834725+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html": {
       "source": "NYT US",
@@ -31928,11 +31500,7 @@
       "author": "Reid J. Epstein and Tim Balk",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:50.314462+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:37.780917+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:46.393131+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html": {
       "source": "NYT US",
@@ -31942,11 +31510,7 @@
       "author": "Jazmine Ulloa, Hamed Aleaziz and Emiliano Rodríguez Mega",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:53.862089+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:41.369726+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:49.960798+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html": {
       "source": "NYT Business",
@@ -32856,11 +32420,7 @@
       "author": "Julia Shapero",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:09.386119+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:32.831380+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:17.883484+00:00"
     },
     "https://thehill.com/homenews/administration/5963258-trump-iran-assassination-military-action/": {
       "source": "The Hill",
@@ -32870,11 +32430,7 @@
       "author": "Ellen Mitchell",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:13.914137+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:37.109038+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:21.678718+00:00"
     },
     "https://thehill.com/homenews/5963267-trump-administration-rolls-back-key-endangered-species-protection/": {
       "source": "The Hill",
@@ -32884,11 +32440,7 @@
       "author": "Rachel Frazin",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:18.413671+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:41.662429+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:26.102333+00:00"
     },
     "https://thehill.com/homenews/5963165-doj-sues-maryland-over-immigration-sanctuary-law/": {
       "source": "The Hill",
@@ -32898,11 +32450,7 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:22.757661+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:45.836018+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:30.215414+00:00"
     },
     "https://thehill.com/homenews/5963058-mccarthy-criticizes-speaker-johnson/": {
       "source": "The Hill",
@@ -32912,11 +32460,7 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:27.319245+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:50.413563+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:34.438656+00:00"
     },
     "https://thehill.com/video-clips/5962875-watch-live-houston-ice-shooting-press-conference/": {
       "source": "The Hill",
@@ -33296,11 +32840,7 @@
       "author": "Kalley Huang and Cade Metz",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:23.593799+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:11.278090+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:19.596100+00:00"
     },
     "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins": {
       "source": "NPR News",
@@ -33370,11 +32910,7 @@
       "author": "Tim Craig",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:51:28.818771+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:05:20.263705+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:24:39.335139+00:00"
     },
     "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets": {
       "source": "The Verge",
@@ -33514,11 +33050,7 @@
       "author": "Rachel Frazin",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:56.333094+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:19.100204+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:04.365722+00:00"
     },
     "https://thehill.com/blogs/in-the-know/5963363-uk-norway-embassies-get-cheeky-in-social-media-post-over-haaland-kane-world-cup-rivalry/": {
       "source": "The Hill",
@@ -33528,11 +33060,7 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:00.917874+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:23.713748+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:09.122642+00:00"
     },
     "https://thehill.com/homenews/campaign/5963366-platner-officially-withdraws-from-maine-senate-race/": {
       "source": "The Hill",
@@ -33542,11 +33070,7 @@
       "author": "Caroline Vakil",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:05.239547+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:28.239511+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:13.613961+00:00"
     },
     "https://www.france24.com/en/tv-shows/the-world-this-week/20260710-iran-forewarnings-and-a-funeral-nato-le-pen": {
       "source": "France 24",
@@ -33706,11 +33230,7 @@
       "author": "John S.W. MacDonald and Amy Graff",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:47:24.807789+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:01:12.555256+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:20:20.095491+00:00"
     },
     "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -33770,11 +33290,7 @@
       "author": "Julia Manchester",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:51.876406+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:15.075833+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:59.939472+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/whyalla-liquidated-companies-gfg-ferretti-workers-pay-sa/106897886": {
       "source": "ABC Australia",
@@ -34044,11 +33560,7 @@
       "author": "Nathaniel Weixel",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:43.035221+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:06.718101+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:51.387215+00:00"
     },
     "https://thehill.com/newsletters/defense-national-security/5963509-conservative-coalition-urges-congress-to-protect-internet-freedoms-in-iran/": {
       "source": "The Hill",
@@ -34058,11 +33570,7 @@
       "author": "Filip Timotija",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:47.842387+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:11.253170+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:55.791806+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/tour-de-france-stage-7-wrap-merlier-wins-pogacar-leads/106904662": {
       "source": "ABC Australia",
@@ -34172,11 +33680,7 @@
       "author": "Miranda Nazzaro",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:38.418602+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:07:02.213756+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:46.916201+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/beagle-bay-housing-residents-feel-forgotten-by-wa-government/106470082": {
       "source": "ABC Australia",
@@ -34276,11 +33780,7 @@
       "author": "Ishani Desai",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:44:07.026651+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:57:53.950591+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:17:02.906848+00:00"
     },
     "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -34430,11 +33930,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:34.521930+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:06:58.326841+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:42.981632+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/derryn-hinch-greatest-hits-as-journalist-dies-aged-82/106903114": {
       "source": "ABC Australia",
@@ -34554,11 +34050,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:30.293138+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:06:53.853338+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:39.038960+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/tas-polling-shows-labor-sliding-further/106901358": {
       "source": "ABC Australia",
@@ -34658,11 +34150,7 @@
       "author": "Jeff Foust",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:03.589792+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:06:23.307315+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:13.215417+00:00"
     },
     "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video": {
       "source": "Bloomberg Markets",
@@ -34712,11 +34200,7 @@
       "author": "Ian Austen and Tyler Pager",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:43:52.799661+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:57:39.582170+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:16:48.618298+00:00"
     },
     "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort": {
       "source": "Guardian World",
@@ -34826,11 +34310,7 @@
       "author": "Miriam Jordan and Madeleine Ngo",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:12.338516+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:58:59.980058+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:08.351060+00:00"
     },
     "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html": {
       "source": "NYT Tech",
@@ -34840,11 +34320,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:45:27.198289+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:59:14.922770+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:18:23.214735+00:00"
     },
     "https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb": {
       "source": "Guardian World",
@@ -35054,11 +34530,7 @@
       "author": "REMA NAGARAJAN",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:44.215329+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:08:40.195434+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:55.063845+00:00"
     },
     "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumor-chicago-blackhawks-and-winnipeg-jets-emerge-as-landing-spots-for-38-5m-vancouver-canucks-winger/articleshow/132320743.cms": {
       "source": "Times of India",
@@ -35228,11 +34700,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:52:26.142956+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:06:49.597279+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:25:34.830383+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/ohio-house-of-horrors-hamden-16-children-rescue-siders-family/106889858": {
       "source": "ABC Australia",
@@ -35552,11 +35020,7 @@
       "author": "AMIT KUMAR",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:52.864934+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:08:48.110225+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:27:03.768361+00:00"
     },
     "https://timesofindia.indiatimes.com/defence/international/vulnerable-but-valuable-why-us-uses-mq9-reapers-india-set-to-get-31-drones/articleshow/132324033.cms": {
       "source": "Times of India",
@@ -35626,11 +35090,7 @@
       "author": "Vivian Wang",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:43:49.157416+00:00"
-=======
-      "retrieved_at": "2026-07-11T07:57:35.856597+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:16:44.793402+00:00"
     },
     "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html": {
       "source": "NYT Business",
@@ -35640,11 +35100,7 @@
       "author": "Michael M. Grynbaum",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:19.576977+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:07.186009+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:15.063897+00:00"
     },
     "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans": {
       "source": "Guardian World",
@@ -35754,11 +35210,7 @@
       "author": "TNN",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:54:05.915745+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:08:59.768122+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:27:16.344976+00:00"
     },
     "https://timesofindia.indiatimes.com/life-style/home-garden/man-bitten-by-rattlesnake-california-54-vials-antivenom-survives/articleshow/132324303.cms": {
       "source": "Times of India",
@@ -35768,11 +35220,7 @@
       "author": "TIMESOFINDIA.COM",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:54:10.439577+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:09:03.702780+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:27:20.135010+00:00"
     },
     "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -35962,11 +35410,7 @@
       "author": "AMARJEET SINGH",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:56.963078+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:08:51.970814+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:27:07.930232+00:00"
     },
     "https://www.theguardian.com/travel/2026/jul/11/ryanair-family-seating-policy-kids-fees-airfare-flight-airline-charges": {
       "source": "Guardian World",
@@ -36056,11 +35500,7 @@
       "author": "JOEL JOSEPH AND NIKHIL SHARMA",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:53:48.600979+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:08:44.141718+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:26:59.375561+00:00"
     },
     "https://timesofindia.indiatimes.com/india/why-bjp-replaced-its-bankipur-bypoll-nominee-before-face-off-with-prashant-kishor/articleshow/132324929.cms": {
       "source": "Times of India",
@@ -36170,11 +35610,7 @@
       "author": "etimes.in",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:54:01.601113+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:08:55.846004+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:27:12.317071+00:00"
     },
     "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/politics/new-zealand-india-strategic-partnership/": {
       "source": "Japan Times",
@@ -36424,11 +35860,7 @@
       "author": "John Yoon",
       "text": "",
       "summary": null,
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:46:15.298527+00:00"
-=======
-      "retrieved_at": "2026-07-11T08:00:02.870179+00:00"
->>>>>>> Stashed changes
+      "retrieved_at": "2026-07-11T08:19:10.786423+00:00"
     },
     "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran": {
       "source": "NPR News",
@@ -36640,8 +36072,6 @@
       "summary": " The TOI News Desk comprises a dedicated and tireless team of journalists. The TOi News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape.",
       "retrieved_at": "2026-07-11T07:20:52.802648+00:00"
     },
-<<<<<<< Updated upstream
-=======
     "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss": {
       "source": "BBC Business",
       "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
@@ -36722,7 +36152,6 @@
       "summary": " AT&T is the third-largest provider in the US (first for 5G) with the largest coverage map. All AT&t plans include AT& T ActiveArmor mobile security, and AT& t Family Plan is one of the most cost effective ways to make the change.",
       "retrieved_at": "2026-07-11T08:05:53.600393+00:00"
     },
->>>>>>> Stashed changes
     "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html": {
       "source": "Hacker News THN",
       "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
@@ -36731,9 +36160,6 @@
       "author": "info@thehackernews.com (The Hacker News)",
       "text": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\nThe vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.\n\n\"The update fixes a security issue in the Classic Web Client where a specially crafted email could run malicious code when the email is opened,\" Zimbra said. \"If exploited, it could allow access to mailbox information, session data, or account settings.\"\n\nXSS vulnerabilities occur when an application includes untrusted data in a web page without proper validation or escaping. This allows attackers to inject and execute malicious JavaScript in victims' browsers, which can result in session hijacking, credential theft, and account compromise.\n\nStored XSS, or persistent XSS, is a type of XSS flaw where the injected script is permanently stored on the target servers in a database in the form of a seemingly harmless comment or a forum post, causing any site visitor to be compromised as soon as the page containing the JavaScript is loaded on their web browser.\n\nAlthough Zimbra makes no mention of the vulnerability being exploited in the wild, XSS flaws in Zimbra have been an attack magnet for years, with bad actors attempting to weaponize such vulnerabilities as far back as December 2021.\n\nLast October, a stored XSS flaw in the Classic Web Client (CVE-2025-27915, CVSS Score: 5.4) was alleged to have been exploited as a zero-day in attacks targeting the Brazilian military, although Zimbra told The Hacker News at the time that it found no evidence to back it up.\n\nOther XSS flaws that have been exploited by threat actors include CVE-2023-37580 and CVE-2024-27443. Given its high potential for abuse, users are recommended to update to Zimbra Collaboration Suite version 10.1.19 for optimal protection.",
       "summary": " Vulnerability could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. The Classic Web Client vulnerability could result in arbitrary code execution.",
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:35:12.179964+00:00"
-=======
       "retrieved_at": "2026-07-11T08:05:59.097080+00:00"
     },
     "https://phys.org/news/2026-07-brutal-western-weekend.html": {
@@ -36755,7 +36181,6 @@
       "text": "We’re checking your connection to prevent automated abuse",
       "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
       "retrieved_at": "2026-07-11T08:06:14.658868+00:00"
->>>>>>> Stashed changes
     },
     "https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html": {
       "source": "Phys.org",
@@ -36765,9 +36190,6 @@
       "author": "",
       "text": "We’re checking your connection to prevent automated abuse",
       "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:35:26.103866+00:00"
-=======
       "retrieved_at": "2026-07-11T08:06:18.289474+00:00"
     },
     "https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises": {
@@ -36779,7 +36201,6 @@
       "text": "To continue, please click the box below to let us know you're not a robot.\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below.\n\nGet the most important global markets news at your fingertips with a Bloomberg.com subscription.",
       "summary": " The Daily Discussion is a weekly, weekly look at the most important global markets news. Use the Daily Discussion to help you understand today's featured news stories.",
       "retrieved_at": "2026-07-11T08:06:31.495354+00:00"
->>>>>>> Stashed changes
     },
     "https://www.ft.com/content/5159f92a-08d7-4300-9795-01e2992a721b": {
       "source": "Financial Times",
@@ -36789,29 +36210,6 @@
       "author": "",
       "text": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\n\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\n\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\n\nFT Weekend newspaper delivered Saturday plus complete digital access.\n\nCheck whether you already have access via your university or organisation.\n\nTerms & Conditions apply\n\nDiscover all the plans currently available in your country\n\nDigital access for organisations. Includes exclusive features and content.\n\nSee why over a million readers pay to read the Financial Times.",
       "summary": " FT Weekend newspaper delivered Saturday plus complete digital access. Check whether you already have access via your university or organisation. Discover all the plans currently available in your country Digital access for organisations.",
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:35:40.325003+00:00"
-    },
-    "https://timesofindia.indiatimes.com/city/hyderabad/missing-couple-on-swiss-holiday-took-crores-from-investors-cops/articleshow/132319648.cms": {
-      "source": "Times of India",
-      "link": "https://timesofindia.indiatimes.com/city/hyderabad/missing-couple-on-swiss-holiday-took-crores-from-investors-cops/articleshow/132319648.cms",
-      "title": "After collecting crores from investors, Hyderabad couple go 'missing' in Switzerland",
-      "date": "Sat, 11 Jul 2026 00:25:34 +0530",
-      "author": "TNN",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T07:53:34.669609+00:00"
-    },
-    "https://timesofindia.indiatimes.com/india/fssai-issues-9-notices-to-e-commerce-app-for-alleged-food-safety-violations/articleshow/132326163.cms": {
-      "source": "Times of India",
-      "link": "https://timesofindia.indiatimes.com/india/fssai-issues-9-notices-to-e-commerce-app-for-alleged-food-safety-violations/articleshow/132326163.cms",
-      "title": "FSSAI issues 9 notices to e-commerce app for alleged food safety violations",
-      "date": "Sat, 11 Jul 2026 12:38:10 +0530",
-      "author": "TOI NEWS DESK",
-      "text": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\"\nRead More",
-      "summary": " The TOI News Desk comprises a dedicated and tireless team of journalists. The TOi News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape.",
-      "retrieved_at": "2026-07-11T07:37:01.984327+00:00"
-=======
       "retrieved_at": "2026-07-11T08:06:36.358821+00:00"
     },
     "https://fortune.com/2026/07/11/ulta-nyc-flagship-store-times-square-retail-model/": {
@@ -36843,7 +36241,6 @@
       "text": "Hadi Khan, a journalist for The Times of India, mainly covers crime, urban affairs and trending viral content.",
       "summary": "Hadi Khan is a journalist for The Times of India. He mainly covers crime, urban affairs and trending viral content. He is also a journalist at The Times Of India.",
       "retrieved_at": "2026-07-11T08:08:02.628629+00:00"
->>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-2-year-old-warning-to-iphone-maker-about-chatgpt-maker-resurfaces-as-apple-accuses-openai-of-stealing-trade-secrets-musk-said-they-are-selling-/articleshow/132325620.cms": {
       "source": "Times of India",
@@ -36853,19 +36250,6 @@
       "author": "TOI TECH DESK",
       "text": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk’s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more; TOI Tech Desk brings the news with accuracy and authenticity.\nRead More",
       "summary": " TOI Tech Desk's news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more.",
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:37:06.626566+00:00"
-    },
-    "https://timesofindia.indiatimes.com/real-estate/news/how-to-fund-home-renovation-construction-or-emergencies-with-a-home-loan-or-top-up-loan/articleshow/132310117.cms": {
-      "source": "Times of India",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/how-to-fund-home-renovation-construction-or-emergencies-with-a-home-loan-or-top-up-loan/articleshow/132310117.cms",
-      "title": "Home loan or top-up loan: How to choose right option for construction &amp; renovation",
-      "date": "Sat, 11 Jul 2026 09:00:00 +0530",
-      "author": "TOI REAL ESTATE DESK",
-      "text": "The TOI Real Estate Desk is a focused team of seasoned journalists and market watchers dedicated to decoding the ever-evolving property landscape for The Times of India readers. With a sharp eye on trends, policy shifts, and market movements, the team brings clarity to one of the most significant investment decisions in people’s lives. From expert insights on buying, selling, and investing to deep dives into infrastructure developments, home design, and sustainable living, the news here offers a comprehensive view of the real estate ecosystem. Whether you're a first-time homebuyer, a seasoned investor, or simply exploring the market, the TOI Real Estate Desk is your trusted guide to making informed property decisions.\nRead More",
-      "summary": " TOI Real Estate Desk is a team of seasoned journalists and market watchers dedicated to decoding the ever-evolving property landscape. The team brings clarity to one of the most significant investment decisions in people’s lives.",
-      "retrieved_at": "2026-07-11T07:37:11.159631+00:00"
-=======
       "retrieved_at": "2026-07-11T08:08:07.247464+00:00"
     },
     "https://timesofindia.indiatimes.com/city/hyderabad/missing-couple-on-swiss-holiday-took-crores-from-investors-cops/articleshow/132319648.cms": {
@@ -36876,7 +36260,7 @@
       "author": "TNN",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T08:08:11.302731+00:00"
+      "retrieved_at": "2026-07-11T08:26:50.155575+00:00"
     },
     "https://timesofindia.indiatimes.com/world/middle-east/new-satellite-images-reveal-iran-may-be-rebuilding-nuclear-facilities-report/articleshow/132325829.cms": {
       "source": "Times of India",
@@ -36887,7 +36271,6 @@
       "text": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.\nRead More\n\n1929 Ford Model A Pickup\n\nGATEWAY C. | sellwild.com\n\nVANS Sentry Old Skool Waffle Cup *New*\n\nJEANETTE S. | sellwild.com",
       "summary": " TOI World Desk is a global news agency that brings you the latest news and diverse perspectives. Join us on a journey across continents as we unravel the stories that shape our interconnected world.",
       "retrieved_at": "2026-07-11T08:08:15.588784+00:00"
->>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-no-sachin-tendulkar-harmanpreet-kaur-becomes-first-indian-to-score-fifty-in-all-three-formats-at-lords/articleshow/132326157.cms": {
       "source": "Times of India",
@@ -36897,9 +36280,6 @@
       "author": "TOI SPORTS DESK",
       "text": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.\nRead More",
       "summary": " TOI Sports Desk brings you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis.",
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:37:15.612642+00:00"
-=======
       "retrieved_at": "2026-07-11T08:08:19.905198+00:00"
     },
     "https://timesofindia.indiatimes.com/india/fssai-issues-9-notices-to-e-commerce-app-for-alleged-food-safety-violations/articleshow/132326163.cms": {
@@ -36911,7 +36291,6 @@
       "text": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\"\nRead More",
       "summary": " The TOI News Desk comprises a dedicated and tireless team of journalists. The TOi News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape.",
       "retrieved_at": "2026-07-11T08:08:24.129733+00:00"
->>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-taj-mahal-palaces-tata-suite-where-tom-holland-is-staying-during-the-odyssey-mumbai-premiere-costs-rs-7-12-lakh-a-night/articleshow/132320394.cms": {
       "source": "Times of India",
@@ -36921,11 +36300,7 @@
       "author": "TOI ENTERTAINMENT DESK",
       "text": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between. We don't just report; we tell tales of stardom and stories untold. Whether it's the rise of a new sensation or the seasoned journey of an industry veteran, the TOI Entertainment Desk is your front-row seat to the fascinating narratives that shape the entertainment landscape. Beyond the breaking news, we present a celebration of culture. We explore the intersections of entertainment with society, politics, and everyday life.\nRead More",
       "summary": " The TOI Entertainment Desk is a dynamic and dedicated team of journalists. We tell tales of stardom and stories untold. We explore the intersections of entertainment with society, politics, and everyday life.",
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:37:19.814493+00:00"
-=======
       "retrieved_at": "2026-07-11T08:08:28.101491+00:00"
->>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/technology/tech-news/openai-responds-to-apples-lawsuit-accusing-chatgpt-maker-of-stealing-iphone-makers-trade-secrets-says-we-have-no-interest-in-/articleshow/132324974.cms": {
       "source": "Times of India",
@@ -36935,69 +36310,6 @@
       "author": "TOI TECH DESK",
       "text": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk’s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more; TOI Tech Desk brings the news with accuracy and authenticity.\nRead More",
       "summary": " TOI Tech Desk's news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more.",
-<<<<<<< Updated upstream
-      "retrieved_at": "2026-07-11T07:37:24.432457+00:00"
-    },
-    "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf": {
-      "source": "DW All",
-      "link": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany news:  Third summer heat wave looms",
-      "date": "2026-07-11T07:26:00Z",
-      "author": "",
-      "text": "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, a man has taken a woman hostage at a Berlin supermarket. DW has more\n\nDW brings you the top stories from and about Germany on Saturday, July 11, 2026:\n\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google. Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed.\n\nAn hours-long police operation is underway in Berlin, where a man has taken a woman hostage in a supermarket. The man reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.\n\nGet the latest on the hostage situation in Berlin in our report.\n\nSeveral representatives from business, trade unions and politics say Germany should push back its goal of reaching climate neutrality by five years, a media report said on Saturday.\n\nThe Sunday edition of the Welt newspaper cited the CEO of energy giant RWE, Markus Krebber, as saying that postponing the 2045 goal to align with the EU's target date of 2050 could lessen the pressure on German industry.\n\nKrebbers told the paper that Germany's current aim of becoming climate-neutral five years earlier than the bloc made it more expensive to do business in, without any benefit to the climate.\n\nMichael Vassiliadis, head of the Mining, Chemical and Energy Industrial Union (IGBCE), told the Welt that the target should be pushed back to give industry more time to reduce its CO2 emissions and thus retain its competitiveness.\n\nGitta Connemann, who heads the small and mid-sized business group (SME) of Chancellor Friedrich Merz's Christian Democrats (CDU), also spoke out in favor of a \"more realistic\" timetable.\n\n\"We want less CO2, not less industry, so emissions trading must fit reality,\" she said.\n\nTheir remarks echo those made earlier this year by Merz, who said climate-protection measures must not put undue pressure on the economy.\n\nTemperatures in Germany are set to rise steadily over the weekend to reach a possible high of 38 degrees Celsius (100.4 degrees Fahrenheit) early next week in the southwest of the country, according to the German Weather Service (DWD).\n\nOn Saturday, the mercury is already forecast to climb to 35 C in the country's south and west, while northern and eastern regions will remain slightly cooler, at around 30 C.\n\nThe weather is forecast to cool down again toward the end of next week.\n\nThe heat wave, the third of the summer, is not expected to bring the record temperatures of more than 41 C measured in some regions at the end of June, and less humidity this time round will make the heat more bearable.\n\nAccording to the public health agency, the Robert Koch Institute, at least 5,100 people died of causes related to the hot weather last month.\n\nDespite the lower temperatures, the Federal Institute of Public Health (BIÖG) has still issued warnings, saying that rooms should be kept as cool as possible and that physical activities should be confined to morning and evening hours.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nGuten Tag from the DW newsroom in Bonn, where the air conditioners will be going full blast as another heat dome settles over Germany.\n\nAlthough temperatures are not forecast to rise to the record levels seen at the end of last month, experts say the hot weather will significantly increase the risk of wildfires and pose a grave danger to people's health.\n\nBut despite the unprecedented heat events in Europe, driven partly by human-induced climate change, business leaders and politicians are calling for Germany to delay its goal of becoming carbon neutral to maintain industrial competitiveness.\n\nIn political news, the far-right Alternative for Germany party is to outline its initial planned actions if it succeeds in taking power in the eastern state of Saxony-Anhalt in September elections.\n\nThe party is being monitored by Germany's domestic intelligence agency for alleged right-wing extremist tendencies, with many fearing that it could pose a danger to democracy in the country.\n\nAnd police in Berlin have been dealing with a dramatic hostage-taking at a supermarket.\n\nRead on to find out more about the latest events in and concerning Germany.",
-      "summary": "Germany is in for another scorching week, though no records are likely to be broken this time. Temperatures in Germany are set to rise steadily over the weekend to reach a possible high of 38 degrees Celsius (100.4 degrees Fahrenheit) Temperatures are set for a record high of 35 C in the country's south and west",
-      "retrieved_at": "2026-07-11T07:38:00.678564+00:00"
-    },
-    "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy": {
-      "source": "Guardian World",
-      "link": "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
-      "title": "World Cup quarter-final expected to generate £500m sales boost for UK economy",
-      "date": "Sat, 11 Jul 2026 07:00:43 GMT",
-      "author": "Rob Davies and Sarah Butler",
-      "text": "As England prepare to take on Norway on Saturday, sales of pints, takeaways and new TVs continue to surge\n\nFrom a cosy Norwegian pub to outdoor fan zones packed with hopeful England football fans, Saturday’s World Cup quarter-final between the two nations is expected to generate a multimillion-pound windfall for venues showing the game.\n\nThe quarter-finals will collectively generate a near half-billion pound sales increase for the wider UK economy, as fans drink 9.3m pints, order takeaways and splash out on new TVs, according to one estimate.\n\nSome of the biggest beneficiaries include venues staging ticketed watch parties, many of which reported selling out within hours of the final whistle blowing in England’s thrilling 3-2 victory over Mexico in the last 16 on Monday morning.\n\nWhile outdoor fan zones are renowned for pints of beer being launched into the air in celebration, the Kenton Arms in London is more likely to be doused in Akevitt, a Norwegian spirit typically made from potatoes, with flavours of caraway and dill.\n\n“I think it’ll be a majority of Norwegians, maybe 70:30 or 80:20,” said Egil Johansen, who has run the pub – a social hub for London’s Norwegian diaspora – for 17 years.\n\n“I really wanted to make sure that we get a proper Norwegian vibe in here, which we have had so far,” he said.\n\n“On Sunday against Brazil we reached our capacity of 200 about one hour before kick-off and had to stop entry. It’s 100% an extra boost for us this year.”\n\nThe tournament has already provided a significant uplift for the hospitality sector, with sales in pubs up by 77% on matchdays compared with a typical Tuesday, according to trade body UKHospitality.\n\nOn Saturday, the sector is expected to make £27.5m from pouring an extra 5.5m pints, the British Beer & Pubs Association (BBPA) said.\n\nBut many fans will be flocking to outdoor screenings.\n\nLive broadcasts of the games on the BBC and ITV regularly cut to images of fans celebrating – or in Scotland’s case drowning their sorrows in stunned silence – at open-air venues, such as those run by Boxpark in London and Liverpool.\n\nMatt Snell, chief executive of the street food and entertainment pop-up company, said each match could be worth £500,000 in sales of tickets, drinks and food.\n\n“If we reach the final, it’ll be as big as Christmas and the whole month of December for us,” he said.\n\n“We had 2,000 people at [Boxpark] Wembley at 4am for the Mexico game on Monday. Tickets for the quarter-final went live at 5am and by lunchtime they’d sold out.”\n\nHe said drinks sales haven’t been as high as for previous tournaments, due to games kicking off at unsociable hours. However, England’s continuing progress means projected extra sales are ahead of what the company expected.\n\n“We [budgeted for] the last 16 so everything now is a bonus for us,” he said.\n\nWhile many fans are choosing to watch games outside during the sunny weather, indoor venues are cashing in, too.\n\nBranches of cinema chains including Vue and Picturehouse are advertising tickets to watch the game, alongside summer blockbusters such as Disclosure Day and The Odyssey.\n\nSign up to Business Today\n\nGet set for the working day – we'll point you to all the business news and analysis you need every morning\n\nafter newsletter promotion\n\nThe Co-op Live venue in Manchester, part owned by the owners of Manchester City, will be showing the game at its 2,000-capacity Vertu Place fanzone. It will be the first international game shown at the venue.\n\nA spokesperson said the event, priced at £10 per ticket, sold out in 48 hours.\n\nThe overall uplift in sales across the UK economy during the quarter-finals is projected to reach £493.6m, according to research from analysis firm GlobalData on behalf of VoucherCodes.co.uk.\n\nMost of this, at £385m, is forecast to be linked to the England-Norway game, with £280m for retailers and £105m for hospitality.\n\nThe anticipation has increased sales of large TVs, as households get ready to watch the games at home.\n\nOnline electrical goods retail AO.com said TV sales were up 23% year-on-year throughout June, with demand rising as England continue to progress through the tournament.\n\nThose watching at home have also been keeping delivery riders and takeaways busy.\n\nOvernight orders on Deliveroo nearly doubled compared with the same unsociable period the week before during the England-Mexico match in the early hours of Monday. In the two hours before kick-off, sparkling wine and popcorn orders nearly tripled while coffee orders doubled. At 4am, as the final whistle blew, pizza and burger orders tripled.\n\nThe UK’s biggest supermarket, Tesco, also said orders via its quick delivery service Whoosh surged during the Mexico game with demand at its highest between 1pm and 3pm as customers stocked up ahead of the game. The service extended its hours until midnight to catch more orders.\n\nAs a result, Whoosh recorded one of its busiest-ever days with sales of ice-cream surging 64%, big bags of crisps and snacks up 45% and lager rising 44%.\n\nFigures from mobile operator O2 also indicated a rise in online streaming and takeaway orders with food delivery app traffic up 169% before kick-off while traffic to iPlayer was 24,581% above normal at 4am, as fans tuned back in to catch the final whistle.\n\nIt also indicated a trend towards watch parties – in pubs and bars or homes, with private vehicle hire app Uber experiencing a 192.6% spike in traffic after full-time.",
-      "summary": null,
-      "retrieved_at": "2026-07-11T07:48:45.834605+00:00"
-    },
-    "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html": {
-      "source": "Phys.org",
-      "link": "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html",
-      "title": "Thousands shelter in Taiwan as typhoon lashes Japan islands",
-      "date": "Sat, 11 Jul 2026 03:40:01 EDT",
-      "author": "",
-      "text": "We’re checking your connection to prevent automated abuse",
-      "summary": null,
-      "retrieved_at": "2026-07-11T07:51:58.399902+00:00"
-    },
-    "https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises": {
-      "source": "Bloomberg Markets",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises",
-      "title": "China Power Load Hits Early Record as Data, EV Demand Rises",
-      "date": "Sat, 11 Jul 2026 07:29:13 GMT",
-      "author": "Charlie Zhu, Ying Tian, Dan Murtaugh",
-      "text": "To continue, please click the box below to let us know you're not a robot.\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below.\n\nGet the most important global markets news at your fingertips with a Bloomberg.com subscription.",
-      "summary": null,
-      "retrieved_at": "2026-07-11T07:52:11.441136+00:00"
-    },
-    "https://fortune.com/2026/07/11/ulta-nyc-flagship-store-times-square-retail-model/": {
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/07/11/ulta-nyc-flagship-store-times-square-retail-model/",
-      "title": "Ulta is betting $400 million that an NYC megastore will help it compete with Sephora—and that flagships still work",
-      "date": "Sat, 11 Jul 2026 07:00:00 +0000",
-      "author": "Phil Wahba",
-      "text": "When Ulta Beauty opens its first-ever flagship, a four-level megastore in New York’s Times Square late next year, the retailer aims to create a more fun and modern shopping experience, showcase its more upscale house brands, and place itself at the center of the beauty universe as it seeks to expand its influence. The 27,000-square foot space is a new experiment for the fast-growing beauty retailer that’s a fixture of U.S. strip malls and a fresh test of the retail industry’s flagship model, which has lost popularity in recent years due to its high cost and ultra-high stakes.\n\nUlta is reportedly paying $400 million for a 15-year lease for the mid-town Manhattan store, set in a tourist-heavy district where flashing billboards put American consumerism on full display. The company has been tight-lipped about its design, but Ulta CEO Kecia Steelman told investors last month that the flagship “will showcase next-level brand building and storytelling capabilities, unlock high-impact marketing” and feature LED-billboards and other flashy touches not seen at the rest of its 1,500 U.S. locations.\n\nUlta, a fast-growing retailer for more than 15 years, hit annual revenue of $12.4 billion last year, with revenue growth of 11% in the first quarter this year. But in the highly competitive beauty space, where influencers can make or break a new lip gloss or fragrances and shoppers want to touch and feel products, Ulta has to find new ways to distinguish itself from chief rival Sephora, which is more international and whose stores are big draws for Gen Z consumers.\n\n“Times Square is a bit different. It’s a global stage. It is an opportunity as we are expanding,”  Ulta Beauty’s chief retail officer Amiee Bayer-Thomas told Fortune during a panel at the CommerceNext conference in New York last month, noting that Ulta, long solely a U.S. retailer, has expanded abroad to Mexico and the Middle East. “This flagship location is going to show the next evolution of Ulta Beauty and the next evolution of what experiential retail looks like in the beauty space.”\n\nThe flagship “needs to be like Willy Wonka’s Candy Land but for makeup,” says Stacey Widlitz, president of SW Retail Advisors. Space NK’s lavish London flagship, opened in Oxford Circus last summer, has set the bar high for the in-person beauty retail experience, with its abundance of product activations and classes and a fun atmosphere, she says. Done well, an Ulta Beauty flagship can make the company “an authoritative” voice on cutting edge brands and capture more of the higher end of the market, a key to its long-term growth, Widlitz says. “They need to up their game. Let’s be real: they are in strip malls, and they’re not Sephora.”\n\nBayer-Thomas says that the flagship will ultimately serve as a testing ground for new products and marketing efforts and serve as an advertising vehicle for the rest of Ulta.\n\n“There are so many places you can go and buy product now. So the stores have to be a differentiated space for the guest to come in and do something other than just transact,” she says. “We think about the flagship, it is about relationship building and loyalty.”\n\nThose principles are essential for any flagship to work—and it must stand out within a retailer’s portfolio. “I’ve seen plenty of flagships that are just really oversized stores in a really cool location. It can’t just be, ‘Oh, here’s every brand we carry,’ or ‘It’s on the Champs Elysées.’ That’s not inherently interesting. It’s really just a billboard,” says Steve Dennis, a former Neiman Marcus executive and president of SageBerry Consulting.\n\nIn the last few years, many brands, including Abercrombie & Fitch, The Gap, and Victoria’s Secret. closed down some of their flagship stores, finding them to be a financial drain while offering shoppers little more than they could find elsewhere. A&F’s CEO Fran Horowitz said in 2024, “Our customer has told us time and time again that that’s not how they’re shopping with us. Our stores are smaller. They’re more efficient.” In recent years, the company has closed flagships in New York, Milan, and Copenhagen.\n\nFlagships are expensive to lease and operate, so it is essential that they draw shoppers who will splurge. American Eagle and Aerie’s flagship in New York’s Soho district, for instance, goes well beyond stacks of jeans and hoodies; it features a rotating art installation and photo booths that pull in young shoppers. The Levi’s flagship in Manhattan showcases its premium products and sells only-in-New-York merchandise.\n\nUlta is betting its flagship will ultimately pay for itself by creating a so-called halo effect for the entire chain by raising brand awareness. “Stores are queen,” says Bayer-Thomas. “Stores continue to be the place where beauty comes to life.”",
-      "summary": null,
-      "retrieved_at": "2026-07-11T07:52:17.710757+00:00"
-    },
-    "https://timesofindia.indiatimes.com/world/middle-east/new-satellite-images-reveal-iran-may-be-rebuilding-nuclear-facilities-report/articleshow/132325829.cms": {
-      "source": "Times of India",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/new-satellite-images-reveal-iran-may-be-rebuilding-nuclear-facilities-report/articleshow/132325829.cms",
-      "title": "New satellite images reveal Iran may be rebuilding nuclear facilities: Report",
-      "date": "Sat, 11 Jul 2026 13:05:56 +0530",
-      "author": "TOI WORLD DESK",
-      "text": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.\nRead More\n\n1929 Ford Model A Pickup\n\nGATEWAY C. | sellwild.com\n\nVANS Sentry Old Skool Waffle Cup *New*\n\nJEANETTE S. | sellwild.com",
-      "summary": null,
-      "retrieved_at": "2026-07-11T07:53:39.673321+00:00"
-=======
       "retrieved_at": "2026-07-11T08:08:32.258529+00:00"
     },
     "https://timesofindia.indiatimes.com/real-estate/news/how-to-fund-home-renovation-construction-or-emergencies-with-a-home-loan-or-top-up-loan/articleshow/132310117.cms": {
@@ -37029,19 +36341,11 @@
       "text": "Teenage extreme sports enthusiast from Shanghai received a flat from parents who divorced and remarried\n\nA 19-year-old Chinese student recently made a will bequeathing his personal wealth of 20 million yuan (US$2.9 million) to his childhood friend, sparking heated discussion online.\n\nThe teenager from Shanghai, surnamed Li, recently set up a notarised will to bequeath the property under his name, including a flat and savings of millions of yuan, to his childhood friend.\n\nLi claimed that his parents had divorced and remarried, and gave him the property he now owned.\n\nThey did not spend much time with him, and so Li felt distant to them.\n\nLi said he was an extreme sports enthusiast and he often put his life at risk.\n\nIf anything were to happen to him, he did not want his parents’ spouses, whom he saw as merely strangers, to inherit his property.\n\nHe would rather name his childhood friend, whom he trusts and grew up with, as his successor.\n\nAccording to China’s Law of Succession, a person’s spouse, children and parents are first in line in the right to inheritance.\n\nThis means that if Li’s parents inherited his property, their spouses would also enjoy the right to use or inherit it in the future.\n\nThe law also allows a person to make a will to donate their personal property to the state or a collective, or bequeath it to people other than statutory successors.\n\nLi went to the China Will Registration Centre’s office in Shanghai to notarise his will.\n\nAccording to office manager Huang Haibo, Li’s childhood friend needs to legally accept the will within 60 days, otherwise they would be seen as forfeiting the right to inherit.\n\nThe China Will Registration Centre is a non-profit public welfare project launched in 2013 by the China Ageing Development Foundation.\n\nAccording to the centre’s recently published annual report, over 400,000 wills have been registered with them.\n\nThey noted an increasing acceptance of making wills among the public. The average age of testators had come down from 77 to 67.\n\nHuang also noted a rising trend among youths to set up wills. “An increasing number of people born in the 1980s, 90s and after 2000 have set up wills with us. Making wills is no longer a taboo, or just for the elderly.”\n\nA notary from eastern China’s Zhejiang province, surnamed Chen, told Ningbo Evening News that young Chinese people typically set up wills when they got married, to secure any real estate bought or inherited before the marriage.\n\nAnother common scenario was single and childless people making wills to bequeath their property.\n\nLi’s choice sparked heated debate online.\n\nOne said: “He felt distant to his parents but they still gave him 20 million yuan. I don’t see any problems in his parents inheriting his property.”\n\n“Maybe he’ll change his mind in the future. He is still too young to make such a big decision,” said another.\n\n“I wish I had a friend like this,” said a third.",
       "summary": "Teenager from Shanghai received a flat from parents who divorced and remarried. He recently set up a notarised will to bequeath the property under his name. He claimed his parents had divorced and gave him the property he now owned. He said he was an extreme sports enthusiast and he often put his life at",
       "retrieved_at": "2026-07-11T08:09:16.064191+00:00"
->>>>>>> Stashed changes
     },
     "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf": {
       "source": "DW All",
       "link": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf",
       "title": "Berlin hostage crisis: Woman freed after hourslong standoff",
-<<<<<<< Updated upstream
-      "date": "2026-07-11T01:45:00Z",
-      "author": "",
-      "text": "A man took a woman hostage in a supermarket, prompting a long police operation to free the victim. The man reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.\n\nA man took a woman hostage at a supermarket in the German capital, Berlin, triggering a major police operation, officials said Saturday.\n\nPolice had said they had made contact with the man inside the Rewe supermarket, in the Marienfelde district on the southern outskirts of Berlin. The man was later overwhelmed by police and the hostage was freed.\n\nPolice had said the operation began at about 10 p.m. on Friday and that a motive was not immediately clear.\n\nPolice also had not commented on reports that a manager at the supermarket had seen a weapon, or whether the woman or the hostage-taker had sustained any injuries.\n\nA 22-year-old male employee of the Rewe supermarket told dpa that a man brandished a \"very big\" knife shortly before the market closed on Friday evening. The male employee ran out of the supermarket with a colleague and contacted the police.\n\nThe employee said the female hostage also worked at the supermarket, and \"was simply in the wrong place at the wrong time.\"\n\nPolice did not confirm the man's statement-\n\nFootage posted to social media showed armed police officers in protective gear at the entrance to the supermarket.\n\nOnlookers gathered nearby, and several police and emergency vehicles were visible on the street, which has been cordoned off.\n\nOne of the videos shows a police officer climbing a ladder leaning against the building's wall and looking inside the supermarket.\n\nEdited by: Karl Sexton\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
-      "summary": null,
-      "retrieved_at": "2026-07-11T07:54:17.951510+00:00"
-=======
       "date": "2026-07-11T07:54:00Z",
       "author": "",
       "text": "A man took a woman hostage in a supermarket, prompting an hourslong police operation to free the victim. The man reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.\n\nA man took a woman hostage at a supermarket in the German capital, Berlin, triggering a major police operation, officials said Saturday.\n\nPolice had said they had made contact with the man inside the Rewe supermarket, in the Marienfelde district on the southern outskirts of Berlin. The suspect was later overwhelmed by police and the hostage was freed.\n\nPolice had said the operation began at about 10 p.m. on Friday and that a motive was not immediately clear.\n\nPolice also had not commented on reports that a manager at the supermarket had seen a weapon, or whether the woman or the hostage-taker had sustained any injuries.\n\nA 22-year-old male employee of the Rewe supermarket told dpa that a man brandished a \"very big\" knife shortly before the market closed on Friday evening. The male employee ran out of the supermarket with a colleague and contacted the police.\n\nThe employee said the female hostage also worked at the supermarket, and \"was simply in the wrong place at the wrong time.\"\n\nPolice did not confirm the man's statement.\n\nFootage posted to social media showed armed police officers in protective gear at the entrance to the supermarket.\n\nOnlookers gathered nearby, and several police and emergency vehicles were visible on the street, which had been cordoned off.\n\nOne of the videos shows a police officer climbing a ladder leaning against the building's wall and looking inside the supermarket.\n\nEdited by: Karl Sexton\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
@@ -37057,7 +36361,116 @@
       "text": "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, police have ended a hostage drama at a Berlin supermarket. DW has more\n\nDW brings you the top stories from and about Germany on Saturday, July 11, 2026:\n\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google. Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed.\n\nAn hours-long police operation is underway in Berlin, where a man has taken a woman hostage in a supermarket. The man reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.\n\nGet the latest on the hostage situation in Berlin in our report.\n\nSeveral representatives from business, trade unions and politics say Germany should push back its goal of reaching climate neutrality by five years, media reported on Saturday.\n\nThe Sunday edition of the Welt newspaper cited the CEO of energy giant RWE, Markus Krebber, as saying that postponing the 2045 goal to align with the EU's target date of 2050 could decrease the pressure on German industry.\n\nKrebbers told the paper that Germany's current aim of becoming climate-neutral five years earlier than the bloc made it more expensive to do business in, without any benefit to the climate.\n\nMichael Vassiliadis, head of the Mining, Chemical and Energy Industrial Union (IGBCE), told the Welt that the target should be pushed back to give industry more time to reduce its CO2 emissions and thus retain its competitiveness.\n\nGitta Connemann, who heads the small and mid-sized business group (SME) of Chancellor Friedrich Merz's Christian Democrats (CDU), also spoke out in favor of a \"more realistic\" timetable.\n\n\"We want less CO2, not less industry, so emissions trading must fit reality,\" she said.\n\nTheir remarks echo those made earlier this year by Merz, who said climate-protection measures must not put undue pressure on the economy.\n\nTemperatures in Germany are set to rise steadily over the weekend to reach a possible high of 38 degrees Celsius (100.4 F) early next week in the southwest of the country, according to the German Weather Service (DWD).\n\nOn Saturday, the mercury is already forecast to climb to 35 C in the country's south and west, while northern and eastern regions will remain slightly cooler, at around 30 C.\n\nThe weather is forecast to cool down again toward the end of next week.\n\nThe heat wave, the third of the summer, is not expected to bring the record temperatures of more than 41 C measured in some regions at the end of June, and less humidity this time round will make the heat more bearable.\n\nAccording to the public health agency, the Robert Koch Institute, at least 5,100 people died of causes related to the hot weather last month.\n\nDespite the lower temperatures, the Federal Institute of Public Health (BIÖG) has still issued warnings, saying that rooms should be kept as cool as possible and that physical activities should be confined to morning and evening hours.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nGuten Tag from the DW newsroom in Bonn, where the air conditioners will be going full blast as another heat dome settles over Germany.\n\nAlthough temperatures are not forecast to rise to the record levels seen at the end of last month, experts say the hot weather will significantly increase the risk of wildfires and pose a grave danger to people's health.\n\nBut despite the unprecedented heat events in Europe, driven partly by human-induced climate change, business leaders and politicians are calling for Germany to delay its goal of becoming carbon neutral to maintain industrial competitiveness.\n\nIn political news, the far-right Alternative for Germany party is to outline its initial planned actions if it succeeds in taking power in the eastern state of Saxony-Anhalt in September elections.\n\nThe party is being monitored by Germany's domestic intelligence agency for alleged right-wing extremist tendencies, with many fearing that it could pose a danger to democracy in the country.\n\nAnd police in Berlin have been dealing with a dramatic hostage-taking at a supermarket.\n\nRead on to find out more about the latest events in and concerning Germany.",
       "summary": "Germany is in for another scorching week, though no records are likely to be broken this time. Temperatures in Germany are set to rise steadily over the weekend to reach a possible high of 38 degrees Celsius (100.4 F) Temperatures are set for a record high of 35 C in the country's south and west",
       "retrieved_at": "2026-07-11T08:09:26.000397+00:00"
->>>>>>> Stashed changes
+    },
+    "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france": {
+      "source": "Guardian World",
+      "link": "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france",
+      "title": "‘Politicians have always been schemers’: upheld conviction fails to dent Le Pen’s popularity",
+      "date": "Sat, 11 Jul 2026 08:00:43 GMT",
+      "author": "Angelique Chrisafis in Montargis",
+      "text": "Presidential bid by leader of far-right National Rally has no shortage of supporters in scenic Montargis\n\nIn the small French town of Montargis, Jean-Antoine, a retired decorator, was pleased Marine Le Pen had again shaken up French politics by launching a bid for the presidency, despite her legal woes.\n\n“Even the judges said she didn’t personally profit from the money, it was for her party,” he said of Le Pen’s newly upheld conviction for embezzlement. “All politicians in France have always been schemers, it’s just a fact of life.”\n\nJean-Antoine, 76, who once painted luxury fashion stores, felt voters for the figurehead of France’s far-right, anti-immigration party National Rally (RN) wouldn’t care about this week’s appeal court decision over Le Pen’s misuse of European parliament funds.\n\nJean-Antoine’s late father fled to France from Spain during its civil war in the 1930s and became part of the French resistance standing up to occupation by Hitler’s Germany. “But now immigration has to stop,” he said.\n\nLe Pen’s conviction last year had meant she was barred from running for office until the 2030s, but that restriction was shortened by appeal judges this week. This allowed her to declare a phoenix-like return to the presidential race, which will be voted on next year.\n\nThe court’s decision came despite its ruling that she was guilty of playing a key part in siphoning off of more than €2.8m through a fake-jobs scam of unprecedented scale and duration, and funnelling it to her cash-strapped party between 2004 and 2016.\n\nJudges ordered her to wear an electronic ankle tag for one year with a curfew at her home, but she has vowed to lodge an appeal with France’s highest court, which will effectively put her conviction and sentence on hold while she campaigns ahead of the presidential vote. Snap polling this week showed her popularity is high and she is in a strong position for the two-round vote next April and May. She previously lost to Emmanuel Macron in 2017 and 2022.\n\nMontargis, 75 miles south of Paris, is known for its scenic canals and its pralines. It is one of many towns that elected rightwing mayors in local elections earlier this year, when RN and its allies more than tripled the number of town halls under their control.\n\n“When they won here, I went to the town hall and I said: ‘I don’t know if you can do any better than the last lot but you can’t do any worse,’” said Jean-Antoine. “And that’s what I’d say to Marine Le Pen. People want change.”\n\nAnother local person, an antiques dealer in his 60s who did not want to be named, said: “People will still vote for Le Pen because there’s massive pressure for change. Immigration, benefits, the healthcare system – none of that is working properly and people have had enough. Le Pen’s legal case feels unfair – a leftwing politician wouldn’t have been treated the way Le Pen was by the justice system.”\n\nMontargis played its part in the gilets jaunes anti-government protests of 2018 and 2019, with its new RN mayor, Côme Dunis, now 36, as an active participant. In 2023, there was unrest in the town and damage to shops and businesses when rioting spread across France after Paris police shot and killed Nahel Merzouk, a 17-year-old boy of Algerian and Moroccan descent, when he failed to comply with an order to stop his car.\n\nRN’s election gain in Montargis, where it took votes from the traditional right, was viewed as a reflection of Marine Le Pen’s 15-year attempt to detoxify the party’s image – changing its name while keeping its hardline anti-immigration policy. Co-founded in 1972 as the Front National by Marine Le Pen’s father, Jean-Marie Le Pen, it has long been seen by its critics as a danger to democracy and as a promoter of racist, antisemitic and anti-Muslim views.\n\nSign up to This is Europe\n\nThe most pressing stories and debates for Europeans – from identity to economics to the environment\n\nafter newsletter promotion\n\nGisèle, 84, a recently retired girls’ gymnastics coach and competition judge from the area, said the fear of crime and drug-dealing was increasing. She was glad Le Pen was running, but felt the embezzlement conviction could hinder her. “I think this could put a brake on her,” she said.\n\nLe Pen’s decision to stand for president means that her party’s president, Jordan Bardella, will not now run in her place. The 30-year-old had been broadening RN’s voter base by appealing to more bourgeois, higher-income voters from the traditional right.\n\n“I’m disappointed Jordan Bardella isn’t running for president,” said Christiane, a chiropodist. “Bardella is young, he’s close to the people, he had a chance. I like Marine Le Pen, but is France really going to elect a president with a conviction?”\n\nCéline, a pharmacist and centrist voter, said: “I don’t think it’s right to run for French president if you have been convicted.”\n\nSelma, 48, a mother-of-three whose Tunisian grandfather was decorated for fighting for France in second world war, said she feared Le Pen’s growing presence in the campaign was polarising people.\n\n“I’m worried about deep divisions in society,” she said. “Racism is becoming more brazen. The other day I was verbally assaulted in a car park. A woman who wanted my parking spot humiliated me in a racist way, saying she was more French than I was. We’re all human and we don’t choose our skin colour or our origins.”",
+      "summary": " Marine Le Pen's appeal court decision was upheld this week for embezzlement. She was convicted of siphoning off more than €2.8m through a fake-jobs scam. She has vowed to lodge an appeal with France’s highest court, which will effectively put her conviction and sentence on hold.",
+      "retrieved_at": "2026-07-11T08:21:41.080212+00:00"
+    },
+    "https://www.theguardian.com/environment/2026/jul/11/rats-famine-bamboo-mizoram-india-aoe": {
+      "source": "Guardian Environment",
+      "link": "https://www.theguardian.com/environment/2026/jul/11/rats-famine-bamboo-mizoram-india-aoe",
+      "title": "A swarm of stink bugs and a river of rats: why India’s flowering bamboo causes a crisis for humans",
+      "date": "Sat, 11 Jul 2026 08:00:44 GMT",
+      "author": "Tauseef Ahmad and Sajid Raina in Mamit district, Mizoram",
+      "text": "Every few decades mass blooming in Mizoram’s forests causes a rodent boom – and devastation to crops. The cycle is well-known, so why aren’t farmers and authorities better prepared?\n\nI\nn the hills of Mizoram state in north-east India, the first thing that farmers notice are the swarms of stink bugs, known locally as thangnang. It can mean only one thing: the rats are coming. And with them, famine.\n\nAs dawn breaks in Mamit district, Maunsanga, a 62-year-old farmer, walks across his plot, stopping where his rice crop once stood. He bends down to examine a broken stalk.\n\n“I have been cultivating in this place for the last 40 years. Each year has had its own problems, but what I have noticed this year is that the damages are almost everywhere. No matter how alert we are even during night-time, there is nothing much that we can do about saving our crops,” he says.\n\nThe damage may be evident this morning, but it began months earlier, in late 2025, deep inside bamboo forests dominated by Melocanna baccifera and Bambusa tulda.\n\nEach of these species flowers en masse once every few decades, producing huge numbers of seeds. These flowering periods go by different names: Melocanna baccifera’s is known as mautam, while Bambusa tulda’s is thingtam.\n\nThere is usually a gap of 18 years between a mautam and a thingtam, and 30 years between a thingtam and the next mautam. Once it begins, the mass flowering phenomenon is not limited to a single season, but can unfold over years – and is heralded by the thangnang bugs.\n\n“The cycle usually happens every 48 to 50 years, depending on the bamboo species,” says Dr Lalthanzami, of the Forest Research Centre for Bamboo and Rattan.\n\n“The seeds become a major food source for rodents. Their breeding increases rapidly during this period and once the bamboo seeds are depleted, the rodents spread into nearby farms,” he says.\n\nScientists say the crisis may have consequences beyond crop losses. After flowering, large stretches of bamboo die naturally, leaving hillsides more exposed during heavy rainfall seasons.\n\n“Bamboo plays a major role in stabilising soil in these hill regions,” says Dr R Zoramthanga, of Pachhunga University College in Aizawl. “Once flowering is completed, the bamboo dries and dies. This increases the risk of soil erosion and slope instability, especially during monsoon months.”\n\nHe says heavy rodent feeding on bamboo seeds could also affect natural regeneration in some forest areas. Birds, insects and small mammals that depend on bamboo habitats are forced to adapt or move.\n\n“It is not just a farming issue,” Zoramthanga says. “It is an ecosystem shift.”\n\nIn villages such as Hriphaw, Mamte and parts of Lunglei district, farmers say they first noticed unusual rodent activity late last year as bamboo flowering intensified in nearby forests.\n\nLalduhsaki, a farmer from Hriphaw, says at first he thought it was ordinary pest damage, but after some weeks he realised it was different. “The rats kept increasing and they were moving in large numbers.”\n\nIn Lunglei district, another farmer, C Lalhriliana, says families have spent weeks guarding fields at night.\n\n“You hear movement in the grass before you see anything,” he says. “Sometimes there are so many that you cannot stop them. By morning, large sections of the fields are destroyed.”\n\nAccording to estimates from the state agriculture department, more than 5,300 farmers have been affected across Mizoram. Rice has suffered the highest losses, though maize, ginger, pumpkin and beans have also been damaged. For many villagers, the damage to their harvest is already changing daily life.\n\n“Earlier I could harvest 30 or 40 bags of rice,” Maunsanga says. “This year I got only three bags. It is not enough even for my own family.”\n\nIn Mamte, another farmer, Chungtea, says he tried changing planting schedules after hearing warnings from neighbouring villages.\n\n“I planted early thinking we could avoid the worst period,” he says. “But the rats arrived before harvest. We lost almost everything.”\n\nPeople in several districts say the effects are visible in local markets and ration shops, where subsidised grains are distributed by the government.\n\n“We used to store food for months after harvest,” says Lalbiakzuali, from Aizawl district. “Now many families buy rice every week because they do not have enough stored grain.”\n\nAt some ration shops, queues have become longer in recent months as villagers increasingly depend on subsidised supplies.\n\nThe state government has started rodent control operations in affected areas, with agriculture department teams distributing chemicals including zinc phosphide and bromadiolone, alongside awareness campaigns on their use.\n\n“We are trying to control the rodent population quickly before further crop losses happen,” says Hmangaihchhunga, a district agricultural officer in Lunglei. “Field teams are visiting villages regularly and monitoring affected areas.”\n\nHe says the government has started assessing crop losses for compensation and seed assistance programmes. Officials are also trying to reassure farmers that the rodenticides are safe, though concerns remain. In Hriphaw, a village council member, Vanlalruata, says some people refuse to use the chemicals because they fear contamination.\n\n“Our water sources are very close to the fields,” he says. “People are worried that poison could enter streams used for drinking water and fishing.”\n\nInstead, many communities have returned to traditional control methods. Bamboo traps known as vaithang and chepthang are now common along field edges and footpaths.\n\nFarmers spend nights checking traps, carrying torches and trying to keep rodents away from crops. “We catch many rats every night,” Lalhriliana says. “Sometimes dozens. But the numbers are still very high.”\n\nThe thingtam cycle has been documented in Mizoram for generations. Records show similar rodent outbreaks linked to bamboo flowering, including during the 1958-60 famine, which had a lasting political and social impact on the region.\n\nProf Lalrinmawia, a historian at Mizoram University, says communities have long understood the pattern. “People know bamboo flowering can lead to rodent outbreaks,” he says. “But long-term planning and preparedness have remained inconsistent. Many times the response begins only after the damage has already started.”\n\nResearchers say there is limited evidence on whether climate variability is affecting the intensity of ecological impacts linked to bamboo flowering. “The flowering itself is a natural biological cycle,” says Lalthanzami of the Forest Research Centre. “But changing rainfall patterns and environmental stress may influence how ecosystems respond.”\n\nThere have been calls for monitoring of the flowering of the bamboo, better storage facilities for grains, and alternative cropping systems. “We need preparation, instead of an emergency response every few decades,” Lalthanzami says.\n\nFor farmers, however, the immediate concern is surviving the coming months. “We need seeds for the next season,” Chungtea says. “People also need food support now.”\n\nIn Mamit district, as evening approaches, Maunsanga walks back from his damaged field carrying an empty sack.\n\n“We know this will happen again,” he says. “But knowing is not enough. Each time, we start from the same place.”\n\nFind more age of extinction coverage here, and follow the biodiversity reporters Rebecca Ratcliffe, Phoebe Weston and Patrick Greenfield in the Guardian app for more nature coverage",
+      "summary": " The thingtam cycle has been documented in Mizoram for generations. The 1958-60 famine had a lasting political and social impact on the region.",
+      "retrieved_at": "2026-07-11T08:21:46.207124+00:00"
+    },
+    "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+      "date": "Sat, 11 Jul 2026 08:04:57 +0000",
+      "author": "Heba Habib",
+      "text": "United States President Donald Trump has threatened Iran after the funeral of slain Supreme Leader Ayatollah Ali Khamenei saw open calls for Trump’s killing and Israel warned him that the regime in Tehran was working on a plan to assassinate him.\n\nIn a typically bellicose post on his Truth Social platform on Saturday, Trump wrote: “1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Government act on its threat, pronounced in many corners of the Globe, to assassinate, or attempt to assassinate, the sitting President of the United States of America, in this case, ME!”\n\nHe added: “Orders have already been given, and the U.S. Military is ready, willing, and able, ⁠for a one year period of time, subject to extension, to completely decimate and destroy all areas of Iran – PRAISE BE TO ALLAH!”\n\nIsrael warned the US earlier in the week about a new and specific Iranian plot to assassinate Trump, US media reported.\n\nSources told CNN that the new Israeli intelligence detailed a highly specific, active plot. The Wall Street Journal also confirmed the threat was “fresh”.\n\nTehran has pledged revenge against Trump since 2020, when he ordered the drone attack that killed top Iranian general Qassem Soleimani.\n\nThe threat reportedly prompted the US Secret Service to request that Trump switch planes when leaving the NATO summit in Turkiye earlier in the week.\n\nBut despite his fiery rhetoric, and his insistence that the provisional ceasefire with Tehran has been over since Iranian attacks on Qatari and Saudi tankers near the Strait of Hormuz on Wednesday led to US air strikes on Iran for two nights and retaliatory Iranian missile and drone attacks on US-linked military facilities in the region, Trump said talks on finalising a peace deal were continuing.\n\n“The Islamic Republic of Iran has asked us to continue ‘talks.’ We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!” Trump wrote.\n\nIn response to the mounting pressure from Washington, Iran’s lead negotiator and parliament speaker, Mohammad Bagher Ghalibaf, stated that Tehran would never surrender to the US. He emphasised that Iran remains fully prepared to defend itself if Washington backs out of the Pakistani-brokered memorandum of understanding.\n\n“We have never stopped preparing to defend our country, and if at any moment the Americans betray the understanding, we are ready for full-scale defence,” Ghalibaf said. “Ending the war is a priority for the countries of the world, but everyone should know that this conflict will never end with Iran’s surrender.”\n\nDespite the exchange of ultimatums and a wave of US air attacks on five Iranian provinces, high-stakes diplomatic talks are continuing behind the scenes. Qatari mediators have travelled to Tehran.\n\nTasnim news agency reported that Foreign Minister Abbas Araghchi is in the Omani capital, Muscat, for talks regarding security in the strategic Strait of Hormuz.\n\nPakistan’s Prime Minister Shehbaz Sharif held a phone call with Iranian President Masoud Pezeshkian to express “deep concern” over the recent escalation. Sharif urged both Iran and the US to exercise restraint.\n\n“There is a flurry of diplomatic activity to rescue the stalled talks following the latest round of de-escalation,” said Al Jazeera correspondent Mahmoud Abdelwahed, reporting from Tehran.\n\n“However, Iranian officials remain highly sceptical of American intentions, especially after the latest US strikes and President Trump’s statements.”\n\nAl Jazeera correspondent Kimberly Halkett, reporting from Washington, DC, said “the United States insists that for there to be a deal, Iran must agree to nuclear limits and deliver its nuclear material. Senior US officials say conversations have been productive, but they have issued an ultimatum following recent Iranian targeting of commercial vessels.”",
+      "summary": " Trump wrote on Saturday that Iran is working on a plan to assassinate him. Israel warned the US earlier in the week about a new and specific Iranian plot to assassinate Trump. Iran has pledged revenge against Trump since 2020, when he ordered the drone attack that killed top Iranian general Qassem Soleimani.",
+      "retrieved_at": "2026-07-11T08:21:51.108022+00:00"
+    },
+    "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss",
+      "title": "Wembanyama signs contract with Spurs for five years, $252m: Report",
+      "date": "Sat, 11 Jul 2026 07:51:49 +0000",
+      "author": "",
+      "text": "Hours after he told Spurs fans he was “here to stay”, Victor ⁠Wembanyama signed a ⁠multiyear contract extension with San Antonio that ESPN reported is for five years and $252m.\n\nThe deal, ⁠which is worth $50.4m per year, is the National Basketball Association’s (NBA) maximum rookie-scale extension and carries a player option ⁠for the fifth season.\n\n“Spurs family, I’m here to stay,” Wembanyama tweeted Friday. “Whatever it takes.”\n\nThe Spurs, who did not confirm financial details, published photos and videos of Wembanyama inking his ‌contract.\n\nWembanyama has been viewed as one of the elite young players in the sport going back before the Spurs selected him No 1 overall in the 2023 NBA Draft.\n\nThe 7ft4in (2.24-metre) centre with an 8-ft (2.44-metre) wingspan has averaged 23.4 points, 11 rebounds, 3.5 assists ⁠and 3.5 blocks per game through ⁠three NBA seasons.\n\nThe Defensive Player of the Year and a first-time All-NBA first-team selection, Wembanyama finished third in Most Valuable Player (MVP) balloting this season ⁠after putting up career highs of 25.0 points and 11.5 rebounds per game.\n\nHe ⁠is a career 34.2% 3-point shooter ⁠who has made 2.2 triples per game, and he’s led the league in blocks in every season since his arrival.\n\nThe Spurs fell to ‌the New York Knicks in five games last month in Wembanyama’s first NBA Finals.\n\nThe current pieces around ‌him ‌include guards De’Aaron Fox, Stephon Castle, Devin Vassell and Dylan Harper, and the Spurs recently signed veteran forward Tobias Harris.",
+      "summary": " Victor Wembanyama signs a five-year contract extension with San Antonio. The deal is worth $50.4m per year and carries a player option for the fifth season. WembANYama has been viewed as one of the elite young players in the sport going back before the Spurs selected him No 1 overall in the",
+      "retrieved_at": "2026-07-11T08:21:56.497228+00:00"
+    },
+    "https://www.aljazeera.com/sports/2026/7/11/fifa-world-cup-quarterfinals?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/fifa-world-cup-quarterfinals?traffic_source=rss",
+      "title": "World Cup quarterfinals today: Schedule, predictions, Haaland’s viral rise",
+      "date": "Sat, 11 Jul 2026 07:37:46 +0000",
+      "author": "Elizabeth Melimopoulos",
+      "text": "The final two places in the 2026 FIFA World Cup semifinals are up for grabs on Saturday as England face Norway before defending champions Argentina take on Switzerland.\n\nFrance and Spain have already booked their places in the last four, leaving four teams battling to complete the semifinal lineup. England and Argentina head into their quarterfinals as favourites according to the Opta supercomputer, but both Norway and Switzerland will look to pull off another upset.\n\nHere’s everything you need to know.\n\nEngland and Norway meet in the World Cup for the first time, although they have faced each other 12 times overall. England hold the upper hand with eight wins to Norway’s two, and the Scandinavians have failed to score in any of the last four meetings. Their most recent encounter ended in a 1-0 friendly victory for England in September 2014.\n\nThe Opta supercomputer makes England the favourites to reach the semifinals, giving the Three Lions a 50.4 percent chance of winning the match inside 90 minutes based on 25,000 pre-match simulations. England’s overall probability of progressing, including extra time and penalties, rises to 62.3 percent.\n\nNorway are given a 25.1 percent chance of winning in normal time, while a draw after 90 minutes occurred in 24.6 percent of the simulations.\n\nHistory strongly favours Argentina heading into this quarterfinal. The defending champions are unbeaten in seven previous meetings with Switzerland, winning five and drawing two.\n\nOpta makes Argentina favourites to book a place in the semifinals. Based on 25,000 pre-match simulations, the supercomputer gives Lionel Messi’s side a 57.1 percent chance of winning inside 90 minutes.\n\nSwitzerland are assigned an 18.7 percent probability of winning in normal time, while 24.2 percent of simulations end in a draw after 90 minutes. Overall, Argentina progress to the semifinals in 69.4 percent of simulations, leaving Switzerland with a 30.6 percent chance of advancing to face either England or Norway.\n\nFans are embracing the historical “Vikings battle” narrative for the England vs Norway match.\n\nPortugal have turned to veteran coach Jorge Jesus in a bid to revive the national team after its disappointing World Cup campaign.\n\nThe Portuguese Football Federation confirmed on Friday that the 71-year-old will succeed Roberto Martinez, whose departure was announced earlier this week following Portugal’s 1-0 round-of-16 defeat to Spain.\n\nJesus returns to international football after a long club career that included spells with Benfica, Sporting CP and, most recently, Saudi Pro League side Al-Nassr, where he worked with Cristiano Ronaldo.\n\nHis appointment comes amid growing scrutiny over Portugal’s World Cup performances and Martinez’s continued reliance on the 41-year-old Ronaldo, whose role as the focal point of the attack drew criticism from fans and pundits.\n\nAlthough Ronaldo said the 2026 World Cup would be his last, he has not announced whether he intends to continue playing for Portugal. Jesus, who described the five-time Ballon d’Or winner as “a symbol” of Portuguese sport, said he plans to speak with Ronaldo before any decisions are made about his international future.\n\nHaaland has unexpectedly become an honorary Mexican on social media after embracing fans still reeling from Mexico’s World Cup exit at the hands of England.\n\nThe Norway striker has leaned into the jokes, responding to posts from Mexican supporters who have adopted Norway as their team for the quarterfinal. After one viral video paired footage of Haaland performing the traditional Viking clap with banda music, he replied from his official account: “I hear you 🇲🇽🌮.”\n\nThe online love affair grew even stronger when another fan urged him to eliminate England on Mexico’s behalf. Haaland responded with a phrase that has become a rallying cry among Mexican supporters during this World Cup: “Y si si? 🇲🇽😉” (“What if I do?”).\n\nMorocco’s World Cup journey ended in the quarterfinals with a 2-0 defeat to France, falling short of repeating the historic semifinal run that captured global attention four years ago.\n\nThe Atlas Lions were once again stopped by Les Bleus, but their campaign still marked another milestone. Morocco became the first African nation to reach consecutive World Cup quarterfinals, having knocked out the Netherlands before eventually bowing out in Boston.\n\nAttention now turns to 2030, when Morocco will cohost the World Cup alongside Portugal and Spain and will qualify automatically as hosts.\n\n“We have a young team that wants to improve and will continue to do so,” Ouahbi said after the defeat. “We have talented players who will help us keep growing.”\n\nHarry Kane played down comparisons with Haaland on the eve of England’s World Cup quarterfinal against Norway, insisting the two strikers are too different to judge against one another.\n\nThe meeting also carries extra significance in the race for the Golden Boot. Haaland has scored seven goals at the tournament, one more than Kane, with both chasing leaders Lionel Messi and Kylian Mbappe, who have eight each.\n\nAsked who was the better striker, Kane declined to give a direct answer.\n\n“We’re completely different players,” the England captain said. “We’re both number nines, but we play in different ways. I like to get on the ball more, while still being able to play as an out-and-out striker.”\n\nInstead, Kane praised Haaland’s remarkable goalscoring ability.\n\n“Physically, he’s a machine, a beast. His finishing is at the highest level and his goalscoring record speaks for itself,” Kane said. “I have a lot of respect for him, although hopefully he has a quiet day tomorrow.”\n\nFrance may be just two matches away from another World Cup title, but captain Kylian Mbappe believes comparisons with the country’s greatest teams are premature.\n\nLes Bleus booked their place in the semifinals with a composed 2-0 victory over Morocco, continuing an impressive tournament in which Mbappe and Ousmane Dembele have combined for 13 goals. Yet the France captain insisted this generation still has to earn its place in history.\n\n“I won the World Cup in 2018 and finished runner-up in 2022, but this team hasn’t achieved anything yet,” Mbappe said. “It probably has the greatest potential because there is so much quality in the squad, but potential alone doesn’t make you the strongest team.”\n\nOne of the World Cup’s most unexpected storylines has little to do with tactics or trophies.\n\nWhen England’s Jude Bellingham and Norway’s Erling Haaland meet in Saturday’s quarterfinal, fans will be watching more than just two of football’s brightest stars. Their friendship, forged during their time together at Borussia Dortmund, has become one of the tournament’s most talked-about off-field narratives.\n\nOld videos of the pair joking, hugging and celebrating together have resurfaced across social media, delighting fans and offering a rare glimpse of genuine friendship between two players now preparing to stand on opposite sides of one of the World Cup’s biggest matches.",
+      "summary": " England and Switzerland are favourites to reach semifinals. Defending champions England and France are favourites for semifinals. France and Spain have already booked their places in the last four.",
+      "retrieved_at": "2026-07-11T08:22:01.676738+00:00"
+    },
+    "https://phys.org/news/2026-07-drought-threatens-irrigation-northern-italy.html": {
+      "source": "Phys.org",
+      "link": "https://phys.org/news/2026-07-drought-threatens-irrigation-northern-italy.html",
+      "title": "Drought threatens irrigation in northern Italy",
+      "date": "Sat, 11 Jul 2026 04:20:01 EDT",
+      "author": "",
+      "text": "We’re checking your connection to prevent automated abuse",
+      "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
+      "retrieved_at": "2026-07-11T08:25:07.612404+00:00"
+    },
+    "https://fortune.com/2026/07/11/erling-haaland-taylor-swift-travis-scott-fans-buy-items/": {
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/11/erling-haaland-taylor-swift-travis-scott-fans-buy-items/",
+      "title": "A $5 hair tie, a sold-out dress, cake and a fast-food order: How fans chase closeness to Erling Haaland, Taylor Swift and other celebrities",
+      "date": "Sat, 11 Jul 2026 08:00:00 +0000",
+      "author": "Mia Osmonbekov",
+      "text": "Brands paid Norwegian soccer star Erling Haaland to rep Nike cleats, Beats headphones and an iconic Chinese herbal tea. But it was his favorite hair tie pinning his long blond hair into his signature man bun that stirred a different kind of consumer frenzy: fans reaching for a functional, affordable item that felt like a direct link to the star himself.\n\nWorld Cup watchers first noticed Haaland matched his Norwegian-made KKNEKKI elastics to the colors of Norway’s national kits – red with the team’s home look, black with the away shirt, and a red-white-blue KKNEKKI bundle for fans who want to wear the national colors. Haaland’s limited edition collection sold out.\n\nKKNEKKI parent company Bon Dep’s marketing director Hedda Engelhardt Davidsen told Fortune that the company saw a “significant increase” in web traffic, retailer inquiries and consumer demand after Haaland wore the hair ties publicly, though the company declined to provide specific numbers.\n\nThat dynamic is increasingly valuable because most fans can’t afford big-ticket items that their favorite celebrities wear and use. However, fans can buy Haaland’s hair elastic, Taylor Swift’s casual dress, Roger Federer’s shoes, Travis Scott’s meal order or any other trace of the person they admire.\n\nRather than being about the product itself, the purchases provide the feeling of authentic proximity.\n\n“When branded products are adorned by artists, athletes, or anyone that we totemize or hold to a high level, it imbues those branded products with even greater meaning,” Marcus Collins, a University of Michigan marketing professor who worked on McDonalds’ Travis Scott Meal and Budweiser’s Jay Z campaigns, told Fortune.\n\nTaylor Swift offers a clean example of the same phenomenon, even without releasing limited-edition collections like Haaland. After Swift appeared in her Travis Kelce engagement photos wearing a striped Polo Ralph Lauren dress, the item quickly sold out across retailers and is still not in stock on the website.\n\n“It was just a regular dress, but when Taylor Swift wore it, it is now imbued with more meaning based on what Taylor Swift means to you,” Collins said.\n\nBakeries and dessert shops have marketed Swift-themed cakes and other treats to fans, illustrating how celebrity meaning can spill into products that are several steps removed from the original image. Collins said that for people whose identities are more tightly tied to Swift, even “tertiary consumption things like a Taylor Swift-themed cake” can carry the same basic appeal.\n\nMegan Sesil, manager of the New York City-based Padoca Bakery, told Fortune that while the bakery didn’t cater Swift’s wedding, its “Mini Taylor Wedding Cakes” sold out alongside prior Swift-themed cakes and cookies for her The Tortured Poets Department and The Life of a Showgirl albums.\n\nThe bakery’s Super Bowl-themed “Just Here for Taylor” cakes sold out in the first hour it opened, with a line outside the door.\n\n“Every Taylor moment becomes an opportunity for our customers to gather, celebrate, exchange friendship bracelets and eat cake —and we’re honored to be a small part of that,” Sesil said over email.",
+      "summary": "Erling Haaland's hair tie was his favorite hair tie pinning his long blond hair into his signature man bun. Haal and's limited edition collection sold out. Taylor Swift's wedding cakes and cakes sold out alongside Swift-themed cakes and cookies.",
+      "retrieved_at": "2026-07-11T08:25:22.212246+00:00"
+    },
+    "https://fortune.com/2026/07/11/why-2026-ipo-boom-broaden-beyond-ai-mega-deals/": {
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/11/why-2026-ipo-boom-broaden-beyond-ai-mega-deals/",
+      "title": "Why the 2026 IPO boom is about to broaden beyond AI mega-deals",
+      "date": "Sat, 11 Jul 2026 08:00:00 +0000",
+      "author": "Sheryl Estrada",
+      "text": "After a first half of 2026 dominated by blockbuster AI, semiconductor, and space IPOs, the market is entering a new phase. Strategists say the back half is shaping up as a rebalancing: mid-cap and overlooked sectors are preparing to test investor appetite as money moves beyond a handful of crowded mega-cap AI and chip trades.\n\nSpaceX, which went public on June 12 on the Nasdaq Global Select Market under the ticker SPCX, has been the defining deal of the year. The Elon Musk-led company raised roughly $86 billion in its IPO, giving it a market value of nearly $1.8 trillion at listing and making it the largest IPO in financial market history. Excluding that offering, it still would have been the strongest U.S. IPO quarter since 2021, driven by billion-dollar listings in software, semiconductors, and fintech, according to Renaissance Capital.\n\nMomentum is now building. EY’s Global IPO Trends Q2 2026 report says U.S. IPO proceeds reached approximately $115.6 billion through the first half of 2026, a dramatic increase from the prior year, driven largely by a handful of mega-IPOs. The firm says that, if current pipelines convert and market conditions remain supportive, the second half of 2026 could rank among the strongest IPO periods on record, with investor interest spanning areas such as AI infrastructure and other strategic growth sectors.\n\n“Investor sentiment in the near term is likely to be shaped by the outcome of several anticipated mega IPOs, with capital and attention expected to concentrate around these transactions,” according to Rachel Gerring, EY Americas IPO leader. “In this environment, issuers should remain flexible around timing to successfully access the market.”\n\nAcross industrial markets, AI adoption is accelerating, defense spending is increasing, and private capital continues funding category-leading companies at high valuations. Those trends are creating favorable conditions for IPOs and restructurings, according to a June 25 J.P. Morgan note, which says investors are increasingly willing to back growth tied to automation, software, and smart manufacturing while favoring businesses with clearer earnings visibility and infrastructure-like cash flows.\n\nThat demand is not limited to domestic names. South Korean memory chip maker SK Hynix, a key Nvidia supplier, priced its American depositary receipts at $149 each on Thursday; they opened Friday at $170 on the Nasdaq. The company offered 177.9 million ADRs, raising about $26.5 billion in what would rank among the largest U.S. share sales by a foreign issuer.\n\nLate 2026 is also the target for marquee tech and AI IPOs such as Anthropic, which is reportedly eyeing a valuation of around $1 trillion after a recent funding round valued it at nearly $965 billion post-money.\n\nSeveral crypto and fintech firms, including Kraken, Blockchain.com, ConsenSys, and Dataiku, are also viewed as potential candidates. OpenAI has confidentially filed IPO paperwork with the SEC but has not set a listing date or final share price and is reportedly considering a 2027 debut.\n\nGeneral Atlantic’s recent note on the “2026 IPO comeback” highlights the second half as the period when discounts narrow toward normal, mid-cap and underrepresented sectors emerge, and investors redeploy gains from mega deals into less crowded areas.\n\nWith U.S. IPO proceeds already surging on the back of a few outsized offerings, the test for the rest of 2026 will be whether momentum broadens into a more balanced calendar led by advanced manufacturing, defense, energy, and AI infrastructure.",
+      "summary": " The back half of 2026 is shaping up as a rebalancing, analysts say. The second half of the year could rank among the strongest IPO periods on record. The first half of this year was dominated by blockbuster AI, semiconductors, and space IPOs.",
+      "retrieved_at": "2026-07-11T08:25:26.621989+00:00"
+    },
+    "https://www.france24.com/en/tv-shows/sports/20260711-world-cup-2022-spain-edge-belgium-set-up-semi-final-showdown-with-france": {
+      "source": "France 24",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260711-world-cup-2022-spain-edge-belgium-set-up-semi-final-showdown-with-france",
+      "title": "World Cup 2022: Spain edge Belgium, set up semi-final showdown with France",
+      "date": "Sat, 11 Jul 2026 08:11:45 GMT",
+      "author": "L'Equipe TV",
+      "text": "Elsewhere in sports, France received a major fitness boost ahead of that blockbuster clash, with Kylian Mbappé and Aurélien Tchouaméni both expected to be fully fit for the semi-final against Spain.\n\nSaturday brings the final two quarter-finals: Harry Kane's England take on Erling Haaland's Norway, while Lionel Messi's Argentina head into their clash with Switzerland as overwhelming favourites.\n\nCould a new era be on the horizon for Senegal? The Senegalese Football Federation is holding an emergency executive committee meeting on Saturday, just days after the Lions of Teranga were knocked out in the Round of 16. Head coach Pape Thiaw's future will be at the heart of discussions, with former France international and Dakar-born coach Patrick Vieira reportedly among the leading candidates to replace him.\n\nIn cycling, Tim Merlier sprinted to victory on Stage 7 of the Tour de France in Bordeaux, claiming his fourth career Tour stage win. There were no changes at the top of the general classification.\n\nAt Wimbledon, Jannik Sinner won the heavyweight showdown against Novak Djokovic, cruising to a straight-sets victory (6-4, 6-4, 6-4) to reach the final. He will face Alexander Zverev, who ended Arthur Féry's remarkable run with a 7-6, 6-2, 6-4 victory.\n\nIn the NBA, Victor Wembanyama has signed a blockbuster five-year extension with the San Antonio Spurs worth a total of $252 million, securing his future with the franchise.\n\nAnd finally, on the Diamond League circuit in Monaco, Julien Alfred stole the spotlight with another dazzling performance, Emmanuel Wanyonyi set a new world record, and Armand Duplantis added yet another victory to his remarkable season.",
+      "summary": " France face Spain in the semi-final of the World Cup on Saturday. Kylian Mbappé and Aurélien Tchouaméni both expected to be fit for the semi. France's national team face Switzerland in the last 16 of the tournament.",
+      "retrieved_at": "2026-07-11T08:26:40.503661+00:00"
+    },
+    "https://www.france24.com/en/americas/20260711-death-toll-in-venezuela-quakes-surpasses-4-000": {
+      "source": "France 24",
+      "link": "https://www.france24.com/en/americas/20260711-death-toll-in-venezuela-quakes-surpasses-4-000",
+      "title": "Death toll in Venezuela quakes surpasses 4,000",
+      "date": "Sat, 11 Jul 2026 08:11:31 GMT",
+      "author": "FRANCE 24",
+      "text": "The death toll in Venezuela's devastating twin earthquakes has topped 4,000, the government said Friday.\n\nAt least 4,118 people were killed and 16,740 injured in the back-to-back June 24 quakes, which flattened entire districts in the coastal state of La Guaira, Venezuelan parliament chief Jorge Rodriguez wrote on Telegram.\n\nThousands more are listed as missing.\n\nThe stronger 7.5 magnitude quake – the biggest in Venezuela in over a century – struck 39 seconds after the first 7.2 magnitude shock, flattening entire high-rise apartment blocks to layers of rubble.\n\nAlthough rescue teams have abandoned their search for survivors, family members continue to search the ruins for their loved ones, in the hopes of giving them a dignified burial.\n\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\n\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\n\nOn Friday, a 3.0 magnitude tremor in central Caracas caused momentary panic and led to buildings being evacuated.\n\nThe scale of the recovery effort facing Venezuela, where state services have been severely degraded by a prolonged economic crisis, is gargantuan.\n\nThe United Nations on Wednesday issued an urgent appeal for nearly $300 million towards earthquake relief operations.\n\nVenezuela's interim president Delcy Rodriguez has called for the release of frozen assets held abroad to be used towards the recovery.\n\nOn Wednesday she said she asked King Charles III to release about 30 tons of Venezuelan gold frozen under UK sanctions.",
+      "summary": " At least 4,118 people were killed and 16,740 injured in the back-to-back quakes June 24. The stronger 7.5 magnitude quake struck 39 seconds after the first 7.2 magnitude shock. The magnitude quake was the biggest in Venezuela in over a century.",
+      "retrieved_at": "2026-07-11T08:26:44.401653+00:00"
+    },
+    "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-all-1573-rdf": {
+      "source": "DW All",
+      "link": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-all-1573-rdf",
+      "title": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
+      "date": "2026-07-11T08:21:00Z",
+      "author": "",
+      "text": "The storm has triggered deadly landslides in the Philippines, knocked out power in Japan and Taiwan, and forced hundreds of thousands to evacuate in China ahead of its expected landfall.\n\nTyphoon Bavi caused severe disruption across East Asia on Saturday, as it battered Japan's southern islands with heavy rain and strong winds, and brought life in Taiwan to a near standstill.\n\nThe storm, which began as a \"super typhoon\" over the US Pacific territories of Guam and the Northern Marianas last week, also triggered floods and landslides in the Philippines, killing at least 17 people, while nine were missing in the southern island of Mindanao.\n\nTen people died in a landslide in the town of Malapatan in the province of Sarangani, while two drowned in Bukidnon province. Five others died in a landslide in Lanao del Sur, the Philippines' meteorological agency said, adding that at least four people were injured in landslides.\n\nOver 500,000 have been affected by the storm, with more than 11,000 forced from their homes.\n\nIn Japan's Okinawa prefecture, the storm lashed the Sakishima island chain with sustained winds of 144 kilometers (90 miles) per hour.\n\nMore than 24,000 households have lost power, while 345 flights have been canceled and ferry services have been suspended.\n\nIn Taiwan, the typhoon has prompted the \"evacuation of more than 10,000 people at risk from landslides and left over 150,000 households without power,\" DW's Taiwan correspondent Rik Glauert said.\n\nAuthorities cancelled more than 1,100 domestic and international flights, while schools and offices were closed for two days.\n\nTaiwanese authorities have also closed schools and offices for two days.\n\nAlthough the storm has been downgraded from a super typhoon as it has moved westwards, \"winds exceeding 100 kph and more than a meter of rainfall are battering the capital Taipei, toppling trees and power lines, swelling rivers and causing localized flooding,\" Glauert reported.\n\nThe storm is expected to continue weakening as it heads towards China's southeast coast, where it could bring a lot of heavy rain, \"causing more problems for China as it still reels from widespread flooding after a typhoon last week,\" Glauert said.\n\nBavi was forecast to strike China's eastern coast near Wenzhou early on Sunday.\n\nChinese authorities issued flood alerts and evacuated more than 600,000 people on Saturday in vulnerable areas ahead of Typhoon Bavi hitting Wenzhou.\n\nMeanwhile, Beijing and several northern provinces were also braced for heavy rainfall.\n\nIn southeastern Fuzhou City, authorities rushed emergency teams to trim trees along key roads to reduce the risk of falling trees during high winds.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nEdited by: Karl Sexton\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+      "summary": " Typhoon Bavi has caused severe disruption across East Asia on Saturday. More than 24,000 households have lost power in Japan and Taiwan, with more than 11,000 forced from their homes. The storm has also triggered landslides and landslides in the Philippines, killing at least 17 people.",
+      "retrieved_at": "2026-07-11T08:27:26.948795+00:00"
     }
   }
 }
