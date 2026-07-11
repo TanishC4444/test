@@ -1,6 +1,6 @@
 {
   "week": "2026-W28",
-  "count": 3408,
+  "count": 3418,
   "articles": {
     "http://money.cnn.com/2017/02/13/news/economy/mexico-trump-us-corn/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -10,7 +10,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:13.873512+00:00"
+      "retrieved_at": "2026-07-11T00:37:23.973939+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -20,7 +20,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:17.722253+00:00"
+      "retrieved_at": "2026-07-11T00:37:27.955313+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/india-h1b-visa-trump-nandan-nilekani/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -30,7 +30,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:21.395788+00:00"
+      "retrieved_at": "2026-07-11T00:37:31.647448+00:00"
     },
     "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -40,7 +40,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:25.070417+00:00"
+      "retrieved_at": "2026-07-11T00:37:35.347365+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/stocks-all-time-highs-donald-trump-janet-yellen-fed/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -50,7 +50,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:28.744018+00:00"
+      "retrieved_at": "2026-07-11T00:37:39.028916+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -60,7 +60,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:32.420188+00:00"
+      "retrieved_at": "2026-07-11T00:37:42.709264+00:00"
     },
     "http://money.cnn.com/2017/02/13/news/economy/nafta-canada-trudeau-trump-mexico/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -70,7 +70,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:36.097935+00:00"
+      "retrieved_at": "2026-07-11T00:37:46.392851+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/verizon-stock-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -80,7 +80,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:39.797942+00:00"
+      "retrieved_at": "2026-07-11T00:37:50.071167+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/oil-prices-opec-deal/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -90,7 +90,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:43.479178+00:00"
+      "retrieved_at": "2026-07-11T00:37:53.750595+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/tesla-uae-elon-musk/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -100,7 +100,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:47.150393+00:00"
+      "retrieved_at": "2026-07-11T00:37:57.428932+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/uber-ola-india-pranay-jivrajka/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -110,7 +110,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:50.827628+00:00"
+      "retrieved_at": "2026-07-11T00:38:01.104830+00:00"
     },
     "http://money.cnn.com/2017/02/11/media/fake-news-apple-ceo-tim-cook/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -120,7 +120,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:54.501693+00:00"
+      "retrieved_at": "2026-07-11T00:38:04.804377+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/trump-brand-sears-kmart/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -130,7 +130,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:58.179303+00:00"
+      "retrieved_at": "2026-07-11T00:38:08.484544+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/thailand-bamboo-cassava-packaging-universal-biopack/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -140,7 +140,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:01.872304+00:00"
+      "retrieved_at": "2026-07-11T00:38:12.166653+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/nike-equality-lebron-serena/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -150,7 +150,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:05.545443+00:00"
+      "retrieved_at": "2026-07-11T00:38:15.852243+00:00"
     },
     "http://money.cnn.com/2017/02/12/media/lego-batman-movie-steven-mnuchin/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -160,7 +160,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:09.215121+00:00"
+      "retrieved_at": "2026-07-11T00:38:19.518251+00:00"
     },
     "http://money.cnn.com/2017/02/08/news/economy/greece-imf-bailout-eurozone/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -170,7 +170,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:12.881468+00:00"
+      "retrieved_at": "2026-07-11T00:38:23.192564+00:00"
     },
     "http://money.cnn.com/2017/02/12/technology/verizon-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -180,7 +180,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:16.557822+00:00"
+      "retrieved_at": "2026-07-11T00:38:26.878418+00:00"
     },
     "http://money.cnn.com/2017/02/10/news/economy/visa-ban-rural-doctor-shortage/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -190,7 +190,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:20.312884+00:00"
+      "retrieved_at": "2026-07-11T00:38:30.589440+00:00"
     },
     "http://money.cnn.com/2017/02/10/investing/stocks-united-states-trump-europe-china-japan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -200,7 +200,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:23.990698+00:00"
+      "retrieved_at": "2026-07-11T00:38:34.285519+00:00"
     },
     "http://edition.cnn.com/2008/TECH/space/12/02/planetsalign.irpt/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -210,7 +210,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:28.306380+00:00"
+      "retrieved_at": "2026-07-11T00:38:38.637190+00:00"
     },
     "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -2288,9 +2288,9 @@
       "title": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
       "date": "Thu, 09 Jul 2026 19:53:06 +0000",
       "author": "Adam Rasgon and Aaron Boxerman",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:11:07.956999+00:00"
+      "text": "Israel-Hamas Cease-Fire\n\nAnalysts expressed skepticism that the vote would take place as planned. In 2021, Mahmoud Abbas, the authority’s leader, scheduled and then canceled a similar election.\n\nBy Adam Rasgon and Aaron Boxerman\n\nReporting from Jerusalem\n\nMahmoud Abbas, the longtime president of the Palestinian Authority, on Thursday set Palestinian parliamentary elections for this November in what would be the first such vote in more than two decades.\n\nThe announcement appeared to be part of an effort by the Palestinian Authority, which exercises limited self-rule over parts of the Israeli-occupied West Bank, to convince the United States and European and Arab nations that it was willing to make changes to its system. The authority has been dogged for years by accusations of corruption, and U.S. officials have said that it can play a meaningful role in postwar Gaza only if it can carry out a significant overhaul.\n\nBut some Palestinians and analysts questioned whether the elections would happen at all. Mr. Abbas called a similar election in 2021 only to abruptly cancel the vote after it became clear his hold on power was under threat. Mr. Abbas’s elections decree does not mention a presidential vote, which could threaten his position at the top.\n\n“We need elections, and we would love for the opportunity to vote,” said Mahzouz Shalaldeh, 41, a resident of a village in the Hebron area in the southern West Bank. “But I just can’t see them actually taking place.”\n\nMr. Abbas, 90, was elected to office in early 2005 after the death of his predecessor, Yasir Arafat. As the leader of Fatah, the ruling party in the West Bank, Mr. Abbas has consolidated his authority by ousting rivals, sidelining the judiciary and cooperating with Israel on security.\n\nHis announcement comes at a volatile moment for the West Bank, where violence has sharply risen since the war in Gaza began and numbers of settler outposts have surged. Extremist Israeli settlers frequently attack Palestinians and are rarely held accountable.\n\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\n\nThank you for your patience while we verify access.\n\nAlready a subscriber? Log in.\n\nWant all of The Times? Subscribe.",
+      "summary": " Mahmoud Abbas, the Palestinian Authority’s leader, scheduled and then canceled a similar election in 2021. The announcement appeared to be part of an effort by the Palestinian authority to convince the U.S. and European and Arab nations that it was willing to make changes to its system.",
+      "retrieved_at": "2026-07-11T00:30:20.777745+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html": {
       "source": "NYT World",
@@ -2308,9 +2308,9 @@
       "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
       "date": "Fri, 10 Jul 2026 15:27:46 +0000",
       "author": "Adam Rasgon and Abu Bakr Bashir",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:11:15.309877+00:00"
+      "text": "Israel-Hamas Cease-Fire\n\nThe Israeli military said it had struck a Hamas militant but was aware of reports that “uninvolved civilians” were harmed.\n\nBy Adam Rasgon and Abu Bakr Bashir\n\nAdam Rasgon reported from Jerusalem and Abu Bakr Bashir reported from Sheffield, England.\n\nAn Israeli airstrike has killed a Palestinian aid worker who played an instrumental role in delivering humanitarian relief in the Gaza Strip, according to his family members and colleagues.\n\nThe worker, Mohammed al-Waheidi, 65, served as a member of the Egyptian Committee in Gaza, a relief group. In addition to facilitating deliveries of humanitarian aid, the committee helps resolve disputes between families, and was organizing World Cup watch parties around Gaza over the past few weeks.\n\nThe strike killed three others, including two children, said Zaher al-Waheidi, a cousin of Mr. al-Waheidi and a statistician at the Hamas-run health ministry in Gaza. He identified the three in an interview on Friday as Hamza al-Deri, 9, and Fadi al-Deri, 8, who were brothers, and Ahmed Doghmosh, 30.\n\nThe Israeli military said it had struck a Hamas militant in the attack on Tuesday in northern Gaza, but did not identify that person or say whether they had been killed. It said in a statement that it was aware of “the claim that uninvolved civilians were harmed as a result of the strike” and “regrets any harm” to such people.\n\nMohammed Doghmosh, a relative of Ahmed, said he and Ahmed were eating in a nearby store when the strike occurred. Ahmed, he said, was killed after shrapnel struck his torso.\n\nIsraeli forces have been carrying out frequent airstrikes in Gaza despite signing a U.S.-backed cease-fire deal with Hamas last October. Israeli officials have said the military has been going after Hamas militants who participated in the Oct. 7, 2023 attack on Israel, which ignited the war in Gaza.\n\nAdam Rasgon is a reporter for The Times in Jerusalem, covering Israeli and Palestinian affairs.",
+      "summary": " The Israeli military said it had struck a Hamas militant but was aware of reports that “uninvolved civilians’ were harmed’s family members and colleagues say. The strike killed three others, including two children, a cousin of Mohammed al-Waheidi, says. The worker, 65, served as a member of",
+      "retrieved_at": "2026-07-11T00:30:30.714116+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html": {
       "source": "NYT World",
@@ -2320,7 +2320,7 @@
       "author": "Lily Kuo, Pei-Lin Wu and Pranav Baskar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:19.013716+00:00"
+      "retrieved_at": "2026-07-11T00:30:36.252724+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html": {
       "source": "NYT World",
@@ -2330,7 +2330,7 @@
       "author": "Neil MacFarquhar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:50.475079+00:00"
+      "retrieved_at": "2026-07-11T00:31:06.698776+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html": {
       "source": "NYT World",
@@ -2360,7 +2360,7 @@
       "author": "Mujib Mashal and Pragati K.B.",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:46.779356+00:00"
+      "retrieved_at": "2026-07-11T00:31:03.010800+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html": {
       "source": "NYT World",
@@ -2368,9 +2368,9 @@
       "title": "As France and Morocco Take the Field, Colonial Past and Global Present Will Mix",
       "date": "Thu, 09 Jul 2026 15:48:32 +0000",
       "author": "Mark Landler",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:11:22.688231+00:00"
+      "text": "History hangs over the World Cup quarterfinal between France and its former protectorate. These days, national teams intermingle and overlap.\n\nWhen France plays Morocco on Thursday in Boston, it will be the next chapter in what has become a dramatic subplot of these World Cup tournaments: a postcolonial clash, laden with history, symbolism and a dash of score settling.\n\nThe two countries are intertwined by colonial dominion — Morocco was a protectorate of France from 1912 to 1956 — and then by waves of emigration across the Mediterranean Sea in the 1960s and 1970s. About 1.5 million people of Moroccan descent, most Muslim, now live in France. Many have thrived, but others have struggled to carve out an identity amid questioning of their Frenchness by the far right and other nationalists. All of that sharpens a soccer rivalry as fierce as any in the world.\n\nMorocco’s team, undefeated in 34 games, will be hungry to avenge its 2-0 loss in the World Cup semifinals in 2022 to France, which is the favorite to win this year’s tournament. Clashes after that game led to scores of arrests in Paris, and the authorities are girding for more unrest, regardless of who wins on Thursday. France’s interior minister, Laurent Nuñez, said security in the capital would be reinforced.\n\nExcitement over the rematch between the Atlas Lions of Morocco and Les Bleus of France, as the teams are known, is sky-high. Moroccan and French flags ripple from cars and drape from windows across Paris. Starting on Thursday, the city said, it will allow restaurants and bars to keep outdoor terraces open until 2 a.m. to accommodate crowds watching World Cup games.\n\nFor some French Moroccans, there is a double sense of pride at the success of their two homelands, said Yassine El Yattioui, a French Moroccan professor of international relations at the University of Salamanca in Spain.\n\nMark Landler is the Paris bureau chief of The Times, covering France, as well as American foreign policy in Europe and the Middle East. He has been a journalist for more than three decades.",
+      "summary": " France plays Morocco in the World Cup quarterfinal on Thursday in Boston. The two countries are intertwined by colonial dominion. Morocco was a protectorate of France from 1912 to 1956.",
+      "retrieved_at": "2026-07-11T00:30:40.285592+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/europe/germany-japan-ukraine-patriot-missiles.html": {
       "source": "NYT World",
@@ -2378,9 +2378,9 @@
       "title": "For Ukraine, Other Patriot Makers Are a Cautionary Tale",
       "date": "Fri, 10 Jul 2026 02:09:03 +0000",
       "author": "Jim Tankersley, Javier C. Hernández and Christopher F. Schuetze",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:11:26.462050+00:00"
+      "text": "Two American allies, Germany and Japan, already have permission to build the American interceptors, a license that President Trump says he will also grant to Kyiv.\n\nBy Jim TankersleyJavier C. Hernández and Christopher F. Schuetze\n\nJim Tankersley and Christopher F. Schuetze reported from Berlin, and Javier C. Hernández from Tokyo.\n\nIn 2022, as fears mounted over Europe’s missile defense capabilities against Russian strikes, the Biden administration granted permission for Germany to build a factory to manufacture state-of-the-art Patriot air defense interceptors.\n\nThat factory has yet to produce a single Patriot — a sign of the time it can take and how difficult it can be to ramp up production of American weapons abroad, even after winning approval from the United States government to do so.\n\nIt is a cautionary tale for Ukraine, whose leaders expressed confidence that they could quickly start Patriot production after President Trump said on Wednesday that he would grant Kyiv a long-sought license to produce the interceptors.\n\nOnly two other American allies — Germany and Japan — have similar licenses, and neither scaled up nearly as quickly as Ukraine hopes to.\n\nAnd European leaders still often rely on American-made weapons, even as they try to build their own alternatives. Friedrich Merz, the German chancellor, acknowledged as much on Thursday, announcing that his government had reached a deal with the United States to buy American-made Tomahawk missiles.\n\n“A manufacturing license is not a quick fix,” said Satoru Mori, a professor of contemporary international politics at Keio University in Tokyo, referring to Japan’s experience developing Patriots. “It is an incredibly complex aerospace engineering feat.”\n\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\n\nThank you for your patience while we verify access.\n\nAlready a subscriber? Log in.\n\nWant all of The Times? Subscribe.",
+      "summary": " Two American allies, Germany and Japan, already have permission to build the American interceptors, a license that President Trump says he will also grant to Kyiv.",
+      "retrieved_at": "2026-07-11T00:30:45.672857+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/africa/minnesota-somali-fraud-trump.html": {
       "source": "NYT World",
@@ -2390,7 +2390,7 @@
       "author": "Matthew Mpoke Bigg, Hussein Mohamed and Ernesto Londoño",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:33.870710+00:00"
+      "retrieved_at": "2026-07-11T00:30:55.557006+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes-cease-fire.html": {
       "source": "NYT World",
@@ -2400,7 +2400,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:11.625467+00:00"
+      "retrieved_at": "2026-07-11T00:30:26.918976+00:00"
     },
     "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/iranian-port-cities-and-a-railway-were-struck-overnight": {
       "source": "NYT World",
@@ -2440,7 +2440,7 @@
       "author": "John Yoon and Rin Hindryati",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:30.164418+00:00"
+      "retrieved_at": "2026-07-11T00:30:51.413460+00:00"
     },
     "https://www.nytimes.com/2026/07/09/us/pope-leo-brian-burch-vatican-ambassador.html": {
       "source": "NYT World",
@@ -2450,7 +2450,7 @@
       "author": "Elizabeth Dias and Motoko Rich",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:42.924436+00:00"
+      "retrieved_at": "2026-07-11T00:30:59.260009+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/americas/mexico-el-mayo-fbi-us-cartel.html": {
       "source": "NYT World",
@@ -2490,7 +2490,7 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:54.149341+00:00"
+      "retrieved_at": "2026-07-11T00:31:10.411705+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/middleeast/iran-truce-trump.html": {
       "source": "NYT World",
@@ -2560,7 +2560,7 @@
       "author": "K. R. Callaway",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:14.237244+00:00"
+      "retrieved_at": "2026-07-11T00:35:16.328591+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html": {
       "source": "NYT World",
@@ -2650,7 +2650,7 @@
       "author": "Patricia Cohen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:19.195160+00:00"
+      "retrieved_at": "2026-07-11T00:34:17.601279+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html": {
       "source": "NYT World",
@@ -3090,7 +3090,7 @@
       "author": "Cade Metz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:55.400008+00:00"
+      "retrieved_at": "2026-07-11T00:32:05.796677+00:00"
     },
     "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html": {
       "source": "NYT Tech",
@@ -3130,7 +3130,7 @@
       "author": "J. D. Biersdorfer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:14.388008+00:00"
+      "retrieved_at": "2026-07-11T00:33:20.214586+00:00"
     },
     "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html": {
       "source": "NYT Tech",
@@ -3160,7 +3160,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:06.570125+00:00"
+      "retrieved_at": "2026-07-11T00:32:16.950007+00:00"
     },
     "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html": {
       "source": "NYT Tech",
@@ -3190,7 +3190,7 @@
       "author": "Karen Weise and Zachary Small",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:10.273178+00:00"
+      "retrieved_at": "2026-07-11T00:32:20.662232+00:00"
     },
     "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html": {
       "source": "NYT Tech",
@@ -3200,7 +3200,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:13.993499+00:00"
+      "retrieved_at": "2026-07-11T00:32:24.365589+00:00"
     },
     "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html": {
       "source": "NYT Tech",
@@ -3238,9 +3238,9 @@
       "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
       "date": "Tue, 07 Jul 2026 05:36:01 +0000",
       "author": "Ivan Penn and Hilary Howard",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:16:54.020675+00:00"
+      "text": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.\n\nBy Ivan Penn and Hilary Howard\n\nAs extreme heat threatens the stability of electrical grids across the Eastern United States, big users of power have been ordered to help prevent air-conditioners from shutting down and homes from going dark.\n\nThe energy secretary, Chris Wright, this week instructed grid operators to require data centers to use their backup power supplies if they need to ease strain on electrical system. Across the United States, Mr. Wright said, backup generators that could power dozens of large data centers sit idle much of the time.\n\nOrders to use such generators are most likely to come in 13 Mid-Atlantic States, which share a strained grid and are home to the largest concentration of data centers in the world. That region has also been subject to this week’s heat wave. The area’s primary grid manager, PJM, runs a system that stretches from Chicago to Virginia Beach and covers most of Pennsylvania, Maryland and New Jersey. PJM expects that demand for electricity on its system will hit its highest level on Thursday, exceeding a previous record set two decades ago.\n\n“Maintaining affordable, reliable and secure power in the PJM service territory is nonnegotiable,” Mr. Wright said.\n\nSome energy experts are worried that extensive use of backup systems at data centers could significantly increase air pollution in residential areas. Backup generators typically run on diesel or natural gas and emit more nitrogen oxides, particulate matter and other harmful emissions than large power plants or solar and wind farms.\n\nUnlike the grids in California and Texas, PJM has been slow to add energy storage batteries that can support power systems during heat waves and cold spells. California has not had to ask residents and businesses to conserve electricity during periods of high demand for several years in large part because it has added many batteries, each as large as a shipping container.\n\nIvan Penn is a reporter based in Los Angeles and covers the energy industry. His work has included reporting on clean energy, failures in the electric grid and the economics of utility services.\n\nHilary Howard is a Times reporter covering how the New York City region is adapting to climate change and other environmental challenges.",
+      "summary": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused. The orders are most likely to come in 13 Mid-Atlantic States, which share a strained grid and are home to the largest concentration of data centers in the world.",
+      "retrieved_at": "2026-07-11T00:35:59.406430+00:00"
     },
     "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html": {
       "source": "NYT Tech",
@@ -3290,7 +3290,7 @@
       "author": "William J. Broad",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:22.095593+00:00"
+      "retrieved_at": "2026-07-11T00:32:32.450248+00:00"
     },
     "https://www.nytimes.com/2026/07/09/science/fossils-earliest-handedness-righties.html": {
       "source": "NYT Science",
@@ -3300,7 +3300,7 @@
       "author": "Jack Tamisiea",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:25.802285+00:00"
+      "retrieved_at": "2026-07-11T00:32:36.154400+00:00"
     },
     "https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html": {
       "source": "NYT Science",
@@ -3320,7 +3320,7 @@
       "author": "Robin George Andrews",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:36.897754+00:00"
+      "retrieved_at": "2026-07-11T00:32:47.218475+00:00"
     },
     "https://www.nytimes.com/2026/07/08/science/russia-captured-chernobyl-the-wildlife-cameras-kept-recording.html": {
       "source": "NYT Science",
@@ -3330,7 +3330,7 @@
       "author": "Emily Anthes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:48.005379+00:00"
+      "retrieved_at": "2026-07-11T00:32:58.353460+00:00"
     },
     "https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html": {
       "source": "NYT Climate",
@@ -3368,9 +3368,9 @@
       "title": "Trump’s Plans for Nuclear Power Lurch Ahead",
       "date": "Thu, 09 Jul 2026 18:56:07 +0000",
       "author": "Claire Brown",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:16:04.554547+00:00"
+      "text": "Recent technological advances have brought the president’s goals a bit closer to reality.\n\nPresident Trump wants to quadruple nuclear power production in the United States by 2050. To get there, developers would need to build about a hundred times as much nuclear capacity in the next 25 years as they did in the past 25.\n\nIn recent weeks, a series of government announcements have nudged the country a bit closer to that goal.\n\nNuclear power has broad bipartisan support in Congress, and many climate experts have embraced it as a low-emissions source of energy. Others experts remain opposed, arguing that it is too expensive or that the safety risks are too high.\n\n“The challenge is that there’s a big gap between these announcements and putting one foot in front of the other, taking steps to actually get new reactors built,” said Josh Freed, senior vice president for energy and climate at the center-left research organization Third Way.\n\n“They are much more focused on securing headlines than making headway,” he said of the Trump administration.\n\nTraditional nuclear reactors are time-consuming and expensive to build. In recent years, companies have been trying to develop smaller, easier-to-produce designs. To date, only two are up and running, in Russia and China, according to the World Nuclear Association.\n\nClaire Brown covers climate change for The Times and writes for the Climate Forward newsletter.",
+      "summary": " President Trump wants to quadruple nuclear power production in the United States by 2050. To get there, developers would need to build about a hundred times as much nuclear capacity in the next 25 years as they did in the past 25 years. Nuclear power has broad bipartisan support in Congress, and many climate experts have embraced it as a low",
+      "retrieved_at": "2026-07-11T00:35:10.434428+00:00"
     },
     "https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html": {
       "source": "NYT Health",
@@ -3420,7 +3420,7 @@
       "author": "Ferris Jabr",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:24.084934+00:00"
+      "retrieved_at": "2026-07-11T00:35:20.061679+00:00"
     },
     "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html": {
       "source": "NYT Science",
@@ -3490,7 +3490,7 @@
       "author": "Jeré Longman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:55.509859+00:00"
+      "retrieved_at": "2026-07-11T00:33:05.725323+00:00"
     },
     "https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html": {
       "source": "NYT Science",
@@ -3560,7 +3560,7 @@
       "author": "Roni Rabin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:06.894948+00:00"
+      "retrieved_at": "2026-07-11T00:33:10.005071+00:00"
     },
     "https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html": {
       "source": "NYT Health",
@@ -3568,9 +3568,9 @@
       "title": "Zyn’s Popularity Has Tobacco Companies Racing to Cash In",
       "date": "Thu, 09 Jul 2026 02:06:07 +0000",
       "author": "Murray Carpenter",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:14:10.683707+00:00"
+      "text": "Make sense of the day’s news and ideas.\n\nCatch up on big news, and wind down to end your day.\n\nThe biggest stories of our time, in 20 minutes a day.\n\nA guide to understanding the news, made for readers around the globe.\n\nOriginal analysis on the week’s biggest global stories.\n\nThe latest news for any part of the world you select.\n\nBackstories and analysis from our Canadian correspondents.\n\nThe most crucial business and policy news you need to know.\n\nOur best tech reporting from the week.\n\nOur tech journalists help you make sense of the rapidly changing tech world.\n\nReviews, news and features to help you find your next read.\n\nStreaming TV and movie recommendations.\n\nThe podcast that takes you inside the literary world.\n\nPop music news, new songs and albums, and artists of note.\n\nUnwind with stories about culture and the way we live.\n\nEssential news and guidance to live your healthiest life.\n\nThe complicated love lives of real people.\n\nMapping the new world order through interviews and conversations.\n\nYou've heard the news, here's what to make of it.\n\nDiscussions of ideas that matter, plus book recommendations.\n\nCome on in, the culture's fine.\n\nYour morning listen. Top stories, in 10 minutes.\n\nCompassion has its limits when it comes to your own cousin.\n\nOur editors share their favorite listens from The Times and beyond.\n\nBe the first to know about our new shows.\n\nWord games, logic puzzles and crosswords, including an extensive archive. Go to Games\n\nThe Midi Crossword NEW\n\nPuzzles, brain teasers, solving tips and more.\n\nGet an easy version of one of the hardest crossword puzzles of the week.\n\nRecipes, advice and inspiration for everyday cooking, special occasions and more. Go to Cooking\n\nNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.\n\nDelicious vegetarian recipes and tips from Tanya Sichynsky.\n\nDinner ideas for busy people from Emily Weinstein.\n\nReviews and recommendations for thousands of products. Go to Wirecutter\n\nThe best independent reviews, expert advice and intensively researched deals.\n\nStep-by-step advice on how to keep everything in your home squeaky clean.\n\nPersonalized coverage of your sports teams and leagues. Go to The Athletic\n\nDelivering the top stories in sports, Sunday to Friday.\n\nDaily updates and insights from the 2026 men's World Cup.\n\nConnections: Sports Edition\n\nConnections: Soccer Edition\n\nThe makers of nicotine pouches are building new plants and expanding to meet demand. While influencers claim health benefits, experts warn the products can be highly addictive.\n\nNicotine pouch sales are projected to increase to more than $40 billion worldwide by 2033 from $6.9 billion in 2025, one analysis said.\nCredit...\nLanna Apisukh for The New York Times\n\nAs nicotine pouches explode in popularity, tobacco companies are investing heavily in factories in the United States and creating new jobs from Florida to Colorado.\n\nAlong with vaping products, the Big Tobacco corporations have seized on the nicotine pouch market as a way to offset the steep decline in domestic sales of cigarettes. Pouch sales are projected to increase to more than $40 billion worldwide by 2033 from $6.9 billion in 2025, according to an analysis by Grand View Research, a market research firm.\n\nCompanies are racing to meet the demand, so far investing more than $1 billion in plant production to accommodate the growth. Several states have welcomed the industry’s forays into the latest twists on nicotine products, handing out millions of dollars in tax credits and grants.\n\nBut the marketing of nicotine-laden items like pouches, gums and lozenges as another safe alternative to traditional cigarettes has heightened public health concerns. Experts are accusing the tobacco industry of once again deliberately ignoring decades of science that proved the addictive nature of nicotine, and of stoking demand by producing more and more potent varieties.\n\nReminiscent of Juul and other flavored vaping products that caused a public uproar over teenage consumption, the pouches — tobacco-free “lip pillows” placed between the cheek and gum — have revived warnings that nicotine is highly addictive and can cause a host of conditions, like anxiety and heart arrhythmia. It also threatens a teenager’s still-developing brain, with the potential for affecting behavior and cognitive function, experts say.\n\nColorado’s governor, Jared Polis, a Democrat, defended his state’s decision to support a new $600 million plant in Aurora, built by Philip Morris International, which is getting $4.5 million in state tax credits.\n\nAn earlier version of this article misstated the extent of construction at a Philip Morris International site in Owensboro, Ky. It spent $232 million to expand an existing plant, not to build a new one.\n\nWe acknowledge mistakes in our reporting with corrections. If you spot an error, please let us know at corrections@nytimes.com.Learn more.",
+      "summary": " The biggest stories of our time, in 20 minutes a day, made for readers around the globe. The latest news for any part of the world you select. Backstories and analysis from our Canadian correspondents.",
+      "retrieved_at": "2026-07-11T00:33:13.781885+00:00"
     },
     "https://www.nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html": {
       "source": "NYT Health",
@@ -3608,9 +3608,9 @@
       "title": "Blistering Heat Is Expected to Linger Through Weekend",
       "date": "Fri, 03 Jul 2026 20:49:23 +0000",
       "author": "Amy Graff and Mark Walker",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:16:46.479958+00:00"
+      "text": "While relief could come to the Great Lakes and parts of the Northeast over the weekend, the Mid-Atlantic and Southeast will stay hot.\n\nBy Amy Graff and Mark Walker\n\nAmy Graff is a reporter on The Times’s weather team.\n\nGo here for the latest on Friday’s heat.\n\nA dangerous, long-lasting heat wave that has brought triple-digit temperatures across much of the central and eastern United States was expected to continue Friday and through the weekend. Typical warm summer weather is not likely to return to much of the Northeast and Mid-Atlantic until Monday.\n\nAround 180 million people were under extreme heat warnings or heat advisories on Friday, and many had already faced several days of severe warnings to avoid going outdoors in the hottest part of the day. Forecasters expect some of the highest temperatures around Philadelphia, which could hit 104. New York was poised to reach 101 and Washington 103.\n\nBut the sweat-inducing forecasts tell only part of the story.\n\nOn Friday, a Salute to Independence Semiquincentennial Parade in Philadelphia for the 250th birthday of the United States was canceled, with the event’s organizers citing “extreme heat” in social media posts. In the nation’s capital, organizers of the Great American State Fair postponed all daytime activities until 5 p.m. Eastern, citing the heat in a social media post.\n\nThat followed conditions on Thursday when the heat snarled rail travel along the Northeast Corridor. Even the New England coast, a prime vacation destination known as much for its relatively temperate summers as its seafood, slowed under the weight of the humidity as patrons retreated indoors to the comfort of air conditioning.\n\nThe heat also put stress on power grids, contributing to scattered outages in New Jersey, New York and Ohio for tens of thousands of utility customers on Thursday, according to the tracking website PowerOutage.us.\n\nMore records are expected in coming days. By Sunday, the National Weather Service expects that over 100 daily high records will have been shattered.\n\nNote: Forecast data is as of 8:26 a.m. Eastern on July 10, 2026.\n\nNotes: This map indicates risk in up to three tiers: Some, there is at least some chance of extreme weather in the area; Moderate, it is likely that damaging weather will happen in the area; and High, extreme, dangerous weather is expected in the area. Data is as of 5:33 p.m. Eastern on July 3 and is not available for Alaska and Hawaii. Times are Eastern. Source: National Weather Service The New York Times\n\nNotes: This map indicates risk in up to three tiers: Some, there is at least some chance of extreme weather in the area; Moderate, it is likely that damaging weather will happen in the area; and High, extreme, dangerous weather is expected in the area. Data is as of 5:26 p.m. Eastern on July 4 and is not available for Alaska and Hawaii. Times are Eastern. Source: National Weather Service The New York Times\n\nNotes: This map indicates risk in up to three tiers: Some, there is at least some chance of extreme weather in the area; Moderate, it is likely that damaging weather will happen in the area; and High, extreme, dangerous weather is expected in the area. Data is as of 5:30 p.m. Eastern on July 5 and is not available for Alaska and Hawaii. Times are Eastern. Source: National Weather Service The New York Times\n\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\n\nThank you for your patience while we verify access.\n\nAlready a subscriber? Log in.\n\nWant all of The Times? Subscribe.",
+      "summary": " A dangerous, long-lasting heat wave that has brought triple-digit temperatures across much of the central and eastern United States was expected to continue Friday and through the weekend. Typical warm summer weather is not likely to return to much of Northeast and Mid-Atlantic until Monday.",
+      "retrieved_at": "2026-07-11T00:35:44.557761+00:00"
     },
     "https://www.nytimes.com/2026/07/02/weather/heat-index-temperature.html": {
       "source": "NYT Health",
@@ -3670,7 +3670,7 @@
       "author": "Lauren Hirsch",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:59.158696+00:00"
+      "retrieved_at": "2026-07-11T00:34:02.309197+00:00"
     },
     "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html": {
       "source": "NYT Business",
@@ -3680,7 +3680,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:02.832235+00:00"
+      "retrieved_at": "2026-07-11T00:34:06.307357+00:00"
     },
     "https://www.nytimes.com/2026/07/09/travel/help-i-refueled-my-rental-car-but-enterprise-charged-me-anyway.html": {
       "source": "NYT Business",
@@ -3690,7 +3690,7 @@
       "author": "Seth Kugel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:06.513288+00:00"
+      "retrieved_at": "2026-07-11T00:34:10.035840+00:00"
     },
     "https://www.nytimes.com/2026/07/09/style/xenom-crossfit-competition-workout-fitness.html": {
       "source": "NYT Business",
@@ -3720,7 +3720,7 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:10.220023+00:00"
+      "retrieved_at": "2026-07-11T00:34:13.870278+00:00"
     },
     "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html": {
       "source": "NYT Business",
@@ -3770,7 +3770,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:23.048345+00:00"
+      "retrieved_at": "2026-07-11T00:34:21.296425+00:00"
     },
     "https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html": {
       "source": "NYT Business",
@@ -3780,7 +3780,7 @@
       "author": "Brooks Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:26.784534+00:00"
+      "retrieved_at": "2026-07-11T00:34:25.008206+00:00"
     },
     "https://www.nytimes.com/2026/07/08/travel/ees-europe-airports-security.html": {
       "source": "NYT Business",
@@ -3800,7 +3800,7 @@
       "author": "Jason Karaian and Jenny Gross",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:30.476386+00:00"
+      "retrieved_at": "2026-07-11T00:34:28.730866+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html": {
       "source": "NYT Business",
@@ -3810,7 +3810,7 @@
       "author": "Jim Tankersley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:34.187892+00:00"
+      "retrieved_at": "2026-07-11T00:34:32.409985+00:00"
     },
     "https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html": {
       "source": "NYT Business",
@@ -3818,9 +3818,9 @@
       "title": "Is ‘The View’ a News Show? ABC Says That’s Already Settled.",
       "date": "Tue, 07 Jul 2026 18:45:33 +0000",
       "author": "Benjamin Mullin and Jim Rutenberg",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:15:37.900633+00:00"
+      "text": "In a new filing, ABC said that the F.C.C. had ruled in 2002 that “The View” was a “bona fide news program.”\n\nBy Benjamin Mullin and Jim Rutenberg\n\nABC on Monday urged federal regulators to stick with a decision their predecessors made two decades ago that called “The View,” the network’s popular talk show, a news program.\n\nThe Federal Communications Commission has been investigating whether the show violated rules that require broadcasters to give equal time to political candidates from both parties. At the center of the debate is whether “The View” qualifies as a “bona fide news program,” which would exempt it from those rules.\n\nIn a filing to the agency on Monday, the network said that matter was already settled, citing a 2002 decision from the F.C.C. qualifying it for the exemption.\n\n“Nothing about ‘The View’ that the law cares about has changed since the commission last answered that question more than two decades ago,” the network said in its petition. “The program remains regularly scheduled, remains under ABC’s control, and remains driven by the same lodestar — newsworthiness — that has long led it to interview the day’s most consequential figures.”\n\nA spokeswoman for the F.C.C. said in a statement that ABC should focus on “complying with” federal obligations for broadcasters, “rather than misleading the public about them.”\n\n“The View” has interviewed several prominent politicians since Brendan Carr, the head of the F.C.C., announced his investigation in February, including Vice President JD Vance, the former Republican congresswoman Marjorie Taylor Greene of Georgia and Senator Cory Booker, Democrat of New Jersey.\n\nBenjamin Mullin reports for The Times on the major companies behind news and entertainment. Contact him securely on Signal at +1 530-961-3223 or at benjamin.mullin@nytimes.com.\n\nJim Rutenberg is a writer at large for The Times and The New York Times Magazine and writes most often about media and politics.",
+      "summary": " The F.C.C., the F.S.C.'s predecessor, the F., ruled in 2002 that ‘The View’ was a “bona fide news program’s’ ‘Nothing about ‘ the View” that the law cares about has changed since the commission last answered that question more than",
+      "retrieved_at": "2026-07-11T00:34:36.111042+00:00"
     },
     "https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html": {
       "source": "NYT Business",
@@ -3900,7 +3900,7 @@
       "author": "Tariq Panja and Lucía Cholakian Herrera",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:41.590875+00:00"
+      "retrieved_at": "2026-07-11T00:34:42.327807+00:00"
     },
     "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html": {
       "source": "NYT Business",
@@ -3908,9 +3908,9 @@
       "title": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
       "date": "Tue, 07 Jul 2026 22:01:00 +0000",
       "author": "Jenny Gross",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:15:45.301259+00:00"
+      "text": "War in the Middle East\n\nThe strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.\n\nReporting from London\n\nThe fragile recovery of oil and gas shipments through the Strait of Hormuz was put in jeopardy on Tuesday after three ships were attacked, a burst of violence that drew economic and military retaliation against Iran from Washington.\n\nU.S. forces launched a series of strikes against Iran for “attacking commercial shipping” in the strait, the U.S. Central Command said on Tuesday evening. Earlier, the Treasury Department revoked a sanctions waiver that had allowed Iran to sell oil for 60 days starting in late June. The lifting of sanctions on Iran, if made permanent, had represented a marked shift that could have helped the country rebuild its economy.\n\nA U.S. official said that Iran’s actions in the strait were “wholly unacceptable” to the United States. Oil prices, which were already higher, jumped further after the U.S. move.\n\nOne of the ships that was attacked, a Qatari liquefied natural gas carrier called Al Rekayyat, was in waters off the Omani coast, according to the International Maritime Organization, a United Nations agency.\n\nQatar’s foreign ministry blamed Iran and condemned the strike, calling it an “unacceptable attack on the security & safety of international maritime navigation.”\n\nSaudi Arabia, in a statement by its foreign affairs ministry, also strongly criticized Iran. It called the attacks, including one on a Saudi oil tanker, “an assault on the security and safety of international navigation.”\n\nThe risk of mines near the central route, long used by commercial ships, has forced ships to take alternative paths: a southern route near Oman or a northern route near Iran.\n\nSources: U.N. International Maritime Organization (pre-war routes); Persian Gulf Strait Authority (Iranian routes); Joint Maritime Information Center (Omani routes and mine danger area); Marine Regions (maritime boundaries). Adina Renner/The New York Times\n\nSubscribe to The Times to read as many articles as you like.\n\nJenny Gross writes about business and economics for The Times and is based in London.",
+      "summary": " U.S. forces launched a series of strikes against Iran for “attacking commercial shipping’s in the strait. The U.N. agency says one of the ships that was attacked was in waters off the Omani coast. Qatar’S",
+      "retrieved_at": "2026-07-11T00:34:46.261932+00:00"
     },
     "https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html": {
       "source": "NYT Business",
@@ -3970,7 +3970,7 @@
       "author": "Lydia DePillis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:24.259139+00:00"
+      "retrieved_at": "2026-07-11T00:36:32.646980+00:00"
     },
     "https://www.nytimes.com/2026/07/06/business/dealbook/trump-world-cup-infantino.html": {
       "source": "NYT Business",
@@ -4120,7 +4120,7 @@
       "author": "Judson Jones",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:27.854084+00:00"
+      "retrieved_at": "2026-07-11T00:35:23.798254+00:00"
     },
     "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html": {
       "source": "NYT Climate",
@@ -4140,7 +4140,7 @@
       "author": "Amy Graff and Erin McCann",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:31.590449+00:00"
+      "retrieved_at": "2026-07-11T00:35:27.484666+00:00"
     },
     "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html": {
       "source": "NYT Climate",
@@ -4150,7 +4150,7 @@
       "author": "Kenneth P. Vogel and Karen Zraick",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:35.286512+00:00"
+      "retrieved_at": "2026-07-11T00:35:31.162420+00:00"
     },
     "https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html": {
       "source": "NYT Climate",
@@ -4158,9 +4158,9 @@
       "title": "To Stay Cool, Wear Flowing Robes and Throw Water Around? Yes, Says Science.",
       "date": "Fri, 03 Jul 2026 14:56:04 +0000",
       "author": "Hiroko Tabuchi",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:16:38.968745+00:00"
+      "text": "Throughout history, people have come up with surprising ways to beat the heat that actually work.\n\nLong before air-conditioning, people around the world came up with ingenious ways to beat the heat. But, really — wear dark, billowing robes? And drink tea?\n\nThe science can be surprising. As big chunks of the United States and Canada roast through the weekend, some of these ideas might be worth a closer look.\n\nIn Japan’s sweltering summer months, you might see storekeepers with a bucket of cold water, dousing hot pavement outside their stores.\n\nThe practice, called uchimizu, grew out of Japan’s tea ceremony tradition. It was originally a purifying ritual and an act of welcome for guests. But uchimizu also has an effect on temperature thanks to what’s known as evaporative cooling — when water evaporates, it pulls heat out of the hot ground.\n\nA 2018 study in the journal Water found that uchimizu caused air temperatures to drop by as much as 10 degrees Fahrenheit near the ground, even with small amounts of water.\n\nAccording to Shigenori Asai, director of the Japan Water Forum, the more neighbors join in and douse the pavement, the more effective it is. “You might even feel a cooling breeze,” he said. His group is sponsoring a global Uchimizu Day on Aug. 1.\n\nHiroko Tabuchi covers pollution and the environment for The Times. She has been a journalist for more than 20 years in Tokyo and New York.",
+      "summary": " The practice, called uchimizu, grew out of Japan’s tea ceremony tradition. It was originally a purifying ritual and an act of welcome for guests. It also has an effect on temperature thanks to what’'s known as evaporative cooling.",
+      "retrieved_at": "2026-07-11T00:35:34.867690+00:00"
     },
     "https://www.nytimes.com/2026/07/03/climate/heat-wave-us-canada-climate-change.html": {
       "source": "NYT Climate",
@@ -4180,7 +4180,7 @@
       "author": "Francesca Paris",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:42.685753+00:00"
+      "retrieved_at": "2026-07-11T00:35:40.434667+00:00"
     },
     "https://www.nytimes.com/2026/07/02/climate/court-national-parks-signs-trump.html": {
       "source": "NYT Climate",
@@ -4230,7 +4230,7 @@
       "author": "Raymond Zhong and Mira Rojanasakul",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:50.304594+00:00"
+      "retrieved_at": "2026-07-11T00:35:52.885814+00:00"
     },
     "https://www.nytimes.com/2026/07/02/climate/fireworks-effects-washington-smoke-dogs.html": {
       "source": "NYT Climate",
@@ -4240,7 +4240,7 @@
       "author": "Quinn Glabicki, Catrin Einhorn and Maxine Joselow",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:16:57.735561+00:00"
+      "retrieved_at": "2026-07-11T00:36:05.731826+00:00"
     },
     "https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html": {
       "source": "NYT Climate",
@@ -4260,7 +4260,7 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:01.415137+00:00"
+      "retrieved_at": "2026-07-11T00:36:09.743064+00:00"
     },
     "https://www.nytimes.com/2026/07/01/weather/heat-domes-europe-us.html": {
       "source": "NYT Climate",
@@ -4280,7 +4280,7 @@
       "author": "Nazaneen Ghaffar, Erin McCann and Amy Graff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:05.089436+00:00"
+      "retrieved_at": "2026-07-11T00:36:13.466696+00:00"
     },
     "https://www.nytimes.com/2026/06/30/climate/heat-wave-wildfires.html": {
       "source": "NYT Climate",
@@ -4290,7 +4290,7 @@
       "author": "David Gelles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:08.797963+00:00"
+      "retrieved_at": "2026-07-11T00:36:17.199938+00:00"
     },
     "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html": {
       "source": "NYT Climate",
@@ -4300,7 +4300,7 @@
       "author": "Jack Ewing",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:12.524913+00:00"
+      "retrieved_at": "2026-07-11T00:36:20.900734+00:00"
     },
     "https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html": {
       "source": "NYT Climate",
@@ -4330,7 +4330,7 @@
       "author": "Nazaneen Ghaffar, Judson Jones and Camille Baker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:16.247226+00:00"
+      "retrieved_at": "2026-07-11T00:36:24.610466+00:00"
     },
     "https://www.nytimes.com/2026/06/29/climate/trump-offshore-wind-duke-energy.html": {
       "source": "NYT Climate",
@@ -4340,7 +4340,7 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:19.958283+00:00"
+      "retrieved_at": "2026-07-11T00:36:28.306020+00:00"
     },
     "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html": {
       "source": "NYT Climate",
@@ -4480,7 +4480,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:34.952278+00:00"
+      "retrieved_at": "2026-07-11T00:36:36.466133+00:00"
     },
     "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html": {
       "source": "NYT Economy",
@@ -4490,7 +4490,7 @@
       "author": "Ben Casselman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:39.005635+00:00"
+      "retrieved_at": "2026-07-11T00:36:40.183440+00:00"
     },
     "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html": {
       "source": "NYT Economy",
@@ -4500,7 +4500,7 @@
       "author": "Ana Swanson and Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:42.816048+00:00"
+      "retrieved_at": "2026-07-11T00:36:43.900323+00:00"
     },
     "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html": {
       "source": "NYT Economy",
@@ -4510,7 +4510,7 @@
       "author": "Ana Swanson, Ian Austen and Emiliano Rodríguez Mega",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:46.540587+00:00"
+      "retrieved_at": "2026-07-11T00:36:47.620113+00:00"
     },
     "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html": {
       "source": "NYT Economy",
@@ -4520,7 +4520,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:50.231971+00:00"
+      "retrieved_at": "2026-07-11T00:36:51.307714+00:00"
     },
     "https://www.nytimes.com/2026/06/26/business/economy/trump-tariffs-europe.html": {
       "source": "NYT Economy",
@@ -4540,7 +4540,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:17:53.914505+00:00"
+      "retrieved_at": "2026-07-11T00:36:55.005320+00:00"
     },
     "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs": {
       "source": "NPR News",
@@ -7320,7 +7320,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:02.530713+00:00"
+      "retrieved_at": "2026-07-11T00:37:14.119840+00:00"
     },
     "https://cnn.it/411KYN7": {
       "source": "CNN World",
@@ -7360,7 +7360,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:18:07.794663+00:00"
+      "retrieved_at": "2026-07-11T00:37:18.308726+00:00"
     },
     "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html": {
       "source": "CNN World",
@@ -8250,7 +8250,7 @@
       "author": "Rachel Chason, Suzan Haidamous",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:46.868791+00:00"
+      "retrieved_at": "2026-07-11T00:38:56.532643+00:00"
     },
     "https://www.washingtonpost.com/world/2026/07/09/congo-health-workers-fighting-ebola-go-strike-after-months-without-pay/": {
       "source": "WashPost World",
@@ -8260,7 +8260,7 @@
       "author": "Rael Ombuor, Rachel Chason",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:48.505362+00:00"
+      "retrieved_at": "2026-07-11T00:38:58.163824+00:00"
     },
     "https://www.washingtonpost.com/world/2026/07/08/trump-declares-ceasefire-with-iran-has-ended/": {
       "source": "WashPost World",
@@ -8270,7 +8270,7 @@
       "author": "Michael Birnbaum, Victoria Craw, Dan Lamothe",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:50.135211+00:00"
+      "retrieved_at": "2026-07-11T00:38:59.794220+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/": {
       "source": "WashPost Politics",
@@ -8310,7 +8310,7 @@
       "author": "Dan Diamond",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:02.400855+00:00"
+      "retrieved_at": "2026-07-11T00:39:12.063964+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/": {
       "source": "WashPost National",
@@ -8320,7 +8320,7 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:47.292190+00:00"
+      "retrieved_at": "2026-07-11T00:40:00.031920+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/09/sens-fetterman-d-mccormick-r-form-rare-bipartisan-fundraising-committee/": {
       "source": "WashPost Politics",
@@ -8330,7 +8330,7 @@
       "author": "Praveena Somasundaram",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:05.739610+00:00"
+      "retrieved_at": "2026-07-11T00:39:15.480841+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/09/democrats-seek-way-forward-amid-finger-pointing-maine/": {
       "source": "WashPost Politics",
@@ -8340,7 +8340,7 @@
       "author": "Dan Merica, Alexei Koseff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:07.388892+00:00"
+      "retrieved_at": "2026-07-11T00:39:17.107684+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/09/democratic-party-fissures-are-shaping-michigans-crucial-senate-primary/": {
       "source": "WashPost Politics",
@@ -8350,7 +8350,7 @@
       "author": "Karen Tumulty",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:09.029380+00:00"
+      "retrieved_at": "2026-07-11T00:39:18.754408+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/07/08/who-could-replace-platner-maine-ballot/": {
       "source": "WashPost Politics",
@@ -8390,7 +8390,7 @@
       "author": "Jarrell Dillard, Noah Robertson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:21.896369+00:00"
+      "retrieved_at": "2026-07-11T00:39:32.705172+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/09/one-city-steps-snap-cuts-leave-families-struggling/": {
       "source": "WashPost National",
@@ -8400,7 +8400,7 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:48.921007+00:00"
+      "retrieved_at": "2026-07-11T00:40:01.656975+00:00"
     },
     "https://www.washingtonpost.com/obituaries/2026/07/09/wally-funk-trailblazing-aviator-who-waited-60-years-go-space-dies-87/": {
       "source": "WashPost National",
@@ -8410,7 +8410,7 @@
       "author": "Harrison Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:50.547648+00:00"
+      "retrieved_at": "2026-07-11T00:40:03.283603+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/09/graham-platners-coastal-maine-hometown-his-fall-is-personal/": {
       "source": "WashPost National",
@@ -8420,7 +8420,7 @@
       "author": "Joanna Slater",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:52.184031+00:00"
+      "retrieved_at": "2026-07-11T00:40:04.912916+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/07/08/majority-black-memphis-anger-over-redistricting-has-turned-into-resolve/": {
       "source": "WashPost National",
@@ -11970,7 +11970,7 @@
       "author": "#author.fullName}",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:21:20.195923+00:00"
+      "retrieved_at": "2026-07-11T00:40:24.157947+00:00"
     },
     "https://www.newscientist.com/article/2532073-i-have-a-100-per-cent-chance-of-getting-cancer-due-to-a-rare-gene/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home": {
       "source": "New Scientist",
@@ -20578,9 +20578,9 @@
       "title": "Meet Neil, Australia’s Celebrity Seal",
       "date": "Fri, 10 Jul 2026 04:01:12 +0000",
       "author": "Laura Chung",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:10:35.810077+00:00"
+      "text": "The young elephant seal has gained fans around the world. But the authorities warn he could be in danger of being loved to death.\n\nReporting from Seven Mile Beach, Tasmania\n\nA steady stream of people has come to get the best view of Australia’s biggest celebrity. In the coastal town of Seven Mile Beach, in Tasmania, children sit on their parents’ shoulders; people clamber onto rocks, some clutching binoculars. A murmur of excitement echoes through the crowd every time the star moves.\n\nCars drive at a snail’s pace to catch a glimpse of the V.I.P. and passengers smile in delight when they do. Multiple TV crews are watching closely.\n\nThey have come for Neil: an unruly, 2,204-pound southern elephant seal who is making his twice-a-year pilgrimage to Tasmania’s southeast coast, his birthplace. Although Neil has always had a large fan base, his fame seems to have reached new heights this year.\n\nVideos of him smashing traffic cones or wooden fences, seizing bollards, bumping cars and telephone boxes, or simply lazing in the middle of the road have spread across the world, attracting millions of views. Merchandise featuring Neil has sold out within hours.\n\nNeil seems unbothered by his legion of fans. On the day The New York Times visited, he slept for hours beside a wooden fence that wobbled every time he let out a loud snort — which was often.\n\nLaura Chung is a Sydney-based reporter and researcher for The Times, covering Australia, New Zealand and the Pacific.",
+      "summary": " The 2,204-pound southern elephant seal is making his twice-a-year pilgrimage to Tasmania’s southeast coast. He is making a pilgrimage to Seven Mile Beach, in Tasmania, to get the best view of him.",
+      "retrieved_at": "2026-07-11T00:29:49.661662+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/middleeast/photo-detainee-bound.html": {
       "source": "NYT World",
@@ -20590,7 +20590,7 @@
       "author": "David M. Halbfinger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:11:00.164311+00:00"
+      "retrieved_at": "2026-07-11T00:30:11.571509+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html": {
       "source": "NYT World",
@@ -20598,9 +20598,9 @@
       "title": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War",
       "date": "Thu, 09 Jul 2026 20:04:47 +0000",
       "author": "Ivan Nechepurenko",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:11:04.240070+00:00"
+      "text": "War in the Middle East\n\nAs oil prices fall back to levels not seen since before the Middle East war began, the Kremlin will be forced to confront a deepening budget deficit.\n\nAs a major producer of oil and gas, Russia has been one of the few countries to benefit from the U.S.-Israeli war against Iran, which constricted global fuel supplies and sent prices to peaks unseen in years.\n\nBut that windfall proved limited and short-lived. In late June, after prices receded amid easing tensions in the Persian Gulf, it became clear that the oil and gas bonus had failed to reverse Russia’s deepening budget crisis, according to the latest prices for Moscow’s crude and budgetary figures released by its Finance Ministry on Thursday.\n\nIn recent months, Russia has found it increasingly hard to finance its ballooning spending, driven largely by military expenses and the war against Ukraine. During the first six months of this year, the government spent $320 billion, or 55 percent of the amount it had budgeted for the entire year, the Finance Ministry said.\n\nAided by the surge in the price of fossil fuels that began in early March, the federal budget deficit decreased somewhat in June. But it still stood at $75 billion for the first half of the year — far more than anticipated when the budget was adopted, and more than $30 billion higher than in the first half of 2025.\n\nRussian oil revenues rose sharply in the second quarter, but that trend is set to reverse unless the conflict in the Middle East reignites fully. According to Argus Media, a price reporting agency used by the Russian government to calculate its oil extraction taxes, by the end of June the price of Russian crude oil had retreated from the peaks reached in May to its prewar levels.\n\nIn addition, the second-quarter windfall failed to make up for poor revenue in the first quarter, when prices were low. Overall, Russia’s oil and gas revenues for the first six months of the year were more than 22 percent lower than the same period in 2025.\n\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\n\nThank you for your patience while we verify access.\n\nAlready a subscriber? Log in.\n\nWant all of The Times? Subscribe.",
+      "summary": " Russia has been one of the few countries to benefit from the U.S.-Israeli war against Iran. But that windfall proved limited and short-lived, according to the latest prices for Moscow’s crude and budgetary figures released by its Finance Ministry on Thursday.",
+      "retrieved_at": "2026-07-11T00:30:15.292506+00:00"
     },
     "https://www.nytimes.com/2026/07/09/us/tyler-robinson-text-messages-charlie-kirk-assassination.html": {
       "source": "NYT US",
@@ -20640,7 +20640,7 @@
       "author": "Becky Ferreira",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:13:18.265487+00:00"
+      "retrieved_at": "2026-07-11T00:32:28.648864+00:00"
     },
     "https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html": {
       "source": "NYT Climate",
@@ -20648,9 +20648,9 @@
       "title": "Advanced Recycling Hits a Rough Patch",
       "date": "Fri, 10 Jul 2026 12:11:00 +0000",
       "author": "Hiroko Tabuchi",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:16:00.759128+00:00"
+      "text": "In the past weeks, two sites in the United States have halted operations.\n\nNationwide, less than 10 percent of discarded plastic gets recycled. A lot of plastic products are tricky to recycle. Most of it goes straight to the landfill.\n\nOne possible solution that’s emerged in recent years is advanced recycling.\n\nAdvanced recycling, also called chemical recycling, uses heat and chemical reactions to break down plastic waste into its molecular building blocks.\n\nIt’s promising on paper, and the chemicals industry has heavily promoted advanced recycling, as has the Trump administration. Except, the industry is running into trouble.\n\nIn the past weeks, two of just a handful of advanced recycling sites in the United States have suspended operations: the Freepoint Eco-Systems plant in Hebron, Ohio, and the Braven Environmental plant in Zebulon, N.C.\n\nBoth closures followed environmental violations cited by state regulators involving harmful air pollution and hazardous waste.\n\nNow, just seven advanced recycling plants remain in the United States, barely making a dent in the amount of plastic that’s discarded, according to Beyond Plastics, an environmental advocacy group.\n\nHiroko Tabuchi covers pollution and the environment for The Times. She has been a journalist for more than 20 years in Tokyo and New York.",
+      "summary": "Less than 10 percent of discarded plastic gets recycled in the U.S. Advanced recycling, also called chemical recycling, uses heat and chemical reactions to break down plastic waste into its molecular building blocks. In the past weeks, two of just a handful of advanced recycling sites in the United States have suspended operations.",
+      "retrieved_at": "2026-07-11T00:35:04.338528+00:00"
     },
     "https://www.nytimes.com/2026/07/09/travel/basic-business-class-airlines-delta-united.html": {
       "source": "NYT Business",
@@ -22660,7 +22660,7 @@
       "author": "Jarrell Dillard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:20.211814+00:00"
+      "retrieved_at": "2026-07-11T00:39:31.018144+00:00"
     },
     "https://www.washingtonpost.com/lifestyle/2026/07/10/they-met-while-being-treated-brain-injuries-now-theyre-getting-married/": {
       "source": "WashPost National",
@@ -22670,7 +22670,7 @@
       "author": "Kyle Melnick",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:45.580694+00:00"
+      "retrieved_at": "2026-07-11T00:39:58.387775+00:00"
     },
     "https://www.wired.com/story/ulta-coupon/": {
       "source": "Wired",
@@ -23470,7 +23470,7 @@
       "author": "Luis Ferré-Sadurní, Isayen Herrera and Fabiola Ferrero",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:10:20.873477+00:00"
+      "retrieved_at": "2026-07-11T00:29:34.458298+00:00"
     },
     "https://www.nytimes.com/video/world/100000010937075/inside-a-theater-sheltering-families-in-lebanon.html": {
       "source": "NYT World",
@@ -23478,9 +23478,9 @@
       "title": "Inside a Theater Sheltering Families in Lebanon",
       "date": "Fri, 10 Jul 2026 09:00:19 +0000",
       "author": "Christina Goldbaum and Sutton Raphael",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:10:46.898452+00:00"
+      "text": "Make sense of the day’s news and ideas.\n\nCatch up on big news, and wind down to end your day.\n\nThe biggest stories of our time, in 20 minutes a day.\n\nA guide to understanding the news, made for readers around the globe.\n\nOriginal analysis on the week’s biggest global stories.\n\nThe latest news for any part of the world you select.\n\nBackstories and analysis from our Canadian correspondents.\n\nThe most crucial business and policy news you need to know.\n\nOur best tech reporting from the week.\n\nOur tech journalists help you make sense of the rapidly changing tech world.\n\nReviews, news and features to help you find your next read.\n\nStreaming TV and movie recommendations.\n\nThe podcast that takes you inside the literary world.\n\nPop music news, new songs and albums, and artists of note.\n\nUnwind with stories about culture and the way we live.\n\nEssential news and guidance to live your healthiest life.\n\nThe complicated love lives of real people.\n\nMapping the new world order through interviews and conversations.\n\nYou've heard the news, here's what to make of it.\n\nDiscussions of ideas that matter, plus book recommendations.\n\nCome on in, the culture's fine.\n\nYour morning listen. Top stories, in 10 minutes.\n\nCompassion has its limits when it comes to your own cousin.\n\nOur editors share their favorite listens from The Times and beyond.\n\nBe the first to know about our new shows.\n\nWord games, logic puzzles and crosswords, including an extensive archive. Go to Games\n\nThe Midi Crossword NEW\n\nPuzzles, brain teasers, solving tips and more.\n\nGet an easy version of one of the hardest crossword puzzles of the week.\n\nRecipes, advice and inspiration for everyday cooking, special occasions and more. Go to Cooking\n\nNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.\n\nDelicious vegetarian recipes and tips from Tanya Sichynsky.\n\nDinner ideas for busy people from Emily Weinstein.\n\nReviews and recommendations for thousands of products. Go to Wirecutter\n\nThe best independent reviews, expert advice and intensively researched deals.\n\nStep-by-step advice on how to keep everything in your home squeaky clean.\n\nPersonalized coverage of your sports teams and leagues. Go to The Athletic\n\nDelivering the top stories in sports, Sunday to Friday.\n\nDaily updates and insights from the 2026 men's World Cup.\n\nConnections: Sports Edition\n\nConnections: Soccer Edition\n\nnew video loaded: Inside a Theater Sheltering Families in Lebanon",
+      "summary": " The biggest stories of our time, in 20 minutes a day, in 10 minutes a week. Read the latest news for any part of the world you select. Read our weekly news stories from our Canadian correspondents.",
+      "retrieved_at": "2026-07-11T00:30:03.288664+00:00"
     },
     "https://www.nytimes.com/2026/07/09/us/politics/trump-iran-war.html": {
       "source": "NYT World",
@@ -23520,7 +23520,7 @@
       "author": "Max Bearak, Yeganeh Torbati, Eric Schmitt and Michael Levenson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:10:50.620234+00:00"
+      "retrieved_at": "2026-07-11T00:30:07.802025+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/iran-war-hardliners-hormuz-funeral.html": {
       "source": "NYT World",
@@ -23560,7 +23560,7 @@
       "author": "Richard Fausset",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:24.683946+00:00"
+      "retrieved_at": "2026-07-11T00:31:41.016598+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html": {
       "source": "NYT US",
@@ -23590,17 +23590,17 @@
       "author": "Christina Morales and Jacey Fortin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:28.361289+00:00"
+      "retrieved_at": "2026-07-11T00:31:44.743558+00:00"
     },
     "https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html": {
-      "source": "NYT Politics",
+      "source": "NYT US",
       "link": "https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html",
       "title": "The U.S. and Iran Are Fighting Again. Is the Cease-Fire Over?",
       "date": "Fri, 10 Jul 2026 16:47:59 +0000",
       "author": "Eric Schmitt, Gilad Thaler, Jon Miller, Rafaela Balster, Stephanie Swart, Jon Hazell and Whitney Shefte",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:12:47.462471+00:00"
+      "text": "Make sense of the day’s news and ideas.\n\nCatch up on big news, and wind down to end your day.\n\nThe biggest stories of our time, in 20 minutes a day.\n\nA guide to understanding the news, made for readers around the globe.\n\nOriginal analysis on the week’s biggest global stories.\n\nThe latest news for any part of the world you select.\n\nBackstories and analysis from our Canadian correspondents.\n\nThe most crucial business and policy news you need to know.\n\nOur best tech reporting from the week.\n\nOur tech journalists help you make sense of the rapidly changing tech world.\n\nReviews, news and features to help you find your next read.\n\nStreaming TV and movie recommendations.\n\nThe podcast that takes you inside the literary world.\n\nPop music news, new songs and albums, and artists of note.\n\nUnwind with stories about culture and the way we live.\n\nEssential news and guidance to live your healthiest life.\n\nThe complicated love lives of real people.\n\nMapping the new world order through interviews and conversations.\n\nYou've heard the news, here's what to make of it.\n\nDiscussions of ideas that matter, plus book recommendations.\n\nCome on in, the culture's fine.\n\nYour morning listen. Top stories, in 10 minutes.\n\nCompassion has its limits when it comes to your own cousin.\n\nOur editors share their favorite listens from The Times and beyond.\n\nBe the first to know about our new shows.\n\nWord games, logic puzzles and crosswords, including an extensive archive. Go to Games\n\nThe Midi Crossword NEW\n\nPuzzles, brain teasers, solving tips and more.\n\nGet an easy version of one of the hardest crossword puzzles of the week.\n\nRecipes, advice and inspiration for everyday cooking, special occasions and more. Go to Cooking\n\nNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.\n\nDelicious vegetarian recipes and tips from Tanya Sichynsky.\n\nDinner ideas for busy people from Emily Weinstein.\n\nReviews and recommendations for thousands of products. Go to Wirecutter\n\nThe best independent reviews, expert advice and intensively researched deals.\n\nStep-by-step advice on how to keep everything in your home squeaky clean.\n\nPersonalized coverage of your sports teams and leagues. Go to The Athletic\n\nDelivering the top stories in sports, Sunday to Friday.\n\nDaily updates and insights from the 2026 men's World Cup.\n\nConnections: Sports Edition\n\nConnections: Soccer Edition\n\nnew video loaded: The U.S. and Iran Are Fighting Again. Is the Cease-Fire Over?",
+      "summary": " The biggest stories of our time, in 20 minutes a day, in 10 minutes a week. Read the latest news for any part of the world you select. Read our weekly news stories from our Canadian correspondents.",
+      "retrieved_at": "2026-07-11T00:31:48.486839+00:00"
     },
     "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html": {
       "source": "NYT US",
@@ -23740,7 +23740,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:44.276210+00:00"
+      "retrieved_at": "2026-07-11T00:33:47.443745+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/hotel-workers-world-cup.html": {
       "source": "NYT Business",
@@ -23750,7 +23750,7 @@
       "author": "Kurtis Lee",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:47.970576+00:00"
+      "retrieved_at": "2026-07-11T00:33:51.191539+00:00"
     },
     "https://www.nytimes.com/2026/07/10/travel/barcelona-overtourism-jose-antonio-donaire.html": {
       "source": "NYT Business",
@@ -23770,7 +23770,7 @@
       "author": "Jason Karaian",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:51.787671+00:00"
+      "retrieved_at": "2026-07-11T00:33:54.917525+00:00"
     },
     "https://www.nytimes.com/2026/07/09/business/warsh-announces-slate-of-new-advisers-for-fed-task-forces.html": {
       "source": "NYT Business",
@@ -23790,7 +23790,7 @@
       "author": "Steven Lee Myers and Dustin Volz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:55.489081+00:00"
+      "retrieved_at": "2026-07-11T00:33:58.600704+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html": {
       "source": "NYT Climate",
@@ -24370,7 +24370,7 @@
       "author": "Jia Lynn Yang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:43.761085+00:00"
+      "retrieved_at": "2026-07-11T00:32:01.546375+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html": {
       "source": "NYT Tech",
@@ -25608,9 +25608,9 @@
       "title": "Wall St. Sets Limits on Prediction Market Trading",
       "date": "Fri, 10 Jul 2026 11:30:06 +0000",
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:14:40.555132+00:00"
+      "text": "Goldman Sachs is the latest firm to restrict how employees use the popular betting platforms.\n\nBy Andrew Ross SorkinBernhard WarnerSarah KesslerMichael J. de la MercedNiko GalloglyBrian O’Keefe and Ian Mount\n\nAndrew here. Here’s a dilemma for the C-suite: Should employees be allowed to place bets with prediction markets?\n\nI’m not talking about insider trading of your own stock. Imagine logistics managers using their unique supply chain visibility to wager on inflation data. They aren’t betting on their employers — but they are monetizing an information edge that the public doesn’t have.\n\nWall Street is already clamping down. Goldman Sachs and others are barring employees from trading financial and political event contracts, citing compliance and conflict risks. Let me know what you think the rules should be.\n\nPrediction markets like Kalshi and Polymarket have become a big business, with aims of becoming a next-generation Wall Street.\n\nBut existing financial giants are limiting what their employees can do on these betting platforms, underscoring growing fears of wagers based on illicit information, Michael de la Merced writes.\n\nSubscribe to The Times to read as many articles as you like.\n\nAndrew Ross Sorkin is a columnist and the founder of DealBook, the flagship business and policy newsletter at The Times and an annual conference.\n\nBernhard Warner is a senior editor for DealBook, a newsletter from The Times, covering business trends, the economy and the markets.\n\nSarah Kessler is the weekend edition editor of the DealBook newsletter and writes features on business.\n\nMichael J. de la Merced has covered global business and finance news for The Times since 2006.\n\nNiko Gallogly is a Times reporter, covering business for the DealBook newsletter.\n\nBrian O'Keefe is the managing editor of DealBook, a newsletter from The New York Times that covers business, policy and culture — and the many ways they overlap.",
+      "summary": "Goldman Sachs is the latest firm to restrict how employees use the popular betting platforms. The firm is the most recent to restrict what employees can do on these betting platforms, underscoring growing fears of illicit information.",
+      "retrieved_at": "2026-07-11T00:33:42.235131+00:00"
     },
     "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas": {
       "source": "NPR News",
@@ -26620,7 +26620,7 @@
       "author": "Anthony Faiola",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:45.228443+00:00"
+      "retrieved_at": "2026-07-11T00:38:54.886436+00:00"
     },
     "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on": {
       "source": "The Verge",
@@ -27030,7 +27030,7 @@
       "author": "Jeff Sommer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:36.519981+00:00"
+      "retrieved_at": "2026-07-11T00:33:38.509253+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/volkswagen-china-problems-restructuring.html": {
       "source": "NYT Business",
@@ -27060,7 +27060,7 @@
       "author": "Brianna  Abbott",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:57.078313+00:00"
+      "retrieved_at": "2026-07-11T00:35:00.639368+00:00"
     },
     "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-becomes-law-without-trump-signature": {
       "source": "NPR News",
@@ -28700,7 +28700,7 @@
       "author": "Cole Reynolds",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:43.942079+00:00"
+      "retrieved_at": "2026-07-11T00:39:56.758657+00:00"
     },
     "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report": {
       "source": "The Verge",
@@ -29360,7 +29360,7 @@
       "author": "Stephen Castle",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:10:32.133491+00:00"
+      "retrieved_at": "2026-07-11T00:29:45.935494+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html": {
       "source": "NYT US",
@@ -29470,7 +29470,7 @@
       "author": "Rachel Chason",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:43.601723+00:00"
+      "retrieved_at": "2026-07-11T00:38:53.260413+00:00"
     },
     "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/": {
       "source": "TechCrunch",
@@ -29940,7 +29940,7 @@
       "author": "Audra D. S. Burch and Mark Bonamo",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:20.974640+00:00"
+      "retrieved_at": "2026-07-11T00:31:37.339263+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html": {
       "source": "NYT Business",
@@ -30710,7 +30710,7 @@
       "author": "Reid J. Epstein",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:17.272865+00:00"
+      "retrieved_at": "2026-07-11T00:31:33.598435+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html": {
       "source": "NYT Business",
@@ -30720,7 +30720,7 @@
       "author": "Peter Eavis, Jenny Gross and Eric Schmitt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:14:26.279343+00:00"
+      "retrieved_at": "2026-07-11T00:33:34.464427+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/trump-climate-assessment-wielicki.html": {
       "source": "NYT Climate",
@@ -30730,7 +30730,7 @@
       "author": "Maxine Joselow and Brad Plumer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:49.594271+00:00"
+      "retrieved_at": "2026-07-11T00:34:53.010462+00:00"
     },
     "https://www.theguardian.com/politics/2026/jul/10/ann-widdecombe-uncompromising-politician-who-embraced-tv-fame": {
       "source": "Guardian World",
@@ -30800,7 +30800,7 @@
       "author": "Mary Ilyushina",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:19:41.927571+00:00"
+      "retrieved_at": "2026-07-11T00:38:51.583813+00:00"
     },
     "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/": {
       "source": "TechCrunch",
@@ -30868,9 +30868,9 @@
       "title": "Earth observation satellites pass telecom in European space industry sales",
       "date": "Fri, 10 Jul 2026 18:12:24 +0000",
       "author": "Emma Gatti",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:21:27.666304+00:00"
+      "text": "MILAN – European space industry sales rebounded in 2025 after a contraction in 2024, Eurospace reported in its latest Facts and Figures report, presented July 7. The growth is driven in large part by military acquisition of Earth observation satellites, which are now the largest revenue-producing space sector for the continent.\n\nSatellite applications, which Eurospace defines as  satellites enabling operational upstream-sector activities and applications within the EO, telecom and navigation segment, were the main area of growth, increasing 23.5% compared with 2023.\n\n“Comparably, the launcher systems segment [which include both development activities and operational systems and parts] have not grown significantly,” Pierre Lionnet, managing director of Eurospace, said during the briefing.\n\nSplitting product segments into subcategories gives a clearer picture of where sales are coming from.\n\n“Historically,” Lionnet said, “telecommunication systems were the number-one area of revenue for the European industry. But we now see that Earth observation systems have taken over telecommunication as the main revenue segment for the European industry.” For example in 2025 Earth observation systems manufacturing sales surpassed telecommunication systems by 24%.\n\nThat shift is being driven by growing military demand, Lionnet added, “which now is mostly expressed toward Earth observation systems more than anything else.” Spain, France, Germany, Poland and Finland are registering the highest demand.\n\nProfessional services, including technical assistance, financial assistance, engineering, system development and innovation road mapping, have also shown steady growth in recent years.\n\n“National and European agencies are now externalizing a number of things to the industry. A lot of that activity is now being outsourced to industrial players, and this is an interesting shift, because it has been a major area for industry revenue growth,” Lionnet remarked.\n\nWhile Earth observation systems, supported by military demand, are now the major driver of European industry sales, the European Space Agency remains the industry’s largest customer.\n\nESA-related revenues increased by 560 million euro (+20%)  from 2024 to 2025, supported by policy and strategy reforms introduced to allow faster spending within the agency’s processes.\n\nThe second-largest source of revenue has come from non-European commercial customers, categorized in the report as commercial export programs. This includes sales by European companies to private entities outside Europe, covering components and equipment, development systems, launcher elements and complete satellites.\n\n“All the exports have seen growth in recent years, which was unexpected,” Lionnet said.\n\nThat growth is split roughly equally between full spacecraft systems and equipment, including launcher fairings and deployment systems. Those systems have become an important business line linked to the development of launch activity worldwide and to Amazon’s LEO constellation deployment.\n\nThe report highlighted that institutional programs still account for more than 70% of total industry revenues, underscoring that Europe’s space economy cannot yet be described as privately driven.\n\nSome indicators are improving, however. Commercial and export sales have increased by 35% since 2024, driven largely by the uptake of operational launch services.\n\n“With seven [Ariane 6 and Vega C] launches in 2025 compared to only three in 2024, there were major business opportunities and revenues for the European supply chain, mostly driven by the uptake in launch system deliveries,” Lionnet said, noting that sustained demand for Amazon’s LEO launches has become an important driver of Ariane 6 activity.\n\nEmma Gatti is a planetary scientist, editor and journalist, and serves as a research professor in Space Journalism and Current Affairs at the Faculty of Space Technology, AGH University of Krakow. She is also the director of The Space Republic, a media...\nMore by Emma Gatti",
+      "summary": " European space industry sales rebounded in 2025 after a contraction in 2024, Eurospace reported. Growth driven in large part by military acquisition of Earth observation satellites. Satellite applications, which Eurospace defines as satellites enabling operational upstream-sector activities, were the main area of growth.",
+      "retrieved_at": "2026-07-11T00:40:39.302427+00:00"
     },
     "https://www.space.com/space-exploration/launches-spacecraft/launching-from-2-continents-germanys-isar-aerospace-leases-canadian-pad-for-usd150-million": {
       "source": "Space.com",
@@ -31070,7 +31070,7 @@
       "author": "Suhasini Raj and Jeremy W. Peters",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:10:28.408123+00:00"
+      "retrieved_at": "2026-07-11T00:29:42.240870+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/politics/ice-deports-immigrant-pardoned-minnesota.html": {
       "source": "NYT Politics",
@@ -31080,7 +31080,7 @@
       "author": "Amy Qin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:40.059672+00:00"
+      "retrieved_at": "2026-07-11T00:31:57.866540+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html": {
       "source": "NYT World",
@@ -31470,7 +31470,7 @@
       "author": "Zane Irwin and Megan Specia",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:10:24.706700+00:00"
+      "retrieved_at": "2026-07-11T00:29:38.426733+00:00"
     },
     "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html": {
       "source": "NYT World",
@@ -31480,7 +31480,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:10:43.201502+00:00"
+      "retrieved_at": "2026-07-11T00:29:59.596291+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/charlie-kirk-shooting-hearing.html": {
       "source": "NYT US",
@@ -31490,7 +31490,7 @@
       "author": "Nicholas Bogel-Burroughs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:02.494834+00:00"
+      "retrieved_at": "2026-07-11T00:31:18.643178+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html": {
       "source": "NYT US",
@@ -31500,7 +31500,7 @@
       "author": "Reid J. Epstein and Tim Balk",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:06.196652+00:00"
+      "retrieved_at": "2026-07-11T00:31:22.377630+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html": {
       "source": "NYT US",
@@ -31510,7 +31510,7 @@
       "author": "Jazmine Ulloa, Hamed Aleaziz and Emiliano Rodríguez Mega",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:09.874536+00:00"
+      "retrieved_at": "2026-07-11T00:31:26.062374+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html": {
       "source": "NYT Business",
@@ -32420,7 +32420,7 @@
       "author": "Julia Shapero",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:16.013950+00:00"
+      "retrieved_at": "2026-07-11T00:41:33.006019+00:00"
     },
     "https://thehill.com/homenews/administration/5963258-trump-iran-assassination-military-action/": {
       "source": "The Hill",
@@ -32430,7 +32430,7 @@
       "author": "Ellen Mitchell",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:19.887217+00:00"
+      "retrieved_at": "2026-07-11T00:41:37.171267+00:00"
     },
     "https://thehill.com/homenews/5963267-trump-administration-rolls-back-key-endangered-species-protection/": {
       "source": "The Hill",
@@ -32440,7 +32440,7 @@
       "author": "Rachel Frazin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:24.024461+00:00"
+      "retrieved_at": "2026-07-11T00:41:41.394944+00:00"
     },
     "https://thehill.com/homenews/5963165-doj-sues-maryland-over-immigration-sanctuary-law/": {
       "source": "The Hill",
@@ -32450,7 +32450,7 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:28.377212+00:00"
+      "retrieved_at": "2026-07-11T00:41:45.792811+00:00"
     },
     "https://thehill.com/homenews/5963058-mccarthy-criticizes-speaker-johnson/": {
       "source": "The Hill",
@@ -32460,7 +32460,7 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:32.753932+00:00"
+      "retrieved_at": "2026-07-11T00:41:50.202336+00:00"
     },
     "https://thehill.com/video-clips/5962875-watch-live-houston-ice-shooting-press-conference/": {
       "source": "The Hill",
@@ -32470,7 +32470,7 @@
       "author": "The Hill Staff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:37.080994+00:00"
+      "retrieved_at": "2026-07-11T00:41:54.546743+00:00"
     },
     "https://thehill.com/homenews/senate/5963080-senators-trump-russia-sanctions-bill/": {
       "source": "The Hill",
@@ -32820,7 +32820,7 @@
       "author": "David E. Sanger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:36.290658+00:00"
+      "retrieved_at": "2026-07-11T00:31:54.044592+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/politics/graham-platner-maine-senate-withdraw.html": {
       "source": "NYT US",
@@ -32840,7 +32840,7 @@
       "author": "Kalley Huang and Cade Metz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:12:59.181610+00:00"
+      "retrieved_at": "2026-07-11T00:32:09.572777+00:00"
     },
     "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins": {
       "source": "NPR News",
@@ -32910,7 +32910,7 @@
       "author": "Tim Craig",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:20:42.263381+00:00"
+      "retrieved_at": "2026-07-11T00:39:55.005868+00:00"
     },
     "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets": {
       "source": "The Verge",
@@ -33050,7 +33050,7 @@
       "author": "Rachel Frazin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:03.788206+00:00"
+      "retrieved_at": "2026-07-11T00:41:20.528007+00:00"
     },
     "https://thehill.com/blogs/in-the-know/5963363-uk-norway-embassies-get-cheeky-in-social-media-post-over-haaland-kane-world-cup-rivalry/": {
       "source": "The Hill",
@@ -33060,7 +33060,7 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:07.786445+00:00"
+      "retrieved_at": "2026-07-11T00:41:24.851943+00:00"
     },
     "https://thehill.com/homenews/campaign/5963366-platner-officially-withdraws-from-maine-senate-race/": {
       "source": "The Hill",
@@ -33070,7 +33070,7 @@
       "author": "Caroline Vakil",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:22:11.725185+00:00"
+      "retrieved_at": "2026-07-11T00:41:29.147569+00:00"
     },
     "https://www.france24.com/en/tv-shows/the-world-this-week/20260710-iran-forewarnings-and-a-funeral-nato-le-pen": {
       "source": "France 24",
@@ -33230,7 +33230,7 @@
       "author": "John S.W. MacDonald and Amy Graff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:15:53.365454+00:00"
+      "retrieved_at": "2026-07-11T00:34:56.839407+00:00"
     },
     "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -33290,7 +33290,7 @@
       "author": "Julia Manchester",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:21:59.833790+00:00"
+      "retrieved_at": "2026-07-11T00:41:16.152010+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/whyalla-liquidated-companies-gfg-ferretti-workers-pay-sa/106897886": {
       "source": "ABC Australia",
@@ -33560,7 +33560,7 @@
       "author": "Nathaniel Weixel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:21:51.144797+00:00"
+      "retrieved_at": "2026-07-11T00:41:07.222433+00:00"
     },
     "https://thehill.com/newsletters/defense-national-security/5963509-conservative-coalition-urges-congress-to-protect-internet-freedoms-in-iran/": {
       "source": "The Hill",
@@ -33570,7 +33570,7 @@
       "author": "Filip Timotija",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:21:55.537214+00:00"
+      "retrieved_at": "2026-07-11T00:41:11.751455+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/tour-de-france-stage-7-wrap-merlier-wins-pogacar-leads/106904662": {
       "source": "ABC Australia",
@@ -33638,9 +33638,9 @@
       "title": "New York Times Accuses Federal Employment Agency of Retaliation",
       "date": "Fri, 10 Jul 2026 22:56:19 +0000",
       "author": "Erik Wemple",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-07-11T00:14:22.474849+00:00"
+      "text": "A May lawsuit by the Equal Employment Opportunity Commission claims the newspaper discriminated against a white male employee who did not get a promotion.\n\nThe New York Times said in a court filing on Friday that the Trump administration had violated the newspaper’s First Amendment rights by suing it for employment discrimination. The Times called the government’s suit an act of retaliation for its coverage of the Trump presidency.\n\nIn May, the Equal Employment Opportunity Commission filed a civil rights lawsuit against The Times in U.S. District Court in Manhattan, claiming that the newspaper unlawfully discriminated against a white male employee who did not get a sought-after promotion.\n\n“The commission’s retaliatory, bad faith use of its authority to target The Times violates the First and Fifth Amendments” and “poses a uniquely insidious threat to a free and independent press,” lawyers for The Times said in a counterclaim.\n\nThe Times said the E.E.O.C. had sued after President Trump and his aides lashed out at the company for its coverage of the administration, including articles about Mr. Trump’s plans to build a ballroom at the White House, his health and the war with Iran.\n\nIt said the lawsuit had been filed just days after The Times published two articles about the E.E.O.C. In one, agency employees described feeling pressure to bring in cases alleging discrimination against white men and antisemitism on college campuses.\n\nThe E.E.O.C.’s case against The Times stems from a complaint filed with the commission last year by an editor then on the staff who applied for a job as deputy real estate editor in 2025. The job went to a multiracial woman.\n\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\n\nThank you for your patience while we verify access.\n\nAlready a subscriber? Log in.\n\nWant all of The Times? Subscribe.",
+      "summary": " The New York Times says the government's suit is an act of retaliation for its coverage of the Trump presidency. The E.E.O.C. sued after President Trump and his aides lashed out at the company for its articles about Mr. Trump’s plans to build a ballroom at the White House, his health and the war with",
+      "retrieved_at": "2026-07-11T00:33:28.282177+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/jul/11/top-boy-actor-micheal-ward-cleared-of-and-sexual-assault-charges": {
       "source": "Guardian World",
@@ -33680,7 +33680,7 @@
       "author": "Miranda Nazzaro",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:21:46.930395+00:00"
+      "retrieved_at": "2026-07-11T00:41:03.000123+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/beagle-bay-housing-residents-feel-forgotten-by-wa-government/106470082": {
       "source": "ABC Australia",
@@ -33780,7 +33780,7 @@
       "author": "Ishani Desai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:10:39.505801+00:00"
+      "retrieved_at": "2026-07-11T00:29:55.659735+00:00"
     },
     "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -33930,7 +33930,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:21:42.691731+00:00"
+      "retrieved_at": "2026-07-11T00:40:58.785056+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/derryn-hinch-greatest-hits-as-journalist-dies-aged-82/106903114": {
       "source": "ABC Australia",
@@ -34050,7 +34050,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-11T00:21:38.838709+00:00"
+      "retrieved_at": "2026-07-11T00:40:54.766120+00:00"
     },
     "https://www.abc.net.au/news/2026-07-11/tas-polling-shows-labor-sliding-further/106901358": {
       "source": "ABC Australia",
@@ -34081,6 +34081,106 @@
       "text": "The ⁠whereabouts of Mojtaba Khamenei have been a mystery to Iranians and the rest of the world alike since his appointment as supreme leader a week after the strike that killed his father at the end of February.\n\nHis absence from the main funeral ceremonies for former leader Ayatollah Ali Khamenei was so complete there was not even a written message, leaving people to guess at his plans for Iran at a turbulent time in the Islamic Republic’s 47-year history.\n\nInstalled with the backing of the powerful Revolutionary Guard, he suffered facial disfigurement and other injuries in the strike, ​senior sources say. They say he has been making decisions but has not yet been well enough to appear in public. Now, after hostilities with the U.S. reignited ‌this week, ‌his role and health are of critical — and growing — concern.\n\n“I understand that, from a security standpoint, he should not appear in public. But ​the country is going through a very difficult time,” said Taghi, 47, a shop owner in Isfahan who asked not to give his family name.\n\n“There is a need for the supreme leader to be seen. Even if he has been injured, people need to see that there is a leader and that he is running the country.”\n\nThe choreography of Thursday’s burial, with prayers for the late Khamenei conducted over his coffin by his three other sons at Iran’s holiest shrine, underscored the central place of family relationships among the ⁠Islamic Republic’s leadership.\n\nMojtaba Khamenei’s three brothers are not seen as significant political players in Iran — or likely to become so — though they have all become senior clerics.\n\nBut Ali Khomeini, a grandson of the founder of Iran’s 1979 revolution, was to speak on Mojtaba’s behalf at a mourning ceremony on Friday, a nod to ​the way such family ties are used to emphasize continuity in the ⁠clerical system.\n\nThere had been speculation that Mojtaba Khamenei would finally appear — if not in person then with a recorded message or even new photographs — when his father was finally buried in the gold-domed shrine.\n\nSenior sources in Iran have attributed the lack of any ⁠new image or voice recording since his ​March 8 appointment by a clerical assembly to health and security considerations.\n\nThe security risks are substantial given the assassination of ​his father in the very first U.S. and Israeli strikes of an unannounced war launched in the midst of diplomatic efforts to resolve the countries’ ​disputes with Iran.\n\nAnd as ‌a political, strategic, religious and revolutionary figurehead bearing ultimate authority in Iran, he may need to appear more physically capable than his recuperation yet allows.\n\nThe last official word on his condition came from President Masoud Pezeshkian, who said in May that he met the leader and his condition was improving.\n\nWhile the Revolutionary Guard appear to hold a tight rein over the country for now, it is not clear how long the leader of a theocratic state can remain out of sight.\n\n“How do ‌you have a charismatic succession when the successor isn’t there? It’s going to be a problem for them even if they ride it out for the time being. It’s not sustainable in the long run,” said Ali Ansari, modern history professor at St. Andrews University in Scotland.\n\nHis absence is starting to nag at Iranians, with more than 20 of those contacted over recent weeks voicing concern about it in conversations about Iranian politics.\n\n“The supreme leader’s absence, now that the war is over, will lead to growing uncertainty and disorder in ​the ​country, especially after the burial of the late leader,” said Mohammadreza, a 51-year-old teacher in Tehran.\n\nThe role of supreme leader is unlike ​that of most other heads of state, with Iran’s official ideology recognizing its officeholder as the representative on earth for Shiite Islam’s 12th imam who disappeared in the ninth century.\n\nIt is not clear ⁠what Mojtaba Khamenei will make of it. The first leader, Ayatollah Ruhollah Khomeini, was the charismatic father of the revolution and Iran’s most venerable religious scholar, a man whose untouchable standing and fierce mien inspired unquestioning obedience.\n\nHis successor, Ali Khamenei, had been president when he was appointed leader, but had never been seen as an especially senior religious figure, and initially lacked the authority of Khomeini.\n\nHowever, during his 37 years as leader he outmaneuvered rivals and, with the close aid of the Revolutionary Guard, imposed his ​absolute writ on nearly every aspect of the country’s political life.\n\nMojtaba Khamenei also lacks religious credentials and, unlike his father, was not a powerful political figure in his own right. Instead he ran his father’s sprawling office and its web of contacts across the country and built close ties with the Guard. His opinions, authority and capability remain a blank slate, though it seems likely the Guard will remain central to the way he rules.\n\nWith Iran still mired in the conflict despite the on-off truce, with its economy still throttled by sanctions, and with further bouts of mass unrest like the one violently suppressed in January, the country’s leader remains a cipher.",
       "summary": " Mojtaba Khamenei's absence from funeral ceremonies for former leader Ayatollah Ali Khamenei was so complete there was not even a written message. His absence from the main funeral ceremonies was socomplete there was no written message. His role and health are of critical — and growing — concern.",
       "retrieved_at": "2026-07-11T00:22:55.372997+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "date": "Sat, 11 Jul 2026 00:17:54 GMT",
+      "author": "",
+      "text": "Meta has abruptly taken down a new feature that allowed people to use its artificial intelligence (AI) tool to make fake images from user content on Instagram.\n\nThe feature was part of a broad rollout of Muse Image, a new AI image generation tool Meta released on Wednesday as part of Meta AI, the company’s chatbot.\n\nIt allowed Meta AI users to tag public-facing accounts on Instagram and quickly use content on those accounts to create AI-generated or altered content and images.\n\nThe feature quickly sparked blowback. So much so that Meta has now admitted it “missed the mark, so it’s no longer available”.\n\n“Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,” Meta added in its decision to pull the feature. “We've heard the feedback.”\n\nWhen Meta announced the feature days ago, it said it was limited to Instagram, but more AI features and integrations were planned for WhatsApp, Facebook and Messenger.\n\nIt also has an AI video tool in development.",
+      "summary": " Meta AI tool was part of a broad rollout of Muse Image, a new AI image generation tool Meta released on Wednesday. It allowed users to tag public-facing accounts on Instagram and quickly use content on those accounts to create AI-generated or altered content and images. The feature quickly sparked blowback, so Meta has now admitted",
+      "retrieved_at": "2026-07-11T00:29:24.411750+00:00"
+    },
+    "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC Science",
+      "link": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
+      "title": "Cooler for some this weekend but heatwave continues",
+      "date": "Sat, 11 Jul 2026 00:18:26 GMT",
+      "author": "",
+      "text": "Temperatures in some parts of the UK will feel noticeably cooler this weekend - but the heatwave is set to continue with heat health alerts still in force for nearly all of England.\n\nA strengthening north-easterly wind will shift the hottest spots from south-east England further west across the west Midlands and south-east Wales.\n\nFriday saw temperatures exceed 35C, making it a record for the most 35+C days in a calendar year - bringing the total so far in 2026 to six. It also brought the total of 34+C days to nine - another record. It also saw parts of Scotland enter into heatwave after three days of at least 25C.\n\nAmber and yellow heat health alerts issued by the UK Health Security Agency\n, external\n (UKHSA) remain in place across large parts of England until 21:00 BST on Sunday.\n\nFive water companies also announced hosepipe bans due to a lack of rain and increased water demand affecting over five million people.\n\nOn Friday, the maximum temperature in England of 35.2C was recorded in Coton-in-the Elms, Derbyshire, while Usk, Monmouthshire saw the highest temperature of 34.3C in Wales.\n\nThreave, Dumfries and Galloway recorded Scotland's highest temperature of 29.7C, while the highest temperature in Northern Ireland peaked at 27.4C in Killowen, Co. Down.\n\nOn Saturday the highest temperatures will be in the west Midlands, south-east Wales and parts of southern England - up to 33C.\n\nA brisk north-easterly wind means that eastern parts of England will feel a drop off in temperatures.\n\nNorth Sea coasts from Northumberland to Suffolk could remain cloudy and misty on Saturday but should be much sunnier on Sunday.\n\nScotland and Northern Ireland will also see more cloud.\n\nShowers in eastern Scotland will have died out by Sunday bringing more sunshine.\n\nTemperatures will be 23 or 24C at best but eastern Scotland will be cooler.\n\nOn Sunday, as the wind strengthens, temperatures will be a few degrees lower still in England and Wales - but could still reach 30C in southern England.\n\nPeople have been finding all sorts of ways to cool down\n\nThese changes to the weather do not mean an end to the heatwave.\n\nIt is set to heat up again next week, and while it will not a be as hot as the past seven days, the heatwave criteria could be met in more of the UK by Wednesday or Thursday.\n\nHigh pressure will remain centred to the north of the UK and the brisk east to north-easterly winds will gradually lessen with warmer air from northern France pushing back into southern England. Here temperatures will get back up to 32 or 33C.\n\nCurrent forecasts suggest somewhere in the UK will reach 30C or more for 12 days in a row but this could come to an end by next weekend.\n\nWhy heatwaves hit women harder\n\nWeather for the week ahead\n\nLow pressure could bring some welcome rain by the end of next week\n\nFor most places the answer is no.\n\nBut with lower pressure sitting the other side of the English Channel the far south-west of England could see some showers on Monday. These should die out as they run further north on Tuesday.\n\nIt is not really until the end of the week that the chance of rain is greater. This currently looks confined to southern parts of England, and perhaps only briefly.\n\nMost of the downpours may be over the near continent as high pressure is forecast to build back across the UK next weekend from the Atlantic. This would bring a cooler wind but no rain.\n\nLooking further ahead temperatures are most likely to stay above average with some hot days expected, especially in central, southern and eastern regions.\n\nThere will be a lot of dry weather, with occasional rain mostly affecting northern areas.\n\nAlthough according to the Met Office's three-month outlook, near-average rainfall is expected for July, August and September with large regional variations.\n\nMillions of people across the south-east of the England will be affected by hosepipe bans due to concerns over the lack of rainfall.\n\nAnglian Water has introduced its first hosepipe ban in a decade which applies to customers in the east of England and begins at 01:00 BST on Saturday.\n\nA ban for one million households supplied by Southern Water in Hampshire and the Isle of Wight has also come into force. South East Water has its own restrictions in place.\n\nOn Thursday, Cambridge Water also announced its first hosepipe ban in 30 years.\n\nThe past winter months of December 2025 through to February 2026 brought an overall 13% more rainfall compared to average in the UK. However, there were stark regional differences. England saw 42% more than average whilst Scotland received 14% below average.\n\nHowever, the spring that followed was overall 14% below the long-term meteorological average in terms of rainfall for the UK, and again varied enormously depending on where you are.\n\nNorthern England had 90% of its average, whereas there was just 50% in southern England.\n\nSome spots in the south-east and east of England saw around a third of their average seasonal rainfall, including Suffolk (33%), Kent (33%), Essex (34%), Cambridgeshire (35%) and the City of London (36%).\n\nIs there a hosepipe ban in my area? What you need to know\n\nEngland's warmest June on record following historic heatwave",
+      "summary": "Temperatures in some parts of the UK will feel noticeably cooler this weekend. But heatwave is set to continue with heat health alerts still in force for nearly all of England. A strengthening north-easterly wind will shift the hottest spots from south-east England further west across the west Midlands and south-west Wales",
+      "retrieved_at": "2026-07-11T00:29:29.391174+00:00"
+    },
+    "https://www.theguardian.com/us-news/2026/jul/10/washington-reflecting-pool-trump": {
+      "source": "Guardian World",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/washington-reflecting-pool-trump",
+      "title": "Crews again drain Trump’s troubled reflecting pool",
+      "date": "Sat, 11 Jul 2026 00:11:43 GMT",
+      "author": "Uwa Ede-Osifo and agencies",
+      "text": "Workers observed draining water from Lincoln Memorial pool plagued by algae blooms and peeling paint\n\nCrews were observed Friday draining the plagued Lincoln Memorial reflecting pool, a landmark at the heart of Donald Trump’s mission to beautify Washington DC.\n\nInterior secretary Doug Burgum, whose agency oversees the National Park Service, told conservative podcaster Katie Miller in an interview released earlier this week that the new round of draining was planned. He also said that the water might still contain debris from an extensive Independence Day fireworks display over the National Mall.\n\n“Drain the water, clean up the fireworks stuff,” Burgum told Miller, who is the wife of deputy White House chief of staff Stephen Miller. “Repair the vandalism that was done. Fill it back up again.”\n\nEarly into his second term, Trump set his gaze on the 104-year-old pool on the National Mall, describing it as “filthy dirty” and suggesting his predecessor Joe Biden’s administration failed to maintain the site.\n\nHe has sought to make the pool a symbol of American patriotism by having the liner coating the bottom of the structure reflect the hue of the US flag.\n\nThe renovation has come under fire for its mounting price tag – as of June, the estimated cost was over $16m – as the project was hindered by algae blooms that turned the pool green-ish and peeling blue liner.\n\nThe Trump administration has blamed the pool’s woes on “vandals”. Several people have been arrested related to the unsubstantiated claims, including a former Olympic cyclist David Hearn, who pleaded not guilty to a felony charge of property destruction. Hearn has said he reached inside the pool to examine the peeled sealant and let go of a chunk when he was told to by a park worker.\n\n“This indictment reflects the administration’s effort to shift blame for their own failures,” Hearn’s lawyers said in a statement reported by the Associated Press. “The justice system exists to determine facts, not to provide political cover.”\n\nThe overhaul also has been scrutinized after reports emerged that some contractors selected had long ties to Trump, with critics decrying nepotism.\n\nThe work on the reflecting pool is just one of a number of projects Trump has spearheaded across the nation’s capital. Most prominently, he demolished the White House’s East Wing to build a $400m ballroom and plans to build a towering arch between the Lincoln Memorial and Arlington national cemetery.\n\nWhen Trump initially announced his intentions to beautify the reflecting pool this spring, he said he wanted it completed before the nation’s 250th birthday celebrations.\n\nWater was drained and Trump directed that the bottom be painted what he called “American flag blue”. In May, the president posted on his social media site of the pool: “The goal is to have it done, at this higher level, prior to July 4th – We are ahead of schedule!”\n\nBut problems began quickly after the initial work was finished. Trump blamed vandals, and court documents later showed that the National Park Service reported to tpolice a 9 June incident in which a sharp knife or razor cut the pool’s new liner.\n\nThe pool was closed for the Independence Day celebration, which featured what Trump said was the largest fireworks display in the world. The president had said that the pool would have to be drained anew as part of the new round of repairs.\n\nBurgum has also said that the Trump administration won’t seek bids for the new rounds of repairs. He told CNN’s State of the Union last weekend: “We’ll use the same company because they did a fantastic job.”\n\nOhio-based Green Water Solutions, also known as Greenwater Services, was given a $1.7m contract to install a water-purification system in the reflecting pool, while Virginia-based Atlantic Industrial Coatings was awarded $14.7m to repaint and waterproof the pool’s concrete floor.\n\nDemocratic senators and House members are investigating the pool project, including seeking answers about how much taxpayer funding is involved.\n\nAssociated Press contributed reporting",
+      "summary": " Interior secretary Doug Burgum said the new round of draining was planned. He said the water might still contain debris from an extensive Independence Day fireworks display over the National Mall. The renovation has come under fire for its mounting price tag – as of June, the estimated cost was over $16m – as the project was hindered by",
+      "retrieved_at": "2026-07-11T00:37:01.417523+00:00"
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+      "date": "Sat, 11 Jul 2026 00:00:00 +0000",
+      "author": "",
+      "text": "The Trump administration believes a nuclear accord with Tehran is increasingly improbable, recognising that a peaceful resolution to cap Iran’s atomic programme may be out of reach, reports the Wall Street Journal (WSJ).\n\nSenior US officials noted, according to the WSJ, that Iran’s ongoing failure to respect the interim maritime agreement leaves little hope for a broader pact, with President Trump recently stating: “I don’t know if we’re going to have a deal.”\n\nThe officials further warned that “there also cannot be a nuclear deal if Iran fails to hand control of its buried enriched uranium to the US”, adding that Washington possesses low-cost military alternatives to permanently block access to the material.\n\nWhat we know is that the United States has put a number of conditions on the future of an agreement with Iran.\n\nNumber one, what we know is that the United States says that all its demands with regard to nuclear limits must be met. According to a US official, we also know that when it comes to nuclear material that the US wants delivered, that must also be met in terms of a condition. Otherwise the United States says that there is no deal.\n\nHaving said that, there is diplomacy that continues. And what we’re told from this US official is these talks have been productive.\n\nWhat we know is that the explanation given to the United States about why the Memorandum of Understanding was broken and ships were fired upon recently in the Strait of Hormuz, is that Iranian officials apparently told the United States that this is because of an errant part in their system.\n\nThat is not working… as an excuse for the United States. The United States for its part has issued a bit of an ultimatum to Iran, mainly that not only… there must be a public statement issued that no longer will vessels be fired on, but also that the Strait of Hormuz, or all channels, will remain open. Otherwise the US official says that there will not be a good outcome for Iran.\n\nHello, and welcome to our live coverage of the United States and Israel’s war on Iran, as well as Israel’s attacks on Gaza and Lebanon.\n\nStay with us for the latest news and analyses related to these conflicts.\n\nYou can find our updates from Friday, July 10 here.",
+      "summary": " US officials say Iran's failure to respect maritime agreement leaves little hope for a broader pact. They also warn that a peaceful resolution to cap Iran's atomic programme may be out of reach.",
+      "retrieved_at": "2026-07-11T00:37:07.573325+00:00"
+    },
+    "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/": {
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "date": "Sat, 11 Jul 2026 00:29:25 +0000",
+      "author": "Dominic-Madori Davis",
+      "text": "Phia, the shopping startup co-founded by Bill Gates’ daughter, Phoebe Gates, and Sophia Kianni, has been accused of a practice known as “cookie stuffing,” which may have helped the product receive commissions and credit for sales it did not actually generate, according to a Bloomberg investigation.\n\nThe report has sparked controversy and led to Phia’s suspension from Impact.com, a leading affiliate and influencer platform. Other startups have been sued over “cookie stuffing,” notably Honey, which is owned by PayPal and remains the subject of an ongoing class action lawsuit.\n\nFounded in 2025, Phia has raised more than $40 million in funding and has a star-studded list of investors, including Kim Kardashian and Hailey Bieber. The startup developed an app as a browser extension that works somewhat like Google Flights, but for shopping. Phia helps customers find the lowest-priced items across various retailers as well as discount codes to use when shopping. The company takes a commission on purchases made through the platform through an industry practice known as affiliate marketing.\n\nThe Bloomberg investigation, as well as findings from an independent consultant and a competitor, found that if a user shopped at an online retailer — even if they arrived at the site on their own or through another affiliate program like Wirecutter — Phia would open a new tab in the background. During the checkout process, Phia would override the referral codes from other affiliates and instead inject its own, allowing it to take credit for and potentially receive a commission on a purchase it didn’t earn.\n\nOnce the issue was flagged to Phia, a spokesperson told Bloomberg that all necessary changes had been made to fix the issue. A check by Bloomberg found the issue had been resolved. It’s unclear if the fix is enough to satisfy the retailers and affiliate partners that work with Phia.\n\nTechCrunch reached out to Phia for comment and has not received a response.",
+      "summary": "Phia, the shopping startup co-founded by Bill Gates’ daughter, Phoebe Gates, and Sophia Kianni, has been accused of a practice known as ‘cookie stuffing’ The report has sparked controversy and led to Phia’s suspension from Impact.com, a leading affiliate and influencer platform.",
+      "retrieved_at": "2026-07-11T00:40:17.532165+00:00"
+    },
+    "https://phys.org/news/2026-07-geoscientists-reveal-earth-roof-world.html": {
+      "source": "Phys.org",
+      "link": "https://phys.org/news/2026-07-geoscientists-reveal-earth-roof-world.html",
+      "title": "Geoscientists reveal how Earth's forces are shaping the 'Roof of the World'",
+      "date": "Fri, 10 Jul 2026 20:40:01 EDT",
+      "author": "",
+      "text": "We’re checking your connection to prevent automated abuse",
+      "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
+      "retrieved_at": "2026-07-11T00:40:30.653759+00:00"
+    },
+    "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/": {
+      "source": "Space News",
+      "link": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
+      "title": "FCC approves first Reflect Orbital satellite",
+      "date": "Sat, 11 Jul 2026 00:29:25 +0000",
+      "author": "Jeff Foust",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-07-11T00:40:35.639609+00:00"
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video": {
+      "source": "Bloomberg Markets",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video",
+      "title": "SK Hynix Rises After Record US Offering | The Close 7/10/2026",
+      "date": "Fri, 10 Jul 2026 23:56:41 GMT",
+      "author": "",
+      "text": "To continue, please click the box below to let us know you're not a robot.\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below.\n\nGet the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+      "summary": " The Daily Discussion is a weekly, weekly look at the most important global markets news. Use the Daily Discussion to help you understand today's featured news stories.",
+      "retrieved_at": "2026-07-11T00:40:47.036629+00:00"
+    },
+    "https://www.abc.net.au/news/2026-07-11/denmark-tourism-concerns-over-roadside-business-signs-dispute/106898150": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-07-11/denmark-tourism-concerns-over-roadside-business-signs-dispute/106898150",
+      "title": "Tourist-town shops say order to remove 'unsafe' road signs bad for business",
+      "date": "Sat, 11 Jul 2026 00:26:41 +0000",
+      "author": "Andrew Chounding and Stan Shaw",
+      "text": "Personalise the news and\n\nBERITA BAHASA INDONESIA\n\nFind any issues using dark mode? Please let us know\n\nTopic:\nTourism and Leisure Industry\n\nSat 11 Jul 2026 at 12:26am\n\nThe Shire of Denmark is cracking down on \"unsafe\" signs along the South Coast Highway. (ABC Great Southern: Andrew Chounding)\n\nThe Shire of Denmark has sent letters to some Great Southern businesses ordering them to remove road signs.\n\nTourism and hospitality businesses say the signs are vital to attract passing customers.\n\nThe shire says it will update its signage policy, but stands by its decision.\n\nBusinesses in one of Western Australia's most popular holiday towns say an order to remove signs directing visitors to local shops and cafes could deter tourists and damage the region's booming economy.\n\nTens of thousands of people travel through the town of Denmark on WA's south coast each year to visit lush forests, pristine beaches and sample produce.\n\nA letter sent to some businesses by the Shire of Denmark, telling them to remove unauthorised signs, has raised concerns they will miss out on tourist trade.\n\nThe shire warned the businesses that they had 28 days to remove signs that \"may not\" comply with its policy or face possible \"enforcement action\".\n\nBrendan Laing says his business will lose customers if the signs are removed. (ABC Great Southern: Andrew Chounding)\n\nBrendan Laing is one of several hospitality operators who had received the letter that the ABC spoke to.\n\nHe said he had been advertising along the South Coast Highway for several years without incident, until he received one of the letters.\n\n\"The signs are quite important to show that we're open and hours of trading,\" said Mr Laing, who runs a cafe and leather shop about 15 kilometres west of Denmark on his family beef farm.\n\nA sign taken off the road at Brendan Laing's farm. (ABC Great Southern: Andrew Chounding)\n\nRemoving the sign that directs traffic from the highway to his cafe would hurt business, he said.\n\nMr Laing, who employs about half a dozen people across three hospitality businesses, said tourism had become one of the major industries in Denmark, but one that did not always appear to have the shire's support.\n\n\"I think they seem to be ... nearly working against us in some ways, dealing with tourists,\" he said.\n\nDenmark and surrounding towns have experienced a significant rise in tourist numbers in recent years, sparking debate among residents about overtourism.\n\nTwo of the signs Brendan Laing says he has been told to remove. (ABC Great Southern: Andrew Chounding)\n\nShire President Aaron Wiggins said the order to remove signage was related to safety concerns raised by the state road utility, Main Roads.\n\n\"They're in high-speed, high-traffic areas right on the roads and around corners,\" he said.\n\n\"It's a huge safety issue, and we're not going to hide from that.\n\n\"If there's a safety issue, especially with the state of the road toll in regional Western Australia, we're going to act.\"\n\nMr Wiggins said the shire could have communicated the issue better to affected businesses, but stood by its decision.\n\n\"The ones we're talking about are unsafe signs right on what is still considered the road area,\" he said.\n\n\"That's never going to be acceptable\"\n\nMr Wiggins said the shire was in the process of updating its \"very old\" signage policy and was open to consulting with industry and residents.\n\nMelissa Boughey says policies need to work for businesses. (ABC Great Southern: Andrew Chounding)\n\nAfter some of their signs were confiscated several years ago, winery owners David Britten and Melissa Boughey said they had made an effort to put them in safer locations.\n\n\"We have worked with [Main Roads Guidance] to not have anything dangerous on the road, to not get in the way of safety or pullover areas … we've been very thoughtful about that,\" Ms Boughey said.\n\nWhile the winery did not receive a letter, Ms Boughey said that any new policy needed to help tourism and hospitality businesses capitalise on visitors to the region.\n\nMelissa Boughey says she changed the location of some of her signs after they were confiscated by Main Roads. (ABC Great Southern: Andrew Chounding)\n\n\"They probably don't quite understand the significance the correct type of signage in an area makes to a small business,\" she said.\n\n\"The signage at the moment is pre-emptive, so it just shows that the turn-off is coming up in a kilometre or something.\n\n\"If that wasn't happening, we're at a 90-kilometre-an-hour area, so people would just whiz by and not notice.\"\n\nMain Roads said the signage was a matter for the shire.\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nSat 11 Jul 2026 at 12:26am\n\nSee more ABC coverage in your search results\n\nTopic:\nConsumer Goods\n\nAnalysis by Jacob Greber\n\nAnalysis by Laura Tingle\n\nTopic:\nRegional Communities\n\nTopic:\nTravel and Tourism\n\nTourism and Leisure Industry\n\nTopic:\nConsumer Goods\n\nAnalysis by Jacob Greber\n\nAnalysis by Laura Tingle\n\nTopic:\nTourism and Leisure Industry\n\nSat 11 Jul 2026 at 12:26am\n\nSat 11 Jul 2026 at 12:21am\n\nAnalysis by Lucy MacDonald\n\nSat 11 Jul 2026 at 12:36am\n\nFri 10 Jul 2026 at 11:56pm\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " The Shire of Denmark has sent letters to some Great Southern businesses ordering them to remove signs. The shire says it will update its signage policy, but stands by its decision. Denmark and surrounding towns  The ABC News is a weekly news service that covers a wide range of topics and brands.",
+      "retrieved_at": "2026-07-11T00:42:01.063913+00:00"
+    },
+    "https://www.abc.net.au/news/2026-07-11/nt-childrens-commissioner-resignation-concerns-advocates/106902744": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-07-11/nt-childrens-commissioner-resignation-concerns-advocates/106902744",
+      "title": "Shock resignation of NT children's commissioner deemed 'a tragedy'",
+      "date": "Sat, 11 Jul 2026 00:21:23 +0000",
+      "author": "Olivana Lathouris",
+      "text": "Personalise the news and\n\nBERITA BAHASA INDONESIA\n\nFind any issues using dark mode? Please let us know\n\nSat 11 Jul 2026 at 12:21am\n\nShahleena Musk announced her resignation in a statement, citing concerns about upcoming changes to the NT's child protection laws. (ABC News: Michael Franchi)\n\nProminent Australian advocates for children have raised concerns over the sudden resignation of the Northern Territory children's commissioner, Shahleena Musk, ahead of changes to the Territory's child protection laws.\n\nMs Musk announced her resignation a day after a report into the changes was published, which recommended the widely criticised bill be passed.\n\nStakeholders have urged the NT government to fill the role urgently.\n\nAustralia's peak advocate for Aboriginal children has described the circumstances around child protection in the Northern Territory as \"dire\", following the shock resignation of the Territory's children's commissioner.\n\nShahleena Musk, who was appointed as children's commissioner by the former Labor government in late 2023, announced she would be stepping down from the role in a statement released late on Thursday afternoon.\n\nHer decision came the day after a government-dominated parliamentary scrutiny committee greenlit amendments to the Territory's child protection laws, despite widespread criticism of the bill.\n\nShahleena Musk's resignation comes as the NT government-dominated scrutiny committee backs the CLP's changes to child protection laws, despite widespread opposition and confusion about a key aspect of the legislation.\n\nIn her statement, Ms Musk said her decision had \"not been made lightly\" and reflected her \"growing concerns\" around transparency and consultation in the NT government's decision-making.\n\nShe said she was unable to support what she described as \"substantial and wide-reaching changes to child protection laws\" and that she was concerned by her \"effective sidelining\" during the process.\n\nThe National Commissioner for Aboriginal and Torres Strait Islander Children and Young People, Sue-Anne Hunter, said she was \"saddened\" by the news, and described the \"circumstances\" in the NT as \"dire\".\n\n\"The fact that we have a commissioner for Aboriginal children stepping down from a role due to actions of the current NT government shows firsthand the lack of care and accountability they have towards our people,\" Ms Hunter said.\n\nMs Hunter called on the government to \"listen to the experts\" and \"pause\" the proposed child protection bill in its current form.\n\nSue-Anne Hunter has called on the NT government to pause the changes. (Supplied)\n\nOver the course of her two-and-a-half years as children's commissioner, Ms Musk has been vocal about policy changes affecting young people, including the lowering of the age of criminal responsibility and changes to the Territory's youth justice laws.\n\nA year ago, Ms Musk spoke about changes that removed detention as a last resort for young people and tightened bail laws, and expressed frustrations about a lack of consultation with her office and other key stakeholders.\n\n\"There's an unwillingness to work with me and others,\" she said at the time.\n\n\"There's clearly a belief that they've got a mandate to be tougher on these young people, but the evidence goes against that.\"\n\nThe NT Legislative Scrutiny Committee has recommended that parliament pass the changes as written. (ABC News: Peter Garnish)\n\nIn May, the Office of the Children's Commissioner NT released a report into allegations of harm and exploitation suffered by children in care, which found there had been more than 400 notifications of alleged harm against children in the system over a year between 2024 and 2025.\n\nLast month, Ms Musk became emotional while giving evidence at a public hearing hosted by the NT Legislative Scrutiny Committee into the child protection changes.\n\nNT Children's Commissioner Shahleena Musk speaking at the committee about the stories she's heard from young people in out-of-home care.\n\nIndependent member Justine Davis said Ms Musk's resignation was \"incredibly disappointing\" for the Territory and \"speaks volumes\" about the current political environment.\n\n\"[The commissioner] took an oath and she's not able to fulfil that oath, and that's a tragedy for Territory children,\" Ms Davis said.\n\n\"There's an ongoing pattern of this government of sidelining critique, of not listening to people who have different views to them.\"\n\nJustine Davis calls Shahleena Musk's resignation a \"tragedy for Territory children\". (ABC News: Pete Garnish)\n\nThe head of one of the Territory's biggest legal organisations, the Northern Australia Aboriginal Justice Agency (NAAJA), echoed the concerns.\n\n\"I think it should be of concern for all of us when some of our best talent and most experienced people decide that it's no longer tenable for them to fulfil the duties that they're required to perform,\" NAAJA chief executive Ben Grimes said.\n\n\"The government seems to be displaying a pattern where scrutiny, accountability, robust debate is seen as a hindrance to good decision-making rather than an asset to good decision-making.\"\n\nIn a scathing response, NT Minister for Children and Families Robyn Cahill rejected Ms Musk's claims, insisting there was adequate transparency around the government's changes.\n\n\"The commissioner lodged a submission to the Legislative Scrutiny Committee, appeared before it and had her views heard in public, as every other stakeholder did,\" Ms Cahill said.\n\nRobyn Cahill says a range of stakeholders on the issue deserve to have their views heard. (ABC News: Michael Franchi)\n\nThe scrutiny committee received 150 submissions on the proposed child protection bill.\n\nIn her foreword to the 169-page report, CLP committee chair Oly Carlson acknowledged \"many\" submissions and witnesses opposed the changes, but the committee ultimately recommended the bill be passed as drafted.\n\n\"If Ms Musk were genuinely concerned about this, then the last thing she would be doing is walking away,\" Ms Cahill said in her statement on Friday.\n\nHere's what you need to know about the proposed changes to the NT child protection legislation, introduced into parliament this week.\n\nMs Davis described Ms Cahill's comments as \"deeply offensive\" and a \"continuation of a pattern of inappropriate personal attacks on the children's commissioner by this government\".\n\n\"The CLP's treatment of Ms Musk, and the minister's response to her resignation are representative of a government who view themselves as above accountability,\" she said.\n\nSecretariat of National Aboriginal and Islander Child Care (SNAICC), Catherine Liddle, said the response was a \"political distraction\" from the central issue of child protection.\n\n\"You cannot claim to care about the wellbeing of children and ignore the evidence about what actually keeps children safe,\" she said.\n\nCatherine Liddle says the powers of the NT's children's commissioner should be strengthened.  (ABC News: Ian Redfearn)\n\nMs Liddle described Ms Musk as a \"fearless and courageous\" commissioner and called on the NT government to replace her with an Aboriginal or Torres Strait Islander person.\n\nShe also encouraged the government to bolster the powers of the children's commissioner to improve the policy-making process.\n\n\"Strengthen the powers of the commissioner so they genuinely have the ability to not only shine a light into where things in the system are failing children … but also to work alongside the government to improve the system,\" she said.\n\nSat 11 Jul 2026 at 12:21am\n\nSee more ABC coverage in your search results\n\nTopic:\nConsumer Goods\n\nAnalysis by Jacob Greber\n\nAnalysis by Laura Tingle\n\nState and Territory Government\n\nTopic:\nConsumer Goods\n\nAnalysis by Jacob Greber\n\nAnalysis by Laura Tingle\n\nTopic:\nTourism and Leisure Industry\n\nSat 11 Jul 2026 at 12:26am\n\nSat 11 Jul 2026 at 12:21am\n\nAnalysis by Lucy MacDonald\n\nSat 11 Jul 2026 at 12:36am\n\nFri 10 Jul 2026 at 11:56pm\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " The NT government-dominated scrutiny committee has recommended that parliament pass the changes as written. The National Commissioner for Aboriginal and Torres Strait Islander Children and Young People, Sue-Anne  NT child protection minister's comments are \"deeply offensive\" and a \"continuation of inappropriate personal attacks\" on the children's commissioner by this government. Catherine Liddle says the powers of the",
+      "retrieved_at": "2026-07-11T00:42:05.528137+00:00"
     }
   }
 }
