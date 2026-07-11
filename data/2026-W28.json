@@ -1,6 +1,10 @@
 {
   "week": "2026-W28",
+<<<<<<< Updated upstream
   "count": 3624,
+=======
+  "count": 3636,
+>>>>>>> Stashed changes
   "articles": {
     "http://money.cnn.com/2017/02/13/news/economy/mexico-trump-us-corn/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -10,7 +14,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:03.792527+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:57.126241+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -20,7 +28,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:07.855788+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:00.962746+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/india-h1b-visa-trump-nandan-nilekani/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -30,7 +42,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:11.456819+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:04.539653+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -40,7 +56,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:15.056136+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:08.108829+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/stocks-all-time-highs-donald-trump-janet-yellen-fed/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -50,7 +70,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:18.659421+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:11.673589+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -60,7 +84,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:22.262108+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:15.259363+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/news/economy/nafta-canada-trudeau-trump-mexico/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -70,7 +98,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:25.859862+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:18.822737+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/verizon-stock-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -80,7 +112,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:29.468134+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:22.383831+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/oil-prices-opec-deal/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -90,7 +126,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:33.067648+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:25.944384+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/tesla-uae-elon-musk/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -100,7 +140,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:36.669083+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:29.514737+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/uber-ola-india-pranay-jivrajka/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -110,7 +154,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:40.266114+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:33.072781+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/11/media/fake-news-apple-ceo-tim-cook/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -120,7 +168,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:43.868009+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:36.640145+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/news/companies/trump-brand-sears-kmart/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -130,7 +182,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:47.462897+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:40.207487+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/news/thailand-bamboo-cassava-packaging-universal-biopack/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -140,7 +196,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:51.065411+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:43.771883+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/news/companies/nike-equality-lebron-serena/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -150,7 +210,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:54.659763+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:47.333987+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/media/lego-batman-movie-steven-mnuchin/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -160,7 +224,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:49:58.255877+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:50.896958+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/08/news/economy/greece-imf-bailout-eurozone/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -170,7 +238,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:01.848347+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:54.455627+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/technology/verizon-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -180,7 +252,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:05.454850+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:03:58.025398+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/10/news/economy/visa-ban-rural-doctor-shortage/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -190,7 +266,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:09.088774+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:01.598668+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/10/investing/stocks-united-states-trump-europe-china-japan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -200,7 +280,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:12.693822+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:05.159116+00:00"
+>>>>>>> Stashed changes
     },
     "http://edition.cnn.com/2008/TECH/space/12/02/planetsalign.irpt/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -210,7 +294,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:16.922856+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:09.353389+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -2330,7 +2418,11 @@
       "author": "Neil MacFarquhar",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:35.472051+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:22.807551+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html": {
       "source": "NYT World",
@@ -2390,7 +2482,11 @@
       "author": "Matthew Mpoke Bigg, Hussein Mohamed and Ernesto Londoño",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:28.360019+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:15.630565+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes-cease-fire.html": {
       "source": "NYT World",
@@ -2400,7 +2496,11 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:21.247415+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:08.454381+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/iranian-port-cities-and-a-railway-were-struck-overnight": {
       "source": "NYT World",
@@ -2440,7 +2540,11 @@
       "author": "John Yoon and Rin Hindryati",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:24.803839+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:12.049012+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/us/pope-leo-brian-burch-vatican-ambassador.html": {
       "source": "NYT World",
@@ -2450,7 +2554,11 @@
       "author": "Elizabeth Dias and Motoko Rich",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:31.913641+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:19.218899+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/world/americas/mexico-el-mayo-fbi-us-cartel.html": {
       "source": "NYT World",
@@ -2490,7 +2598,11 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:39.041775+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:26.395391+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/world/middleeast/iran-truce-trump.html": {
       "source": "NYT World",
@@ -2560,7 +2672,11 @@
       "author": "K. R. Callaway",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:31.933929+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:19.730226+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html": {
       "source": "NYT World",
@@ -2650,7 +2766,11 @@
       "author": "Patricia Cohen",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:58.818126+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:46.712996+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html": {
       "source": "NYT World",
@@ -3090,7 +3210,11 @@
       "author": "Cade Metz",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:30.757600+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:18.525359+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html": {
       "source": "NYT Tech",
@@ -3160,7 +3284,11 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:34.315520+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:22.142470+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html": {
       "source": "NYT Tech",
@@ -3190,7 +3318,11 @@
       "author": "Karen Weise and Zachary Small",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:37.881332+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:25.722309+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html": {
       "source": "NYT Tech",
@@ -3200,7 +3332,11 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:41.444050+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:29.328348+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html": {
       "source": "NYT Tech",
@@ -3290,7 +3426,11 @@
       "author": "William J. Broad",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:49.505662+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:37.177273+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/science/fossils-earliest-handedness-righties.html": {
       "source": "NYT Science",
@@ -3300,7 +3440,11 @@
       "author": "Jack Tamisiea",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:53.075962+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:40.800106+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html": {
       "source": "NYT Science",
@@ -3320,7 +3464,11 @@
       "author": "Robin George Andrews",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:56.640076+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:44.387729+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/science/russia-captured-chernobyl-the-wildlife-cameras-kept-recording.html": {
       "source": "NYT Science",
@@ -3330,7 +3478,11 @@
       "author": "Emily Anthes",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:03.765537+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:51.558474+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html": {
       "source": "NYT Climate",
@@ -3420,7 +3572,11 @@
       "author": "Ferris Jabr",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:35.498155+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:23.317934+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html": {
       "source": "NYT Science",
@@ -3490,7 +3646,11 @@
       "author": "Jeré Longman",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:10.875658+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:58.729262+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html": {
       "source": "NYT Science",
@@ -3670,7 +3830,11 @@
       "author": "Lauren Hirsch",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:44.567147+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:32.336759+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html": {
       "source": "NYT Business",
@@ -3680,7 +3844,11 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:48.131609+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:35.918274+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/travel/help-i-refueled-my-rental-car-but-enterprise-charged-me-anyway.html": {
       "source": "NYT Business",
@@ -3690,7 +3858,11 @@
       "author": "Seth Kugel",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:51.696667+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:39.525089+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/style/xenom-crossfit-competition-workout-fitness.html": {
       "source": "NYT Business",
@@ -3720,7 +3892,11 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:55.257382+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:43.109743+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html": {
       "source": "NYT Business",
@@ -3770,7 +3946,11 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:02.382556+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:50.324275+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html": {
       "source": "NYT Business",
@@ -3780,7 +3960,11 @@
       "author": "Brooks Barnes",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:05.936430+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:53.929408+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/travel/ees-europe-airports-security.html": {
       "source": "NYT Business",
@@ -3800,7 +3984,11 @@
       "author": "Jason Karaian and Jenny Gross",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:09.496006+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:57.510901+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html": {
       "source": "NYT Business",
@@ -3810,7 +3998,11 @@
       "author": "Jim Tankersley",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:13.062820+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:01.095109+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html": {
       "source": "NYT Business",
@@ -3900,7 +4092,11 @@
       "author": "Tariq Panja and Lucía Cholakian Herrera",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:16.625464+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:04.675017+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html": {
       "source": "NYT Business",
@@ -3970,7 +4166,11 @@
       "author": "Lydia DePillis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:22.344311+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:10.490187+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/06/business/dealbook/trump-world-cup-infantino.html": {
       "source": "NYT Business",
@@ -4120,7 +4320,11 @@
       "author": "Judson Jones",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:39.060217+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:26.901236+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html": {
       "source": "NYT Climate",
@@ -4140,7 +4344,11 @@
       "author": "Amy Graff and Erin McCann",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:42.613998+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:30.486981+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html": {
       "source": "NYT Climate",
@@ -4150,7 +4358,11 @@
       "author": "Kenneth P. Vogel and Karen Zraick",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:46.174135+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:34.078931+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html": {
       "source": "NYT Climate",
@@ -4180,7 +4392,11 @@
       "author": "Francesca Paris",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:49.734760+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:37.658882+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/02/climate/court-national-parks-signs-trump.html": {
       "source": "NYT Climate",
@@ -4230,7 +4446,11 @@
       "author": "Raymond Zhong and Mira Rojanasakul",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:53.295129+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:41.260765+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/02/climate/fireworks-effects-washington-smoke-dogs.html": {
       "source": "NYT Climate",
@@ -4240,7 +4460,11 @@
       "author": "Quinn Glabicki, Catrin Einhorn and Maxine Joselow",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:56.855277+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:44.841461+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html": {
       "source": "NYT Climate",
@@ -4260,7 +4484,11 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:00.413756+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:48.425604+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/01/weather/heat-domes-europe-us.html": {
       "source": "NYT Climate",
@@ -4280,7 +4508,11 @@
       "author": "Nazaneen Ghaffar, Erin McCann and Amy Graff",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:03.968497+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:52.011441+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/06/30/climate/heat-wave-wildfires.html": {
       "source": "NYT Climate",
@@ -4290,7 +4522,11 @@
       "author": "David Gelles",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:07.531313+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:55.600891+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html": {
       "source": "NYT Climate",
@@ -4300,7 +4536,11 @@
       "author": "Jack Ewing",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:11.087908+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:59.186678+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html": {
       "source": "NYT Climate",
@@ -4330,7 +4570,11 @@
       "author": "Nazaneen Ghaffar, Judson Jones and Camille Baker",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:14.644144+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:02.777072+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/06/29/climate/trump-offshore-wind-duke-energy.html": {
       "source": "NYT Climate",
@@ -4340,7 +4584,11 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:18.205677+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:06.369594+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html": {
       "source": "NYT Climate",
@@ -4490,7 +4738,11 @@
       "author": "Ben Casselman",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:26.021563+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:14.155121+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html": {
       "source": "NYT Economy",
@@ -4500,7 +4752,11 @@
       "author": "Ana Swanson and Emmy Martin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:29.586333+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:17.764892+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html": {
       "source": "NYT Economy",
@@ -4510,7 +4766,11 @@
       "author": "Ana Swanson, Ian Austen and Emiliano Rodríguez Mega",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:33.149320+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:21.339087+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html": {
       "source": "NYT Economy",
@@ -4520,7 +4780,11 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:36.702758+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:24.928306+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/06/26/business/economy/trump-tariffs-europe.html": {
       "source": "NYT Economy",
@@ -4540,7 +4804,11 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:40.277042+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:28.517551+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs": {
       "source": "NPR News",
@@ -7320,7 +7588,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:53.421039+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:48.433107+00:00"
+>>>>>>> Stashed changes
     },
     "https://cnn.it/411KYN7": {
       "source": "CNN World",
@@ -7360,7 +7632,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:48:58.192471+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:02:52.447669+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html": {
       "source": "CNN World",
@@ -8250,7 +8526,11 @@
       "author": "Rachel Chason, Suzan Haidamous",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:36.234975+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:26.667566+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/world/2026/07/09/congo-health-workers-fighting-ebola-go-strike-after-months-without-pay/": {
       "source": "WashPost World",
@@ -8260,7 +8540,11 @@
       "author": "Rael Ombuor, Rachel Chason",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:37.841627+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:28.214328+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/world/2026/07/08/trump-declares-ceasefire-with-iran-has-ended/": {
       "source": "WashPost World",
@@ -8270,7 +8554,11 @@
       "author": "Michael Birnbaum, Victoria Craw, Dan Lamothe",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:39.385101+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:29.764013+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/": {
       "source": "WashPost Politics",
@@ -8310,7 +8598,11 @@
       "author": "Dan Diamond",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:50.523721+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:39.879864+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/": {
       "source": "WashPost National",
@@ -8320,7 +8612,11 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:33.468924+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:25.058070+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/07/09/sens-fetterman-d-mccormick-r-form-rare-bipartisan-fundraising-committee/": {
       "source": "WashPost Politics",
@@ -8330,7 +8626,11 @@
       "author": "Praveena Somasundaram",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:53.610594+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:43.026614+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/07/09/democrats-seek-way-forward-amid-finger-pointing-maine/": {
       "source": "WashPost Politics",
@@ -8340,7 +8640,11 @@
       "author": "Dan Merica, Alexei Koseff",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:55.161452+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:44.597697+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/07/09/democratic-party-fissures-are-shaping-michigans-crucial-senate-primary/": {
       "source": "WashPost Politics",
@@ -8350,7 +8654,11 @@
       "author": "Karen Tumulty",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:56.686864+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:46.154715+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/07/08/who-could-replace-platner-maine-ballot/": {
       "source": "WashPost Politics",
@@ -8390,7 +8698,11 @@
       "author": "Jarrell Dillard, Noah Robertson",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:10.472582+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:58.037276+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/07/09/one-city-steps-snap-cuts-leave-families-struggling/": {
       "source": "WashPost National",
@@ -8400,7 +8712,11 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:35.037591+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:26.616823+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/obituaries/2026/07/09/wally-funk-trailblazing-aviator-who-waited-60-years-go-space-dies-87/": {
       "source": "WashPost National",
@@ -8410,7 +8726,11 @@
       "author": "Harrison Smith",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:36.560536+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:28.169930+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/07/09/graham-platners-coastal-maine-hometown-his-fall-is-personal/": {
       "source": "WashPost National",
@@ -8420,7 +8740,11 @@
       "author": "Joanna Slater",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:38.081250+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:29.729833+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/07/08/majority-black-memphis-anger-over-redistricting-has-turned-into-resolve/": {
       "source": "WashPost National",
@@ -11970,7 +12294,11 @@
       "author": "#author.fullName}",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:50.851415+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:06:04.374103+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.newscientist.com/article/2532073-i-have-a-100-per-cent-chance-of-getting-cancer-due-to-a-rare-gene/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home": {
       "source": "New Scientist",
@@ -20590,7 +20918,11 @@
       "author": "David M. Halbfinger",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:17.691363+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:04.866730+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html": {
       "source": "NYT World",
@@ -20640,7 +20972,11 @@
       "author": "Becky Ferreira",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:45.894479+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:33.513305+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html": {
       "source": "NYT Climate",
@@ -22660,7 +22996,11 @@
       "author": "Jarrell Dillard",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:08.893010+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:56.378304+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/lifestyle/2026/07/10/they-met-while-being-treated-brain-injuries-now-theyre-getting-married/": {
       "source": "WashPost National",
@@ -22670,7 +23010,11 @@
       "author": "Kyle Melnick",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:31.933021+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:23.496444+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.wired.com/story/ulta-coupon/": {
       "source": "Wired",
@@ -23520,7 +23864,11 @@
       "author": "Max Bearak, Yeganeh Torbati, Eric Schmitt and Michael Levenson",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:14.134799+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:01.276533+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/world/iran-war-hardliners-hormuz-funeral.html": {
       "source": "NYT World",
@@ -23560,7 +23908,11 @@
       "author": "Richard Fausset",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:04.532834+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:52.179183+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html": {
       "source": "NYT US",
@@ -23740,7 +24092,11 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:30.319618+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:18.006552+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/business/hotel-workers-world-cup.html": {
       "source": "NYT Business",
@@ -23750,7 +24106,11 @@
       "author": "Kurtis Lee",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:33.884604+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:21.588453+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/travel/barcelona-overtourism-jose-antonio-donaire.html": {
       "source": "NYT Business",
@@ -23770,7 +24130,11 @@
       "author": "Jason Karaian",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:37.440816+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:25.170215+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/09/business/warsh-announces-slate-of-new-advisers-for-fed-task-forces.html": {
       "source": "NYT Business",
@@ -23790,7 +24154,11 @@
       "author": "Steven Lee Myers and Dustin Volz",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:41.007465+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:28.759472+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html": {
       "source": "NYT Climate",
@@ -24370,7 +24738,11 @@
       "author": "Jia Lynn Yang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:19.456925+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:07.149060+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html": {
       "source": "NYT Tech",
@@ -26620,7 +26992,11 @@
       "author": "Anthony Faiola",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:34.701517+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:25.103520+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on": {
       "source": "The Verge",
@@ -27030,7 +27406,11 @@
       "author": "Jeff Sommer",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:26.747718+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:14.421972+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/business/volkswagen-china-problems-restructuring.html": {
       "source": "NYT Business",
@@ -27060,7 +27440,11 @@
       "author": "Brianna  Abbott",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:28.372706+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:16.138952+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-becomes-law-without-trump-signature": {
       "source": "NPR News",
@@ -28700,7 +29084,11 @@
       "author": "Cole Reynolds",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:30.385960+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:21.928487+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report": {
       "source": "The Verge",
@@ -29360,7 +29748,11 @@
       "author": "Stephen Castle",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:43:59.914693+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:57:46.765093+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html": {
       "source": "NYT US",
@@ -29470,7 +29862,11 @@
       "author": "Rachel Chason",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:33.181283+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:23.551353+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/": {
       "source": "TechCrunch",
@@ -30710,7 +31106,11 @@
       "author": "Reid J. Epstein",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:00.976786+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:48.574150+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html": {
       "source": "NYT Business",
@@ -30720,7 +31120,11 @@
       "author": "Peter Eavis, Jenny Gross and Eric Schmitt",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:23.181269+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:10.821323+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/climate/trump-climate-assessment-wielicki.html": {
       "source": "NYT Climate",
@@ -30730,7 +31134,11 @@
       "author": "Maxine Joselow and Brad Plumer",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:21.122205+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:08.836360+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/politics/2026/jul/10/ann-widdecombe-uncompromising-politician-who-embraced-tv-fame": {
       "source": "Guardian World",
@@ -30800,7 +31208,11 @@
       "author": "Mary Ilyushina",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:50:31.580989+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:04:21.931700+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/": {
       "source": "TechCrunch",
@@ -31070,7 +31482,11 @@
       "author": "Suhasini Raj and Jeremy W. Peters",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:43:56.352509+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:57:43.186733+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/us/politics/ice-deports-immigrant-pardoned-minnesota.html": {
       "source": "NYT Politics",
@@ -31080,7 +31496,11 @@
       "author": "Amy Qin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:15.893000+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:03.563820+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html": {
       "source": "NYT World",
@@ -31480,7 +31900,11 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:10.580616+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:57:57.678493+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/us/charlie-kirk-shooting-hearing.html": {
       "source": "NYT US",
@@ -31490,7 +31914,11 @@
       "author": "Nicholas Bogel-Burroughs",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:46.756744+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:34.198373+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html": {
       "source": "NYT US",
@@ -31500,7 +31928,11 @@
       "author": "Reid J. Epstein and Tim Balk",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:50.314462+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:37.780917+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html": {
       "source": "NYT US",
@@ -31510,7 +31942,11 @@
       "author": "Jazmine Ulloa, Hamed Aleaziz and Emiliano Rodríguez Mega",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:53.862089+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:41.369726+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html": {
       "source": "NYT Business",
@@ -32420,7 +32856,11 @@
       "author": "Julia Shapero",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:09.386119+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:32.831380+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/administration/5963258-trump-iran-assassination-military-action/": {
       "source": "The Hill",
@@ -32430,7 +32870,11 @@
       "author": "Ellen Mitchell",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:13.914137+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:37.109038+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/5963267-trump-administration-rolls-back-key-endangered-species-protection/": {
       "source": "The Hill",
@@ -32440,7 +32884,11 @@
       "author": "Rachel Frazin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:18.413671+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:41.662429+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/5963165-doj-sues-maryland-over-immigration-sanctuary-law/": {
       "source": "The Hill",
@@ -32450,7 +32898,11 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:22.757661+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:45.836018+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/5963058-mccarthy-criticizes-speaker-johnson/": {
       "source": "The Hill",
@@ -32460,7 +32912,11 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:27.319245+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:50.413563+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/video-clips/5962875-watch-live-houston-ice-shooting-press-conference/": {
       "source": "The Hill",
@@ -32840,7 +33296,11 @@
       "author": "Kalley Huang and Cade Metz",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:23.593799+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:11.278090+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins": {
       "source": "NPR News",
@@ -32910,7 +33370,11 @@
       "author": "Tim Craig",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:51:28.818771+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:20.263705+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets": {
       "source": "The Verge",
@@ -33050,7 +33514,11 @@
       "author": "Rachel Frazin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:56.333094+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:19.100204+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/blogs/in-the-know/5963363-uk-norway-embassies-get-cheeky-in-social-media-post-over-haaland-kane-world-cup-rivalry/": {
       "source": "The Hill",
@@ -33060,7 +33528,11 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:00.917874+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:23.713748+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/campaign/5963366-platner-officially-withdraws-from-maine-senate-race/": {
       "source": "The Hill",
@@ -33070,7 +33542,11 @@
       "author": "Caroline Vakil",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:05.239547+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:28.239511+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.france24.com/en/tv-shows/the-world-this-week/20260710-iran-forewarnings-and-a-funeral-nato-le-pen": {
       "source": "France 24",
@@ -33230,7 +33706,11 @@
       "author": "John S.W. MacDonald and Amy Graff",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:47:24.807789+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:01:12.555256+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -33290,7 +33770,11 @@
       "author": "Julia Manchester",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:51.876406+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:15.075833+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-07-11/whyalla-liquidated-companies-gfg-ferretti-workers-pay-sa/106897886": {
       "source": "ABC Australia",
@@ -33560,7 +34044,11 @@
       "author": "Nathaniel Weixel",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:43.035221+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:06.718101+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/newsletters/defense-national-security/5963509-conservative-coalition-urges-congress-to-protect-internet-freedoms-in-iran/": {
       "source": "The Hill",
@@ -33570,7 +34058,11 @@
       "author": "Filip Timotija",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:47.842387+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:11.253170+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-07-11/tour-de-france-stage-7-wrap-merlier-wins-pogacar-leads/106904662": {
       "source": "ABC Australia",
@@ -33680,7 +34172,11 @@
       "author": "Miranda Nazzaro",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:38.418602+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:07:02.213756+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-07-11/beagle-bay-housing-residents-feel-forgotten-by-wa-government/106470082": {
       "source": "ABC Australia",
@@ -33780,7 +34276,11 @@
       "author": "Ishani Desai",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:44:07.026651+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:57:53.950591+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -33930,7 +34430,11 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:34.521930+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:06:58.326841+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-07-11/derryn-hinch-greatest-hits-as-journalist-dies-aged-82/106903114": {
       "source": "ABC Australia",
@@ -34050,7 +34554,11 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:30.293138+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:06:53.853338+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-07-11/tas-polling-shows-labor-sliding-further/106901358": {
       "source": "ABC Australia",
@@ -34150,7 +34658,11 @@
       "author": "Jeff Foust",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:03.589792+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:06:23.307315+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video": {
       "source": "Bloomberg Markets",
@@ -34200,7 +34712,11 @@
       "author": "Ian Austen and Tyler Pager",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:43:52.799661+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:57:39.582170+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort": {
       "source": "Guardian World",
@@ -34310,7 +34826,11 @@
       "author": "Miriam Jordan and Madeleine Ngo",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:12.338516+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:58:59.980058+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html": {
       "source": "NYT Tech",
@@ -34320,7 +34840,11 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:45:27.198289+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:59:14.922770+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb": {
       "source": "Guardian World",
@@ -34530,7 +35054,11 @@
       "author": "REMA NAGARAJAN",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:44.215329+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:40.195434+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumor-chicago-blackhawks-and-winnipeg-jets-emerge-as-landing-spots-for-38-5m-vancouver-canucks-winger/articleshow/132320743.cms": {
       "source": "Times of India",
@@ -34700,7 +35228,11 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:52:26.142956+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:06:49.597279+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-07-11/ohio-house-of-horrors-hamden-16-children-rescue-siders-family/106889858": {
       "source": "ABC Australia",
@@ -35020,7 +35552,11 @@
       "author": "AMIT KUMAR",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:52.864934+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:48.110225+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/defence/international/vulnerable-but-valuable-why-us-uses-mq9-reapers-india-set-to-get-31-drones/articleshow/132324033.cms": {
       "source": "Times of India",
@@ -35090,7 +35626,11 @@
       "author": "Vivian Wang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:43:49.157416+00:00"
+=======
+      "retrieved_at": "2026-07-11T07:57:35.856597+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html": {
       "source": "NYT Business",
@@ -35100,7 +35640,11 @@
       "author": "Michael M. Grynbaum",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:19.576977+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:07.186009+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans": {
       "source": "Guardian World",
@@ -35210,7 +35754,11 @@
       "author": "TNN",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:54:05.915745+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:59.768122+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/life-style/home-garden/man-bitten-by-rattlesnake-california-54-vials-antivenom-survives/articleshow/132324303.cms": {
       "source": "Times of India",
@@ -35220,7 +35768,11 @@
       "author": "TIMESOFINDIA.COM",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:54:10.439577+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:09:03.702780+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -35410,7 +35962,11 @@
       "author": "AMARJEET SINGH",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:56.963078+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:51.970814+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/travel/2026/jul/11/ryanair-family-seating-policy-kids-fees-airfare-flight-airline-charges": {
       "source": "Guardian World",
@@ -35500,7 +36056,11 @@
       "author": "JOEL JOSEPH AND NIKHIL SHARMA",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:53:48.600979+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:44.141718+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/india/why-bjp-replaced-its-bankipur-bypoll-nominee-before-face-off-with-prashant-kishor/articleshow/132324929.cms": {
       "source": "Times of India",
@@ -35610,7 +36170,11 @@
       "author": "etimes.in",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:54:01.601113+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:55.846004+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/politics/new-zealand-india-strategic-partnership/": {
       "source": "Japan Times",
@@ -35860,7 +36424,11 @@
       "author": "John Yoon",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:46:15.298527+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:00:02.870179+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran": {
       "source": "NPR News",
@@ -36072,6 +36640,89 @@
       "summary": " The TOI News Desk comprises a dedicated and tireless team of journalists. The TOi News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape.",
       "retrieved_at": "2026-07-11T07:20:52.802648+00:00"
     },
+<<<<<<< Updated upstream
+=======
+    "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+      "title": "Will Trump Accounts deliver for American children?",
+      "date": "Sat, 11 Jul 2026 07:41:18 GMT",
+      "author": "",
+      "text": "The launch of Trump Accounts, the new savings scheme aimed at encouraging investing among American children, was marked with an historic ringing of the Wall Street opening bell in the Oval Office this week.\n\nBut not everyone is convinced the project will prove a success in giving new generations a stake in the so-called American dream, with sceptics suggesting that it will not live up to the hype.\n\nThe savings accounts are now available to all US children under the age of 18, with babies born between 2025 and 2028 qualifying for a $1,000 contribution to kickstart savings.\n\nThe move comes as the cost of living remains a major issue ahead of November's mid-term elections, but tax experts told the BBC families on lower incomes could lose out and that the scheme is too complicated.\n\nThe accounts named after the president are available nationwide and can be created for anyone under the age of 18 with a valid social security number. Parents can simply download the app.\n\nFamilies, friends and employers can contribute up to $5,000 per year per child, who can access the funds when they turn 18.\n\nBy law, the money must be invested in a low-cost index fund designed for long-term growth. But while the money grows tax free, withdrawals are subject to taxes and a possible 10% penalty if made before the age of 59 and a half.\n\nTo avoid such a penalty, the money must be assigned to pay for certain things, such as higher education, buying or building a first home, or for personal emergency expenses.\n\nTrump Accounts add to other existing tax-efficient savings schemes that Americans can use for retirement, such as IRAs, or for educational purposes, such as 529 plans, which parents use to save for their children's college fees.\n\nAccording to a Congress report, Trump Accounts are a new form of traditional individual retirement account (IRA), but differ because of certain rules.\n\nWhile the White House has been keen to push the scheme, reaction to it has been split.\n\nThe White House's argument is that Trump Accounts offer millions of children a way into stock ownership in the US, which it says has historically been \"unevenly distributed, with many households - especially younger and lower‑income families - having little or no exposure\".\n\nHowever, Will McBride, chief economist at the Tax Foundation think tank, says the scheme is too complicated to sign up to, which will lead, in his view to a \"minority that benefits\".\n\nHe suggests those that will take advantage will be the parents of children who are \"relatively well-informed, relatively well-off, relatively tuned in [and] have their act together\".\n\nHowever, Andy Blocker, head of policy, regulatory and government relations at financial services firm Edward Jones, believes the $1,000 contribution for babies born during Trump's second term in office will remove a \"barrier of having nothing to start with\".\n\n\"If by year-end more families have a clear on-ramp to begin saving and investing for their children's financial futures, that's success,\" he suggests.\n\nAdam Michel, director of tax policy studies at the Cato Institute, says the idea of the scheme is admirable, but warns it might \"not live up to the rhetoric\".\n\nHe says the main benefit is the $1,000 starting subsidy but suggests many families would be better off using existing savings accounts.\n\nHe also points out barriers such as penalties for early withdrawal, as seen for other savings accounts, adding that lower-income children may feel compelled to take the money out when they turn 18 to \"help make ends meet\", and therefore have to pay a penalty. \"Trump Accounts do not fix that problem.\"\n\nIt is understood some six million families​ had signed up before Trump Accounts went live on 4 July, which is a fraction of the tens of millions of children who could be eligible for one.\n\nThe White House said on Monday that the $1,000 subsidy for babies had been deposited into more than half a million accounts so far. About 3.6 million children were born in the US in 2025, according to provisional data.\n\nAt the end of this week, the White House said that American families had \"contributed nearly $125 million to Trump Accounts\" so far.\n\nTrump Accounts estimates the $1,000 starting pot could rise to $6,000 by the time a child reaches 18 even without any further contributions. Its calculations are based on historical S&P 500 averages, but it warns actual results may differ and are not guaranteed.\n\nIf $250 a year was added to a child's account, the pot could be worth $19,000 by the time they turn 18, according to the scheme. It could be as high as $271,000 if family members or employers contribute the maximum $5,000 a year.\n\nThe scheme has the backing of some big business names, including investment giant BlackRock, which said about 40% of Americans have no exposure to financial markets. Several US companies, including card payment giant Visa and tech company Dell, have also pledged support for the scheme.",
+      "summary": " Trump Accounts is a new savings scheme aimed at encouraging investing among children. It is available to all US children under the age of 18 with a valid social security number. The scheme is aimed at helping families on lower incomes to start saving. But tax experts say it is too complicated to sign up to and that it could be too",
+      "retrieved_at": "2026-07-11T07:57:30.422684+00:00"
+    },
+    "https://www.theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb": {
+      "source": "Guardian World",
+      "link": "https://www.theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb",
+      "title": "Pianist Jayson Gillham ‘very disappointed’ after losing Melbourne Symphony Orchestra discrimination case",
+      "date": "Sat, 11 Jul 2026 05:50:45 GMT",
+      "author": "Australian Associated Press",
+      "text": "The federal court on Friday threw out the concert pianist’s case against the MSO, finding he was not unfairly dismissed due to Gaza war comments\n\nGet our breaking news email, free app or daily news podcast\n\nThe concert pianist at the centre of a high-profile unfair dismissal case has revealed his deep disappointment with his courtroom defeat.\n\nFederal court justice Graeme Hill on Friday threw out Jayson Lloyd Gillham’s case against the Melbourne Symphony Orchestra, finding he was not unfairly dismissed.\n\nThe case centred on Gillham’s termination in August 2024 after he told a recital audience Israel had deliberately targeted some journalists to prevent the reporting of war crimes.\n\nGillham claimed he was unlawfully discriminated against because of his political beliefs but Hill determined that was not the case; rather the orchestra was protecting its business interests and reputation.\n\nThe pianist delivered his reaction via social media on Saturday morning, stating he had been overwhelmed by messages since the loss.\n\n“I am understandably very disappointed by the court’s decision in this matter. I believe artists should be free to speak with integrity. This case was never just about me. My principles remain unchanged,” Gillham posted on Instagram.\n\n“I will take some time to consider the court’s findings. In the meantime, my focus is on music.”\n\nDr Giuseppe Carabetta, an associate professor of workplace and business law at the University of Technology Sydney, said the court had affirmed an employer’s right to sack outspoken workers if done to protect organisational reputation or business interests.\n\n“The key lesson from the Gillham decision is Australian employers are not being given a licence to punish workers for their political opinions,” he said.\n\n“But what the court has reinforced is organisations may regulate the use of their platforms, stages, brands and reputations.”\n\nHill noted the orchestra had a policy of not supporting either side of the Gaza conflict and there was a custom of performers not making statements about sensitive political issues.\n\nSign up to Breaking News Australia\n\nGet the most important news as it breaks\n\nafter newsletter promotion\n\nThat finding also supported employers who wanted to avoid taking a stance on highly contentious issues, Carabetta said.\n\n“The judgment gives some comfort to organisations seeking to maintain political neutrality, provided they can demonstrate that their actions are genuinely directed to institutional interests rather than suppressing a particular viewpoint,” he said.\n\nThe judge also supported the orchestra’s contention it controlled the stage, rather than the performer, Carabetta said.\n\n“The court seems to accept that performers do not automatically acquire a right to use an employer’s or host’s platform to make political statements on matters unrelated to the engagement,” he said.\n\nOrchestra chair Edgar Myer welcomed the findings and hoped the organisation could now focus on music.\n\nThe question of costs will be decided at a later date.",
+      "summary": "Federal court threw out Jayson Lloyd Gillham's case against the Melbourne Symphony Orchestra. The case centred on Gillham’s termination in August 2024 after he told a recital audience Israel had deliberately targeted some journalists to prevent the reporting of war crimes. Gillham claimed he was unlawfully discriminated against because of his political beliefs",
+      "retrieved_at": "2026-07-11T08:02:34.331185+00:00"
+    },
+    "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates": {
+      "source": "Guardian World",
+      "link": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates",
+      "title": "Ann Widdecombe investigation: police release man arrested on suspicion of former MP’s murder – latest updates",
+      "date": "Sat, 11 Jul 2026 07:43:47 GMT",
+      "author": "Yohannes Lowe",
+      "text": "As we mentioned in the opening post, Widdecombe, who appeared on TalkTV on Wednesday, lived in Haytor Vale, a village within the Dartmoor national park, in a 1970s bungalow named Widdecombe’s Rest.\n\nA plaque with the name of the property was positioned at the end of her drive.\n\nWiddecombe was due to be a guest on Channel 5’s Matt Allwright show on Wednesday afternoon, but did not appear, as first reported by ITV News.\n\nShe had exchanged messages with a researcher from the show, but did not respond when they tried to contact her to join a Zoom call from home.\n\nCalls and texts sent after the programme aired remained unanswered, ITV News said, and the Channel 5 show’s team followed up with her agent later on Wednesday and on Thursday.\n\nA 26-year-old man arrested on suspicion of murdering the former MP Ann Widdecombe has been released from custody and is no longer part of the investigation, Devon and Cornwall police said early on Saturday.\n\nIn a statement, the force’s assistant chief constable, Matt Longman, said: “Our priority remains identifying those responsible and ensuring that all available evidence is thoroughly examined.\n\n“Detectives continue to carry out numerous inquiries as part of the ongoing investigation and we remain committed to establishing the full circumstances surrounding the incident.”\n\nHe said the investigation was “moving at a significant pace”. Police previously said there were no indications it was a “politically motivated crime” and have confirmed the incident was not being treated as terror-related.\n\nOn Friday, police said they were seeking a white male in connection with the death and later confirmed a 26-year-old white British national had been arrested at an address in Newton Abbot, less than 10 miles from Widdecombe’s home in Haytor, Devon.\n\nWiddecombe’s body was found with “serious injuries” by the ambulance service at her home at 11.40am on Thursday.\n\nShe was a Conservative MP from 1987 to 2010 for the Kent constituency of Maidstone. She became a member of the Brexit party in 2019 and served as an MEP, representing South West England, between 2019 and 2020. She was also a member of that party’s successor, Reform UK.\n\nReform UK’s leader Nigel Farage said Widdecombe’s alleged murder showed that life for politicians in Britain had become even more dangerous. He said:\n\nOur nation is a much, much poorer place without her. Reform UK is certainly a much worse place without her. I was expecting to see her in Clacton over the course of the next few days. Sadly, that is not going to happen.\n\nRest in peace, Ann. A remarkable, principled woman, and a truly dreadful way to die, and a terrible reflection on modern Britain.\n\nAnd I do fear that for anybody in public life, or especially the political space, things have become even more dangerous.",
+      "summary": " Ann Widdecombe was due to be a guest on Matt Allwright show on Wednesday afternoon. She did not appear, as first reported by ITV News, but did not respond to calls and texts. A 26-year-old man arrested on suspicion of murdering",
+      "retrieved_at": "2026-07-11T08:02:38.319637+00:00"
+    },
+    "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy": {
+      "source": "Guardian World",
+      "link": "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
+      "title": "World Cup quarter-final expected to generate £500m sales boost for UK economy",
+      "date": "Sat, 11 Jul 2026 07:00:43 GMT",
+      "author": "Rob Davies and Sarah Butler",
+      "text": "As England prepare to take on Norway on Saturday, sales of pints, takeaways and new TVs continue to surge\n\nFrom a cosy Norwegian pub to outdoor fan zones packed with hopeful England football fans, Saturday’s World Cup quarter-final between the two nations is expected to generate a multimillion-pound windfall for venues showing the game.\n\nThe quarter-finals will collectively generate a near half-billion pound sales increase for the wider UK economy, as fans drink 9.3m pints, order takeaways and splash out on new TVs, according to one estimate.\n\nSome of the biggest beneficiaries include venues staging ticketed watch parties, many of which reported selling out within hours of the final whistle blowing in England’s thrilling 3-2 victory over Mexico in the last 16 on Monday morning.\n\nWhile outdoor fan zones are renowned for pints of beer being launched into the air in celebration, the Kenton Arms in London is more likely to be doused in Akevitt, a Norwegian spirit typically made from potatoes, with flavours of caraway and dill.\n\n“I think it’ll be a majority of Norwegians, maybe 70:30 or 80:20,” said Egil Johansen, who has run the pub – a social hub for London’s Norwegian diaspora – for 17 years.\n\n“I really wanted to make sure that we get a proper Norwegian vibe in here, which we have had so far,” he said.\n\n“On Sunday against Brazil we reached our capacity of 200 about one hour before kick-off and had to stop entry. It’s 100% an extra boost for us this year.”\n\nThe tournament has already provided a significant uplift for the hospitality sector, with sales in pubs up by 77% on matchdays compared with a typical Tuesday, according to trade body UKHospitality.\n\nOn Saturday, the sector is expected to make £27.5m from pouring an extra 5.5m pints, the British Beer & Pubs Association (BBPA) said.\n\nBut many fans will be flocking to outdoor screenings.\n\nLive broadcasts of the games on the BBC and ITV regularly cut to images of fans celebrating – or in Scotland’s case drowning their sorrows in stunned silence – at open-air venues, such as those run by Boxpark in London and Liverpool.\n\nMatt Snell, chief executive of the street food and entertainment pop-up company, said each match could be worth £500,000 in sales of tickets, drinks and food.\n\n“If we reach the final, it’ll be as big as Christmas and the whole month of December for us,” he said.\n\n“We had 2,000 people at [Boxpark] Wembley at 4am for the Mexico game on Monday. Tickets for the quarter-final went live at 5am and by lunchtime they’d sold out.”\n\nHe said drinks sales haven’t been as high as for previous tournaments, due to games kicking off at unsociable hours. However, England’s continuing progress means projected extra sales are ahead of what the company expected.\n\n“We [budgeted for] the last 16 so everything now is a bonus for us,” he said.\n\nWhile many fans are choosing to watch games outside during the sunny weather, indoor venues are cashing in, too.\n\nBranches of cinema chains including Vue and Picturehouse are advertising tickets to watch the game, alongside summer blockbusters such as Disclosure Day and The Odyssey.\n\nSign up to Business Today\n\nGet set for the working day – we'll point you to all the business news and analysis you need every morning\n\nafter newsletter promotion\n\nThe Co-op Live venue in Manchester, part owned by the owners of Manchester City, will be showing the game at its 2,000-capacity Vertu Place fanzone. It will be the first international game shown at the venue.\n\nA spokesperson said the event, priced at £10 per ticket, sold out in 48 hours.\n\nThe overall uplift in sales across the UK economy during the quarter-finals is projected to reach £493.6m, according to research from analysis firm GlobalData on behalf of VoucherCodes.co.uk.\n\nMost of this, at £385m, is forecast to be linked to the England-Norway game, with £280m for retailers and £105m for hospitality.\n\nThe anticipation has increased sales of large TVs, as households get ready to watch the games at home.\n\nOnline electrical goods retail AO.com said TV sales were up 23% year-on-year throughout June, with demand rising as England continue to progress through the tournament.\n\nThose watching at home have also been keeping delivery riders and takeaways busy.\n\nOvernight orders on Deliveroo nearly doubled compared with the same unsociable period the week before during the England-Mexico match in the early hours of Monday. In the two hours before kick-off, sparkling wine and popcorn orders nearly tripled while coffee orders doubled. At 4am, as the final whistle blew, pizza and burger orders tripled.\n\nThe UK’s biggest supermarket, Tesco, also said orders via its quick delivery service Whoosh surged during the Mexico game with demand at its highest between 1pm and 3pm as customers stocked up ahead of the game. The service extended its hours until midnight to catch more orders.\n\nAs a result, Whoosh recorded one of its busiest-ever days with sales of ice-cream surging 64%, big bags of crisps and snacks up 45% and lager rising 44%.\n\nFigures from mobile operator O2 also indicated a rise in online streaming and takeaway orders with food delivery app traffic up 169% before kick-off while traffic to iPlayer was 24,581% above normal at 4am, as fans tuned back in to catch the final whistle.\n\nIt also indicated a trend towards watch parties – in pubs and bars or homes, with private vehicle hire app Uber experiencing a 192.6% spike in traffic after full-time.",
+      "summary": " England and Norway will play in the World Cup quarter-final on Saturday. The quarter-finals will collectively generate a near half-billion pound sales increase for the wider UK economy. Uber experienced a 192.6% spike in traffic after full-time after full time.",
+      "retrieved_at": "2026-07-11T08:02:42.136851+00:00"
+    },
+    "https://www.wired.com/story/chewy-promo-code/": {
+      "source": "Wired",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "title": "Chewy Promo Codes: $20 Off July 2026",
+      "date": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "author": "Molly Higgins",
+      "text": "All products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products through these links. Learn more.\n\nFLORIDA-BASED PET FOOD and product online retailer Chewy has been around for less than 15 years but has quickly become a popular source for everything pet-related. Chewy even has supplies for farm animals, reptiles, fish, and more, carrying over 3,500 brands, including everything from food to medicine to toys. My cat is constantly throwing up (same) and requires Hill’s Sensitive Skin and Stomach, which costs roughly as much as my car insurance every month. I use WIRED’s Chewy promo codes to save money so I can spring for the 50-cent instant ramen while she can remain vomit-free. Browse our roundup of verified coupons to score 50% off pet food and toys, $20 off your first purchase, free shipping deals, and more 2026 promotions.\n\nIf you’ve been wondering whether Chewy is right for you, now's the time to try. First-time users can get a $20 eGift card when they purchase over $49 on their first order at Chewy and use code WELCOME. And if you’ve never placed an order with their pharmacy, use Chewy coupon code RX20 at checkout to save 20% on prescription essentials like Simparica Trio, NexGard Plus, Heartgard, and more pet medications.\n\nIf you’re a returning customer, don’t fret. Chewy has rotating deals on a myriad of pet essentials and supplies, like flea guard, treats, litter, toys, and more. With this Chewy promo code, you can get almost half off, with $20 off orders of $49 or more with Chewy coupon code GIFT20OFF. This is a rare coupon that is only for existing customers who are signed in with their account. Plus, you can get an extra $5 off on the first order made through the Chewy app with promo code. You’ll just need to download the app, and input the above code in the box on the checkout screen for $5 off.\n\nNew customers can also get free 1-3 day delivery (with real-time tracking technology) on first-time orders over $35, which seriously helps in cutting down the convenience cost of being able to get your 40-lb litter box to your third-floor apartment without having to lug it on the L train yourself (speaking from experience, don’t endure what I’ve had to). Get the convenience without having to pay for it with Chewy coupons for free delivery on all items.\n\nAlready a devoted pet-parent/Chewy member? While often the best Chewy promo codes are reserved for first-time customers, existing customers can score daily deals like buy 3, get 1 free offers on toys. Make sure to stay tuned here, because while our top Chewy promo codes unlock over 20% off, there’s more to look forward to., Expect discount codes still to come like 50% off premium dog and cat food, up to 40% off Flea and Tick medications for fall, and free shipping on $35 easy price to hit when you’re grabbing pet essentials (not to mention I’ll spend any amount to not lug around boxes of concrete clay litter in the pits of hell, aka the subway).\n\nDo we have any equestrians in the house tonight? If so, you’re in luck. You can get 40% off horse joint health supplements with Chewy promo code EQSUP.\n\nSurprisingly, some deals don’t require you to apply a code or lift a finger. When you set up an autoship subscription on products you’ll get 35% off your first order, and up to 50% off featured pet food brands; along with an additional 5% off all future deliveries.\n\nChewy lets shoppers combine autoship with other brand-specific deals or category discounts (they just need to be listed on the “Today’s Deals” page). Plus, Chewy makes it easy: you can pause, skip, or cancel any scheduled autoship at any time. You won’t have to be locked in to a subscription and you can adjust frequency as needed, from weekly to monthly and more. And there are even extra discounts for autoship orders on pharmacy items like important prescription medication.\n\nI’m sort of the cat tech guru around here, and have tested a myriad of the best pet tech like automatic feeders and automatic litter boxes, and I have some very strong opinions about which are worth the money (or not). I’m currently using—erm, my cats are using—the Litter-Robot 4 automatic litter box, and although it’s pricey, this box has changed my life. Gone are the days of foul smells, scooping, and pouring litter. This little machine does all the dirty work for you so that you can spend more time on cuddles. I also own the LEVOIT Core Pet Care Air Purifier which has been a game changer for me living in a cramped apartment with two giant cats—it really helps to dissipate any smells, pet hair or pesky dander. I feel like my house overall feels more clean because of this small powerhouse machine. When I transition from WFH I’m going to invest in this inexpensive camera, INSTACHEW Purrsight 360 Degree Wi-Fi Security Pet Camera, to keep an eye on the goings on and shenanigans while I’m at work.\n\nIf you haven’t ordered from Chewy before, now’s a great time to give it a try to see if it’s a good fit for you or your furry friend. Right now, when you make an order over $49, you’ll get a $25 eGift card. This means when you buy anything over $49, from dog toys to cat litter to bird food, you’ll get rewarded with an eGift card to use on future purchases to cut down costs. (Some restrictions apply.)\n\nIf you are like me and find yourself needing to restock on (heavy) essentials like kibble, canned food, and litter what seems like every few weeks, it’s a good idea to become a Chewy+ member, where you’ll get discounts on tons of items, autoship savings, rewards, and free delivery. With Chewy+, you not only get free, fast shipping, that applies to orders with no minimums. Plus, you’ll get 5% back in rewards on purchases, exclusive offers, double rewards, discounts, free items, and more. Chewy also gives you a 30-day trial period so you can decide if Chewy+ is right for you. After that, it’ll be $79 per year. When you earn rewards, they will be added to your Chewy+ rewards balance which shows in your member details and at checkout for redemption. Join Chewy+ today so you can make the most of your Chewy membership with newly added and changing offers like free access to Chewy services for your pet, extra rewards, or special pricing.\n\nChewy dog deals are one of the best ways for dog owners to save big at Chewy. Under the “daily deals” tab, you can find deep discounts on pet essentials, from toys to treats, on pets by category. (Think of it like a bargain sale clearance bin, but for pets!) Right now, when you buy three toys or treats, you’ll get the fourth free. Make sure you look at the specifics of the Chewy dog deals, as only certain top-rated toys and treats qualify.\n\nChewy’s Frisco line focuses on adorable sea-themed creatures, toys, plushies, and more so your pet can spend summer in style. When you buy three toys from Frisco by Chewy, you’ll get the fourth for free. This line includes things like dog toys, cat toys, pet apparel, leashes, furniture, beds and more. The Frisco Coastal collection stands out with adorable favorites like Critters Plush Squeaky Dog Toy or the Frisco Coastal Turtle Plush Squeaky Dog Toy—be sure to check out the adorable collection for yourself (and your furry friend!).\n\nAlthough I love warmer weather, it’s when the bugs come out. Particularly, harmful bugs like fleas and ticks that can make your pet’s life (and yours!) unbearable. Now that it’s the high season, Chewy has a deal for 50% off your first prescription autoship order—including flea, tick, and heartworm medications for cats and dogs. So whether you’re refilling a prescription, or shopping for dog or cat flea and tick, prevention and treatment, topical treatments, collars, or more, you’ll get a 50% discount on your first prescription autoship order.",
+      "summary": " Chewy has been around for less than 15 years but has quickly become a popular source for everything pet-related. Chewy+ offers discounts on tons of items, autoship savings, rewards, and free delivery. Cheywy+ also gives you a 30-day trial period so you can decide if Chewy+. is right for you",
+      "retrieved_at": "2026-07-11T08:05:40.707919+00:00"
+    },
+    "https://www.wired.com/story/dell-coupon-code/": {
+      "source": "Wired",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "title": "Dell Coupon Codes: 20% Off for July 2026",
+      "date": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "author": "Scott Gilbertson",
+      "text": "All products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products through these links. Learn more.\n\nEXPECT TO SAVE over $600 on the hottest models, including $250 off monitors, for crisp and clear gaming (or writing), 40% off laptops, and up to $1,200 off desktops for true gamers. We’ve rounded up the top Dell coupon codes and discounts so you can save big on pricey tech.\n\nIf you haven’t bought from Dell, right now you can get seriously rewarded for switching. Right now, new customers can get 10% off Dell products when you sign up for their email newsletter. Plus, you’ll get additional perks like exclusive offers in your inbox and invites to special sale events, including flash discounts during seasonal sales. Plus, right now you can use Dell promo code AFFBUNDLE10 to get an extra 10% off when you bundle select PCs with accessories. And, save your tech refresh with clearance sale discounts and Dell promo codes today.\n\nAs mentioned, one of the best ways to save big on tech purchases is by buying a certified refurbished Dell laptop through the Dell Outlet. The Dell outlet has tons of like-new tech for hundreds less than if bought brand new. You can get top tech like the Dell 14 Premium for $1,036 when bought refurbished—that’s $259 in savings! With this powerful laptop, you’ll have built-in Intel Arc 140T Graphics and FHD RGB + IR Camera and Microphone, among other perks. Be sure to check out the Dell Outlet for tons of Dell tech for hundreds less.\n\nThe Dell 14 Plus served as Dell’s rebranding launch, and when we reviewed the laptop, we appreciated its fast performance, great battery life, solid IPS display, comfortable keyboard and touchpad. With this Dell 14 Plus offer, you get the laptop for only $860 if you have a valid college email address that’s been verified. You’ll get the Intel Core Ultra 7 256V with eight core processing, Windows 11 Home operating system, Intel® Arc Graphics, 16 GB of memory, and 1 TB of SSD storage.\n\nBeen wanting to upgrade your WFH or gaming setup? Dell has marked down some of their most popular laptops and monitors during their holiday and tech refresh sale events. There are stellar deals like $400 off the Alienware 16X Aurora (one of the best gaming laptops we’ve seen of its kind), and $450 off the Alienware 18 Area-51. Complete your gaming experience with an Alienware Area-51 desktop for $1,200 off, which includes 50% more processing power. Some other great Dell monitor deals we’ve found include the ability for Rewards members to earn up to 3 times the amount of points (or 9% back) on select Alienware monitors. Plus, you can save $100 on the Alienware 4K QD-OLED gaming monitor, or $120 on the Alienware 27 Gaming monitor, right now. And you can also get 30% off the Dell 24-inch monitor when you purchase any laptop or desktop computer.\n\nWe’ve also found steep discounts on some of our favorite WIRED-tested gear, including $160 off the Bose Quiet Comfort headphones (now only $199), and $350 off the Dell 14 Plus Laptop.\n\nThe deals don’t stop there though, with discounts on Dell’s best-selling laptops and PCs, including: $200 off the Dell 15 laptop, $500 off the Dell 16 Plus laptop, and 50% off software when you purchase a PC. Whether you want to work-from-home or game-from-home more effectively, check out the latest offers in the Dell deals hub.\n\nDell has rotating best deals of the week too, like their best-selling monitors, which include Dell 27 Plus 4K monitors (starting at $129), $400 off QD-OLED gaming monitors like the popular Alienware 34 Curved model, plus $350 off Alienware Aurora gaming desktops and $200 off Tower Plus desktop computers.\n\nStudents, it’s the worst time of your life, you might as well save a little money. Just kidding, life only gets harder from here. Kidding. Again. Maybe. What is not a joke is this deal. Dell is giving students a 10% discount on things students need like Dell XPS laptops and Alienware gaming rigs. No need to say anything about gaming. It’s for your eyes, because they’re starting to bleed from all the term papers.\n\nTo the discount, first, make sure you have a Dell account and that the Dell Rewards box is checked. Once you’re enrolled in both, verify your .edu email address through the membership tab of your account. Not a student? No problem, Dell still has some great deals for your computing needs. Beyond students, Dell offers an extra 5% off Heroes discount for military members, veterans, employees, rewards members, and businesses. Verify through GovX or VCS in a matter of minutes to get exclusive pricing and early access to sale events.\n\nGetting prepared for college is the most exciting, sometimes stressful, and often one of the most expensive times in a person’s life. With Dell’s Ultimate College Offers, students can save an extra 10% and get the Microsoft College Offer for free on select PCs—this includes a year of Microsoft 365, Xbox Game Pass, and a customizable Xbox controller, because Dell knows that although you work hard, you need to play a little too. This is over $500 worth of products, for free, with this limited-time Dell discount offer.\n\nDell wants to make their valuable tech more accessible to seniors by providing Dell discounts for seniors. Once you become a verified senior, you’ll be eligible for special Dell savings on laptops and computing tech. First, create a Dell account, then register as a Dell Rewards member. Once you verify your senior status, exclusive Dell senior savings will be reflected in the cart!\n\nDon’t forget that, in addition to the Dell coupons available, there are also limited-time discounts for Dell Rewards program members. Rewards customers get double the points right now, or 6% back on almost everything. This means if you’re signed up with an email, you can get triple the discount, plus, 5% off select XPS and Dell Premium systems. If you open a Dell Pay Credit Account, you’ll earn $100 (or 10,000 points) in Dell Rewards dollars once you enroll in the Dell Rewards program.\n\nBecoming a Dell Rewards Member is one of the easiest ways you can save when shopping online at Dell. When you shop Dell.com as a member you’ll earn 3% back in rewards, which are usually added to your account within 30 days of your order’s ship date. Plus, you can monitor Rewards history, get exclusive member perks, deals, and member-only benefits with your rewards account. And perhaps best of all, right now Dell Rewards Members can earn an extra $50 back on any XPS PC (until July 1).\n\nUnlike many companies, Dell’s Price Match Guarantee covers competitor prices and if a product drops on the Dell website. Best of all, their competitor price match policy is available before or after you buy. So, when you find an identical Dell, HP, Apple or Lenovo computer, you’ll just need to share the link with a Dell expert through chat or a phone call to get that lower price. If you've already purchased the item, but find the product on Dell's or a competitor's site within 30 days, share the link through the Order Support portal and you’ll be refunded the difference.\n\nDell’s XPS laptops are the perfect addition to your tech setup. They’re lightweight, small, and plenty speedy. They’re Windows’ rough answer to Apple’s Macbook Pro line. The XPS 13 and upgraded Dell 14 Premium are some of our favorite laptops. Check out the featured laptop offers above to save up to $600, complete with free 2-day shipping and AI-driven PC options powered by Microsoft Copilot technology. If you’re a gamer, you probably already know that Dell makes Alienware, and the Dell Alienware m16 R2 is a powerful gaming machine masquerading as your next work laptop. It’s one of our favorite dual-use gaming rigs, making it perfect for students.\n\nThe Dell Business Partnerships program is ideal for small business owners, with exclusive access to business-only tech savings. When enrolled in this valuable service, you’ll get exclusive member-only discounts, IT help, and exclusive access to Dell business tech advisors to help you navigate through any business tech issues. Plus, you’ll get extra savings when enrolled with Dell Rewards, automatic savings that are applied at checkout, and tons of membership benefits like discounts and guided help. To enroll in Dell’s Business Partnership program, you’ll need to get your Dell Membership passcode, sign in or create your account and enroll in Dell Rewards. Once that’s done, you’ll just need to validate your membership passcode, and your discount will be applied automatically in your cart.",
+      "summary": " Dell Rewards members can earn $100 (or 10,000 points) in Dell Rewards dollars. Dell Rewards Members can earn an extra $50 back on any XPS PC. Dell's Price Match Guarantee covers competitor prices and if a product drops on the Dell website.",
+      "retrieved_at": "2026-07-11T08:05:45.471671+00:00"
+    },
+    "https://www.wired.com/story/doordash-promo-code/": {
+      "source": "Wired",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "title": "50% Off DoorDash Promo Code | July 2026",
+      "date": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "author": "Molly Higgins",
+      "text": "All products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products through these links. Learn more.\n\nWHAT CAN I say about DoorDash to truly encapsulate what this company means to me? I could say it’s the father I never had; it’s the mother I’ve always wanted; the warm embrace of a friend you haven’t seen in a while; the sound of rain as you fall asleep… One of the greatest inventions of the 21st century has been the ability to get virtually any type of food you crave delivered to your front door without having to get up or even speak to another human. We’ve rounded up the best verified DoorDash promo codes, special offers, and free delivery deals.\n\nTreat yo’self to staying inside and having your meals delivered to you in the comfort of your own home. Right now, you can get $8 off orders of $25 or more at participating restaurants. As well as a DoorDash promo code for up to $25 off your first order of $30 or more, and you can also get 25% off your first alcohol delivery with DoorDash. Make sure to use DoorDash promo code USDASHTRIAL2Q26 to get the best savings.\n\nBeyond using Doordash promo codes above, you can save more with rotating weekly deals–plus these special offers.\n\nThe best coupons include 25% off your entire order, $5 off $20, and 30% off lunchtime delivery. Unlike the many promo codes only for new customers, existing customers can score too, and save 30% (up to $8) for a limited time. Now you have the perfect excuse to get your munch on.\n\nThere are also great BOGO deals (who doesn’t love a buy one, get one moment?) like buy 1 get 1 free entrees and a free appetizer when you spend $15 or more, up to $35 off. While discount codes are often only available for your first order, both new and existing customers can take advantage of these coupons. Keep the Deals section in mind to save big with limited-time offers based on your delivery location.\n\nWith this exclusive WIRED DoorDash promo code, first-time customers can get 15% off their first order placed through DoorDash, with savings up to $10 on a $15 minimum order using DoorDash coupon code USEG15OFF2Q26. This DoorDash promo code is only applicable for new customers only and cannot be applied toward alcohol orders.\n\nDepending on your location, you can get personalized DoorDash coupons and DoorDash promo codes specific to your location and local favorites so you can save while revisiting old favorites and new hot spots. There are literally hundreds of top DoorDash promos and new offers that rotate daily for local restaurants, grocery stores, and more. Plus, with DoorDash, you’ll get a $0 delivery fee on eligible orders, free items and discounts on food, deals on groceries, and DashPass member exclusive offers. When I entered my ZIP code, I discovered [DoorDash deals](https://www.doordash.com/en-US/promos) for things like 20% off orders, $5 discounts, and free items on new restaurants I’d never heard of before (my potential new faves?).\n\nDoorDash is the answer to 21st century America's laziness, and was a godsend during the height of the Covid pandemic, when customers could get their favorite foods from restaurants, groceries and household products delivered right to their door without having to leave the safety of their couch. If you’re more of an Uber Eats type of person and haven’t signed up for DoorDash, now is a great time to sign up and get a $0 delivery fee on your first order. Whether you want a romantic night in with your favorite sushi spot across town, or are having a pounding early Sunday morning headache and in desperate need of Advil and Pedialyte from the gas station up the road (not speaking from personal experience or anything), DoorDash has you covered. Go ahead, stay in bed.\n\nOnce you’ve signed up and gotten free delivery on your first order, there are still more ways to save. DoorDash has a student discount, where students can receive 50% off a DashPass account. DashPass is a subscription offering unlimited deliveries from 1,000s of eligible restaurants with $0 delivery fees. All you have to do to sign up for student DashPass is verify your student status with Sheer ID. The student DashPass Plan is half off regular DashPass Plans at $4.99 a month or $48 annually.\n\nIf you’re not a student, don’t worry, there are tons of other great discounts available at DoorDash. Sign up for DashPass to get $0 delivery fees on orders, 5% back on pickup orders, and tons of other benefits.\n\nIf you bank at Chase, Chase cardmembers are eligible for exclusive DashPass benefits on DoorDash and Caviar when an eligible Chase credit card is added to their account. Chase is offering 3 months of Dash Pass free, plus 50% off the next 9 months of service.\n\nWhether you're wanting to go to tried-and-true chains for burgers and pizza like McDonald’s, Shake Shack, or Domino’s, or some true, authentic Mexican like Chipotle or Taco Bell (I kid! Don’t come for me), DoorDash is a great way to eat through the world without ever leaving your couch.\n\nDoorDash has some really exciting updates happening, including the launch of their Going Out program, a new dine-in program for customers starting first in NYC and Miami. With this program, diners will be able to book restaurant reservations directly through the DoorDash app, and will get rewarded for their loyalty by earning exclusive offers when dining in, as well as earning rewards for regular visits to favorite spots. Plus, DashPass members will get even more exclusive perks and in-store rewards. Check it out for yourself—explore the new “Going Out” tab in the DoorDash app, redeem exclusive in-store offers, and earn rewards for repeat visits. Customers save an average of $9 when using these perks.\n\nDoorDash is also launching DoorDash Dot, a robot that delivers food to you rather than humans. Which seems like a great idea. (Note the thick layer of sarcasm, reader.) The scary glimpse into our future continues as creators are rewarded. Short-form videos from local creators and foodies are now live in the DoorDash app; DoorDash hopes that consumers will be able preview dishes before they order, to more accurately see things like preparation style and portion size. This is starting in Atlanta, Austin, Miami and San Francisco, with more rolling out through the end of the year.\n\nNot sure what to get your loved ones for their next birthday or holiday? A DoorDash gift card is the gift that never misses. Whether you want to lift the burden of planning dinners for new parents, or have a friend who’s always ordering takeout, a DoorDash gift card can be a thoughtful way to be there for your loved one when you physically can’t. There are tons of different gift card styles, brands, and types, so you can rest assured there’s a gift for every occasion and person.\n\nDashers can get extra rewards on top of what was mentioned above with the DoorDash Crimson Card. With this special card, you’ll be able to get paid instantly after every dash (no more waiting for weeks), get cash back on purchases made using the card, and manage finances through the Dasher app. With the Crimson Card, Dashers have the choice to get paid instantly and automatically with no deposit fees after every dash or get rewards like cash back on gas. If you’re a Dasher and want to apply for DoorDash Crimson, just tap the 'Earnings' tab, and then 'Learn More' in your Dasher app to apply.",
+      "summary": " DoorDash is launching DoorDash Dot, a robot that delivers food to you rather than humans. The program is starting in Atlanta, Austin, Miami and San Francisco.",
+      "retrieved_at": "2026-07-11T08:05:49.620839+00:00"
+    },
+    "https://www.wired.com/story/att-promo-code/": {
+      "source": "Wired",
+      "link": "https://www.wired.com/story/att-promo-code/",
+      "title": "AT&T Promo Codes: $50 Off This July 2026",
+      "date": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "author": "Kat Merck",
+      "text": "All products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products through these links. Learn more.\n\nMAJOR WIRELESS CARRIERS: A necessary evil if you travel a lot, have a family, or are just interested in coverage that’s reliably consistent and widespread. AT&T is the third-largest provider in the US (first for 5G), with the largest coverage map. I’ve had various AT&T plans for more than a decade, first for just myself and now for my whole family, even though I only get one cell bar at my house and have to stand in one 5-square-foot patch of yard to make a phone call. And have lost entire days of my life to fighting unexpected random charges and upsells. (Verizon is somehow worse.) But anyway! AT&T is fine, it has all the latest phones, and there are some legitimately good perks, like no roaming in Canada or Mexico with select plans. If you know you’re going to have to go with one of the big guys, don’t sign up without checking out the below discounts first.\n\nAn AT&T prepaid phone plan is one of the easiest ways to save big on your future phone bills. AT&T has a wide selection of prepaid phone plans, including 5G prepaid plans and multi-month long-term plans. For as low as $25 per month, you’ll get unlimited talk, text, and data. Plus, all AT&T prepaid plans include AT&T ActiveArmor mobile security, and are eligible for an eSIM or SIM card for as little as $0.99.\n\nIf your family works from home, or just needs a lot of processing power, you can get 1 GIG speed for AT&T Fiber for only $50 per month—a $40 discount! That means savings of up to up to $480 per year on fast home internet. One gig speeds ensure you won’t miss a beat at work and is perfect for pro-level gaming. This super-fast internet also keeps your smart home moving, along with AT&T internet backup on wireless data to help you stay connected if the internet goes down. Plus, when new customers order 1 gig internet, they’ll get a $200 reward card.\n\nWe on the WIRED Reviews team love the Samsung Galaxy S26 Ultra. We rated it a high 8/10 because of its built-in privacy display. We also loved the horizon lock to capture super steady video footage. Plus, it has excellent performance, great battery life, and a reliable quad-camera system. And right now, you can get a Samsung Galaxy S26 Ultra for free with an eligible trade-in (in any condition, but has a required trade-in of Galaxy S24+, Z Fold5, or newer).\n\nAT&T Fiber claims to be the fastest internet network in America. You can find out for yourself (for less) with this new deal. When first time customers sign up for Fiber now, they’ll get 1 Gigabyte for only $37 per month. That’s over $600 in savings per year!\n\nBut I already have AT&T, you might be saying—new deals never apply to me. Do you have AT&T internet, though? If, like me, you have AT&T for your phone plan and Xfinity or CenturyLink for internet, did you know you can save 20% off your AT&T bill every single month if you bundle your internet service with unlimited wireless? This applies to both current phone customers and current internet customers who don’t have both plans.\n\nAT&T wants to reward you for your loyalty: when you sign up for AT&T Fiber and eligible wireless plans, you can get up to $150 in AT&T Visa Reward Cards. Be sure to check out the AT&T deals page for more details on that offer, along with other great ways to save.\n\nOne of the reasons I went with AT&T in the first place is because my husband is a college professor and we get a generous 25% off our bill. This 25% discount applies for all teachers, as well as active military, veterans, first responders, and many medical professionals. Not one of the above? Students and union members can save $10 per line per month, and union members can also score 20% off accessories like cases, and stuff you used to be able to get with your phones, like chargers and cords.\n\nAT&T wants to thank military members and their families with a 20% AT&T discount for military and veterans. Members can save up to 20% on eligible wireless plans. All you need to do to qualify for this 20% AT&T military and veteran discount is to show proof of eligibility at sign up.\n\nNot a new customer; not in a place to bundle; and not a teacher/first responder, in the military, or a student? All is not lost on the discount front. You can save over $800 a year on AT&T Wireless when you bundle four unlimited wireless plans with your current internet plan. (Savings based on 20% discount on four voice lines with eligible internet service, plus $10/month discount with eligible AutoPay & paperless bill, which starts within two bills.)\n\nYou can also get a discount on a new phone with an eligible trade-in, but the best deal yet may be the fact AT&T lets you try its wireless free for 30 days. Keep your current service and phone number while trying out AT&T’s network from your device—no catches or commitments. You don’t even need a credit card. It’s a great way to see if you get good service where you’ll be using the phone most.\n\nDon’t need four unlimited wireless plans? Check out if your employer offers a discount—a couple of mine have in the past, and you can save $10 per month per line on the unlimited plan. Check here to see if your workplace qualifies. With this AT&T discount, select business employees will be rewarded just for working where they do and can save 20% per line on the AT&T Premium 2.0SM plan with an employer discount. This deal will be credited within three bill cycles and is available to qualified employees, students, and authorized individuals of eligible companies, universities and sponsoring organizations with a qualifying business or service agreement. Just your  validate eligibility online or provide valid employee badge or paystub, student ID, or approved proof of eligibility in-store.\n\nIf you want multiple people on your phone line or are adding a line for your child’s first phone, an AT&T Family Plan is one of the most cost effective ways to make the change. With AT&T family plans, you can mix and match any of AT&T’s unlimited plans to get great deals and serious discounts on any smartphone for each family member. Depending on what you choose, plans start at only $36 per month, per line (for 4 lines).\n\nIf your parent, grandparent or yourself (if over 55 years old) is looking to switch up their phone provider, be sure to snag this bundle deal exclusively for senior citizens. With AT&T 55+ plans, you can bundle two lines of unlimited wireless and home internet from AT&T for $99 per month if you’re 55 years old or older. That’s a total of $550 in annual savings when compared to an AT&T Value 2.0 plan with 2 lines and Internet 300! You'll just need to choose your wireless lines, which will be $35 per month alone, then whether your home is eligible for AT&T Fiber or AT&T Internet Air, you’ll pay $29 per month for home internet. Plus, you can get AT&T Internet Backup included, meaning that if your internet goes down, your wireless data can provide coverage so you stay connected.\n\nIf you’re a big gamer, you’re going to want fast, reliable internet that’ll provide clear, bright graphics without laggy gameplay or interactive audio. AT&T Fiber with All-Fi promises to give gamers everything they look for in a service, with super fast speeds (up to 5 GIG), and tons of bandwidth for fast upload and download speeds.",
+      "summary": " AT&T is the third-largest provider in the US (first for 5G) with the largest coverage map. All AT&t plans include AT& T ActiveArmor mobile security, and AT& t Family Plan is one of the most cost effective ways to make the change.",
+      "retrieved_at": "2026-07-11T08:05:53.600393+00:00"
+    },
+>>>>>>> Stashed changes
     "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html": {
       "source": "Hacker News THN",
       "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
@@ -36080,7 +36731,31 @@
       "author": "info@thehackernews.com (The Hacker News)",
       "text": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\nThe vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.\n\n\"The update fixes a security issue in the Classic Web Client where a specially crafted email could run malicious code when the email is opened,\" Zimbra said. \"If exploited, it could allow access to mailbox information, session data, or account settings.\"\n\nXSS vulnerabilities occur when an application includes untrusted data in a web page without proper validation or escaping. This allows attackers to inject and execute malicious JavaScript in victims' browsers, which can result in session hijacking, credential theft, and account compromise.\n\nStored XSS, or persistent XSS, is a type of XSS flaw where the injected script is permanently stored on the target servers in a database in the form of a seemingly harmless comment or a forum post, causing any site visitor to be compromised as soon as the page containing the JavaScript is loaded on their web browser.\n\nAlthough Zimbra makes no mention of the vulnerability being exploited in the wild, XSS flaws in Zimbra have been an attack magnet for years, with bad actors attempting to weaponize such vulnerabilities as far back as December 2021.\n\nLast October, a stored XSS flaw in the Classic Web Client (CVE-2025-27915, CVSS Score: 5.4) was alleged to have been exploited as a zero-day in attacks targeting the Brazilian military, although Zimbra told The Hacker News at the time that it found no evidence to back it up.\n\nOther XSS flaws that have been exploited by threat actors include CVE-2023-37580 and CVE-2024-27443. Given its high potential for abuse, users are recommended to update to Zimbra Collaboration Suite version 10.1.19 for optimal protection.",
       "summary": " Vulnerability could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. The Classic Web Client vulnerability could result in arbitrary code execution.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:35:12.179964+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:05:59.097080+00:00"
+    },
+    "https://phys.org/news/2026-07-brutal-western-weekend.html": {
+      "source": "Phys.org",
+      "link": "https://phys.org/news/2026-07-brutal-western-weekend.html",
+      "title": "Brutal heat wave forecast for western US this weekend",
+      "date": "Sat, 11 Jul 2026 04:00:03 EDT",
+      "author": "",
+      "text": "We’re checking your connection to prevent automated abuse",
+      "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
+      "retrieved_at": "2026-07-11T08:06:10.960512+00:00"
+    },
+    "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html": {
+      "source": "Phys.org",
+      "link": "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html",
+      "title": "Thousands shelter in Taiwan as typhoon lashes Japan islands",
+      "date": "Sat, 11 Jul 2026 03:40:01 EDT",
+      "author": "",
+      "text": "We’re checking your connection to prevent automated abuse",
+      "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
+      "retrieved_at": "2026-07-11T08:06:14.658868+00:00"
+>>>>>>> Stashed changes
     },
     "https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html": {
       "source": "Phys.org",
@@ -36090,7 +36765,21 @@
       "author": "",
       "text": "We’re checking your connection to prevent automated abuse",
       "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:35:26.103866+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:06:18.289474+00:00"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises": {
+      "source": "Bloomberg Markets",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises",
+      "title": "China Power Load Hits Early Record as Data, EV Demand Rises",
+      "date": "Sat, 11 Jul 2026 07:29:13 GMT",
+      "author": "Charlie Zhu, Ying Tian, Dan Murtaugh",
+      "text": "To continue, please click the box below to let us know you're not a robot.\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below.\n\nGet the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+      "summary": " The Daily Discussion is a weekly, weekly look at the most important global markets news. Use the Daily Discussion to help you understand today's featured news stories.",
+      "retrieved_at": "2026-07-11T08:06:31.495354+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.ft.com/content/5159f92a-08d7-4300-9795-01e2992a721b": {
       "source": "Financial Times",
@@ -36100,6 +36789,7 @@
       "author": "",
       "text": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\n\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\n\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\n\nFT Weekend newspaper delivered Saturday plus complete digital access.\n\nCheck whether you already have access via your university or organisation.\n\nTerms & Conditions apply\n\nDiscover all the plans currently available in your country\n\nDigital access for organisations. Includes exclusive features and content.\n\nSee why over a million readers pay to read the Financial Times.",
       "summary": " FT Weekend newspaper delivered Saturday plus complete digital access. Check whether you already have access via your university or organisation. Discover all the plans currently available in your country Digital access for organisations.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:35:40.325003+00:00"
     },
     "https://timesofindia.indiatimes.com/city/hyderabad/missing-couple-on-swiss-holiday-took-crores-from-investors-cops/articleshow/132319648.cms": {
@@ -36121,6 +36811,39 @@
       "text": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\"\nRead More",
       "summary": " The TOI News Desk comprises a dedicated and tireless team of journalists. The TOi News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape.",
       "retrieved_at": "2026-07-11T07:37:01.984327+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:06:36.358821+00:00"
+    },
+    "https://fortune.com/2026/07/11/ulta-nyc-flagship-store-times-square-retail-model/": {
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/11/ulta-nyc-flagship-store-times-square-retail-model/",
+      "title": "Ulta is betting $400 million that an NYC megastore will help it compete with Sephora—and that flagships still work",
+      "date": "Sat, 11 Jul 2026 07:00:00 +0000",
+      "author": "Phil Wahba",
+      "text": "When Ulta Beauty opens its first-ever flagship, a four-level megastore in New York’s Times Square late next year, the retailer aims to create a more fun and modern shopping experience, showcase its more upscale house brands, and place itself at the center of the beauty universe as it seeks to expand its influence. The 27,000-square foot space is a new experiment for the fast-growing beauty retailer that’s a fixture of U.S. strip malls and a fresh test of the retail industry’s flagship model, which has lost popularity in recent years due to its high cost and ultra-high stakes.\n\nUlta is reportedly paying $400 million for a 15-year lease for the mid-town Manhattan store, set in a tourist-heavy district where flashing billboards put American consumerism on full display. The company has been tight-lipped about its design, but Ulta CEO Kecia Steelman told investors last month that the flagship “will showcase next-level brand building and storytelling capabilities, unlock high-impact marketing” and feature LED-billboards and other flashy touches not seen at the rest of its 1,500 U.S. locations.\n\nUlta, a fast-growing retailer for more than 15 years, hit annual revenue of $12.4 billion last year, with revenue growth of 11% in the first quarter this year. But in the highly competitive beauty space, where influencers can make or break a new lip gloss or fragrances and shoppers want to touch and feel products, Ulta has to find new ways to distinguish itself from chief rival Sephora, which is more international and whose stores are big draws for Gen Z consumers.\n\n“Times Square is a bit different. It’s a global stage. It is an opportunity as we are expanding,”  Ulta Beauty’s chief retail officer Amiee Bayer-Thomas told Fortune during a panel at the CommerceNext conference in New York last month, noting that Ulta, long solely a U.S. retailer, has expanded abroad to Mexico and the Middle East. “This flagship location is going to show the next evolution of Ulta Beauty and the next evolution of what experiential retail looks like in the beauty space.”\n\nThe flagship “needs to be like Willy Wonka’s Candy Land but for makeup,” says Stacey Widlitz, president of SW Retail Advisors. Space NK’s lavish London flagship, opened in Oxford Circus last summer, has set the bar high for the in-person beauty retail experience, with its abundance of product activations and classes and a fun atmosphere, she says. Done well, an Ulta Beauty flagship can make the company “an authoritative” voice on cutting edge brands and capture more of the higher end of the market, a key to its long-term growth, Widlitz says. “They need to up their game. Let’s be real: they are in strip malls, and they’re not Sephora.”\n\nBayer-Thomas says that the flagship will ultimately serve as a testing ground for new products and marketing efforts and serve as an advertising vehicle for the rest of Ulta.\n\n“There are so many places you can go and buy product now. So the stores have to be a differentiated space for the guest to come in and do something other than just transact,” she says. “We think about the flagship, it is about relationship building and loyalty.”\n\nThose principles are essential for any flagship to work—and it must stand out within a retailer’s portfolio. “I’ve seen plenty of flagships that are just really oversized stores in a really cool location. It can’t just be, ‘Oh, here’s every brand we carry,’ or ‘It’s on the Champs Elysées.’ That’s not inherently interesting. It’s really just a billboard,” says Steve Dennis, a former Neiman Marcus executive and president of SageBerry Consulting.\n\nIn the last few years, many brands, including Abercrombie & Fitch, The Gap, and Victoria’s Secret. closed down some of their flagship stores, finding them to be a financial drain while offering shoppers little more than they could find elsewhere. A&F’s CEO Fran Horowitz said in 2024, “Our customer has told us time and time again that that’s not how they’re shopping with us. Our stores are smaller. They’re more efficient.” In recent years, the company has closed flagships in New York, Milan, and Copenhagen.\n\nFlagships are expensive to lease and operate, so it is essential that they draw shoppers who will splurge. American Eagle and Aerie’s flagship in New York’s Soho district, for instance, goes well beyond stacks of jeans and hoodies; it features a rotating art installation and photo booths that pull in young shoppers. The Levi’s flagship in Manhattan showcases its premium products and sells only-in-New-York merchandise.\n\nUlta is betting its flagship will ultimately pay for itself by creating a so-called halo effect for the entire chain by raising brand awareness. “Stores are queen,” says Bayer-Thomas. “Stores continue to be the place where beauty comes to life.”",
+      "summary": " Ulta Beauty's first-ever flagship will open in New York's Times Square late next year. The retailer is reportedly paying $400 million for a 15-year lease for the 27,000-square foot space. The company has been tight-lipped about its design, but CEO Kecia Steelman told investors last month that",
+      "retrieved_at": "2026-07-11T08:06:41.841947+00:00"
+    },
+    "https://timesofindia.indiatimes.com/city/hyderabad/drove-victim-to-lake-before-slitting-throats-of-wife-and-sons-how-pocso-accused-wiped-out-2-families-in-one-night-near-hyderabad/articleshow/132324347.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/city/hyderabad/drove-victim-to-lake-before-slitting-throats-of-wife-and-sons-how-pocso-accused-wiped-out-2-families-in-one-night-near-hyderabad/articleshow/132324347.cms",
+      "title": "Six dead in under an hour: How Telangana man wiped out two families in one night",
+      "date": "Sat, 11 Jul 2026 09:47:33 +0530",
+      "author": "TOI CITY DESK",
+      "text": "The TOI City Desk is an indefatigable team of journalists dedicated to bringing you the pulse of cities from across the nation, all day and all night. Our mission is to curate, report, and deliver city news that matters to readers of The Times of India. With a keen focus on urban life, governance, culture, and local issues, we provide a comprehensive view of the ever-evolving cityscapes. Our team works tirelessly to keep readers informed about the latest developments, ensuring that they are connected to the heartbeat of cities across India, right when it happens. The TOI City Desk is a trusted source for staying in touch with the local stories that shape your world.Read More",
+      "summary": " TOI City Desk is a trusted source for staying in touch with the local stories that shape your world. The TOI city Desk is an indefatigable team of journalists dedicated to bringing you the pulse of cities from across the nation.",
+      "retrieved_at": "2026-07-11T08:07:57.625105+00:00"
+    },
+    "https://timesofindia.indiatimes.com/city/pune/siya-goyals-fate-a-murder-charge-is-one-thing-proving-it-is-another/articleshow/132325951.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/city/pune/siya-goyals-fate-a-murder-charge-is-one-thing-proving-it-is-another/articleshow/132325951.cms",
+      "title": "Siya Goyal's fate: A murder charge is one thing, proving it is another",
+      "date": "Sat, 11 Jul 2026 12:23:01 +0530",
+      "author": "HADI KHAN",
+      "text": "Hadi Khan, a journalist for The Times of India, mainly covers crime, urban affairs and trending viral content.",
+      "summary": "Hadi Khan is a journalist for The Times of India. He mainly covers crime, urban affairs and trending viral content. He is also a journalist at The Times Of India.",
+      "retrieved_at": "2026-07-11T08:08:02.628629+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-2-year-old-warning-to-iphone-maker-about-chatgpt-maker-resurfaces-as-apple-accuses-openai-of-stealing-trade-secrets-musk-said-they-are-selling-/articleshow/132325620.cms": {
       "source": "Times of India",
@@ -36130,6 +36853,7 @@
       "author": "TOI TECH DESK",
       "text": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk’s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more; TOI Tech Desk brings the news with accuracy and authenticity.\nRead More",
       "summary": " TOI Tech Desk's news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:37:06.626566+00:00"
     },
     "https://timesofindia.indiatimes.com/real-estate/news/how-to-fund-home-renovation-construction-or-emergencies-with-a-home-loan-or-top-up-loan/articleshow/132310117.cms": {
@@ -36141,6 +36865,29 @@
       "text": "The TOI Real Estate Desk is a focused team of seasoned journalists and market watchers dedicated to decoding the ever-evolving property landscape for The Times of India readers. With a sharp eye on trends, policy shifts, and market movements, the team brings clarity to one of the most significant investment decisions in people’s lives. From expert insights on buying, selling, and investing to deep dives into infrastructure developments, home design, and sustainable living, the news here offers a comprehensive view of the real estate ecosystem. Whether you're a first-time homebuyer, a seasoned investor, or simply exploring the market, the TOI Real Estate Desk is your trusted guide to making informed property decisions.\nRead More",
       "summary": " TOI Real Estate Desk is a team of seasoned journalists and market watchers dedicated to decoding the ever-evolving property landscape. The team brings clarity to one of the most significant investment decisions in people’s lives.",
       "retrieved_at": "2026-07-11T07:37:11.159631+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:07.247464+00:00"
+    },
+    "https://timesofindia.indiatimes.com/city/hyderabad/missing-couple-on-swiss-holiday-took-crores-from-investors-cops/articleshow/132319648.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/city/hyderabad/missing-couple-on-swiss-holiday-took-crores-from-investors-cops/articleshow/132319648.cms",
+      "title": "After collecting crores from investors, Hyderabad couple go 'missing' in Switzerland",
+      "date": "Sat, 11 Jul 2026 00:25:34 +0530",
+      "author": "TNN",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-07-11T08:08:11.302731+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/middle-east/new-satellite-images-reveal-iran-may-be-rebuilding-nuclear-facilities-report/articleshow/132325829.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/new-satellite-images-reveal-iran-may-be-rebuilding-nuclear-facilities-report/articleshow/132325829.cms",
+      "title": "New satellite images reveal Iran may be rebuilding nuclear facilities: Report",
+      "date": "Sat, 11 Jul 2026 13:05:56 +0530",
+      "author": "TOI WORLD DESK",
+      "text": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.\nRead More\n\n1929 Ford Model A Pickup\n\nGATEWAY C. | sellwild.com\n\nVANS Sentry Old Skool Waffle Cup *New*\n\nJEANETTE S. | sellwild.com",
+      "summary": " TOI World Desk is a global news agency that brings you the latest news and diverse perspectives. Join us on a journey across continents as we unravel the stories that shape our interconnected world.",
+      "retrieved_at": "2026-07-11T08:08:15.588784+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-no-sachin-tendulkar-harmanpreet-kaur-becomes-first-indian-to-score-fifty-in-all-three-formats-at-lords/articleshow/132326157.cms": {
       "source": "Times of India",
@@ -36150,7 +36897,21 @@
       "author": "TOI SPORTS DESK",
       "text": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.\nRead More",
       "summary": " TOI Sports Desk brings you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:37:15.612642+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:19.905198+00:00"
+    },
+    "https://timesofindia.indiatimes.com/india/fssai-issues-9-notices-to-e-commerce-app-for-alleged-food-safety-violations/articleshow/132326163.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/india/fssai-issues-9-notices-to-e-commerce-app-for-alleged-food-safety-violations/articleshow/132326163.cms",
+      "title": "FSSAI issues 9 notices to e-commerce app for alleged food safety violations",
+      "date": "Sat, 11 Jul 2026 12:38:10 +0530",
+      "author": "TOI NEWS DESK",
+      "text": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\"\nRead More",
+      "summary": " The TOI News Desk comprises a dedicated and tireless team of journalists. The TOi News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape.",
+      "retrieved_at": "2026-07-11T08:08:24.129733+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-taj-mahal-palaces-tata-suite-where-tom-holland-is-staying-during-the-odyssey-mumbai-premiere-costs-rs-7-12-lakh-a-night/articleshow/132320394.cms": {
       "source": "Times of India",
@@ -36160,7 +36921,11 @@
       "author": "TOI ENTERTAINMENT DESK",
       "text": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between. We don't just report; we tell tales of stardom and stories untold. Whether it's the rise of a new sensation or the seasoned journey of an industry veteran, the TOI Entertainment Desk is your front-row seat to the fascinating narratives that shape the entertainment landscape. Beyond the breaking news, we present a celebration of culture. We explore the intersections of entertainment with society, politics, and everyday life.\nRead More",
       "summary": " The TOI Entertainment Desk is a dynamic and dedicated team of journalists. We tell tales of stardom and stories untold. We explore the intersections of entertainment with society, politics, and everyday life.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:37:19.814493+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:28.101491+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/technology/tech-news/openai-responds-to-apples-lawsuit-accusing-chatgpt-maker-of-stealing-iphone-makers-trade-secrets-says-we-have-no-interest-in-/articleshow/132324974.cms": {
       "source": "Times of India",
@@ -36170,6 +36935,7 @@
       "author": "TOI TECH DESK",
       "text": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk’s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more; TOI Tech Desk brings the news with accuracy and authenticity.\nRead More",
       "summary": " TOI Tech Desk's news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-07-11T07:37:24.432457+00:00"
     },
     "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf": {
@@ -36231,16 +36997,67 @@
       "text": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.\nRead More\n\n1929 Ford Model A Pickup\n\nGATEWAY C. | sellwild.com\n\nVANS Sentry Old Skool Waffle Cup *New*\n\nJEANETTE S. | sellwild.com",
       "summary": null,
       "retrieved_at": "2026-07-11T07:53:39.673321+00:00"
+=======
+      "retrieved_at": "2026-07-11T08:08:32.258529+00:00"
+    },
+    "https://timesofindia.indiatimes.com/real-estate/news/how-to-fund-home-renovation-construction-or-emergencies-with-a-home-loan-or-top-up-loan/articleshow/132310117.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/how-to-fund-home-renovation-construction-or-emergencies-with-a-home-loan-or-top-up-loan/articleshow/132310117.cms",
+      "title": "Home loan or top-up loan: How to choose right option for construction &amp; renovation",
+      "date": "Sat, 11 Jul 2026 09:00:00 +0530",
+      "author": "TOI REAL ESTATE DESK",
+      "text": "The TOI Real Estate Desk is a focused team of seasoned journalists and market watchers dedicated to decoding the ever-evolving property landscape for The Times of India readers. With a sharp eye on trends, policy shifts, and market movements, the team brings clarity to one of the most significant investment decisions in people’s lives. From expert insights on buying, selling, and investing to deep dives into infrastructure developments, home design, and sustainable living, the news here offers a comprehensive view of the real estate ecosystem. Whether you're a first-time homebuyer, a seasoned investor, or simply exploring the market, the TOI Real Estate Desk is your trusted guide to making informed property decisions.\nRead More",
+      "summary": " TOI Real Estate Desk is a team of seasoned journalists and market watchers dedicated to decoding the ever-evolving property landscape. The team brings clarity to one of the most significant investment decisions in people’s lives.",
+      "retrieved_at": "2026-07-11T08:08:36.254939+00:00"
+    },
+    "https://www.japantimes.co.jp/business/2026/07/11/markets/japan-top-pension-fund-political-pressure/": {
+      "source": "Japan Times",
+      "link": "https://www.japantimes.co.jp/business/2026/07/11/markets/japan-top-pension-fund-political-pressure/",
+      "title": "Japan’s top pension fund likely to brush off political pressure",
+      "date": "Sat, 11 Jul 2026 17:04:00 +0900",
+      "author": "Hideyuki Sano",
+      "text": "Japan’s biggest public pension fund will likely ignore Finance Minister Satsuki Katayama’s call to boost domestic investment, at least in the short run, because of strict rules governing asset allocation and its public mandate.\n\nKatayama sparked a jump in the yen on Friday when she said the government would pursue policies to encourage pension funds to buy more Japanese assets. The Government Pension Investment Fund (GPIF), one of the world’s largest, follows a rigid investment framework that is reviewed only once every five years. At its latest review, completed in 2025, the fund maintained its equal 25% allocation across four asset classes: domestic stocks, foreign stocks, domestic bonds and foreign bonds. The next scheduled review is in 2030.\n\nEven if the GPIF were to consider revising its strategic allocation before then, such a decision would have to go through an established process. The GPIF’s statutory mandate is to maximize long-term returns for pension beneficiaries, meaning any increase in domestic investment would need to be justified on investment grounds rather than policy objectives. That could prove difficult as overseas assets have consistently outperformed their domestic counterparts over the past decade, both in equities and fixed income.\n\n“Changing the strategic asset allocation faces a very high hurdle,” said Koji Takeuchi, senior research fellow at Itochu Research Institute. “The portfolio is set under a legal framework, with input from outside experts and a focus on prudent and efficient asset management. It would be very difficult to alter it for reasons such as increasing investment in Japan.”\n\nStill, the government can force changes at the GPIF if it chooses to do so even if it takes some time. Former Prime Minister Shinzo Abe took the lead to change the fund’s allocation in 2014 as a part of his policy to end deflation. His campaign to influence the GPIF took nearly two years after he took office. A representative for GPIF declined to comment.\n\nIn recent years, other governments have taken steps to drive more domestic investments by pension investors. Canada’s finance department removed a rule limiting pension funds’ investments in domestic entities in 2024, while South Korea’s National Pension Service also increased domestic stocks holding target for 2026 amid a push from its central bank on the fund’s asset allocations.\n\nUnder its current framework, the GPIF is permitted to make tactical allocation adjustments of as much as 5 to 6 percentage points around the 25% target for each asset class.\n\nIn practice, however, the fund has adhered closely to its preset targets for years, suggesting that a sudden shift toward domestic assets in response to political comments would risk undermining its credibility.\n\nThe finance ministry “should not have the power to ask GPIF such request,” said Diego Lopez, managing director at data and consulting firm Global SWF. “This unilateral request can, in our opinion, signal poor governance and conflict of interest.”\n\nFinancial markets initially reacted to Katayama’s remarks on speculation that even a modest change in the investment strategy of the $1.8 trillion fund could have a significant impact. The yen strengthened about 0.5% to 161.60 per dollar, while the yield on the benchmark 10-year Japanese government bond fell by more than 10 basis points.\n\nSome market participants viewed Katayama’s remarks as an attempt to stem the yen’s latest slide and the selloff in government bonds.\n\n“Her comments seem to be interpreted as a verbal intervention, especially aimed at halting the rise in bond yields,” said Takahide Kiuchi, executive economist at Nomura Research Institute.",
+      "summary": " Japan's biggest public pension fund will likely ignore call to boost domestic investment, at least in the short run. Finance Minister Satsuki Katayama sparked a jump in the yen on Friday when she said the government would pursue policies to encourage pension funds to buy more Japanese assets. The Government Pension Investment Fund (GPIF) follows a rigid investment",
+      "retrieved_at": "2026-07-11T08:09:09.567111+00:00"
+    },
+    "https://www.scmp.com/news/people-culture/trending-china/article/3360176/chinese-student-sets-will-bequeathing-us29-million-estate-childhood-friend?utm_source=rss_feed": {
+      "source": "South China Morning Post",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3360176/chinese-student-sets-will-bequeathing-us29-million-estate-childhood-friend?utm_source=rss_feed",
+      "title": "Chinese student sets up a will bequeathing US$2.9 million estate to childhood friend",
+      "date": "Sat, 11 Jul 2026 08:00:06 +0000",
+      "author": "Fran Lu",
+      "text": "Teenage extreme sports enthusiast from Shanghai received a flat from parents who divorced and remarried\n\nA 19-year-old Chinese student recently made a will bequeathing his personal wealth of 20 million yuan (US$2.9 million) to his childhood friend, sparking heated discussion online.\n\nThe teenager from Shanghai, surnamed Li, recently set up a notarised will to bequeath the property under his name, including a flat and savings of millions of yuan, to his childhood friend.\n\nLi claimed that his parents had divorced and remarried, and gave him the property he now owned.\n\nThey did not spend much time with him, and so Li felt distant to them.\n\nLi said he was an extreme sports enthusiast and he often put his life at risk.\n\nIf anything were to happen to him, he did not want his parents’ spouses, whom he saw as merely strangers, to inherit his property.\n\nHe would rather name his childhood friend, whom he trusts and grew up with, as his successor.\n\nAccording to China’s Law of Succession, a person’s spouse, children and parents are first in line in the right to inheritance.\n\nThis means that if Li’s parents inherited his property, their spouses would also enjoy the right to use or inherit it in the future.\n\nThe law also allows a person to make a will to donate their personal property to the state or a collective, or bequeath it to people other than statutory successors.\n\nLi went to the China Will Registration Centre’s office in Shanghai to notarise his will.\n\nAccording to office manager Huang Haibo, Li’s childhood friend needs to legally accept the will within 60 days, otherwise they would be seen as forfeiting the right to inherit.\n\nThe China Will Registration Centre is a non-profit public welfare project launched in 2013 by the China Ageing Development Foundation.\n\nAccording to the centre’s recently published annual report, over 400,000 wills have been registered with them.\n\nThey noted an increasing acceptance of making wills among the public. The average age of testators had come down from 77 to 67.\n\nHuang also noted a rising trend among youths to set up wills. “An increasing number of people born in the 1980s, 90s and after 2000 have set up wills with us. Making wills is no longer a taboo, or just for the elderly.”\n\nA notary from eastern China’s Zhejiang province, surnamed Chen, told Ningbo Evening News that young Chinese people typically set up wills when they got married, to secure any real estate bought or inherited before the marriage.\n\nAnother common scenario was single and childless people making wills to bequeath their property.\n\nLi’s choice sparked heated debate online.\n\nOne said: “He felt distant to his parents but they still gave him 20 million yuan. I don’t see any problems in his parents inheriting his property.”\n\n“Maybe he’ll change his mind in the future. He is still too young to make such a big decision,” said another.\n\n“I wish I had a friend like this,” said a third.",
+      "summary": "Teenager from Shanghai received a flat from parents who divorced and remarried. He recently set up a notarised will to bequeath the property under his name. He claimed his parents had divorced and gave him the property he now owned. He said he was an extreme sports enthusiast and he often put his life at",
+      "retrieved_at": "2026-07-11T08:09:16.064191+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf": {
       "source": "DW All",
       "link": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf",
       "title": "Berlin hostage crisis: Woman freed after hourslong standoff",
+<<<<<<< Updated upstream
       "date": "2026-07-11T01:45:00Z",
       "author": "",
       "text": "A man took a woman hostage in a supermarket, prompting a long police operation to free the victim. The man reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.\n\nA man took a woman hostage at a supermarket in the German capital, Berlin, triggering a major police operation, officials said Saturday.\n\nPolice had said they had made contact with the man inside the Rewe supermarket, in the Marienfelde district on the southern outskirts of Berlin. The man was later overwhelmed by police and the hostage was freed.\n\nPolice had said the operation began at about 10 p.m. on Friday and that a motive was not immediately clear.\n\nPolice also had not commented on reports that a manager at the supermarket had seen a weapon, or whether the woman or the hostage-taker had sustained any injuries.\n\nA 22-year-old male employee of the Rewe supermarket told dpa that a man brandished a \"very big\" knife shortly before the market closed on Friday evening. The male employee ran out of the supermarket with a colleague and contacted the police.\n\nThe employee said the female hostage also worked at the supermarket, and \"was simply in the wrong place at the wrong time.\"\n\nPolice did not confirm the man's statement-\n\nFootage posted to social media showed armed police officers in protective gear at the entrance to the supermarket.\n\nOnlookers gathered nearby, and several police and emergency vehicles were visible on the street, which has been cordoned off.\n\nOne of the videos shows a police officer climbing a ladder leaning against the building's wall and looking inside the supermarket.\n\nEdited by: Karl Sexton\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
       "summary": null,
       "retrieved_at": "2026-07-11T07:54:17.951510+00:00"
+=======
+      "date": "2026-07-11T07:54:00Z",
+      "author": "",
+      "text": "A man took a woman hostage in a supermarket, prompting an hourslong police operation to free the victim. The man reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.\n\nA man took a woman hostage at a supermarket in the German capital, Berlin, triggering a major police operation, officials said Saturday.\n\nPolice had said they had made contact with the man inside the Rewe supermarket, in the Marienfelde district on the southern outskirts of Berlin. The suspect was later overwhelmed by police and the hostage was freed.\n\nPolice had said the operation began at about 10 p.m. on Friday and that a motive was not immediately clear.\n\nPolice also had not commented on reports that a manager at the supermarket had seen a weapon, or whether the woman or the hostage-taker had sustained any injuries.\n\nA 22-year-old male employee of the Rewe supermarket told dpa that a man brandished a \"very big\" knife shortly before the market closed on Friday evening. The male employee ran out of the supermarket with a colleague and contacted the police.\n\nThe employee said the female hostage also worked at the supermarket, and \"was simply in the wrong place at the wrong time.\"\n\nPolice did not confirm the man's statement.\n\nFootage posted to social media showed armed police officers in protective gear at the entrance to the supermarket.\n\nOnlookers gathered nearby, and several police and emergency vehicles were visible on the street, which had been cordoned off.\n\nOne of the videos shows a police officer climbing a ladder leaning against the building's wall and looking inside the supermarket.\n\nEdited by: Karl Sexton\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+      "summary": " Police say they made contact with the man inside the Rewe supermarket. The man reportedly \"pulled out\" a big knife before the market closed on Friday evening. The woman was freed after hourslong police operation.",
+      "retrieved_at": "2026-07-11T08:09:21.907495+00:00"
+    },
+    "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf": {
+      "source": "DW All",
+      "link": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany news: Third summer heat wave looms",
+      "date": "2026-07-11T07:26:00Z",
+      "author": "",
+      "text": "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, police have ended a hostage drama at a Berlin supermarket. DW has more\n\nDW brings you the top stories from and about Germany on Saturday, July 11, 2026:\n\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google. Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed.\n\nAn hours-long police operation is underway in Berlin, where a man has taken a woman hostage in a supermarket. The man reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.\n\nGet the latest on the hostage situation in Berlin in our report.\n\nSeveral representatives from business, trade unions and politics say Germany should push back its goal of reaching climate neutrality by five years, media reported on Saturday.\n\nThe Sunday edition of the Welt newspaper cited the CEO of energy giant RWE, Markus Krebber, as saying that postponing the 2045 goal to align with the EU's target date of 2050 could decrease the pressure on German industry.\n\nKrebbers told the paper that Germany's current aim of becoming climate-neutral five years earlier than the bloc made it more expensive to do business in, without any benefit to the climate.\n\nMichael Vassiliadis, head of the Mining, Chemical and Energy Industrial Union (IGBCE), told the Welt that the target should be pushed back to give industry more time to reduce its CO2 emissions and thus retain its competitiveness.\n\nGitta Connemann, who heads the small and mid-sized business group (SME) of Chancellor Friedrich Merz's Christian Democrats (CDU), also spoke out in favor of a \"more realistic\" timetable.\n\n\"We want less CO2, not less industry, so emissions trading must fit reality,\" she said.\n\nTheir remarks echo those made earlier this year by Merz, who said climate-protection measures must not put undue pressure on the economy.\n\nTemperatures in Germany are set to rise steadily over the weekend to reach a possible high of 38 degrees Celsius (100.4 F) early next week in the southwest of the country, according to the German Weather Service (DWD).\n\nOn Saturday, the mercury is already forecast to climb to 35 C in the country's south and west, while northern and eastern regions will remain slightly cooler, at around 30 C.\n\nThe weather is forecast to cool down again toward the end of next week.\n\nThe heat wave, the third of the summer, is not expected to bring the record temperatures of more than 41 C measured in some regions at the end of June, and less humidity this time round will make the heat more bearable.\n\nAccording to the public health agency, the Robert Koch Institute, at least 5,100 people died of causes related to the hot weather last month.\n\nDespite the lower temperatures, the Federal Institute of Public Health (BIÖG) has still issued warnings, saying that rooms should be kept as cool as possible and that physical activities should be confined to morning and evening hours.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nGuten Tag from the DW newsroom in Bonn, where the air conditioners will be going full blast as another heat dome settles over Germany.\n\nAlthough temperatures are not forecast to rise to the record levels seen at the end of last month, experts say the hot weather will significantly increase the risk of wildfires and pose a grave danger to people's health.\n\nBut despite the unprecedented heat events in Europe, driven partly by human-induced climate change, business leaders and politicians are calling for Germany to delay its goal of becoming carbon neutral to maintain industrial competitiveness.\n\nIn political news, the far-right Alternative for Germany party is to outline its initial planned actions if it succeeds in taking power in the eastern state of Saxony-Anhalt in September elections.\n\nThe party is being monitored by Germany's domestic intelligence agency for alleged right-wing extremist tendencies, with many fearing that it could pose a danger to democracy in the country.\n\nAnd police in Berlin have been dealing with a dramatic hostage-taking at a supermarket.\n\nRead on to find out more about the latest events in and concerning Germany.",
+      "summary": "Germany is in for another scorching week, though no records are likely to be broken this time. Temperatures in Germany are set to rise steadily over the weekend to reach a possible high of 38 degrees Celsius (100.4 F) Temperatures are set for a record high of 35 C in the country's south and west",
+      "retrieved_at": "2026-07-11T08:09:26.000397+00:00"
+>>>>>>> Stashed changes
     }
   }
 }
