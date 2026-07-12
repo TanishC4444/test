@@ -1,6 +1,6 @@
 {
   "week": "2026-W28",
-  "count": 4216,
+  "count": 4229,
   "articles": {
     "http://money.cnn.com/2017/02/13/news/economy/mexico-trump-us-corn/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -10,7 +10,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:47.767412+00:00"
+      "retrieved_at": "2026-07-12T00:36:38.129641+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -20,7 +20,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:52.025578+00:00"
+      "retrieved_at": "2026-07-12T00:36:42.301805+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/india-h1b-visa-trump-nandan-nilekani/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -30,7 +30,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:55.646515+00:00"
+      "retrieved_at": "2026-07-12T00:36:45.926547+00:00"
     },
     "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -40,7 +40,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:59.265440+00:00"
+      "retrieved_at": "2026-07-12T00:36:49.543644+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/stocks-all-time-highs-donald-trump-janet-yellen-fed/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -50,7 +50,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:02.946591+00:00"
+      "retrieved_at": "2026-07-12T00:36:53.150270+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -60,7 +60,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:06.559987+00:00"
+      "retrieved_at": "2026-07-12T00:36:56.758164+00:00"
     },
     "http://money.cnn.com/2017/02/13/news/economy/nafta-canada-trudeau-trump-mexico/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -70,7 +70,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:10.174422+00:00"
+      "retrieved_at": "2026-07-12T00:37:00.359275+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/verizon-stock-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -80,7 +80,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:13.790279+00:00"
+      "retrieved_at": "2026-07-12T00:37:03.963631+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/oil-prices-opec-deal/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -90,7 +90,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:17.404686+00:00"
+      "retrieved_at": "2026-07-12T00:37:07.597716+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/tesla-uae-elon-musk/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -100,7 +100,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:21.016780+00:00"
+      "retrieved_at": "2026-07-12T00:37:11.202028+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/uber-ola-india-pranay-jivrajka/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -110,7 +110,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:24.635863+00:00"
+      "retrieved_at": "2026-07-12T00:37:14.801221+00:00"
     },
     "http://money.cnn.com/2017/02/11/media/fake-news-apple-ceo-tim-cook/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -120,7 +120,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:28.248657+00:00"
+      "retrieved_at": "2026-07-12T00:37:18.415443+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/trump-brand-sears-kmart/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -130,7 +130,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:31.869220+00:00"
+      "retrieved_at": "2026-07-12T00:37:22.013267+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/thailand-bamboo-cassava-packaging-universal-biopack/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -140,7 +140,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:35.486694+00:00"
+      "retrieved_at": "2026-07-12T00:37:25.615278+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/nike-equality-lebron-serena/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -150,7 +150,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:39.137832+00:00"
+      "retrieved_at": "2026-07-12T00:37:29.215156+00:00"
     },
     "http://money.cnn.com/2017/02/12/media/lego-batman-movie-steven-mnuchin/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -160,7 +160,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:42.771878+00:00"
+      "retrieved_at": "2026-07-12T00:37:32.821910+00:00"
     },
     "http://money.cnn.com/2017/02/08/news/economy/greece-imf-bailout-eurozone/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -170,7 +170,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:46.383442+00:00"
+      "retrieved_at": "2026-07-12T00:37:36.432201+00:00"
     },
     "http://money.cnn.com/2017/02/12/technology/verizon-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -180,7 +180,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:50.002295+00:00"
+      "retrieved_at": "2026-07-12T00:37:40.029035+00:00"
     },
     "http://money.cnn.com/2017/02/10/news/economy/visa-ban-rural-doctor-shortage/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -190,7 +190,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:53.662977+00:00"
+      "retrieved_at": "2026-07-12T00:37:43.655901+00:00"
     },
     "http://money.cnn.com/2017/02/10/investing/stocks-united-states-trump-europe-china-japan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -200,7 +200,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:19:57.274315+00:00"
+      "retrieved_at": "2026-07-12T00:37:47.268380+00:00"
     },
     "http://edition.cnn.com/2008/TECH/space/12/02/planetsalign.irpt/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -210,7 +210,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:20:01.707316+00:00"
+      "retrieved_at": "2026-07-12T00:37:51.507651+00:00"
     },
     "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -2400,7 +2400,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:59.248080+00:00"
+      "retrieved_at": "2026-07-12T00:31:28.772748+00:00"
     },
     "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/iranian-port-cities-and-a-railway-were-struck-overnight": {
       "source": "NYT World",
@@ -2560,7 +2560,7 @@
       "author": "K. R. Callaway",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:27.882154+00:00"
+      "retrieved_at": "2026-07-12T00:34:57.529930+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html": {
       "source": "NYT World",
@@ -3190,7 +3190,7 @@
       "author": "Karen Weise and Zachary Small",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:45.084291+00:00"
+      "retrieved_at": "2026-07-12T00:33:14.838744+00:00"
     },
     "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html": {
       "source": "NYT Tech",
@@ -3290,7 +3290,7 @@
       "author": "William J. Broad",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:52.875403+00:00"
+      "retrieved_at": "2026-07-12T00:33:22.605559+00:00"
     },
     "https://www.nytimes.com/2026/07/09/science/fossils-earliest-handedness-righties.html": {
       "source": "NYT Science",
@@ -3320,7 +3320,7 @@
       "author": "Robin George Andrews",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:00.046126+00:00"
+      "retrieved_at": "2026-07-12T00:33:29.760846+00:00"
     },
     "https://www.nytimes.com/2026/07/08/science/russia-captured-chernobyl-the-wildlife-cameras-kept-recording.html": {
       "source": "NYT Science",
@@ -3330,7 +3330,7 @@
       "author": "Emily Anthes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:07.203646+00:00"
+      "retrieved_at": "2026-07-12T00:33:36.891536+00:00"
     },
     "https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html": {
       "source": "NYT Climate",
@@ -3420,7 +3420,7 @@
       "author": "Ferris Jabr",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:31.451333+00:00"
+      "retrieved_at": "2026-07-12T00:35:01.120267+00:00"
     },
     "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html": {
       "source": "NYT Science",
@@ -3670,7 +3670,7 @@
       "author": "Lauren Hirsch",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:47.241728+00:00"
+      "retrieved_at": "2026-07-12T00:34:17.337700+00:00"
     },
     "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html": {
       "source": "NYT Business",
@@ -3680,7 +3680,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:50.814910+00:00"
+      "retrieved_at": "2026-07-12T00:34:20.905766+00:00"
     },
     "https://www.nytimes.com/2026/07/09/travel/help-i-refueled-my-rental-car-but-enterprise-charged-me-anyway.html": {
       "source": "NYT Business",
@@ -3720,7 +3720,7 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:54.379502+00:00"
+      "retrieved_at": "2026-07-12T00:34:24.469837+00:00"
     },
     "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html": {
       "source": "NYT Business",
@@ -3770,7 +3770,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:57.957239+00:00"
+      "retrieved_at": "2026-07-12T00:34:28.042828+00:00"
     },
     "https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html": {
       "source": "NYT Business",
@@ -3780,7 +3780,7 @@
       "author": "Brooks Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:01.528211+00:00"
+      "retrieved_at": "2026-07-12T00:34:31.609839+00:00"
     },
     "https://www.nytimes.com/2026/07/08/travel/ees-europe-airports-security.html": {
       "source": "NYT Business",
@@ -3800,7 +3800,7 @@
       "author": "Jason Karaian and Jenny Gross",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:05.106202+00:00"
+      "retrieved_at": "2026-07-12T00:34:35.186388+00:00"
     },
     "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html": {
       "source": "NYT Business",
@@ -3810,7 +3810,7 @@
       "author": "Jim Tankersley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:08.676613+00:00"
+      "retrieved_at": "2026-07-12T00:34:38.747898+00:00"
     },
     "https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html": {
       "source": "NYT Business",
@@ -3970,7 +3970,7 @@
       "author": "Lydia DePillis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:14.975329+00:00"
+      "retrieved_at": "2026-07-12T00:35:44.721968+00:00"
     },
     "https://www.nytimes.com/2026/07/06/business/dealbook/trump-world-cup-infantino.html": {
       "source": "NYT Business",
@@ -4120,7 +4120,7 @@
       "author": "Judson Jones",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:35.060566+00:00"
+      "retrieved_at": "2026-07-12T00:35:04.720890+00:00"
     },
     "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html": {
       "source": "NYT Climate",
@@ -4140,7 +4140,7 @@
       "author": "Amy Graff and Erin McCann",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:38.628802+00:00"
+      "retrieved_at": "2026-07-12T00:35:08.319183+00:00"
     },
     "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html": {
       "source": "NYT Climate",
@@ -4150,7 +4150,7 @@
       "author": "Kenneth P. Vogel and Karen Zraick",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:42.206160+00:00"
+      "retrieved_at": "2026-07-12T00:35:11.887672+00:00"
     },
     "https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html": {
       "source": "NYT Climate",
@@ -4230,7 +4230,7 @@
       "author": "Raymond Zhong and Mira Rojanasakul",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:45.778587+00:00"
+      "retrieved_at": "2026-07-12T00:35:15.464574+00:00"
     },
     "https://www.nytimes.com/2026/07/02/climate/fireworks-effects-washington-smoke-dogs.html": {
       "source": "NYT Climate",
@@ -4240,7 +4240,7 @@
       "author": "Quinn Glabicki, Catrin Einhorn and Maxine Joselow",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:49.338597+00:00"
+      "retrieved_at": "2026-07-12T00:35:19.064687+00:00"
     },
     "https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html": {
       "source": "NYT Climate",
@@ -4260,7 +4260,7 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:52.909299+00:00"
+      "retrieved_at": "2026-07-12T00:35:22.652157+00:00"
     },
     "https://www.nytimes.com/2026/07/01/weather/heat-domes-europe-us.html": {
       "source": "NYT Climate",
@@ -4280,7 +4280,7 @@
       "author": "Nazaneen Ghaffar, Erin McCann and Amy Graff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:56.473133+00:00"
+      "retrieved_at": "2026-07-12T00:35:26.238618+00:00"
     },
     "https://www.nytimes.com/2026/06/30/climate/heat-wave-wildfires.html": {
       "source": "NYT Climate",
@@ -4290,7 +4290,7 @@
       "author": "David Gelles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:00.046356+00:00"
+      "retrieved_at": "2026-07-12T00:35:29.821713+00:00"
     },
     "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html": {
       "source": "NYT Climate",
@@ -4300,7 +4300,7 @@
       "author": "Jack Ewing",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:03.617903+00:00"
+      "retrieved_at": "2026-07-12T00:35:33.394468+00:00"
     },
     "https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html": {
       "source": "NYT Climate",
@@ -4330,7 +4330,7 @@
       "author": "Nazaneen Ghaffar, Judson Jones and Camille Baker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:07.185035+00:00"
+      "retrieved_at": "2026-07-12T00:35:36.990932+00:00"
     },
     "https://www.nytimes.com/2026/06/29/climate/trump-offshore-wind-duke-energy.html": {
       "source": "NYT Climate",
@@ -4340,7 +4340,7 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:10.774007+00:00"
+      "retrieved_at": "2026-07-12T00:35:40.588293+00:00"
     },
     "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html": {
       "source": "NYT Climate",
@@ -4490,7 +4490,7 @@
       "author": "Ben Casselman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:18.710422+00:00"
+      "retrieved_at": "2026-07-12T00:35:48.383588+00:00"
     },
     "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html": {
       "source": "NYT Economy",
@@ -4500,7 +4500,7 @@
       "author": "Ana Swanson and Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:22.302375+00:00"
+      "retrieved_at": "2026-07-12T00:35:51.960108+00:00"
     },
     "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html": {
       "source": "NYT Economy",
@@ -4520,7 +4520,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:25.878844+00:00"
+      "retrieved_at": "2026-07-12T00:35:55.535665+00:00"
     },
     "https://www.nytimes.com/2026/06/26/business/economy/trump-tariffs-europe.html": {
       "source": "NYT Economy",
@@ -4540,7 +4540,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:29.462758+00:00"
+      "retrieved_at": "2026-07-12T00:35:59.105378+00:00"
     },
     "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs": {
       "source": "NPR News",
@@ -7320,7 +7320,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:38.755632+00:00"
+      "retrieved_at": "2026-07-12T00:36:29.160377+00:00"
     },
     "https://cnn.it/411KYN7": {
       "source": "CNN World",
@@ -7360,7 +7360,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:18:42.888965+00:00"
+      "retrieved_at": "2026-07-12T00:36:33.257792+00:00"
     },
     "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html": {
       "source": "CNN World",
@@ -11970,7 +11970,7 @@
       "author": "#author.fullName}",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:21:28.046747+00:00"
+      "retrieved_at": "2026-07-12T00:39:10.735111+00:00"
     },
     "https://www.newscientist.com/article/2532073-i-have-a-100-per-cent-chance-of-getting-cancer-due-to-a-rare-gene/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home": {
       "source": "New Scientist",
@@ -20590,7 +20590,7 @@
       "author": "David M. Halbfinger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:55.668681+00:00"
+      "retrieved_at": "2026-07-12T00:31:25.207867+00:00"
     },
     "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html": {
       "source": "NYT World",
@@ -20640,7 +20640,7 @@
       "author": "Becky Ferreira",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:49.249576+00:00"
+      "retrieved_at": "2026-07-12T00:33:18.989606+00:00"
     },
     "https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html": {
       "source": "NYT Climate",
@@ -22660,7 +22660,7 @@
       "author": "Jarrell Dillard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:20:41.623646+00:00"
+      "retrieved_at": "2026-07-12T00:38:28.167236+00:00"
     },
     "https://www.washingtonpost.com/lifestyle/2026/07/10/they-met-while-being-treated-brain-injuries-now-theyre-getting-married/": {
       "source": "WashPost National",
@@ -22670,7 +22670,7 @@
       "author": "Kyle Melnick",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:21:09.312482+00:00"
+      "retrieved_at": "2026-07-12T00:38:55.925652+00:00"
     },
     "https://www.wired.com/story/ulta-coupon/": {
       "source": "Wired",
@@ -23740,7 +23740,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:36.511489+00:00"
+      "retrieved_at": "2026-07-12T00:34:06.628797+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/hotel-workers-world-cup.html": {
       "source": "NYT Business",
@@ -23750,7 +23750,7 @@
       "author": "Kurtis Lee",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:40.086566+00:00"
+      "retrieved_at": "2026-07-12T00:34:10.200398+00:00"
     },
     "https://www.nytimes.com/2026/07/10/travel/barcelona-overtourism-jose-antonio-donaire.html": {
       "source": "NYT Business",
@@ -23790,7 +23790,7 @@
       "author": "Steven Lee Myers and Dustin Volz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:43.667382+00:00"
+      "retrieved_at": "2026-07-12T00:34:13.773872+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html": {
       "source": "NYT Climate",
@@ -26620,7 +26620,7 @@
       "author": "Anthony Faiola",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:20:21.206625+00:00"
+      "retrieved_at": "2026-07-12T00:38:09.879003+00:00"
     },
     "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on": {
       "source": "The Verge",
@@ -27030,7 +27030,7 @@
       "author": "Jeff Sommer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:32.938990+00:00"
+      "retrieved_at": "2026-07-12T00:34:02.993823+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/volkswagen-china-problems-restructuring.html": {
       "source": "NYT Business",
@@ -27060,7 +27060,7 @@
       "author": "Brianna  Abbott",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:24.304878+00:00"
+      "retrieved_at": "2026-07-12T00:34:53.938151+00:00"
     },
     "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-becomes-law-without-trump-signature": {
       "source": "NPR News",
@@ -28700,7 +28700,7 @@
       "author": "Cole Reynolds",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:21:07.752746+00:00"
+      "retrieved_at": "2026-07-12T00:38:54.361697+00:00"
     },
     "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report": {
       "source": "The Verge",
@@ -29360,7 +29360,7 @@
       "author": "Stephen Castle",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:52.100585+00:00"
+      "retrieved_at": "2026-07-12T00:31:21.625582+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html": {
       "source": "NYT US",
@@ -29470,7 +29470,7 @@
       "author": "Rachel Chason",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:20:19.657002+00:00"
+      "retrieved_at": "2026-07-12T00:38:08.271734+00:00"
     },
     "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/": {
       "source": "TechCrunch",
@@ -30720,7 +30720,7 @@
       "author": "Peter Eavis, Jenny Gross and Eric Schmitt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:29.369861+00:00"
+      "retrieved_at": "2026-07-12T00:33:59.419800+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/trump-climate-assessment-wielicki.html": {
       "source": "NYT Climate",
@@ -30730,7 +30730,7 @@
       "author": "Maxine Joselow and Brad Plumer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:13.262942+00:00"
+      "retrieved_at": "2026-07-12T00:34:43.077638+00:00"
     },
     "https://www.theguardian.com/politics/2026/jul/10/ann-widdecombe-uncompromising-politician-who-embraced-tv-fame": {
       "source": "Guardian World",
@@ -30800,7 +30800,7 @@
       "author": "Mary Ilyushina",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:20:18.111744+00:00"
+      "retrieved_at": "2026-07-12T00:38:06.725012+00:00"
     },
     "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/": {
       "source": "TechCrunch",
@@ -31070,7 +31070,7 @@
       "author": "Suhasini Raj and Jeremy W. Peters",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:48.530677+00:00"
+      "retrieved_at": "2026-07-12T00:31:18.058503+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/politics/ice-deports-immigrant-pardoned-minnesota.html": {
       "source": "NYT Politics",
@@ -31080,7 +31080,7 @@
       "author": "Amy Qin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:33.726189+00:00"
+      "retrieved_at": "2026-07-12T00:33:03.361299+00:00"
     },
     "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html": {
       "source": "NYT World",
@@ -31480,7 +31480,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:44.960224+00:00"
+      "retrieved_at": "2026-07-12T00:31:14.498618+00:00"
     },
     "https://www.nytimes.com/2026/07/10/us/charlie-kirk-shooting-hearing.html": {
       "source": "NYT US",
@@ -32840,7 +32840,7 @@
       "author": "Kalley Huang and Cade Metz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:37.863786+00:00"
+      "retrieved_at": "2026-07-12T00:33:07.517864+00:00"
     },
     "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins": {
       "source": "NPR News",
@@ -32910,7 +32910,7 @@
       "author": "Tim Craig",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:21:06.202349+00:00"
+      "retrieved_at": "2026-07-12T00:38:52.813635+00:00"
     },
     "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets": {
       "source": "The Verge",
@@ -33230,7 +33230,7 @@
       "author": "John S.W. MacDonald and Amy Graff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:20.737684+00:00"
+      "retrieved_at": "2026-07-12T00:34:50.348127+00:00"
     },
     "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -33780,7 +33780,7 @@
       "author": "Ishani Desai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:41.386278+00:00"
+      "retrieved_at": "2026-07-12T00:31:10.923109+00:00"
     },
     "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -34200,7 +34200,7 @@
       "author": "Ian Austen and Tyler Pager",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:37.815775+00:00"
+      "retrieved_at": "2026-07-12T00:31:07.345353+00:00"
     },
     "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort": {
       "source": "Guardian World",
@@ -34310,7 +34310,7 @@
       "author": "Miriam Jordan and Madeleine Ngo",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:30.160370+00:00"
+      "retrieved_at": "2026-07-12T00:32:59.796317+00:00"
     },
     "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html": {
       "source": "NYT Tech",
@@ -34320,7 +34320,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:41.505599+00:00"
+      "retrieved_at": "2026-07-12T00:33:11.269738+00:00"
     },
     "https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb": {
       "source": "Guardian World",
@@ -35090,7 +35090,7 @@
       "author": "Vivian Wang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:12.788611+00:00"
+      "retrieved_at": "2026-07-12T00:30:42.317783+00:00"
     },
     "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html": {
       "source": "NYT Business",
@@ -35100,7 +35100,7 @@
       "author": "Michael M. Grynbaum",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:25.795018+00:00"
+      "retrieved_at": "2026-07-12T00:33:55.845413+00:00"
     },
     "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans": {
       "source": "Guardian World",
@@ -36580,7 +36580,7 @@
       "author": "Michael D. Shear",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:02.072790+00:00"
+      "retrieved_at": "2026-07-12T00:30:31.534687+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/jul/11/like-a-sauna-london-tube-travellers-swelter-in-temperatures-higher-than-legal-limit-for-cattle": {
       "source": "Guardian Environment",
@@ -36686,11 +36686,11 @@
       "source": "NYT World",
       "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
       "title": "England and Norway Resurrect a Rivalry for the World Cup",
-      "date": "Sat, 11 Jul 2026 15:38:09 +0000",
+      "date": "Sun, 12 Jul 2026 00:12:39 +0000",
       "author": "Lynsey Chutel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:05.646746+00:00"
+      "retrieved_at": "2026-07-12T00:30:35.133907+00:00"
     },
     "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html": {
       "source": "NYT World",
@@ -36700,7 +36700,7 @@
       "author": "Isabella Kwai and Jane Stockdale",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:34.252946+00:00"
+      "retrieved_at": "2026-07-12T00:31:03.766626+00:00"
     },
     "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html": {
       "source": "NYT World",
@@ -36710,7 +36710,7 @@
       "author": "Yeganeh Torbati",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:19.940774+00:00"
+      "retrieved_at": "2026-07-12T00:30:49.481541+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/utah-valley-university-charlie-kirk-assassination.html": {
       "source": "NYT US",
@@ -36720,7 +36720,7 @@
       "author": "Jack Healy",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:35.582637+00:00"
+      "retrieved_at": "2026-07-12T00:32:05.272353+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html": {
       "source": "NYT Politics",
@@ -36730,7 +36730,7 @@
       "author": "Linda Qiu and Jamie Leventhal",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:15.875161+00:00"
+      "retrieved_at": "2026-07-12T00:32:45.407524+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html": {
       "source": "NYT Politics",
@@ -36740,7 +36740,7 @@
       "author": "Patricia Mazzei and Kellen Browning",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:19.444458+00:00"
+      "retrieved_at": "2026-07-12T00:32:48.999482+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html": {
       "source": "NYT Politics",
@@ -36750,7 +36750,7 @@
       "author": "Tyler Pager and Anatoly Kurmanaev",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:23.009904+00:00"
+      "retrieved_at": "2026-07-12T00:32:52.590675+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/trump-roswell-ufo.html": {
       "source": "NYT US",
@@ -36760,7 +36760,7 @@
       "author": "Reis Thebault and Paul Ratje",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:49.941241+00:00"
+      "retrieved_at": "2026-07-12T00:32:19.638336+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html": {
       "source": "NYT US",
@@ -36780,7 +36780,7 @@
       "author": "Patrick Healy",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:12.311498+00:00"
+      "retrieved_at": "2026-07-12T00:32:41.809599+00:00"
     },
     "https://www.nytimes.com/2026/07/11/well/years-after-he-quit-smoking-a-lung-cancer-scan-saved-his-life.html": {
       "source": "NYT Science",
@@ -36790,7 +36790,7 @@
       "author": "Paula Span",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:56.451566+00:00"
+      "retrieved_at": "2026-07-12T00:33:26.185521+00:00"
     },
     "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html": {
       "source": "NYT Business",
@@ -36810,7 +36810,7 @@
       "author": "Charlotte Cowles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:18.666337+00:00"
+      "retrieved_at": "2026-07-12T00:33:48.684131+00:00"
     },
     "https://www.nytimes.com/2026/07/11/business/kansas-city-world-cup-host.html": {
       "source": "NYT Business",
@@ -36820,7 +36820,7 @@
       "author": "Joe Drape",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:22.229852+00:00"
+      "retrieved_at": "2026-07-12T00:33:52.267257+00:00"
     },
     "https://www.nytimes.com/2026/07/11/business/slate-auto-electric-pickup-truck.html": {
       "source": "NYT Business",
@@ -36850,7 +36850,7 @@
       "author": "Dionne Searcey",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:17:17.160779+00:00"
+      "retrieved_at": "2026-07-12T00:34:46.746610+00:00"
     },
     "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings": {
       "source": "NPR News",
@@ -36950,7 +36950,7 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:21:04.661559+00:00"
+      "retrieved_at": "2026-07-12T00:38:51.283969+00:00"
     },
     "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/": {
       "source": "Wired",
@@ -37080,7 +37080,7 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:32.005750+00:00"
+      "retrieved_at": "2026-07-12T00:32:01.672232+00:00"
     },
     "https://fortune.com/2026/07/11/sk-hynix-us-stock-listing-nasdaq-second-largest-us-share-sale-ai-boom-hbw-memory/": {
       "source": "Fortune",
@@ -37290,7 +37290,7 @@
       "author": "Brady Dennis, Cole Reynolds, N. Kirkpatrick, Chris Hacker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:21:03.062245+00:00"
+      "retrieved_at": "2026-07-12T00:38:49.657266+00:00"
     },
     "https://www.wired.com/story/gourmet-dog-food/": {
       "source": "Wired",
@@ -37470,7 +37470,7 @@
       "author": "Melissa Kirsch",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:30.676344+00:00"
+      "retrieved_at": "2026-07-12T00:31:00.191951+00:00"
     },
     "https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html": {
       "source": "NYT World",
@@ -37480,7 +37480,7 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:16.365125+00:00"
+      "retrieved_at": "2026-07-12T00:30:45.907718+00:00"
     },
     "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -37640,7 +37640,7 @@
       "author": "Lisa Lerer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:08.739727+00:00"
+      "retrieved_at": "2026-07-12T00:32:38.219269+00:00"
     },
     "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/": {
       "source": "Wired",
@@ -37786,11 +37786,11 @@
       "source": "NYT World",
       "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
       "title": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman for Talks",
-      "date": "Sat, 11 Jul 2026 23:59:32 +0000",
+      "date": "Sun, 12 Jul 2026 00:17:21 +0000",
       "author": "Aaron Boxerman and Pranav Baskar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:12:58.439336+00:00"
+      "retrieved_at": "2026-07-12T00:30:27.874345+00:00"
     },
     "https://www.theguardian.com/law/2026/jul/11/levi-bellfield-to-have-dna-test-in-connection-with-lin-and-megan-russell-murders": {
       "source": "Guardian World",
@@ -38030,7 +38030,7 @@
       "author": "Vivienne Walt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:16:15.051750+00:00"
+      "retrieved_at": "2026-07-12T00:33:45.050919+00:00"
     },
     "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no": {
       "source": "NPR News",
@@ -38370,7 +38370,7 @@
       "author": "Susannah George",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:20:16.406481+00:00"
+      "retrieved_at": "2026-07-12T00:38:05.077392+00:00"
     },
     "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch": {
       "source": "The Verge",
@@ -38530,7 +38530,7 @@
       "author": "Isabella Kwai and Tung Ngo",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:27.103508+00:00"
+      "retrieved_at": "2026-07-12T00:30:56.622811+00:00"
     },
     "https://www.theguardian.com/politics/2026/jul/11/ann-widdecombe-killed-24-hours-before-body-found": {
       "source": "Guardian World",
@@ -38760,7 +38760,7 @@
       "author": "Sandra Erwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:21:38.000649+00:00"
+      "retrieved_at": "2026-07-12T00:39:19.940872+00:00"
     },
     "https://www.bloomberg.com/news/articles/2026-07-11/stocks-priced-for-sunshine-and-rainbows-now-face-earnings-test": {
       "source": "Bloomberg Markets",
@@ -38880,7 +38880,7 @@
       "author": "The Hill Staff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:35.520998+00:00"
+      "retrieved_at": "2026-07-12T00:40:18.169156+00:00"
     },
     "https://thehill.com/homenews/administration/5963773-bipartisan-housing-bill-now-law-donald-trump-signature-snub/": {
       "source": "The Hill",
@@ -39560,7 +39560,7 @@
       "author": "Carlos Barragán and Lynsey Chutel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:13:09.214898+00:00"
+      "retrieved_at": "2026-07-12T00:30:38.712193+00:00"
     },
     "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview": {
       "source": "The Verge",
@@ -40230,7 +40230,7 @@
       "author": "Robin Stein, Devon Lum, Sam Lerma, Mimi Dwyer, Alexander Cardia, Aric Toler, Dmitriy Khavin, Charlie Smart and Allison McCann",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:24.863935+00:00"
+      "retrieved_at": "2026-07-12T00:31:54.483727+00:00"
     },
     "https://www.theguardian.com/sport/2026/jul/11/haeran-ryu-lpga-major-record-60-evian-championship-lead": {
       "source": "Guardian US",
@@ -40320,7 +40320,7 @@
       "author": "John Mac Ghlionn, opinion contributor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:58.156920+00:00"
+      "retrieved_at": "2026-07-12T00:40:41.010827+00:00"
     },
     "https://timesofindia.indiatimes.com/world/china/typhoon-bavi-makes-landfall-in-eastern-china-over-1-million-evacuated/articleshow/132334802.cms": {
       "source": "Times of India",
@@ -40450,7 +40450,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:53.577792+00:00"
+      "retrieved_at": "2026-07-12T00:40:36.262014+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html": {
       "source": "NYT Politics",
@@ -40460,7 +40460,7 @@
       "author": "Erica L. Green and Dylan Freedman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:05.176300+00:00"
+      "retrieved_at": "2026-07-12T00:32:34.623583+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/california-burglary-arrest-selfie.html": {
       "source": "NYT US",
@@ -40470,7 +40470,7 @@
       "author": "Emmett Lindner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:21.302553+00:00"
+      "retrieved_at": "2026-07-12T00:31:50.897350+00:00"
     },
     "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools": {
       "source": "VentureBeat",
@@ -40540,7 +40540,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:44.766601+00:00"
+      "retrieved_at": "2026-07-12T00:40:27.199673+00:00"
     },
     "https://thehill.com/opinion/campaign/5962999-democrats-defeat-trump-policies/": {
       "source": "The Hill",
@@ -40550,7 +40550,7 @@
       "author": "A. Scott Bolden, opinion contributor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:48.810895+00:00"
+      "retrieved_at": "2026-07-12T00:40:31.442408+00:00"
     },
     "https://www.france24.com/en/tv-shows/spotlight/20260711-the-rise-and-pause-of-jordan-bardella": {
       "source": "France 24",
@@ -40780,7 +40780,7 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:26.770116+00:00"
+      "retrieved_at": "2026-07-12T00:40:09.092075+00:00"
     },
     "https://thehill.com/homenews/house/5964095-khanna-detained-israeli-settlers/": {
       "source": "The Hill",
@@ -40790,7 +40790,7 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:31.295289+00:00"
+      "retrieved_at": "2026-07-12T00:40:13.582344+00:00"
     },
     "https://thehill.com/policy/sports-gaming/5964040-harry-kane-british-soccer-star-donald-trump-golfing/": {
       "source": "The Hill",
@@ -40800,7 +40800,7 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:40.224063+00:00"
+      "retrieved_at": "2026-07-12T00:40:22.618105+00:00"
     },
     "https://www.france24.com/en/americas/20260711-trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story": {
       "source": "France 24",
@@ -40970,7 +40970,7 @@
       "author": "NASEER GANAI",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:24:00.827355+00:00"
+      "retrieved_at": "2026-07-12T00:41:41.976683+00:00"
     },
     "https://timesofindia.indiatimes.com/india/personnel-deptartment-cancels-fci-ed-suspension-terms-food-ministry-order-legally-non-existent/articleshow/132336756.cms": {
       "source": "Times of India",
@@ -40980,7 +40980,7 @@
       "author": "DIPAK K DASH",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:24:04.990849+00:00"
+      "retrieved_at": "2026-07-12T00:41:46.202907+00:00"
     },
     "https://timesofindia.indiatimes.com/tv/news/hindi/govinda-reveals-he-was-sent-videos-of-wife-sunita-ahuja-using-abusive-language-in-lock-upp-no-problem-jheli-hain/articleshow/132335560.cms": {
       "source": "Times of India",
@@ -40990,7 +40990,7 @@
       "author": "etimes.in",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:24:09.875826+00:00"
+      "retrieved_at": "2026-07-12T00:41:50.548202+00:00"
     },
     "https://timesofindia.indiatimes.com/india/jk-bsf-woman-constable-dies-by-suicide-in-jammu/articleshow/132336847.cms": {
       "source": "Times of India",
@@ -41000,7 +41000,7 @@
       "author": "SANJAY KHAJURIA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:24:14.096024+00:00"
+      "retrieved_at": "2026-07-12T00:41:54.703366+00:00"
     },
     "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-earned-rs-70000-to-80000-when-he-first-came-to-mumbai-taught-communication-skills-thought-his-first-acting-job-was-a-scam-never-thought-amitabh-bachchan-would-call-to-wish-on-my-birthday/articleshow/132335369.cms": {
       "source": "Times of India",
@@ -41040,7 +41040,7 @@
       "author": "Taylor Robinson and Tim Balk",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:15:01.615623+00:00"
+      "retrieved_at": "2026-07-12T00:32:31.023970+00:00"
     },
     "https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html": {
       "source": "NYT US",
@@ -41050,7 +41050,7 @@
       "author": "Pooja Salhotra and Amy Graff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:14.163658+00:00"
+      "retrieved_at": "2026-07-12T00:31:43.700390+00:00"
     },
     "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -41100,7 +41100,7 @@
       "author": "SURENDRA SINGH",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:52.419392+00:00"
+      "retrieved_at": "2026-07-12T00:41:33.617275+00:00"
     },
     "https://timesofindia.indiatimes.com/city/delhi/nia-chargesheets-8-including-pakistan-based-terrorist-shehzad-bhatti-in-ambala-police-station-blast-case/articleshow/132335548.cms": {
       "source": "Times of India",
@@ -41126,11 +41126,11 @@
       "source": "NYT US",
       "link": "https://www.nytimes.com/2026/07/11/us/houston-ice-shooting-vigil.html",
       "title": "At Vigil, Sons of Man Killed by ICE in Houston Call for Accountability",
-      "date": "Sat, 11 Jul 2026 19:41:21 +0000",
+      "date": "Sun, 12 Jul 2026 00:17:52 +0000",
       "author": "Edgar Sandoval",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:07.025414+00:00"
+      "retrieved_at": "2026-07-12T00:31:36.539568+00:00"
     },
     "https://phys.org/news/2026-07-reimagining-furnace-magnetic-supercharge-industrial.html": {
       "source": "Phys.org",
@@ -41180,7 +41180,7 @@
       "author": "Filip Timotija",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:22.163455+00:00"
+      "retrieved_at": "2026-07-12T00:40:05.204441+00:00"
     },
     "https://www.france24.com/en/asia-pacific/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china": {
       "source": "France 24",
@@ -41220,7 +41220,7 @@
       "author": "DHANANJAY MAHAPATRA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:20.604805+00:00"
+      "retrieved_at": "2026-07-12T00:41:02.496724+00:00"
     },
     "https://www.scmp.com/news/world/united-states-canada/article/3360252/taylor-swift-foot-us160000-police-bill-her-wedding-new-york-mayor-says?utm_source=rss_feed": {
       "source": "South China Morning Post",
@@ -41280,7 +41280,7 @@
       "author": "Devlin Barrett, Glenn Thrush and Maggie Haberman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:14:58.004693+00:00"
+      "retrieved_at": "2026-07-12T00:32:27.381230+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/jul/11/man-dies-after-falling-from-eleventh-night-bonfire-in-east-belfast": {
       "source": "Guardian World",
@@ -41320,7 +41320,7 @@
       "author": "Finya Swai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:17.923959+00:00"
+      "retrieved_at": "2026-07-12T00:40:00.857910+00:00"
     },
     "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions": {
       "source": "France 24",
@@ -41390,7 +41390,7 @@
       "author": "NASEER GANAI",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:43.858513+00:00"
+      "retrieved_at": "2026-07-12T00:41:25.213169+00:00"
     },
     "https://timesofindia.indiatimes.com/india/pm-modi-flags-fcra-nod-for-golden-temple-to-woo-sikh-diaspora/articleshow/132337602.cms": {
       "source": "Times of India",
@@ -41400,7 +41400,7 @@
       "author": "TNN",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:56.596519+00:00"
+      "retrieved_at": "2026-07-12T00:41:37.747873+00:00"
     },
     "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss": {
       "source": "BBC Business",
@@ -41440,7 +41440,7 @@
       "author": "Julia Shapero",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:09.396792+00:00"
+      "retrieved_at": "2026-07-12T00:39:52.282052+00:00"
     },
     "https://thehill.com/homenews/sunday-talk-shows/5964166-trump-air-force-one-iran/": {
       "source": "The Hill",
@@ -41450,7 +41450,7 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:13.268240+00:00"
+      "retrieved_at": "2026-07-12T00:39:56.366452+00:00"
     },
     "https://www.abc.net.au/news/2026-07-12/wyndham-stadium-precinct-stalls/106869396": {
       "source": "ABC Australia",
@@ -41480,7 +41480,7 @@
       "author": "SACHIN PARASHAR",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:25.589939+00:00"
+      "retrieved_at": "2026-07-12T00:41:07.483658+00:00"
     },
     "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike": {
       "source": "NPR News",
@@ -41620,7 +41620,7 @@
       "author": "GLOBAL SPORTS DESK",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:48.179873+00:00"
+      "retrieved_at": "2026-07-12T00:41:29.400347+00:00"
     },
     "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/": {
       "source": "TechCrunch",
@@ -41670,7 +41670,7 @@
       "author": "DHANANJAY MAHAPATRA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:30.195564+00:00"
+      "retrieved_at": "2026-07-12T00:41:12.124359+00:00"
     },
     "https://www.scmp.com/news/china/diplomacy/article/3360151/reading-sino-us-rivalry-how-quiet-literary-relationship-has-shaped-views-china?utm_source=rss_feed": {
       "source": "South China Morning Post",
@@ -41740,7 +41740,7 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:04.828084+00:00"
+      "retrieved_at": "2026-07-12T00:39:47.613757+00:00"
     },
     "https://www.abc.net.au/news/2026-07-12/artist-julie-aldridge-battle-to-reclaim-design-internet-temu/106893778": {
       "source": "ABC Australia",
@@ -41780,7 +41780,7 @@
       "author": "TNN",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:39.211023+00:00"
+      "retrieved_at": "2026-07-12T00:41:20.874449+00:00"
     },
     "https://fortune.com/2026/07/11/strait-of-hormuz-separate-corridors-oman-iran-us-military-protection-persian-gulf-oil/": {
       "source": "Fortune",
@@ -41850,7 +41850,7 @@
       "author": "SYED INTISHAB ALI AND CLAUDE DSOUZA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:23:34.834536+00:00"
+      "retrieved_at": "2026-07-12T00:41:16.522736+00:00"
     },
     "https://www.japantimes.co.jp/life/2026/07/12/style-design/tourists-retro-clothes-thrifting-japan/": {
       "source": "Japan Times",
@@ -41960,7 +41960,7 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-07-12T00:22:00.560964+00:00"
+      "retrieved_at": "2026-07-12T00:39:43.583193+00:00"
     },
     "https://www.abc.net.au/news/2026-07-12/penpal-friends-meet-for-first-time-33-years-of-letters/106838094": {
       "source": "ABC Australia",
@@ -42161,6 +42161,136 @@
       "text": "Personalise the news and\n\nBERITA BAHASA INDONESIA\n\nFind any issues using dark mode? Please let us know\n\nSun 12 Jul 2026 at 12:11am\n\nCauldron Energy is exploring Western Australia's north for uranium.   (Supplied: Cauldron Energy )\n\nAustralia this week inked a deal allowing it to export unenriched uranium to India for the first time, an agreement that could potentially be worth billions of dollars.\n\nBut there's a big catch.\n\nDespite Australia having the largest uranium deposits in the world, only South Australia is actively producing it.\n\nThe mining powerhouse of Western Australia is becoming a battleground for the uranium debate, with the state's opposition alliance promising to lift the moratorium on mining the radioactive metal if elected.\n\nSo what's all the fuss about — and will we ever see a full-fledged uranium mining industry in WA?\n\nUranium is a naturally occurring, mildly radioactive heavy metal.\n\nIt is typically processed into uranium oxide concentrate, commonly known as yellowcake, which is then exported to countries like France and Japan who primarily use it to fuel their nuclear power plants.\n\nBut to be useful, the uranium needs to be enriched.\n\nUranium is a naturally occurring, mildly radioactive heavy metal.   (Supplied: Cauldron Energy )\n\nAustralia has by far the world's largest uranium deposits, with 28 per cent of all identified and recoverable uranium buried beneath its soil.\n\nBut the amount dug out of the ground is just a sliver of that.\n\nWestern Australia, along with Northern Territory, are home to the nation's largest deposits of unused uranium.\n\nWA uranium explorers have permission to search, but off the back of the landmark deal between the Albanese and Modi governments this week, they want permission to dig too.\n\nOne mid-tier miner says there are billions of dollars to be made year on year if the government adopts a friendlier stance to uranium mining.\n\nJonathan Fisher's company holds uranium exploration licences in WA. (Supplied: Monish Nand )\n\n\"The uranium industry is just one of the things that can help make sure that we continue to enjoy the world's highest standards of living in Western Australia,\" said Jonathan Fisher, the CEO of Cauldron Energy Ltd.\n\nHis company holds 12 uranium exploration licences across a total area of hundreds of square kilometres in the state's north.\n\n\"WA could be a similar-sized producer to South Australia,\" he said.\n\nThe state's Chamber of Commerce and Industry said WA was well positioned with the infrastructure and skills needed to safely mine and export uranium.\n\n\"If other states can do it, there's no reason why WA can't,\" the group's chief executive Will Golsby said.\n\nNationals leader Shane Love said he would overturn the ban should his opposition alliance win government in 2029.\n\nBut not everyone thinks that would be a good thing.\n\nThe Conservation Council of WA wants people to think about the end game rather than the quick spoils.\n\n\"I mean it was Australian uranium that was powering the Fukishima power plant when that disaster happened,\" its executive director Matt Roberts said.\n\n\"And we're however long after that disaster and people are still living the consequences of that.\"\n\nConservation Council WA executive director Matt Roberts says people need to think about the end game. (ABC News: Keane Bourke)\n\nMr Roberts said the India deal should be the trigger to reignite the debate.\n\n\"The sector has a history of leaks, spills, accidents, expensive and failed attempts to rehabilitate, and long-term risks to the environment and workers.\n\n\"Uranium mining is radioactive, requires huge volumes of water and leaves behind radioactive mine waste.\"\n\nMr Roberts said money should be instead spent on renewable and \"clean\" energy projects — a view shared by the premier.\n\n\"There are companies in Western Australia who have a permit to mine uranium [under historical approvals], and they still haven't found the commercial circumstances for that to happen,\" WA premier Roger Cook said this week.\n\n\"Our focus at the moment is the clean energy transition to the grid that we know, and that is wind, solar, backed up by battery and gas.\"\n\nAustralia's uranium export policy precludes the sale of uranium to countries that have not signed the Treaty on the Non-Proliferation of Nuclear Weapons — the longstanding arms treaty which underpins the global system.\n\nWill India deal supercharge Australian uranium mining?\n\nIndia is not a signatory — but the government considers the country a \"top-tier security partner\" and is confident India's civilian nuclear program is adequately separated from its weapons program.\n\nIt paves the way for Australia to help India meet its target of 100 gigawatts of nuclear energy capacity ‌by 2047.\n\nIn return, the two countries would develop \"a critical minerals corridor\" and possibly collaborate on mutually beneficial \"low-carbon aluminium projects.\"\n\nWestern Australia, along with Northern Territory, are home to the nation's largest deposits of unused uranium.   (Supplied: Cauldron Energy)\n\nBut Mr Roberts is among those who thinks Australia's efforts are better spent elsewhere.\n\n\"We actually [now] have so many options when it comes to renewable energy, we're seeing that being cheaper, more efficient, and it doesn't have the consequences of nuclear,\" he said.\n\nThe world needed to decarbonise quickly, he said, and Australia's role ought to be investing in renewable technology.\n\nHe also questioned whether expanding another resource industry would truly benefit the whole country, citing reluctance by state and federal governments to increase royalties and sales taxes on resource companies.\n\n\"They want us to take seriously that a private company, that's going to benefit commercially from [uranium mining] has our interests at heart.\"\n\nTopic:Indigenous Culture\n\nTopic:\nIndigenous Culture\n\nTopic:\nIndigenous Australians\n\nSun 12 Jul 2026 at 12:11am\n\nSee more ABC coverage in your search results\n\nTopic:\nHousing Policy\n\nTopic:\nFederal Government\n\nTopic:\nMissing Person\n\nTopic:\nFederal Government\n\nTopic:\nHousing Policy\n\nTopic:\nFederal Government\n\nTopic:\nMissing Person\n\nSun 12 Jul 2026 at 12:14am\n\nSun 12 Jul 2026 at 12:11am\n\nTopic:\nIndigenous Australians\n\nSat 11 Jul 2026 at 11:59pm\n\nSat 11 Jul 2026 at 11:45pm\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
       "summary": " Western Australia has the world's largest uranium deposits, with 28 per cent of the world. The state's opposition alliance has promised to lift the moratorium on mining the radioactive metal if elected. A private firm that's being used to build a private company has our interest at heart.",
       "retrieved_at": "2026-07-12T00:23:16.224744+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "date": "Sat, 11 Jul 2026 23:27:31 GMT",
+      "author": "",
+      "text": "Every morning, Simon starts his day in a sauna, with an ice pack strapped to his groin.\n\n\"I place it on the testicles in order to preserve high sperm count,\" he says.\n\nHe believes the heat helps him sweat out toxins, improving his sperm function - but says he must take care to protect his testicles from the excessive heat.\n\nThe 28-year-old from Miami gets daily sunlight exposure, exercises regularly, only drinks filtered water and wears cotton boxer shorts - all part of a fertility-focused health regime which he follows despite any medical evidence to prove it works.\n\nThere is an element of truth behind these claims - environmental pollutants and heating the testes can impact sperm quality.\n\nBut it's unlikely these steps Simon takes will make a massive difference to his fertility, although exercising will improve general health.\n\nHe is part of a growing number of men paying close attention to their fertility. On TikTok and Instagram, hashtags such as #malefertility, #semenanalysis and #sperm attract hundreds of millions of views, while online communities dedicated to improving sperm health have grown rapidly.\n\nSimon is not planning to have children any time soon and doesn't have a partner - he is more concerned with whether a low sperm count could affect his health.\n\nHe worries if he has low fertility it could affect something called the endocrine system, a network of glands and organs in charge of releasing hormones in the body.\n\nBut there isn't evidence this is the case.\n\nA low sperm count won't trigger endocrine problems, although they may happen together in some people.\n\nMale fertility experts around the world say they have seen an increase in the number of men requesting semen analysis and expressing concerns about their future fertility.\n\nThe experts believe this is partly due to concerns about the impact of testosterone replacement therapies (TRT), steroids and certain environmental toxins all of which can adversely impact hormones responsible for sperm count.\n\nUK-based fertility expert Prof Suks Minhas says that there are pros and cons to the increased discussion around declining sperm and male fertility.\n\n\"It is important to raise the profile of male infertility. But are we fuelling that worry unnecessarily?\"\n\nMeanwhile, an industry of influencers and products are emerging in response, capitalising on this anxiety, he adds.\n\nLike many others, Simon first became interested in fertility through social media, where influencers speaking about declining sperm counts sparked his concern. Yet he has never had a semen analysis and has no specific reason to think he has a fertility problem.\n\n\"It's something that I'm generally scared of, so I choose to protect my fertility,\" he says.\n\nIt was content from influencer Bryan Johnson that led to Simon \"really caring\" about his fertility.\n\nJohnson, an ex-Silicon Valley billionaire, gained fame for wanting to live forever. He has been self-experimenting using controversial methods in an attempt to extend his lifespan for the last five years.\n\nHe claims he has four times the average sperm count according to five lab tests over the space of three months.\n\nHe promotes the unproven sauna and ice pack protocols to increase testosterone and sperm count, which Simon follows.\n\nJohnson's content - followed by more than six million people - drives his followers back to his website, Blueprint, where he sells supplements.\n\nHe is far from the only voice. Other protocols promoted by influencers without medical evidence have included certain supplements, red light therapy, and donating blood to \"filter out\" microplastics.\n\nThis kind of influencer content comes in the wake of wider discussions about declining birth rates.\n\nGlobally, birth rates have dropped from 4.9 babies per woman in 1950 to 2.2 in 2025, with 106 countries now below the replacement rate of 2.1, according to the UN World Population Prospects in 2025.\n\nThe US Secretary for Health, Robert F Kennedy Jr, who has promoted some unproven health claims, recently spoke of a \"fertility crisis\", arguing that in 1970, \"men had twice the sperm count as our teenagers do today\".\n\nLarge-scale analyses have suggested a significant global drop in sperm count and quality since the 1970s, but it isn't easy to make a direct comparison between young men today and the older men in the 1970s, age was not a focus of the study.\n\nOverall, there is consensus that sperm count and quality is in decline, but some data suggests the decline may not be as drastic as feared.\n\nAccording to a 2023 meta-review of falling sperm counts, the area is under-researched with the causes of sperm count decline and the impacts on birth rates remaining unclear.\n\nStudies from 2024 and 2025 which looked at more localised populations in the USA and Denmark found no such drop in sperm count, and called for further research.\n\nMeanwhile, manosphere-adjacent influencers like Andrew Huberman have discussed declining male sperm counts on their podcasts, with Joe Rogan warning of an impending \"population collapse\".\n\nBut there are many non-biological reasons for the birth rate decline. According to the UN's 2025 state of the world population report, 39% of people cited financial reasons for not having the number of kids they wanted, while one in five cited environmental and political instability.\n\nProf Channa Jayasena, a reproductive endocrinologist at Imperial College, London, believes there is room for valid concern around falling sperm counts, but says claims about male fertility problems are overblown on social media.\n\n\"There are certain challenges out there, but it's far from clear what those causes are,\" he says.\n\nDespite the unclear picture when it comes to the causes of male infertility, unproven solutions are being sold across social media.\n\nNaturopath Lucas is one of the health influencers whose content includes warnings about fertility rates.\n\n\"We're seeing a worldwide epidemic, a decrease in fertility across the board,\" he tells the BBC.\n\nBut Lucas's concern comes with some misleading claims - for example, he told his YouTube audience that men would be infertile in 33 years, which is unsupported by scientific evidence.\n\nHe sells online courses, provides 1:1 coaching, and sells supplements for men looking to increase testosterone and fertility.\n\nHis social media content, which promotes some unproven fertility protocols, has gone viral.\n\n\"I recommend to guys to apply an ice pack up against his underwear, two to three times a day for about 10 to 15 minutes,\" he says, claiming clients have told him their partners have fallen pregnant after trying this.\n\n\"This is more preliminary. I do think that it's a viable enough strategy to give it a shot,\" he claims.\n\nWhen questioned about the unproven nature of his advice, Lucas said he believed icing the testes was a \"promising intervention\" but added that he would like to see more research.\n\nNHS guidance on low sperm count does say tight underwear can increase the temperature of your testicles which may affect the quality of your sperm.\n\nLucas also advises followers and clients about healthy eating, sleep and exercise - steps which do have a strong evidence base.\n\nProf Jayasena recommends lifestyle changes to improve fertility.\n\n\"If there are any reversible things such as [quitting] smoking, such as [losing] weight and increasing physical activity,\" he says, \"that's by far the best thing you can do.\"\n\nThis increase in fertility advice from influencers comes alongside a rise in the number of men taking testosterone-boosting drugs.\n\nBut taking steroids and testosterone can damage male fertility.\n\nTo try to reverse this damage, influencers promote \"stacks\" of different medications - which they often sell on their websites.\n\nThese include fertility medications HCG and HMG. While these drugs are sometimes given for specific medical reasons, they are not designed for other people to use to \"switch on\" fertility.\"\n\nThey can have dangerous side effects and can cause permanent harm when taken without medical guidance.\n\n\"It's incredibly dangerous,\" Jayasena says. \"[Some] can cause blood clots, it can actually cause breast growth, which can be disfiguring if not treated promptly.\"\n\nWe spoke to seven different men around the world who were all consuming fertility \"stacks\" to get their fertility back after taking TRT. Because it is illegal to buy drugs like steroids online, they requested anonymity.\n\nOne man told me he thought he would father \"many children\" once he \"blasted HMG and HCG\".\n\nJamal, not his real name, took high doses of testosterone and steroids for bodybuilding, which lowered his fertility markers. He stopped late last year when he and his partner started to think about having kids.\n\nHe found fertility advice from men who were having the same experience on online forums and YouTube, with many suggesting \"fool-proof fertility stacks\".\n\nAfter these did not help, he sought professional help and met reproductive endocrinologist Jayasena. Until then, he was not aware that taking these fertility \"stacks\" unmonitored could be dangerous.\n\nJamal has ceased all medication, including the fertility stack, under Jayasena's advice. Six months later, his natural testosterone levels are improving, however, the hormone which stimulates sperm production is still low. He and his specialist are hopeful it will improve.\n\nWhile increased awareness of male fertility is positive, it's created a vacuum of information, Jayasena warns - meaning men like Jamal take advice from influencers because experts are not always accessible.\n\n\"It could, at the very best, actually distract them from doing the things that might actually help, but at worst it could actually get them to do things that are harmful,\" he adds.",
+      "summary": " Experts believe this is partly due to concerns about the impact of testosterone replacement therapies. Naturopath Lucas is one of the health influencers who sell fertility advice on social media. He sells online courses, provides 1:1 coaching and sells supplements for men looking to increase testosterone",
+      "retrieved_at": "2026-07-12T00:30:13.241076+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "date": "Sat, 11 Jul 2026 23:27:45 GMT",
+      "author": "",
+      "text": "Many children in Kenya traditionally inherit their father's first name as their surname, but there are an increasing number of people who are taking their mother's instead.\n\nThis is particularly the case amongst the country's largest ethnic group, the Kikuyu - and has become a subject of debate and in some cases ridicule for the men with female surnames.\n\nGirls and women who have their mother's names do not face the same censure - and often when they marry may opt to take their husband's first name as their surname.\n\nSome say the growing trend of men having female surnames reflects changing attitudes to women and their influence in what is a patriarchal society; others are critical of those who have been given - or in some cases opt to take - their mother's name.\n\nIt used to be rare to see men in prominent positions with a female surname, but now there are even several politicians who have them - like MP John Njũgũna Wanjikũ.\n\nBrought up by a single mother, he was first elected in 2021 and goes by the nickname \"Ka-Wanjikũ\", meaning child of Wanjikũ.\n\nSome like Wanjikũ were given their female surname at birth, but others have chosen theirs to honour their mothers.\n\nOne of the earlier personalities to break the norm over male surnames was Peter Kĩgia, a Kenyan musician who chose his mother's name as his stage name.\n\nKĩgia wa Esther (son of Esther), now in his 60s, is known for playing benga - fast, rhythmic guitar folk music with lyrics in Kikuyu.\n\n\"When you take your mother's name, it means you love and respect her,\" he told the BBC, saying he had even registered his record company as Wa Esther Productions.\n\nIt now comes with a certain cachet in the music industry, with other younger male musicians following in his footsteps. Posters advertising performers with their mother's surname, such as Waithaka wa Jane and 90K Ka Msoh, are often plastered to hoardings in the capital, Nairobi.\n\nThough in these cases the formal names of these artistes remain male.\n\nJournalist Simon Macharia Wangũi told the BBC he decided to deliberately choose his mother's name as his official surname.\n\n\"Why give somebody credit where it does not exist?\" he says of his father, who was absent for most of his life and about whom he has \"only heard rumours of his existence\".\n\nMostly raised by his grandmother, he was 12 when his mother died in 2003. He had no surname until his final year of high school, when he applied for a birth certificate.\n\nSome Kenyans still think that a child raised by a single parent \"lacks certain morals\", explains Evans Kibe Waceke, a broadcaster who bears a female surname.\n\n\"People perceive you as undisciplined, especially when you are raised by a single mother,\" he tells the BBC.\n\nA heated debate over the pros and cons of having a female surname began two years ago when prominent motivational speaker Robert Burale said it undermined men's masculinity.\n\nThis prompted TV personality Fred Mũitĩrĩri to go public about the difficulties of having a female surname - and how he ended up dropping his mother's name, deciding to use his English and Kikuyu first names only.\n\n\"Do you know how embarrassing it is for a boy to be called out, in a room full of kids, [with] a girl's name?\" he wrote on Facebook - talking about his low self-esteem.\n\n\"From some of those experiences, I developed depression at the age of 23,\" he said.\n\nWairimũ Mũkũrũ, a young Kikuyu cultural expert with a large social media following, says the rise of female surnames is largely down to the fact that single-mother families have become much more common.\n\nStill, she adds, it is a cultural anomaly as even sons of unmarried women are usually given male surnames.\n\n\"In the event that your mother doesn't tell you who your dad is or he rejects you, your mother's eldest brother takes up that role,\" she tells the BBC.\n\nHowever, Mũkũrũ explains that there may sometimes be reluctance to do this as it gives a child the right to inherit property.\n\nMũgwe wa Njũhĩ, an official of the Kikuyu cultural group Kiama Kĩa Ma, agrees male relatives of single mothers may deny the use of their name to avoid inheritance disputes.\n\nBut he also argues that there should not be such disdain for female surnames given that, according to legend, the Kikuyu trace their lineage from the 10 daughters of the community's first couple - Gikũyũ and Mũmbi.\n\n\"I am Mũmbũi by clan [derived from Wambũi, one of the daughters]. We have always aligned ourselves with women, from the very beginning,\" he tells the BBC.\n\nIn fact, the Kikuyu are often referred to as the House of Mũmbi, after their mythological founding mother.\n\nWa Esther, the veteran musician, agrees that people from other communities who criticise the use of female names by Kikuyu men do not understand \"our way of life\".\n\nAcademic George Gathigi explains that while Kikuyu men may have traditionally identified themselves through their mothers, that was always informal, with formal adoption of female names being a new phenomenon.\n\nWhen polygamy was more commonly practised, for example, children were identified by their mother's names in large groups to avoid confusion - as culturally too there is only a small pool of first names in each family.\n\nLate Kenyan author Ngũgĩ wa Thiong'o, whose father Thiong'o wa Ndūcũ had four wives, wrote in his memoir Dreams in a Time of War that while growing up he was generally known as Ngũgĩ wa Wanjikũ – his mother's first name.\n\nGathigi, who lectures at the University of Nairobi and commentates on Kikuyu social issues, believes the adoption of female surnames reflects the \"strength of women\" in modern society, particularly in situations where men have been abandoning their responsibilities.\n\n\"Culture changes and you now have to deal with the modern realities in division of labour,\" he tells the BBC, noting that women have increasingly been taking up roles that had been seen as male.\n\nHe says that in such cases, when the children \"don't get that advantage of being brought up by their father… the mother becomes both the mother and the father\".\n\nHe sees this as a \"bad thing that it is being normalised\".\n\nSuch attitudes may explain the continuing backlash - one blog has described the practice of using female surnames as \"a yoke around men's necks\" while another says it is an effort to \"womanise the Kikuyu man and make him weak\".\n\nWhile journalist Wangũi acknowledges it may not always be easy to have a female surname and it brings with it a certain \"identity crisis\", he is proud of his decision.\n\nAnd he says that if you end up being successful, despite the name, \"people will see you as having beaten the odds to get to where you are\".\n\nGo to BBCAfrica.com for more news from the African continent.\n\nFollow us on Twitter @BBCAfrica, on Facebook at BBC Africa or on Instagram at bbcafrica",
+      "summary": "Kenyans traditionally inherit their father's first name as their surname. But there are now an increasing number of people who are taking their mother's instead. Some say the growing trend of men having female surnames reflects changing attitudes to women.",
+      "retrieved_at": "2026-07-12T00:30:17.345639+00:00"
+    },
+    "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
+      "title": "How a viral seal called Neil caused mayhem in Australia",
+      "date": "Sat, 11 Jul 2026 21:19:05 GMT",
+      "author": "",
+      "text": "Five-year-old Neil the seal has become an internet celebrity, attracting global attention for his antics in Australia.\n\nThe BBC's Helen Livingstone recaps Neil's time spent ashore in southern Tasmania, explaining the chaos and adoration that ensued.\n\nThe BBC spoke to people in Sydney about the four shark attacks in 48 hours along Australia's New South Wales coast.\n\nHeavy rain did not dampen a man's spirits as he decided to take a dive into a flooded Sydney golf course.\n\nAustralia's Great Ocean Road closed on Thursday after flash floods hit the state of Victoria.\n\nHundreds paddle out at Bondi beach to commemorate the shooting victims from Sunday's attack.\n\nMatilda, 10, was mourned by family, friends, and the community in Sydney after she was killed in the Bondi shooting on Sunday.\n\nRabbi Ulman, the father-in-law of British-born Rabbi Eli Schlanger, said he hoped his son-in-law knew how loved he was.\n\nThe mother of 10-year-old Matilda, the youngest victim of the Bondi Beach attack, paid tribute to her daughter at a flower memorial on Tuesday evening.\n\nHis death was described as an \"unspeakable loss\" in a service held at the Chabad of Bondi.\n\nThe first funerals are being held for victims of Sunday's mass shooting at Bondi Beach.\n\nThe BBC spoke to Jewish people at Bondi Beach about why the suburb is significant to their community.\n\nEleven minutes of video captures the moment Australia's iconic beach turns into a scene of horror.\n\nCrowds of people have left flowers and candles as a tribute to the 15 people who were killed in the attack in Sydney.\n\nWait times to donate blood were up to seven hours in Sydney the day after the fatal Bondi beach terror attack.\n\nThe BBC's Katy Watson is at Bondi Beach as police continue to investigate a mass shooting targeting the Jewish community at a Hanukkah event.\n\nBBC News Australia correspondent Katy Watson visited the house in the Sydney suburb of Bonnyrigg.\n\nCorrespondent Joe Inwood pieces together what verified footage reveals about how Australia's worst mass shooting in nearly three decades unfolded.\n\nAerial footage appears to show a gunman firing from a bridge in a nearby carpark.\n\nPolice say 12 people have been killed in a shooting at Bondi Beach targeting the Jewish community, with 29 taken to a hospital - including a child.\n\nNew South Wales Police say that 11 people were killed, plus one gunman, in a shooting at Bondi Beach targeting the Jewish community.\n\nFootage shows the skydiver stuck on the tail before cutting himself free and continuing with dive.\n\nCopyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+      "summary": "Five-year-old Neil the seal has become an internet celebrity in Australia. The BBC spoke to people in Sydney about the four shark attacks in 48 hours along Australia's New South Wales coast. The first funerals are being held for victims of Sunday's mass shooting at Bondi Beach.",
+      "retrieved_at": "2026-07-12T00:30:21.646134+00:00"
+    },
+    "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed": {
+      "source": "Guardian World",
+      "link": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
+      "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
+      "date": "Sun, 12 Jul 2026 00:16:20 GMT",
+      "author": "Staff and agencies",
+      "text": "Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to ‘degrade Iran’s ability to attack civilian mariners’\n\nIran’s ⁠Islamic Revolutionary Guard Corps said on Sunday it had closed the strait of Hormuz after a vessel travelled on an unapproved route and was struck, warning that any retaliation over the incident would be met with a “severe response”.\n\n“A vessel that had jeopardised maritime security by switching off its systems was struck and ⁠brought to a halt,” the navy of Iran’s ⁠Islamic Revolutionary Guard Corps (IRGC) said in ​a statement, without giving any details about the ship.\n\nUS Central Command said a short time later that its forces began a third round of strikes against Iran. “The United States is imposing a heavy cost by continuing to degrade Iran’s ability to attack civilian mariners and commercial ships freely transiting the strait,” the military said.\n\nA Cyprus-flagged container ship struck by Iran suffered “significant engine room damage”, and a civilian crew member is missing, US Central Command said.\n\nThe ⁠United Kingdom Maritime ⁠Trade Operations ⁠agency (UKMTO) said ​on Sunday ⁠that it received a report ⁠of ​an ‌incident ‌nine nautical ‌miles east of Oman. Military authorities have reported ‌a container ship sustained damage ​to the rear of ⁠the vessel ​which has ​caused ​a fire ​onboard, ‌it ​said.\n\nIran’s statement said several ships attempted to move through the waterway on an “unauthorised route” and disregarded warnings to correct their course. The strait, the IRGC said, was closed “until further notice” and until “the end of US interference in this region.” Acts of aggression against ⁠Iran “will be met with a severe response, and new enemy bases in the region will be targeted,” the navy said.\n\nThe latest incident comes amid efforts in Oman to discuss the fate of the strait. Iran’s foreign minister ‌Abbas Araqchi met Omani counterpart Sayyid Badr Albusaidi to exchange “views on appropriate mechanisms for the safe passage of ‌ships through the strait of Hormuz”, according to a statement from Tehran.\n\nA senior Iranian source told Reuters ​that Iran, the US, Qatar and Pakistan had agreed to negotiate in a call that ‌mediators were trying to arrange for Saturday while Araqchi was in Oman. It was not immediately clear whether the efforts were successful.\n\nThe latest diplomatic moves followed exchanges of rhetoric between Tehran and Washington. Iran’s supreme leader, Mojtaba Khamenei, on Saturday vowed revenge for the killing of his father and predecessor, hours after US president Donald Trump threatened severe reprisals in the event of any attempt on his life.\n\n“Vengeance is the will of our nation and must inevitably be carried out,” new supreme leader Mojtaba Khamenei said in a written message. “This matter depends neither on my personal existence nor on that of other officials. Whether we are present or not, it will come to pass,” he wrote in his first message since his father’s funeral this week. He said Iran had compiled a list of individuals to be targeted.\n\nBoth sides carried out exchanges of fire earlier this week, rocking an interim agreement aimed at ending the war, which broke out in late February with massive US-Israeli strikes that killed the then supreme leader Ali Khamenei.\n\nTrump has declared the ceasefire over while leaving the door open for talks, and mediators have been trying to salvage a diplomatic solution, with Iranian media reporting that a delegation from Qatar travelled to Iran on Friday.\n\nHours earlier, Trump had posted on his Truth Social platform that any attempt to assassinate him would lead the United States to “completely decimate” Iran.\n\n“1000 missiles are locked and loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian government act on its threat, pronounced in many corners of the globe, to assassinate, or attempt to assassinate, the sitting President of the United States of America, in this case, ME!,” he wrote.\n\nNews outlets Axios and Politico reported that Washington has given Tehran until Saturday to stop firing on commercial ships transiting Hormuz and acknowledge the waterway is open.\n\nWith Agence France-Presse and Reuters",
+      "summary": " Iran says vessel using unapproved route in strait was struck, drawing strikes from US forces. Iran's ⁠Islamic Revolutionary Guard Corps said on Sunday it had closed the strait of Hormuz. US Central Command said a short time later that its forces began a third round of strikes against Iran. Iran’s",
+      "retrieved_at": "2026-07-12T00:36:05.055874+00:00"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+      "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "date": "Sun, 12 Jul 2026 00:22:21 +0000",
+      "author": "",
+      "text": "Mediators push US-Iran talks in Qatar and Oman to avert escalation\n\nRegional mediators are stepping up efforts to prevent further escalation between Iran and the US. Qatar held talks in Tehran, while Oman is proposing a plan to manage shipping through the Strait of Hormuz. Al Jazeera’s Resul Serdar explains.\n\nFollow Al Jazeera English:\n\nYour browser does not support the audio element.",
+      "summary": "Mediators push US-Iran talks in Qatar and Oman to avert escalation. Qatar held talks in Tehran, while Oman is proposing a plan to manage shipping through the Strait of Hormuz.",
+      "retrieved_at": "2026-07-12T00:36:12.065446+00:00"
+    },
+    "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss",
+      "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+      "date": "Sun, 12 Jul 2026 00:11:57 +0000",
+      "author": "Al Jazeera Staff",
+      "text": "Jude Bellingham was England’s hero once more by scoring twice as the Three Lions came from behind to end Norway’s historic run and reach the World Cup semifinals with a 2-1 win after extra-time.\n\nIn their first ever quarterfinal, Andreas Schjelderup fired Norway into a shock lead in the searing Miami heat on Saturday.\n\nBut Bellingham, who also netted a double in a memorable 3-2 over Mexico in the last 16, produced a moment of magic to equalise just before half-time.\n\nNorway had a second goal controversially disallowed after a VAR review in the second half for a foul by Erling Haaland as both sets of players were pushed to their physical limits by going to extra-time.\n\nBellingham came up with another big moment for the winner as he pounced on an error by Orjan Nyland to sweep in his sixth goal of the tournament.\n\nEngland will face Argentina or Switzerland on Wednesday for the chance to reach a first World Cup final in 60 years.\n\nHaaland’s spectacular run of scoring in his last 14 competitive matches for Norway came to an end against the land of his birth with Norway’s exhausted talisman replaced at half-time of extra-time.\n\nHaving failed to win a World Cup knockout game after conceding first since the final of 1966 before this tournament, England have now done so twice in three matches.\n\nHarry Kane’s heroics prevented an embarrassing early exit to the Democratic Republic of the Congo in the last 32.\n\nBut it is Bellingham who has stood up in the past two matches to keep England in the hunt to end their long wait for major tournament glory despite far from flawless performances.\n\nThe 5pm local time (21:00 GMT) kickoff in Florida meant that temperatures remained above 30 degrees Celsius (86 Fahrenheit) throughout, with intense humidity making for draining conditions for the players.\n\nThe heat looked as if it would spoil the spectacle in the first half.\n\nThomas Tuchel’s men were rattled as England goalkeeper Jordan Pickford saved low from Martin Odegaard before Alexander Sorloth wasted a glorious chance when he failed to feed Haaland and instead went for goal himself.\n\nAlmost immediately Bellingham pulled his team out of the mire once more.\n\nBellingham had been well marshalled until he collected Anthony Gordon’s pass, burst into the box at speed and then slotted home on his weaker left foot.\n\nMomentum was suddenly in England’s favour and they nearly went into the break ahead.\n\nBellingham was this time the creator for Kane, who dinked the ball coolly over Nyland, but had just drifted offside.\n\nTuchel introduced Bukayo Saka and Eberechi Eze at the break for the ineffective Noni Madueke and Declan Rice – the Arsenal midfielder had been suffering with illness earlier in the week.\n\nBut those changes left England light in midfield and they were left hanging on at spells in the second half.\n\nTorbjorn Heggem made the most of some sloppy defending to turn in at the back post, but Haaland was penalised for a push on new Manchester City teammate Elliott Anderson before the corner had been taken, and the goal was disallowed.\n\nNorway were inches away from a winner again when Kristoffer Ajer hit the bar after England fail to deal with another dangerous corner.\n\nBoth sides visibly wilted in the energy-sapping conditions late on but were forced to endure an extra 30 minutes.\n\nNyland had been Norway’s supporting act in the last 16 win over Brazil with a series of saves before Haaland struck twice late on for a landmark victory.\n\nThis time the Sevilla goalkeeper was the villain as he spilled substitute Morgan Rogers’ shot from distance and Bellingham pounced and scored.\n\nEngland were awarded a penalty moments later, but this time VAR intervened in Norway’s favour to deem Djed Spence had initiated contact inside the box.\n\nYet, Norway’s spirit was already crushed, epitomised by a slouched Haaland watching on from the bench with nothing more to give.\n\nTuchel said his side was “lucky” to emerge with the win.\n\n“We made life very, very difficult for ourselves today. The result is fantastic. We are in the last four. It’s amazing but not happy with the performance,” he told ITV.\n\n“The commitment is there but we made life difficult for ourselves in the way we played – sloppy, a lot of technical mistakes, not fast enough, not repetitive enough. We were lucky today.\n\n“It’s about the quality – we need to play better. We will get better [in the semifinal]. We need to.”",
+      "summary": " England beat Norway 2-1 in extra-time to reach World Cup semifinals. Jude Bellingham scored twice as England came from behind to win. The Three Lions will face Argentina or Switzerland in the semi-finals on Wednesday.",
+      "retrieved_at": "2026-07-12T00:36:16.253402+00:00"
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "date": "Sun, 12 Jul 2026 00:00:00 +0000",
+      "author": "Enes Abuomer,Zsombor Peter",
+      "text": "US Secretary of War Pete Hegseth has posted on X, saying: “Iran made a poor choice. Now they pay.”\n\nThe United Kingdom Maritime Trade Operations (UKMTO) says it has received a report of an incident some nine nautical miles east of the Omani coast.\n\n“Military authorities have reported that a container ship has sustained damage to the rear of the vessel which has caused a fire onboard,” it said.\n\n“Vessels are advised to transit with caution,” it added.\n\nThe alert came moments after US Central Command announced the start of a third round of strikes on Iran citing an Iranian attack on a Cyprus-flagged ship in the strait.\n\nIran’s IRIB state broadcaster is reporting more explosions across southern Iran.\n\nIt said three explosions each have been confirmed in the port cites of Bandar Abbas and Sirik. Two blasts were heard in the port city of Chabahar, while five were heard in the city of Bandar-e Deyr in Bushehr province.\n\nIt added that four explosions were also heard in the city of Asaluyeh, which is also in Bushehr province.\n\nWe’ll bring you more when we have it.\n\nThe IRGC is saying the Strait of Hormuz is now closed until further notice, and that no vessels will be allowed to pass through until what it describes as US intervention in the region comes to an end.\n\nThis comes as the situation around the strait remains extremely fragile. In recent days, we have had repeated reports of the waterway being reopened, partially reopened, and then closed again.\n\nWhat Tehran is now talking about is a new arrangement for the Strait of Hormuz — one where it says control over shipping routes stays under Iranian authority, in coordination with Oman, but not under terms set by foreign powers.\n\nAt the same time, Iran is sending two messages. On the diplomatic side, officials say talks and mediation are still under way, including efforts by Qatar and other countries, to try to resolve the crisis.\n\nBut on the military side, they are also warning that escalation could still be on the horizon. Iranian officials have repeatedly said their “fingers are on the trigger” and promised what they call a crushing response to any further attack or violation.\n\nSo this is not only about Hormuz. It is also about US intervention, Iran’s oil exports, sanctions, and whether diplomacy can still stop another round of confrontation.\n\nFor now, Tehran appears to be saying it is open to diplomacy, but ready for escalation.\n\nUS Central Command (CENTCOM) says it has started a third round of strikes on Iran after accusing IRGC of “blatantly” attacking a Cyprus-flagged container ship in the Strait of Hormuz.\n\nIt said the ship was unable to continue its journey due to an onboard fire and engine damage, and that a crew member is missing.\n\n“Iran was provided yet another opportunity to demonstrate adherence to the Memorandum of Understanding after being held accountable for earlier attacks on commercial vessels but has again failed,” it said, referring to the peace deal signed on June 16.\n\n“In response, the United States is imposing a heavy cost by continuing to degrade Iran’s ability to attack civilian mariners and commercial ships freely transiting the strait,” it added.\n\nResidents in Asaluyeh and Bandar Deyr in southern Iran have reported hearing several explosions, according to Iran’s IRIB state broadcaster.\n\nHello, and welcome to our live coverage of the United States and Israel’s war on Iran, as well as Israel’s attacks on Lebanon and Gaza.\n\nStay with us for the latest news and analyses from across the Middle East and beyond.\n\nYou can find our updates from Saturday, July 11 here.",
+      "summary": " US Secretary of War Pete Hegseth has posted on X, saying: ‘Iran made a poor choice. Now they pay’ The alert came moments after US Central Command announced the start of a third round of strikes on Iran. Iran’s IRIB state broadcaster is reporting more explosions across southern Iran.",
+      "retrieved_at": "2026-07-12T00:36:21.804665+00:00"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever": {
+      "source": "Bloomberg Markets",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever",
+      "title": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever",
+      "date": "Sun, 12 Jul 2026 00:00:00 GMT",
+      "author": "Sangmi Cha, Abhishek Vishnoi",
+      "text": "To continue, please click the box below to let us know you're not a robot.\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below.\n\nGet the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+      "summary": " The Daily Discussion is a weekly, weekly look at the most important global markets news. Use the Daily Discussion to help you understand today's featured news stories.",
+      "retrieved_at": "2026-07-12T00:39:29.110256+00:00"
+    },
+    "https://thehill.com/policy/defense/5964263-iran-closes-strait-hormuz/": {
+      "source": "The Hill",
+      "link": "https://thehill.com/policy/defense/5964263-iran-closes-strait-hormuz/",
+      "title": "US launches third round of strikes after Iran announces strait closure",
+      "date": "Sun, 12 Jul 2026 00:31:14 +0000",
+      "author": "Sarah Davis",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-07-12T00:39:39.253874+00:00"
+    },
+    "https://www.france24.com/en/sport/20260712-argentina-switzerland-live-defending-champions-face-swiss-underdogs-for-semi-finals-spot": {
+      "source": "France 24",
+      "link": "https://www.france24.com/en/sport/20260712-argentina-switzerland-live-defending-champions-face-swiss-underdogs-for-semi-finals-spot",
+      "title": "Argentina-Switzerland live: Defending champions face Swiss underdogs for semi-finals spot",
+      "date": "Sun, 12 Jul 2026 00:35:11 GMT",
+      "author": "Mehdi BOUZOUINA",
+      "text": "Argentina: E. Martinez - N. Molina, C. Romero, L. Martinez, Tagliafico - Paredes, De Paul, Mac Allister, E. Fernandez - Messi (Cap.), Alvarez.\n\nSwitzerland: Kobel - D. Zakaria, Elvedi, Akanji, R. Rodriguez - Freuler, Xhaka (Cap.) - Ndoye, Rieder, R. Vargas - Embolo.\n\nWelcome to our live coverage of Argentina - Switzerland in the World Cup quarter-finals!\n\nThe defending champions face a resurgent Swiss side seeking their first semi-final berth.\n\nFollow every moment as these two nations battle for a place in the final four!\n\nWelcome to our live coverage of Argentina - Switzerland in the World Cup quarter-finals!\n\nThe defending champions face a resurgent Swiss side seeking their first semi-final berth.\n\nFollow every moment as these two nations battle for a place in the final four!\n\nArgentina survived two epic battles against Cape Verde and Egypt. The defending champions overcame these scares, with their experience and depth proving decisive. Lionel Messi's side need to avoid the Nati trap to get to the semis and take on England.\n\nSwitzerland made their remarkable journey to the quarter-finals with Manzambi's emergence as a World Cup star. The young forward combined with the Nati's tactical discipline could prove crucial in overcoming a traditional powerhouse like Argentina.",
+      "summary": " Argentina face a resurgent Swiss side seeking their first semi-final berth. Lionel Messi's side need to avoid the Nati trap to get to the semis and take on England. Argentina survived two epic battles against Cape Verde and Egypt.",
+      "retrieved_at": "2026-07-12T00:40:46.683697+00:00"
+    },
+    "https://www.abc.net.au/news/2026-07-12/horsham-footballer-airlifted-hospitalised-on-field-injury/106906606": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-07-12/horsham-footballer-airlifted-hospitalised-on-field-injury/106906606",
+      "title": "Young country footballer 'alert' after serious on-field injury",
+      "date": "Sun, 12 Jul 2026 00:35:59 +0000",
+      "author": "",
+      "text": "Personalise the news and\n\nBERITA BAHASA INDONESIA\n\nFind any issues using dark mode? Please let us know\n\nTopic:\nAustralian Rules Football\n\nSun 12 Jul 2026 at 12:35am\n\nThe young man's club has stated he is recovering well in the wake of yesterday's injury. (ABC News)\n\nA young footballer is recovering from upper body injuries sustained on the field during a match in western Victoria on Saturday.\n\nThe teenager was flown to the Royal Melbourne Hospital, where he is reportedly \"alert\" and \"has full feeling back\".\n\nThe incident comes a week after the tragic death of suburban footballer Nathan Fitzgerald in Melbourne following a head injury.\n\nA young regional footballer injured during a match in western Victoria on Saturday is \"alert\" and recovering in a Melbourne hospital, according to his club.\n\nThe player was injured during an under-17s match between Southern Mallee Thunder and the Horsham Saints in the town of Jeparit, with emergency services called just after midday.\n\nThe teenager was flown to the Royal Melbourne Hospital with upper body injuries, and his condition has been listed as stable.\n\nAmbulance Victoria said a specialist air ambulance crew, Mobile Intensive Care Ambulance (MICA) and two life support road crews were involved in assessing and treating the young man.\n\nHorsham Saints Football Club president Sally Ison posted on social media last night that the player was \"now alert and has full feeling back\" and that he was reportedly \"being looked after extremely well\".\n\nMs Ison thanked volunteer medical staff, paramedics and those who stepped in to help from both teams.\n\n\"It shows in the country it doesn't matter which side you are on you jump in and help without hesitation,\" she said.\n\nThe Wimmera Football Netball League's deputy chairman Bart Turgoose also released a statement, thanking those who helped the young player.\n\n\"Our thoughts are with the U17s player, and his family and friends, who have been impacted by this,\" he said.\n\nThe incident comes a week after the tragic death of suburban footballer Nathan Fitzgerald, who died in hospital after he sustained serious head injuries during a match at Epping.\n\nSun 12 Jul 2026 at 12:35am\n\nSee more ABC coverage in your search results\n\nTopic:\nFIFA World Cup\n\nTopic:\nHousing Policy\n\nTopic:\nMissing Person\n\nAnalysis by Clare Armstrong\n\nTopic:\nMissing Person\n\nAustralian Rules Football\n\nTopic:\nHousing Policy\n\nTopic:\nMissing Person\n\nAnalysis by Clare Armstrong\n\nTopic:\nParalympic Games\n\nSun 12 Jul 2026 at 12:27am\n\nSun 12 Jul 2026 at 12:14am\n\nSun 12 Jul 2026 at 12:11am\n\nTopic:\nIndigenous Australians\n\nSat 11 Jul 2026 at 11:59pm\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " Young regional footballer injured during a match in western Victoria on Saturday is recovering in Melbourne hospital. The Horsham Saints player was flown to the Royal Melbourne Hospital with upper body injuries. The club says he is \"alert\" and recovering in a Melbourne hospital. The incident comes a week after the tragic death of suburban footballer Nathan Fitzgerald in",
+      "retrieved_at": "2026-07-12T00:40:52.937106+00:00"
+    },
+    "https://www.abc.net.au/news/2026-07-12/athlete-moves-to-snow-for-paralympics/106802090": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-07-12/athlete-moves-to-snow-for-paralympics/106802090",
+      "title": "Skier training for 2030 Winter Paralympics only a year after discovering sport",
+      "date": "Sun, 12 Jul 2026 00:27:20 +0000",
+      "author": "Mikayla McGuirk-Scolaro and Eddie Williams",
+      "text": "Personalise the news and\n\nBERITA BAHASA INDONESIA\n\nFind any issues using dark mode? Please let us know\n\nTopic:\nParalympic Games\n\nSun 12 Jul 2026 at 12:27am\n\nOliberth Reyes completing a run of the mountain at Perisher. (Supplied)\n\nOliberth Reyes, born in Colombia without a left leg, is training to qualify for the Winter Paralympics despite learning how to ski a year ago.\n\nHis knack for the sport was identified by Paralympic development coaches.\n\nReyes is now training five days a week with a team of coaches and will compete in his first racing event later this season.\n\nBorn in Colombia without a left leg, Oliberth Reyes never thought he would be able to ski, let alone train for the Winter Paralympics.\n\nThe 33-year-old was only introduced to adaptive skiing at an event for para athletes last year.\n\nHe became fascinated by the one-legged alpine skiing, a sport he had never heard of before.\n\nHis knack for the sport was identified by Paralympic development coaches, and just weeks later he was training with them on the slopes of Perisher.\n\nIn pursuit of Olympic glory, Reyes has recently swapped his life in Sydney for the Snowy Mountains town of Jindabyne.\n\nOliberth Reyes moved to the Snowy Mountains to pursue a career in para alpine skiing. (Supplied: Oliberth Reyes)\n\nCompeting in snow sports was unheard of for a child growing up in the Colombian mountains, so Reyes dedicated his younger years to swimming.\n\nHe took up climbing, rowing and wheelchair racing when he moved to Australia in 2018.\n\nReyes was born in Colombia and learnt to swim at four years old.  (Supplied: Oliberth Reyes)\n\nHowever, he was captivated by his first full run of the mountain at Perisher.\n\n\"I remember the first day vividly. I must have fallen a thousand times,\" Reyes said.\n\nHe returned to his life in Sydney at the end of the 2025 season and was encouraged by a para development coach from Snow Sports Australia, Tom Hodges, to practice skiing by rollerblading.\n\nReyes took up rollerblading to practice one-legged alpine skiing. (Supplied: Oliberth Reyes)\n\n\"Rollerblading is probably one of the closest dryland equivalents you can do, so we definitely encouraged him to spend time rollerblading,\" Mr Hodges said.\n\nReyes's team quickly realised he needed more time on the snow, so his then-pregnant wife Sarah Mulcare suggested they move.\n\nIn June, just eight months after welcoming baby Luka into the world, the young family packed up their life and moved to Jindabyne.\n\nReyes's wife Sarah Mulcare had the idea to move to the snow at the start of 2026. (Supplied: Oliberth Reyes)\n\nBetween barista shifts at a cafe, Reyes trains five days a week with coaches from Snow Sports Australia and Paralympics Australia in hopes of qualifying for the 2030 Winter Paralympics.\n\nReyes became an Australian citizen in 2023 and hopes to represent Australia on the ultimate international stage.\n\n\"Getting to represent your country doesn't come easily and it's not an opportunity afforded to every person,\" Mr Hodges said.\n\n\"He is working very hard and he's got his heart and mind set on it.\n\nReyes is gearing up to compete in his first race event later this season with the potential to partake in international competitions next year.\n\n\"I'm just going to put it out there already,\" Reyes said.\n\n\"I am going to bring the gold medals home.\"\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nSun 12 Jul 2026 at 12:27am\n\nSee more ABC coverage in your search results\n\nTopic:\nFIFA World Cup\n\nTopic:\nHousing Policy\n\nTopic:\nMissing Person\n\nAnalysis by Clare Armstrong\n\nTopic:\nParalympic Games\n\nTopic:\nParalympic Games\n\nTopic:\nParalympic Games\n\nTopic:\nParalympic Games\n\nTopic:\nHousing Policy\n\nTopic:\nMissing Person\n\nAnalysis by Clare Armstrong\n\nTopic:\nParalympic Games\n\nSun 12 Jul 2026 at 12:27am\n\nSun 12 Jul 2026 at 12:14am\n\nSun 12 Jul 2026 at 12:11am\n\nTopic:\nIndigenous Australians\n\nSat 11 Jul 2026 at 11:59pm\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " Oliberth Reyes was born in Colombia without a left leg and trained to ski a year ago. He is training to qualify for the Winter Paralympics despite learning how to ski. Reyes is now training five days a week with a team of coaches and will compete in his first racing event later this season.",
+      "retrieved_at": "2026-07-12T00:40:57.871148+00:00"
+    },
+    "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf": {
+      "source": "DW All",
+      "link": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf",
+      "title": "Iran closes Strait of Hormuz, US launches fresh strikes",
+      "date": "2026-07-11T22:48:00Z",
+      "author": "",
+      "text": "The Iranian navy has said it closed the Strait of Hormuz after firing on a vessel transiting an \"unapproved route.\" In response, the US has launched a third set of strikes this week on Iran. Follow DW for more.\n\nFollow DW's coverage of the ongoing conflict between the United States and Iran on Sunday, July 12.\n\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google. Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed.\n\nUS Secretary of Defense Pete Hegseth wrote on X while reposting the CENTCOM announcement of new strikes (see entry below) that \"Iran made a poor choice. Now they pay.\"\n\nThe United Kingdom Maritime Trade Operations (UKMTO) said it received a report of an incident 9 nautical miles off the coast of Oman.\n\n\"Military authorities have reported that a container ship has sustained damage to the rear of the vessel which has caused a fire onboard,\" UKMTO said in a statement.\n\nIranian state-run Press TV reported explosions in the southern cities of Bushehr and Asaluyeh.\n\nThe Mehr news agency also reported explosions being heard in Qeshm Island.\n\nThere were also blasts in Bandar Abbas and Sirik, according to Iranian state broadcaster IRIB.\n\nThe US military's Central Command (CENTCOM) said it has launched fresh strikes on Iran.\n\nIn a post on X, it said the \"Islamic Revolutionary Guard Corps forces blatantly attacked M/V GFS Galaxy, a Cyprus-flagged container ship transiting the Strait of Hormuz.\"\n\nThe US military said that a civilian crew member was missing and that damage to the vessel prevented it from continuing its journey.\n\nThe attacks were being carried out on the orders of President Donald Trump.\n\nThe Iranian Revolutionary Guard Corps' navy said early Sunday that it had closed the Strait of Hormuz after several ships attempted to pass through the strategic waterway.\n\nA warning shot fired at the vessels struck and stopped one of the ships, the navy said in a statement posted on Telegram.\n\n\"The Strait of Hormuz is closed until further notice and until the end of America's interventions in the region, and no vessel will be permitted to pass through,\" the statement said.\n\nThe statement added that any \"new act of aggression against us, it will be met with a severe response, and new enemy bases in the region will be targeted.\"\n\nWelcome to DW's coverage of the latest developments in the ongoing conflict between Iran and the United States.\n\nEarly on Sunday, the Iranian Revolutionary Guard Corps' navy announced the closure of the Strait of Hormuz.\n\nStay with us as we provide updates throughout the day.",
+      "summary": " Iranian navy says it closed Strait of Hormuz after firing on vessel transiting an \"unapproved route\" US military says it has launched a third set of strikes on Iran this week. US Secretary of Defense Pete Hegseth wrote on X that \"Iran made a poor choice\"",
+      "retrieved_at": "2026-07-12T00:42:01.993385+00:00"
     }
   }
 }
