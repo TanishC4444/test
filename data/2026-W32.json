@@ -1,6 +1,6 @@
 {
   "week": "2026-W32",
-  "count": 2358,
+  "count": 2371,
   "articles": {
     "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -2190,7 +2190,7 @@
       "author": "Ben Hubbard, Gulsin Harman and Laetitia Vançon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:19.181276+00:00"
+      "retrieved_at": "2026-08-09T23:00:51.441800+00:00"
     },
     "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html": {
       "source": "NYT World",
@@ -2200,7 +2200,7 @@
       "author": "Chris Buckley and Amy Chang Chien",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:22.671285+00:00"
+      "retrieved_at": "2026-08-09T23:00:54.947648+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html": {
       "source": "NYT World",
@@ -2210,7 +2210,7 @@
       "author": "Yeganeh Torbati, Leily Nikounazar and Aaron Boxerman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:43.685458+00:00"
+      "retrieved_at": "2026-08-09T23:01:16.001690+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html": {
       "source": "NYT World",
@@ -2220,7 +2220,7 @@
       "author": "Ismaeel Naar and Aaron Boxerman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:26.169198+00:00"
+      "retrieved_at": "2026-08-09T23:00:58.442604+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html": {
       "source": "NYT World",
@@ -2230,7 +2230,7 @@
       "author": "Max Kim and Muktita Suhartono",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:29.675891+00:00"
+      "retrieved_at": "2026-08-09T23:01:01.947390+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html": {
       "source": "NYT World",
@@ -2240,7 +2240,7 @@
       "author": "Mark Walker and Ishani Desai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:33.168014+00:00"
+      "retrieved_at": "2026-08-09T23:01:05.462410+00:00"
     },
     "https://www.nytimes.com/article/canada-wildfires-2026.html": {
       "source": "NYT World",
@@ -2250,7 +2250,7 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:36.666583+00:00"
+      "retrieved_at": "2026-08-09T23:01:08.985324+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html": {
       "source": "NYT World",
@@ -2260,7 +2260,7 @@
       "author": "Anupreeta Das, Showkat Nanda and Jiawei Wang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:57.697366+00:00"
+      "retrieved_at": "2026-08-09T23:01:30.044535+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html": {
       "source": "NYT World",
@@ -2270,7 +2270,7 @@
       "author": "John Eligon and Joao Silva",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:01.205902+00:00"
+      "retrieved_at": "2026-08-09T23:01:33.558823+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html": {
       "source": "NYT World",
@@ -2280,7 +2280,7 @@
       "author": "Nataliya Vasilyeva, Paul Sonne, Alina Lobzina and Oleg Matsnev",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:54.196114+00:00"
+      "retrieved_at": "2026-08-09T23:01:26.545027+00:00"
     },
     "https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html": {
       "source": "NYT World",
@@ -2300,7 +2300,7 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:35.102243+00:00"
+      "retrieved_at": "2026-08-09T23:10:07.864743+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html": {
       "source": "NYT World",
@@ -2310,7 +2310,7 @@
       "author": "Nataliya Vasilyeva",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:04.727007+00:00"
+      "retrieved_at": "2026-08-09T23:01:37.063683+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html": {
       "source": "NYT World",
@@ -2320,7 +2320,7 @@
       "author": "Catherine Porter, Elisabetta Povoledo and Nimet Kirac",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:57.302305+00:00"
+      "retrieved_at": "2026-08-09T23:02:29.717424+00:00"
     },
     "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html": {
       "source": "NYT World",
@@ -2330,7 +2330,7 @@
       "author": "Norimitsu Onishi and Renaud Philippe",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:08.655723+00:00"
+      "retrieved_at": "2026-08-09T23:00:40.929960+00:00"
     },
     "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html": {
       "source": "NYT World",
@@ -2340,7 +2340,7 @@
       "author": "Euan Ward, Eric Schmitt, Ronen Bergman and Hwaida Saad",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:30:51.029706+00:00"
+      "retrieved_at": "2026-08-09T23:00:23.257361+00:00"
     },
     "https://www.nytimes.com/2026/08/08/briefing/edge-of-your-seat.html": {
       "source": "NYT World",
@@ -2350,7 +2350,7 @@
       "author": "Tina Jordan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:47.175365+00:00"
+      "retrieved_at": "2026-08-09T23:01:19.502675+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/canada/canada-economy-tariffs-carney-trump.html": {
       "source": "NYT World",
@@ -2360,7 +2360,7 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:50.669894+00:00"
+      "retrieved_at": "2026-08-09T23:01:23.019917+00:00"
     },
     "https://www.nytimes.com/2026/08/08/world/europe/punjabi-soldiers-ww1-british-indian-army.html": {
       "source": "NYT World",
@@ -2370,7 +2370,7 @@
       "author": "Leo Sands",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:08.250378+00:00"
+      "retrieved_at": "2026-08-09T23:01:40.584200+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html": {
       "source": "NYT World",
@@ -2380,7 +2380,7 @@
       "author": "Pranav Baskar and Shuaib Almosawa",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:15.251622+00:00"
+      "retrieved_at": "2026-08-09T23:01:47.611931+00:00"
     },
     "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html": {
       "source": "NYT World",
@@ -2390,7 +2390,7 @@
       "author": "Isabella Kwai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:18.756393+00:00"
+      "retrieved_at": "2026-08-09T23:01:51.119976+00:00"
     },
     "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html": {
       "source": "NYT World",
@@ -2400,7 +2400,7 @@
       "author": "Tyler Pager, Julian E. Barnes and Frances Robles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:22.250290+00:00"
+      "retrieved_at": "2026-08-09T23:01:54.621289+00:00"
     },
     "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html": {
       "source": "NYT World",
@@ -2410,7 +2410,7 @@
       "author": "Erica L. Green, Zolan Kanno-Youngs, Sanam Mahoozi and Yeganeh Torbati",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:25.753785+00:00"
+      "retrieved_at": "2026-08-09T23:01:58.147254+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/europe/europe-heat-records.html": {
       "source": "NYT World",
@@ -2420,7 +2420,7 @@
       "author": "Lynsey Chutel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:29.247013+00:00"
+      "retrieved_at": "2026-08-09T23:02:01.646195+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html": {
       "source": "NYT World",
@@ -2430,7 +2430,7 @@
       "author": "Kieran Corcoran",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:32.760032+00:00"
+      "retrieved_at": "2026-08-09T23:02:05.153056+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html": {
       "source": "NYT World",
@@ -2440,7 +2440,7 @@
       "author": "Lynsey Chutel and Alisa Dogramadzieva",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:36.252919+00:00"
+      "retrieved_at": "2026-08-09T23:02:08.655250+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html": {
       "source": "NYT World",
@@ -2450,7 +2450,7 @@
       "author": "Ben Hubbard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:39.779193+00:00"
+      "retrieved_at": "2026-08-09T23:02:12.154774+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html": {
       "source": "NYT World",
@@ -2460,7 +2460,7 @@
       "author": "Laura Chung",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:43.272781+00:00"
+      "retrieved_at": "2026-08-09T23:02:15.663638+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html": {
       "source": "NYT World",
@@ -2470,7 +2470,7 @@
       "author": "Kiuko Notoya and Javier C. Hernández",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:46.790417+00:00"
+      "retrieved_at": "2026-08-09T23:02:19.167869+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html": {
       "source": "NYT World",
@@ -2480,7 +2480,7 @@
       "author": "Lara Jakes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:50.277376+00:00"
+      "retrieved_at": "2026-08-09T23:02:22.680411+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html": {
       "source": "NYT World",
@@ -2490,7 +2490,7 @@
       "author": "Annie Correal and Eric Schmitt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:32:53.788105+00:00"
+      "retrieved_at": "2026-08-09T23:02:26.188008+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html": {
       "source": "NYT World",
@@ -2500,7 +2500,7 @@
       "author": "Muktita Suhartono and Max Kim",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:00.817798+00:00"
+      "retrieved_at": "2026-08-09T23:02:33.239240+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html": {
       "source": "NYT World",
@@ -2510,7 +2510,7 @@
       "author": "Damien Cave and Linh Pham",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:04.325863+00:00"
+      "retrieved_at": "2026-08-09T23:02:36.775400+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html": {
       "source": "NYT World",
@@ -2520,7 +2520,7 @@
       "author": "River Akira Davis, Hisako Ueno and Chang W. Lee",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:07.820379+00:00"
+      "retrieved_at": "2026-08-09T23:02:40.293387+00:00"
     },
     "https://www.nytimes.com/2026/08/07/world/europe/barbican-london-redevelopment-tower-block.html": {
       "source": "NYT World",
@@ -2530,7 +2530,7 @@
       "author": "Stephen Castle and Hannah Reyes Morales",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:11.315902+00:00"
+      "retrieved_at": "2026-08-09T23:02:43.809100+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html": {
       "source": "NYT World",
@@ -2540,7 +2540,7 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:14.813630+00:00"
+      "retrieved_at": "2026-08-09T23:02:47.319981+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/good-list-rituals-strait-hormuz-fifa.html": {
       "source": "NYT World",
@@ -2550,7 +2550,7 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:18.324414+00:00"
+      "retrieved_at": "2026-08-09T23:02:50.830237+00:00"
     },
     "https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html": {
       "source": "NYT Climate",
@@ -2560,7 +2560,7 @@
       "author": "Catrin Einhorn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:17.697371+00:00"
+      "retrieved_at": "2026-08-09T23:12:49.998247+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html": {
       "source": "NYT Tech",
@@ -2570,7 +2570,7 @@
       "author": "Jonathan Wolfe",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:51.461669+00:00"
+      "retrieved_at": "2026-08-09T23:06:24.156399+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html": {
       "source": "NYT Science",
@@ -2580,7 +2580,7 @@
       "author": "Victor Mather and Leonardo Coelho",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:44.810995+00:00"
+      "retrieved_at": "2026-08-09T23:07:17.643501+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html": {
       "source": "NYT World",
@@ -2590,7 +2590,7 @@
       "author": "Ismaeel Naar and Pranav Baskar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:32.353223+00:00"
+      "retrieved_at": "2026-08-09T23:03:04.879593+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html": {
       "source": "NYT World",
@@ -2600,7 +2600,7 @@
       "author": "Adam Rasgon and Natan Odenheimer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:35.851686+00:00"
+      "retrieved_at": "2026-08-09T23:03:08.407447+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html": {
       "source": "NYT Business",
@@ -2610,7 +2610,7 @@
       "author": "Vjosa Isai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:27.831017+00:00"
+      "retrieved_at": "2026-08-09T23:11:00.462995+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html": {
       "source": "NYT World",
@@ -2620,7 +2620,7 @@
       "author": "Hannah Beech, Kiuko Notoya and Chang W. Lee",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:42.882876+00:00"
+      "retrieved_at": "2026-08-09T23:03:15.451882+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/europe/munich-car-attack-driver-sentence.html": {
       "source": "NYT World",
@@ -2630,7 +2630,7 @@
       "author": "Christopher F. Schuetze",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:46.398458+00:00"
+      "retrieved_at": "2026-08-09T23:03:18.955199+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/asia/japan-vandalism-doctor-prison-sentence.html": {
       "source": "NYT World",
@@ -2640,7 +2640,7 @@
       "author": "Kiuko Notoya and Hari Raj",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:49.905400+00:00"
+      "retrieved_at": "2026-08-09T23:03:22.462145+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html": {
       "source": "NYT World",
@@ -2650,7 +2650,7 @@
       "author": "Constant Méheut",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:53.411481+00:00"
+      "retrieved_at": "2026-08-09T23:03:25.970566+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/europe/le-porge-france-fires-village.html": {
       "source": "NYT World",
@@ -2660,7 +2660,7 @@
       "author": "Ségolène Le Stradic and William Daniels",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:33:56.958239+00:00"
+      "retrieved_at": "2026-08-09T23:03:29.479345+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html": {
       "source": "NYT World",
@@ -2670,7 +2670,7 @@
       "author": "Anatoly Kurmanaev, Julie Turkewitz, Tyler Pager and Mariana Martínez",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:34:00.481902+00:00"
+      "retrieved_at": "2026-08-09T23:03:32.981641+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/australia/jetstar-overhead-bin-compartment-baggage-fees.html": {
       "source": "NYT World",
@@ -2680,7 +2680,7 @@
       "author": "Laura Chung",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:34:03.991233+00:00"
+      "retrieved_at": "2026-08-09T23:03:36.492448+00:00"
     },
     "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html": {
       "source": "NYT World",
@@ -2700,7 +2700,7 @@
       "author": "Michael D. Shear",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:21.208151+00:00"
+      "retrieved_at": "2026-08-09T23:12:53.515698+00:00"
     },
     "https://www.nytimes.com/2026/08/05/world/asia/pakistan-international-news-media-ban.html": {
       "source": "NYT World",
@@ -2750,7 +2750,7 @@
       "author": "Beth Reinhard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:22.933940+00:00"
+      "retrieved_at": "2026-08-09T23:04:55.437007+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/politics/a-democrat-sounds-the-alarm-on-christian-nationalism-in-congress.html": {
       "source": "NYT Politics",
@@ -2770,7 +2770,7 @@
       "author": "Heather Knight and Ricardo Nagaoka",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:34:18.888807+00:00"
+      "retrieved_at": "2026-08-09T23:03:51.253896+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/elections/poll-voters-political-parties-extreme.html": {
       "source": "NYT US",
@@ -2780,7 +2780,7 @@
       "author": "Ruth Igielnik",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:34:22.422055+00:00"
+      "retrieved_at": "2026-08-09T23:03:54.771645+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html": {
       "source": "NYT Politics",
@@ -2790,7 +2790,7 @@
       "author": "Jeremy W. Peters",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:29.954022+00:00"
+      "retrieved_at": "2026-08-09T23:05:02.489457+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/politics/kennedy-center-renovation-mice.html": {
       "source": "NYT Politics",
@@ -2800,7 +2800,7 @@
       "author": "Elizabeth Williamson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:33.480885+00:00"
+      "retrieved_at": "2026-08-09T23:05:06.003120+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html": {
       "source": "NYT Politics",
@@ -2810,7 +2810,7 @@
       "author": "Russ Buettner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:37.002540+00:00"
+      "retrieved_at": "2026-08-09T23:05:09.537018+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html": {
       "source": "NYT Politics",
@@ -2820,7 +2820,7 @@
       "author": "Bayliss Wagner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:40.519456+00:00"
+      "retrieved_at": "2026-08-09T23:05:13.046882+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/beth-vacuum-chuck-grassley-iowa.html": {
       "source": "NYT Politics",
@@ -2830,7 +2830,7 @@
       "author": "Tim Balk",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:44.046534+00:00"
+      "retrieved_at": "2026-08-09T23:05:16.561959+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html": {
       "source": "NYT Politics",
@@ -2840,7 +2840,7 @@
       "author": "Emily Davies",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:47.561011+00:00"
+      "retrieved_at": "2026-08-09T23:05:20.071651+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html": {
       "source": "NYT Politics",
@@ -2860,7 +2860,7 @@
       "author": "Reis Thebault",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:34:50.534044+00:00"
+      "retrieved_at": "2026-08-09T23:04:23.013393+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/bill-goichberg-dead.html": {
       "source": "NYT US",
@@ -2870,7 +2870,7 @@
       "author": "Dylan Loeb McClain",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:34:54.057585+00:00"
+      "retrieved_at": "2026-08-09T23:04:26.537380+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html": {
       "source": "NYT Politics",
@@ -2890,7 +2890,7 @@
       "author": "John Branch",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:01.088532+00:00"
+      "retrieved_at": "2026-08-09T23:04:33.575541+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/louisiana-vibrio-vulnificus-outbreak-flesh-eating-bacteria.html": {
       "source": "NYT US",
@@ -2900,7 +2900,7 @@
       "author": "Pooja Salhotra",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:04.612005+00:00"
+      "retrieved_at": "2026-08-09T23:04:37.091961+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html": {
       "source": "NYT Politics",
@@ -2910,7 +2910,7 @@
       "author": "Anton Troianovski, Jonathan Swan, Eric Schmitt and Julian E. Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:58.127803+00:00"
+      "retrieved_at": "2026-08-09T23:05:30.638085+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html": {
       "source": "NYT Politics",
@@ -2920,7 +2920,7 @@
       "author": "Glenn Thrush",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:01.632380+00:00"
+      "retrieved_at": "2026-08-09T23:05:34.145301+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html": {
       "source": "NYT Politics",
@@ -2930,7 +2930,7 @@
       "author": "Linda Qiu",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:05.143788+00:00"
+      "retrieved_at": "2026-08-09T23:05:37.670701+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html": {
       "source": "NYT Politics",
@@ -2940,7 +2940,7 @@
       "author": "Madeleine Ngo and Hamed Aleaziz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:08.645205+00:00"
+      "retrieved_at": "2026-08-09T23:05:41.229952+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html": {
       "source": "NYT Politics",
@@ -2950,7 +2950,7 @@
       "author": "Michael Gold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:12.143078+00:00"
+      "retrieved_at": "2026-08-09T23:05:44.754419+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html": {
       "source": "NYT Politics",
@@ -2960,7 +2960,7 @@
       "author": "Emily Davies",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:15.661589+00:00"
+      "retrieved_at": "2026-08-09T23:05:48.287133+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html": {
       "source": "NYT Politics",
@@ -2970,7 +2970,7 @@
       "author": "Tim Balk",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:19.167332+00:00"
+      "retrieved_at": "2026-08-09T23:05:51.803287+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html": {
       "source": "NYT Politics",
@@ -2980,7 +2980,7 @@
       "author": "Catie Edmondson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:22.689605+00:00"
+      "retrieved_at": "2026-08-09T23:05:55.323732+00:00"
     },
     "https://www.nytimes.com/video/us/politics/100000011077471/does-the-fifth-amendment-protect-fauci.html": {
       "source": "NYT Politics",
@@ -2990,7 +2990,7 @@
       "author": "Adam Liptak, Gilad Thaler, Nour Idriss, Jon Miller, Stephanie Swart and Whitney Shefte",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:26.187831+00:00"
+      "retrieved_at": "2026-08-09T23:05:58.858608+00:00"
     },
     "https://www.nytimes.com/2026/08/07/us/politics/max-miller-gop.html": {
       "source": "NYT Politics",
@@ -3010,7 +3010,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:30.248583+00:00"
+      "retrieved_at": "2026-08-09T23:06:02.922320+00:00"
     },
     "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html": {
       "source": "NYT Business",
@@ -3020,7 +3020,7 @@
       "author": "Steve Lohr and Xinyun Wu",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:24.328976+00:00"
+      "retrieved_at": "2026-08-09T23:10:56.956906+00:00"
     },
     "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html": {
       "source": "NYT Tech",
@@ -3030,7 +3030,7 @@
       "author": "Kate Conger and Cade Metz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:37.395771+00:00"
+      "retrieved_at": "2026-08-09T23:06:10.066660+00:00"
     },
     "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html": {
       "source": "NYT Tech",
@@ -3040,7 +3040,7 @@
       "author": "Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Elisheba Ittoop, Rowan Niemisto and Alyssa Moxley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:40.897968+00:00"
+      "retrieved_at": "2026-08-09T23:06:13.578221+00:00"
     },
     "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html": {
       "source": "NYT Climate",
@@ -3050,7 +3050,7 @@
       "author": "Hiroko Tabuchi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:59.863415+00:00"
+      "retrieved_at": "2026-08-09T23:12:32.361923+00:00"
     },
     "https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html": {
       "source": "NYT Tech",
@@ -3060,7 +3060,7 @@
       "author": "Cecilia Kang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:36:47.928755+00:00"
+      "retrieved_at": "2026-08-09T23:06:20.632669+00:00"
     },
     "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html": {
       "source": "NYT Business",
@@ -3070,7 +3070,7 @@
       "author": "J. D. Biersdorfer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:34.852153+00:00"
+      "retrieved_at": "2026-08-09T23:11:07.504092+00:00"
     },
     "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html": {
       "source": "NYT Business",
@@ -3080,7 +3080,7 @@
       "author": "Emmett Lindner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:45.403510+00:00"
+      "retrieved_at": "2026-08-09T23:11:18.044623+00:00"
     },
     "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html": {
       "source": "NYT Business",
@@ -3090,7 +3090,7 @@
       "author": "Cade Metz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:03.009880+00:00"
+      "retrieved_at": "2026-08-09T23:11:35.599025+00:00"
     },
     "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html": {
       "source": "NYT Business",
@@ -3100,7 +3100,7 @@
       "author": "Paul Mozur, Adam Satariano and Aaron Krolik",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:13.553476+00:00"
+      "retrieved_at": "2026-08-09T23:11:46.129666+00:00"
     },
     "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html": {
       "source": "NYT Tech",
@@ -3110,7 +3110,7 @@
       "author": "David McCabe, Mike Isaac, Kate Conger and Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:08.986791+00:00"
+      "retrieved_at": "2026-08-09T23:06:41.734262+00:00"
     },
     "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html": {
       "source": "NYT Business",
@@ -3120,7 +3120,7 @@
       "author": "Ryan Mac",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:45.194908+00:00"
+      "retrieved_at": "2026-08-09T23:12:17.714986+00:00"
     },
     "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html": {
       "source": "NYT Tech",
@@ -3130,7 +3130,7 @@
       "author": "Karen Weise",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:16.044074+00:00"
+      "retrieved_at": "2026-08-09T23:06:48.787404+00:00"
     },
     "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html": {
       "source": "NYT Business",
@@ -3140,7 +3140,7 @@
       "author": "Victor Mather",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:55.750081+00:00"
+      "retrieved_at": "2026-08-09T23:12:28.274960+00:00"
     },
     "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html": {
       "source": "NYT Science",
@@ -3150,7 +3150,7 @@
       "author": "Kenneth Chang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:38:44.573548+00:00"
+      "retrieved_at": "2026-08-09T23:08:17.475095+00:00"
     },
     "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html": {
       "source": "NYT Tech",
@@ -3160,7 +3160,7 @@
       "author": "David McCabe, Mike Isaac, Ana Swanson and Kate Conger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:26.589927+00:00"
+      "retrieved_at": "2026-08-09T23:06:59.347225+00:00"
     },
     "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html": {
       "source": "NYT Tech",
@@ -3170,7 +3170,7 @@
       "author": "Ryan Mac",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:30.117461+00:00"
+      "retrieved_at": "2026-08-09T23:07:02.850448+00:00"
     },
     "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html": {
       "source": "NYT Tech",
@@ -3180,7 +3180,7 @@
       "author": "Erin Griffith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:33.645261+00:00"
+      "retrieved_at": "2026-08-09T23:07:06.388517+00:00"
     },
     "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html": {
       "source": "NYT Tech",
@@ -3190,7 +3190,7 @@
       "author": "Adeel Hassan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:37.197449+00:00"
+      "retrieved_at": "2026-08-09T23:07:09.915257+00:00"
     },
     "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html": {
       "source": "NYT Health",
@@ -3200,7 +3200,7 @@
       "author": "Carl Zimmer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:27.641476+00:00"
+      "retrieved_at": "2026-08-09T23:09:00.397481+00:00"
     },
     "https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html": {
       "source": "NYT Climate",
@@ -3210,7 +3210,7 @@
       "author": "Annie Roth",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:24.703327+00:00"
+      "retrieved_at": "2026-08-09T23:12:57.022831+00:00"
     },
     "https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html": {
       "source": "NYT Science",
@@ -3220,7 +3220,7 @@
       "author": "Kenneth Chang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:51.831889+00:00"
+      "retrieved_at": "2026-08-09T23:07:24.693059+00:00"
     },
     "https://www.nytimes.com/2026/08/04/science/dolphin-mother-dead-calf.html": {
       "source": "NYT Science",
@@ -3230,7 +3230,7 @@
       "author": "Sopan Deb",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:55.334049+00:00"
+      "retrieved_at": "2026-08-09T23:07:28.212333+00:00"
     },
     "https://www.nytimes.com/2026/08/04/science/darwin-was-right-these-plants-are-carnivores.html": {
       "source": "NYT Science",
@@ -3240,7 +3240,7 @@
       "author": "Jack Tamisiea",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:37:58.833147+00:00"
+      "retrieved_at": "2026-08-09T23:07:31.713124+00:00"
     },
     "https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html": {
       "source": "NYT Climate",
@@ -3250,7 +3250,7 @@
       "author": "Catrin Einhorn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:45.771882+00:00"
+      "retrieved_at": "2026-08-09T23:13:18.100993+00:00"
     },
     "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html": {
       "source": "NYT Climate",
@@ -3260,7 +3260,7 @@
       "author": "Emily Anthes and Will Crooks",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:52.764681+00:00"
+      "retrieved_at": "2026-08-09T23:13:25.117563+00:00"
     },
     "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html": {
       "source": "NYT Science",
@@ -3270,7 +3270,7 @@
       "author": "Norimitsu Onishi and Nasuna Stuart-Ulin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:38:09.376134+00:00"
+      "retrieved_at": "2026-08-09T23:07:42.298794+00:00"
     },
     "https://www.nytimes.com/2026/08/06/climate/pentagon-reviews-wind-farms-court-order.html": {
       "source": "NYT Climate",
@@ -3280,7 +3280,7 @@
       "author": "Brad Plumer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:07.159118+00:00"
+      "retrieved_at": "2026-08-09T23:12:39.462461+00:00"
     },
     "https://www.nytimes.com/2026/08/06/climate/rwe-trump-offshore-wind-canceled.html": {
       "source": "NYT Climate",
@@ -3290,7 +3290,7 @@
       "author": "Brad Plumer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:03.628585+00:00"
+      "retrieved_at": "2026-08-09T23:12:35.960818+00:00"
     },
     "https://www.nytimes.com/2026/08/06/science/james-urbaniak-dead.html": {
       "source": "NYT Science",
@@ -3300,7 +3300,7 @@
       "author": "Jeré Longman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:38:23.436272+00:00"
+      "retrieved_at": "2026-08-09T23:07:56.390383+00:00"
     },
     "https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html": {
       "source": "NYT Business",
@@ -3310,7 +3310,7 @@
       "author": "Gina Kolata",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:20.805200+00:00"
+      "retrieved_at": "2026-08-09T23:10:53.456055+00:00"
     },
     "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html": {
       "source": "NYT Business",
@@ -3320,7 +3320,7 @@
       "author": "Christina Jewett",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:41.900251+00:00"
+      "retrieved_at": "2026-08-09T23:11:14.529401+00:00"
     },
     "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html": {
       "source": "NYT Health",
@@ -3330,7 +3330,7 @@
       "author": "Brian M. Rosenthal",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:20.577473+00:00"
+      "retrieved_at": "2026-08-09T23:08:53.358067+00:00"
     },
     "https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html": {
       "source": "NYT Climate",
@@ -3340,7 +3340,7 @@
       "author": "Hiroko Tabuchi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:35.249258+00:00"
+      "retrieved_at": "2026-08-09T23:13:07.568001+00:00"
     },
     "https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html": {
       "source": "NYT Climate",
@@ -3350,7 +3350,7 @@
       "author": "Claire Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:38.778541+00:00"
+      "retrieved_at": "2026-08-09T23:13:11.070331+00:00"
     },
     "https://www.nytimes.com/2026/08/01/science/olga-soffer-dead.html": {
       "source": "NYT Science",
@@ -3360,7 +3360,7 @@
       "author": "Michael S. Rosenwald",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:38:48.115369+00:00"
+      "retrieved_at": "2026-08-09T23:08:20.975407+00:00"
     },
     "https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html": {
       "source": "NYT Climate",
@@ -3370,7 +3370,7 @@
       "author": "Scott Dance",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:03.273526+00:00"
+      "retrieved_at": "2026-08-09T23:13:35.628625+00:00"
     },
     "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html": {
       "source": "NYT Health",
@@ -3380,7 +3380,7 @@
       "author": "Sheryl Gay Stolberg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:38:52.416005+00:00"
+      "retrieved_at": "2026-08-09T23:08:25.033704+00:00"
     },
     "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html": {
       "source": "NYT Health",
@@ -3390,7 +3390,7 @@
       "author": "Jan Hoffman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:38:56.019557+00:00"
+      "retrieved_at": "2026-08-09T23:08:28.683544+00:00"
     },
     "https://www.nytimes.com/2026/08/06/business/cyclospora-lettuce-local-produce.html": {
       "source": "NYT Business",
@@ -3400,7 +3400,7 @@
       "author": "Julie Creswell",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:13.790257+00:00"
+      "retrieved_at": "2026-08-09T23:10:46.415729+00:00"
     },
     "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html": {
       "source": "NYT Health",
@@ -3410,7 +3410,7 @@
       "author": "Sheryl Gay Stolberg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:10.067407+00:00"
+      "retrieved_at": "2026-08-09T23:08:42.752941+00:00"
     },
     "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html": {
       "source": "NYT Health",
@@ -3420,7 +3420,7 @@
       "author": "Kenneth P. Vogel, Christina Jewett and Olivia Diaz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:13.573021+00:00"
+      "retrieved_at": "2026-08-09T23:08:46.310336+00:00"
     },
     "https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html": {
       "source": "NYT Health",
@@ -3430,7 +3430,7 @@
       "author": "Apoorva Mandavilli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:17.074439+00:00"
+      "retrieved_at": "2026-08-09T23:08:49.818608+00:00"
     },
     "https://www.nytimes.com/2026/08/06/well/shambhala-music-festival-drugs-ketamine-ecstasy.html": {
       "source": "NYT Health",
@@ -3440,7 +3440,7 @@
       "author": "Matt Richtel and Alana Paterson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:31.155101+00:00"
+      "retrieved_at": "2026-08-09T23:09:03.897450+00:00"
     },
     "https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html": {
       "source": "NYT Health",
@@ -3450,7 +3450,7 @@
       "author": "Helen Ouyang and Stephanie Sinclair",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:34.689301+00:00"
+      "retrieved_at": "2026-08-09T23:09:07.419209+00:00"
     },
     "https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html": {
       "source": "NYT Business",
@@ -3460,7 +3460,7 @@
       "author": "Sarah Kliff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:48.709758+00:00"
+      "retrieved_at": "2026-08-09T23:12:21.238086+00:00"
     },
     "https://www.nytimes.com/2026/08/04/us/politics/mosquito-africa-anopheles-stephensi.html": {
       "source": "NYT Health",
@@ -3470,7 +3470,7 @@
       "author": "Stephanie Nolen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:41.715615+00:00"
+      "retrieved_at": "2026-08-09T23:09:14.467659+00:00"
     },
     "https://www.nytimes.com/2026/08/04/health/autism-therapy-medicaid.html": {
       "source": "NYT Health",
@@ -3480,7 +3480,7 @@
       "author": "Sarah Kliff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:45.211637+00:00"
+      "retrieved_at": "2026-08-09T23:09:17.991045+00:00"
     },
     "https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html": {
       "source": "NYT Health",
@@ -3490,7 +3490,7 @@
       "author": "Sheryl Gay Stolberg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:48.719389+00:00"
+      "retrieved_at": "2026-08-09T23:09:21.494337+00:00"
     },
     "https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html": {
       "source": "NYT Health",
@@ -3500,7 +3500,7 @@
       "author": "Apoorva Mandavilli and Constant Méheut",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:52.226413+00:00"
+      "retrieved_at": "2026-08-09T23:09:24.995063+00:00"
     },
     "https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html": {
       "source": "NYT Health",
@@ -3510,7 +3510,7 @@
       "author": "Ginia Bellafante",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:55.759408+00:00"
+      "retrieved_at": "2026-08-09T23:09:28.499098+00:00"
     },
     "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html": {
       "source": "NYT Health",
@@ -3520,7 +3520,7 @@
       "author": "Stephanie Nolen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:59.263402+00:00"
+      "retrieved_at": "2026-08-09T23:09:32.006432+00:00"
     },
     "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html": {
       "source": "NYT Health",
@@ -3540,7 +3540,7 @@
       "author": "Jordyn Holman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:10.479459+00:00"
+      "retrieved_at": "2026-08-09T23:09:43.239019+00:00"
     },
     "https://www.nytimes.com/2026/08/09/business/manufacturing-mill-town-madison-maine.html": {
       "source": "NYT Business",
@@ -3550,7 +3550,7 @@
       "author": "Stacey Freed and Ryan David Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:13.985985+00:00"
+      "retrieved_at": "2026-08-09T23:09:46.748262+00:00"
     },
     "https://www.nytimes.com/2026/08/08/business/mackenzie-scott-new-book.html": {
       "source": "NYT Business",
@@ -3560,7 +3560,7 @@
       "author": "Theodore Schleifer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:17.532623+00:00"
+      "retrieved_at": "2026-08-09T23:09:50.275433+00:00"
     },
     "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html": {
       "source": "NYT Business",
@@ -3570,7 +3570,7 @@
       "author": "Calum Marsh",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:21.056004+00:00"
+      "retrieved_at": "2026-08-09T23:09:53.781685+00:00"
     },
     "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html": {
       "source": "NYT Business",
@@ -3580,7 +3580,7 @@
       "author": "Susan Jaffe",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:24.560581+00:00"
+      "retrieved_at": "2026-08-09T23:09:57.286023+00:00"
     },
     "https://www.nytimes.com/2026/08/08/business/nfl-canton-hall-of-fame-village.html": {
       "source": "NYT Business",
@@ -3590,7 +3590,7 @@
       "author": "Ken Belson and Jenny Vrentas",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:28.059768+00:00"
+      "retrieved_at": "2026-08-09T23:10:00.840244+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html": {
       "source": "NYT Business",
@@ -3600,7 +3600,7 @@
       "author": "Nicole Sperling",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:31.584064+00:00"
+      "retrieved_at": "2026-08-09T23:10:04.343129+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html": {
       "source": "NYT Business",
@@ -3610,7 +3610,7 @@
       "author": "Colby Smith and Maggie Haberman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:38.619520+00:00"
+      "retrieved_at": "2026-08-09T23:10:11.362407+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html": {
       "source": "NYT Economy",
@@ -3620,7 +3620,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:31.701799+00:00"
+      "retrieved_at": "2026-08-09T23:15:04.152998+00:00"
     },
     "https://www.nytimes.com/2026/08/07/your-money/debt-bills.html": {
       "source": "NYT Business",
@@ -3630,7 +3630,7 @@
       "author": "Ann Carrns",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:45.620913+00:00"
+      "retrieved_at": "2026-08-09T23:10:18.366199+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html": {
       "source": "NYT Business",
@@ -3640,7 +3640,7 @@
       "author": "Jeff Sommer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:49.154986+00:00"
+      "retrieved_at": "2026-08-09T23:10:21.870109+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html": {
       "source": "NYT Business",
@@ -3650,7 +3650,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:52.686616+00:00"
+      "retrieved_at": "2026-08-09T23:10:25.370604+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html": {
       "source": "NYT Economy",
@@ -3660,7 +3660,7 @@
       "author": "Lydia DePillis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:35.348586+00:00"
+      "retrieved_at": "2026-08-09T23:15:07.776247+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/pope-leo-chicago-white-sox.html": {
       "source": "NYT Business",
@@ -3670,7 +3670,7 @@
       "author": "Tania Ganguli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:59.707036+00:00"
+      "retrieved_at": "2026-08-09T23:10:32.366815+00:00"
     },
     "https://www.nytimes.com/2026/08/07/travel/how-to-plan-an-african-safari.html": {
       "source": "NYT Business",
@@ -3680,7 +3680,7 @@
       "author": "Elaine Glusac",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:03.215946+00:00"
+      "retrieved_at": "2026-08-09T23:10:35.870006+00:00"
     },
     "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html": {
       "source": "NYT Business",
@@ -3690,7 +3690,7 @@
       "author": "Daisuke Wakabayashi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:06.759400+00:00"
+      "retrieved_at": "2026-08-09T23:10:39.393658+00:00"
     },
     "https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html": {
       "source": "NYT Business",
@@ -3700,7 +3700,7 @@
       "author": "Tariq Panja",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:10.289665+00:00"
+      "retrieved_at": "2026-08-09T23:10:42.912554+00:00"
     },
     "https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html": {
       "source": "NYT Business",
@@ -3710,7 +3710,7 @@
       "author": "Christopher F. Schuetze, Patricia Cohen and Patrick Junker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:17.290922+00:00"
+      "retrieved_at": "2026-08-09T23:10:49.933912+00:00"
     },
     "https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html": {
       "source": "NYT Business",
@@ -3720,7 +3720,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:31.344163+00:00"
+      "retrieved_at": "2026-08-09T23:11:03.983959+00:00"
     },
     "https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html": {
       "source": "NYT Business",
@@ -3730,7 +3730,7 @@
       "author": "Jordyn Holman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:38.385272+00:00"
+      "retrieved_at": "2026-08-09T23:11:11.024900+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html": {
       "source": "NYT Business",
@@ -3740,7 +3740,7 @@
       "author": "Alan Rappeport",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:48.931209+00:00"
+      "retrieved_at": "2026-08-09T23:11:21.545796+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html": {
       "source": "NYT Business",
@@ -3750,7 +3750,7 @@
       "author": "Michael M. Grynbaum",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:52.433755+00:00"
+      "retrieved_at": "2026-08-09T23:11:25.070928+00:00"
     },
     "https://www.nytimes.com/2026/08/05/world/asia/malaysian-airlines-pilot-drugs-arrest.html": {
       "source": "NYT Business",
@@ -3760,7 +3760,7 @@
       "author": "Johnny Diaz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:55.938223+00:00"
+      "retrieved_at": "2026-08-09T23:11:28.583895+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html": {
       "source": "NYT Business",
@@ -3770,7 +3770,7 @@
       "author": "Joe Rennison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:41:59.456928+00:00"
+      "retrieved_at": "2026-08-09T23:11:32.103458+00:00"
     },
     "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html": {
       "source": "NYT Climate",
@@ -3780,7 +3780,7 @@
       "author": "David Gelles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:10.670080+00:00"
+      "retrieved_at": "2026-08-09T23:12:42.983071+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html": {
       "source": "NYT Economy",
@@ -3790,7 +3790,7 @@
       "author": "Jesse Drucker and Dylan Freedman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:42.371269+00:00"
+      "retrieved_at": "2026-08-09T23:15:14.827126+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html": {
       "source": "NYT Business",
@@ -3800,7 +3800,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Lauren Hirsch",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:17.055505+00:00"
+      "retrieved_at": "2026-08-09T23:11:49.649293+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html": {
       "source": "NYT Business",
@@ -3810,7 +3810,7 @@
       "author": "Katie Robertson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:20.557896+00:00"
+      "retrieved_at": "2026-08-09T23:11:53.149129+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/media/disney-parks-universal.html": {
       "source": "NYT Business",
@@ -3820,7 +3820,7 @@
       "author": "Brooks Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:24.082835+00:00"
+      "retrieved_at": "2026-08-09T23:11:56.652958+00:00"
     },
     "https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html": {
       "source": "NYT Business",
@@ -3830,7 +3830,7 @@
       "author": "Brooks Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:27.606456+00:00"
+      "retrieved_at": "2026-08-09T23:12:00.172593+00:00"
     },
     "https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html": {
       "source": "NYT Climate",
@@ -3840,7 +3840,7 @@
       "author": "Ceylan Yeğinsu",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:31.746878+00:00"
+      "retrieved_at": "2026-08-09T23:13:04.057769+00:00"
     },
     "https://www.nytimes.com/2026/08/04/us/chipotle-salmonella-outbreak-jalapenos-minnesota.html": {
       "source": "NYT Business",
@@ -3850,7 +3850,7 @@
       "author": "Alena Cerro",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:34.632914+00:00"
+      "retrieved_at": "2026-08-09T23:12:07.177651+00:00"
     },
     "https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html": {
       "source": "NYT Business",
@@ -3860,7 +3860,7 @@
       "author": "Benjamin Mullin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:41.676641+00:00"
+      "retrieved_at": "2026-08-09T23:12:14.213439+00:00"
     },
     "https://www.nytimes.com/2026/08/04/business/stock-market-record.html": {
       "source": "NYT Business",
@@ -3870,7 +3870,7 @@
       "author": "Joe Rennison and Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:42:52.227770+00:00"
+      "retrieved_at": "2026-08-09T23:12:24.756654+00:00"
     },
     "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html": {
       "source": "NYT Business",
@@ -3890,7 +3890,7 @@
       "author": "Jeanna Smialek and Ilvy Njiokiktjien",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:28.209998+00:00"
+      "retrieved_at": "2026-08-09T23:13:00.540074+00:00"
     },
     "https://www.nytimes.com/2026/08/04/climate/mexico-declares-war-sargassum-seaweed.html": {
       "source": "NYT Climate",
@@ -3900,7 +3900,7 @@
       "author": "Claire Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:42.277454+00:00"
+      "retrieved_at": "2026-08-09T23:13:14.583943+00:00"
     },
     "https://www.nytimes.com/2026/08/03/climate/trump-bears-ears-monument-recreation.html": {
       "source": "NYT Climate",
@@ -3910,7 +3910,7 @@
       "author": "Maxine Joselow",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:49.271611+00:00"
+      "retrieved_at": "2026-08-09T23:13:21.596912+00:00"
     },
     "https://www.nytimes.com/2026/08/02/nyregion/nyc-fireflies.html": {
       "source": "NYT Climate",
@@ -3920,7 +3920,7 @@
       "author": "Hilary Howard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:56.264880+00:00"
+      "retrieved_at": "2026-08-09T23:13:28.620989+00:00"
     },
     "https://www.nytimes.com/video/world/europe/100000011063710/france-wildfires-evacuation-pets.html": {
       "source": "NYT Climate",
@@ -3930,7 +3930,7 @@
       "author": "Bethlehem Feleke, Alex Pena, Michael Anthony Adams, Mark Boyer and Yasu Tsuji",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:59.760624+00:00"
+      "retrieved_at": "2026-08-09T23:13:32.117294+00:00"
     },
     "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html": {
       "source": "NYT Climate",
@@ -3940,7 +3940,7 @@
       "author": "Christopher Flavelle, Andrea Fuller and Nicholas Nehamas",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:06.790592+00:00"
+      "retrieved_at": "2026-08-09T23:13:39.151611+00:00"
     },
     "https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html": {
       "source": "NYT Climate",
@@ -3950,7 +3950,7 @@
       "author": "Jim Tankersley and Tatiana Firsova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:10.292453+00:00"
+      "retrieved_at": "2026-08-09T23:13:42.671419+00:00"
     },
     "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html": {
       "source": "NYT Climate",
@@ -3960,7 +3960,7 @@
       "author": "Scott Dance",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:13.794252+00:00"
+      "retrieved_at": "2026-08-09T23:13:46.177049+00:00"
     },
     "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html": {
       "source": "NYT Climate",
@@ -3970,7 +3970,7 @@
       "author": "Catherine Porter, Ségolène Le Stradic and Samuel Granados",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:17.297270+00:00"
+      "retrieved_at": "2026-08-09T23:13:49.703323+00:00"
     },
     "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html": {
       "source": "NYT Climate",
@@ -3980,7 +3980,7 @@
       "author": "Ivan Penn and Claire Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:20.810064+00:00"
+      "retrieved_at": "2026-08-09T23:13:53.200850+00:00"
     },
     "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html": {
       "source": "NYT Climate",
@@ -3990,7 +3990,7 @@
       "author": "Ivan Penn and Claire Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:24.333990+00:00"
+      "retrieved_at": "2026-08-09T23:13:56.717270+00:00"
     },
     "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html": {
       "source": "NYT Climate",
@@ -4000,7 +4000,7 @@
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:27.842781+00:00"
+      "retrieved_at": "2026-08-09T23:14:00.221371+00:00"
     },
     "https://www.nytimes.com/2026/07/30/climate/france-spain-wildfires-climate-change.html": {
       "source": "NYT Climate",
@@ -4010,7 +4010,7 @@
       "author": "Raymond Zhong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:31.359235+00:00"
+      "retrieved_at": "2026-08-09T23:14:03.726039+00:00"
     },
     "https://www.nytimes.com/2026/07/30/climate/cincinnati-climate-migrants-plan.html": {
       "source": "NYT Climate",
@@ -4020,7 +4020,7 @@
       "author": "Alexander Nazaryan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:34.892446+00:00"
+      "retrieved_at": "2026-08-09T23:14:07.245632+00:00"
     },
     "https://www.nytimes.com/video/world/europe/100000011061309/france-wildfires-bordeaux-civilian-volunteers.html": {
       "source": "NYT Climate",
@@ -4030,7 +4030,7 @@
       "author": "Alex Pena, Bethlehem Feleke, Michael Anthony Adams and Mark Boyer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:38.432312+00:00"
+      "retrieved_at": "2026-08-09T23:14:10.748001+00:00"
     },
     "https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html": {
       "source": "NYT Climate",
@@ -4040,7 +4040,7 @@
       "author": "Hiroko Tabuchi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:41.927744+00:00"
+      "retrieved_at": "2026-08-09T23:14:14.245757+00:00"
     },
     "https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html": {
       "source": "NYT Climate",
@@ -4050,7 +4050,7 @@
       "author": "Katrina Miller",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:45.445950+00:00"
+      "retrieved_at": "2026-08-09T23:14:17.767566+00:00"
     },
     "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html": {
       "source": "NYT Climate",
@@ -4060,7 +4060,7 @@
       "author": "Stephen Castle",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:48.966634+00:00"
+      "retrieved_at": "2026-08-09T23:14:21.270077+00:00"
     },
     "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html": {
       "source": "NYT Climate",
@@ -4070,7 +4070,7 @@
       "author": "Keith Bradsher",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:52.476254+00:00"
+      "retrieved_at": "2026-08-09T23:14:24.786486+00:00"
     },
     "https://www.nytimes.com/2026/07/29/world/europe-summer-heat-fires-saudi.html": {
       "source": "NYT Climate",
@@ -4080,7 +4080,7 @@
       "author": "Alicia P.Q. Wittmeyer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:55.986404+00:00"
+      "retrieved_at": "2026-08-09T23:14:28.297693+00:00"
     },
     "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html": {
       "source": "NYT Climate",
@@ -4090,7 +4090,7 @@
       "author": "Brad Plumer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:44:59.490831+00:00"
+      "retrieved_at": "2026-08-09T23:14:31.801045+00:00"
     },
     "https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html": {
       "source": "NYT Climate",
@@ -4100,7 +4100,7 @@
       "author": "Raymond Zhong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:03.010888+00:00"
+      "retrieved_at": "2026-08-09T23:14:35.321359+00:00"
     },
     "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html": {
       "source": "NYT Climate",
@@ -4110,7 +4110,7 @@
       "author": "Carlos Barragán, Ségolène Le Stradic and Roser Toll Pifarré",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:06.522959+00:00"
+      "retrieved_at": "2026-08-09T23:14:38.851747+00:00"
     },
     "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html": {
       "source": "NYT Climate",
@@ -4120,7 +4120,7 @@
       "author": "Mark Landler and Chico Harlan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:10.020461+00:00"
+      "retrieved_at": "2026-08-09T23:14:42.375385+00:00"
     },
     "https://www.nytimes.com/2026/07/29/climate/ohio-fracking-water-injection-wells.html": {
       "source": "NYT Climate",
@@ -4130,7 +4130,7 @@
       "author": "Quinn Glabicki and Maddie McGarvey",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:13.534262+00:00"
+      "retrieved_at": "2026-08-09T23:14:45.918149+00:00"
     },
     "https://www.nytimes.com/2026/07/28/climate/fossil-fuel-executives-stocks-iran.html": {
       "source": "NYT Climate",
@@ -4140,7 +4140,7 @@
       "author": "Claire Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:17.071158+00:00"
+      "retrieved_at": "2026-08-09T23:14:49.445235+00:00"
     },
     "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html": {
       "source": "NYT Climate",
@@ -4150,7 +4150,7 @@
       "author": "Emily Anthes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:20.583812+00:00"
+      "retrieved_at": "2026-08-09T23:14:52.969275+00:00"
     },
     "https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html": {
       "source": "NYT Climate",
@@ -4160,7 +4160,7 @@
       "author": "Heidi Julavits",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:24.104289+00:00"
+      "retrieved_at": "2026-08-09T23:14:56.473566+00:00"
     },
     "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html": {
       "source": "NYT Climate",
@@ -4170,7 +4170,7 @@
       "author": "Jason Horowitz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:27.601151+00:00"
+      "retrieved_at": "2026-08-09T23:15:00.001231+00:00"
     },
     "https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html": {
       "source": "NYT Economy",
@@ -4180,7 +4180,7 @@
       "author": "Ana Swanson and Brad Plumer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:38.867125+00:00"
+      "retrieved_at": "2026-08-09T23:15:11.298744+00:00"
     },
     "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html": {
       "source": "NYT Economy",
@@ -4190,7 +4190,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:45.873710+00:00"
+      "retrieved_at": "2026-08-09T23:15:18.331605+00:00"
     },
     "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html": {
       "source": "NYT Economy",
@@ -4200,7 +4200,7 @@
       "author": "Alan Rappeport",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:49.405703+00:00"
+      "retrieved_at": "2026-08-09T23:15:21.833301+00:00"
     },
     "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html": {
       "source": "NYT Economy",
@@ -4210,7 +4210,7 @@
       "author": "Lydia DePillis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:52.908235+00:00"
+      "retrieved_at": "2026-08-09T23:15:25.330994+00:00"
     },
     "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html": {
       "source": "NYT Economy",
@@ -4220,7 +4220,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:56.407601+00:00"
+      "retrieved_at": "2026-08-09T23:15:28.885511+00:00"
     },
     "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html": {
       "source": "NYT Economy",
@@ -4230,7 +4230,7 @@
       "author": "Joe Rennison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:45:59.923979+00:00"
+      "retrieved_at": "2026-08-09T23:15:32.402548+00:00"
     },
     "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html": {
       "source": "NYT Economy",
@@ -4240,7 +4240,7 @@
       "author": "Ana Swanson and Jeanna Smialek",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:03.429327+00:00"
+      "retrieved_at": "2026-08-09T23:15:35.909576+00:00"
     },
     "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html": {
       "source": "NYT Economy",
@@ -4250,7 +4250,7 @@
       "author": "Talmon Joseph Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:06.934388+00:00"
+      "retrieved_at": "2026-08-09T23:15:39.420870+00:00"
     },
     "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html": {
       "source": "NYT Economy",
@@ -4260,7 +4260,7 @@
       "author": "Keith Bradsher",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:10.434978+00:00"
+      "retrieved_at": "2026-08-09T23:15:42.939776+00:00"
     },
     "https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html": {
       "source": "NYT Economy",
@@ -4270,7 +4270,7 @@
       "author": "Joe Rennison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:13.936702+00:00"
+      "retrieved_at": "2026-08-09T23:15:46.456288+00:00"
     },
     "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-to-know-about-the-feds-decision": {
       "source": "NYT Economy",
@@ -4280,7 +4280,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:17.455906+00:00"
+      "retrieved_at": "2026-08-09T23:15:49.983994+00:00"
     },
     "https://www.nytimes.com/2026/07/29/business/economy/fed-meeting-interest-rates-takeaways.html": {
       "source": "NYT Economy",
@@ -4290,7 +4290,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:20.967269+00:00"
+      "retrieved_at": "2026-08-09T23:15:53.481434+00:00"
     },
     "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/investors-are-bracing-for-uncertain-fed-announcement": {
       "source": "NYT Economy",
@@ -4300,7 +4300,7 @@
       "author": "Joe Rennison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:24.529624+00:00"
+      "retrieved_at": "2026-08-09T23:15:56.993667+00:00"
     },
     "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-the-feds-rate-decision-means-for-your-finances": {
       "source": "NYT Economy",
@@ -4310,7 +4310,7 @@
       "author": "Tara Siegel Bernard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:28.037747+00:00"
+      "retrieved_at": "2026-08-09T23:16:00.494045+00:00"
     },
     "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html": {
       "source": "NYT Economy",
@@ -4320,7 +4320,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:31.563579+00:00"
+      "retrieved_at": "2026-08-09T23:16:04.013798+00:00"
     },
     "https://www.nytimes.com/2026/07/29/business/economy/trump-tariffs-china.html": {
       "source": "NYT Economy",
@@ -4330,7 +4330,7 @@
       "author": "Alexandra Stevenson and Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:35.071732+00:00"
+      "retrieved_at": "2026-08-09T23:16:07.520974+00:00"
     },
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html": {
       "source": "NYT Economy",
@@ -4340,7 +4340,7 @@
       "author": "Lydia DePillis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:46:38.585273+00:00"
+      "retrieved_at": "2026-08-09T23:16:11.049438+00:00"
     },
     "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news": {
       "source": "NPR News",
@@ -6690,7 +6690,7 @@
       "author": "Martin Rowson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:22.549235+00:00"
+      "retrieved_at": "2026-08-09T23:16:18.684353+00:00"
     },
     "https://www.theguardian.com/commentisfree/picture/2026/jul/30/ben-jennings-nigel-farage-zack-polanski-t-shirt-tweet-cartoon": {
       "source": "Guardian Politics",
@@ -7230,7 +7230,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:28.716928+00:00"
+      "retrieved_at": "2026-08-09T23:16:34.992999+00:00"
     },
     "https://cnn.it/411KYN7": {
       "source": "CNN World",
@@ -7270,7 +7270,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:33.371131+00:00"
+      "retrieved_at": "2026-08-09T23:16:39.648877+00:00"
     },
     "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html": {
       "source": "CNN World",
@@ -8120,7 +8120,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:39.470561+00:00"
+      "retrieved_at": "2026-08-09T23:16:44.580912+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8130,7 +8130,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:43.299457+00:00"
+      "retrieved_at": "2026-08-09T23:16:48.668594+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/india-h1b-visa-trump-nandan-nilekani/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8140,7 +8140,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:46.826190+00:00"
+      "retrieved_at": "2026-08-09T23:16:52.214031+00:00"
     },
     "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8150,7 +8150,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:50.368956+00:00"
+      "retrieved_at": "2026-08-09T23:16:55.757415+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/stocks-all-time-highs-donald-trump-janet-yellen-fed/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8160,7 +8160,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:53.901300+00:00"
+      "retrieved_at": "2026-08-09T23:16:59.307884+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8170,7 +8170,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:47:57.486202+00:00"
+      "retrieved_at": "2026-08-09T23:17:02.843412+00:00"
     },
     "http://money.cnn.com/2017/02/13/news/economy/nafta-canada-trudeau-trump-mexico/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8180,7 +8180,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:01.227817+00:00"
+      "retrieved_at": "2026-08-09T23:17:06.387740+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/verizon-stock-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8190,7 +8190,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:04.805162+00:00"
+      "retrieved_at": "2026-08-09T23:17:09.924029+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/oil-prices-opec-deal/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8200,7 +8200,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:08.341881+00:00"
+      "retrieved_at": "2026-08-09T23:17:13.468223+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/tesla-uae-elon-musk/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8210,7 +8210,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:11.872314+00:00"
+      "retrieved_at": "2026-08-09T23:17:17.025985+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/uber-ola-india-pranay-jivrajka/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8220,7 +8220,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:15.401472+00:00"
+      "retrieved_at": "2026-08-09T23:17:20.569706+00:00"
     },
     "http://money.cnn.com/2017/02/11/media/fake-news-apple-ceo-tim-cook/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8230,7 +8230,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:18.942240+00:00"
+      "retrieved_at": "2026-08-09T23:17:24.113790+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/trump-brand-sears-kmart/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8240,7 +8240,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:22.481131+00:00"
+      "retrieved_at": "2026-08-09T23:17:27.675716+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/thailand-bamboo-cassava-packaging-universal-biopack/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8250,7 +8250,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:26.016839+00:00"
+      "retrieved_at": "2026-08-09T23:17:31.229930+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/nike-equality-lebron-serena/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8260,7 +8260,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:29.689040+00:00"
+      "retrieved_at": "2026-08-09T23:17:34.775706+00:00"
     },
     "http://money.cnn.com/2017/02/12/media/lego-batman-movie-steven-mnuchin/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8270,7 +8270,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:33.234235+00:00"
+      "retrieved_at": "2026-08-09T23:17:38.361566+00:00"
     },
     "http://money.cnn.com/2017/02/08/news/economy/greece-imf-bailout-eurozone/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8280,7 +8280,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:36.774379+00:00"
+      "retrieved_at": "2026-08-09T23:17:41.910369+00:00"
     },
     "http://money.cnn.com/2017/02/12/technology/verizon-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8290,7 +8290,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:40.312955+00:00"
+      "retrieved_at": "2026-08-09T23:17:45.490239+00:00"
     },
     "http://money.cnn.com/2017/02/10/news/economy/visa-ban-rural-doctor-shortage/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8300,7 +8300,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:43.882062+00:00"
+      "retrieved_at": "2026-08-09T23:17:49.060538+00:00"
     },
     "http://money.cnn.com/2017/02/10/investing/stocks-united-states-trump-europe-china-japan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -8310,7 +8310,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:47.418137+00:00"
+      "retrieved_at": "2026-08-09T23:17:52.609889+00:00"
     },
     "http://edition.cnn.com/2008/TECH/space/12/04/nasa.mars.delay/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -8340,7 +8340,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:48:51.660571+00:00"
+      "retrieved_at": "2026-08-09T23:17:56.832439+00:00"
     },
     "http://edition.cnn.com/2008/TECH/space/11/26/aliens.tarter/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -8370,7 +8370,7 @@
       "author": "Amy B Wang, Mohamad  El Chamaa",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:05.782351+00:00"
+      "retrieved_at": "2026-08-09T23:18:11.024036+00:00"
     },
     "https://www.washingtonpost.com/world/2026/08/07/7-killed-more-than-30-injured-thailand-school-shooting/": {
       "source": "WashPost World",
@@ -8390,7 +8390,7 @@
       "author": "Riley Beggin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:22.572255+00:00"
+      "retrieved_at": "2026-08-09T23:18:26.738747+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/08/09/michigan-senate-race-abdul-el-sayed-must-unite-democrats/": {
       "source": "WashPost Politics",
@@ -8400,7 +8400,7 @@
       "author": "Ben Binday",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:19.573342+00:00"
+      "retrieved_at": "2026-08-09T23:18:23.739048+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/08/09/todd-blanches-next-challenges-trumps-attorney-general/": {
       "source": "WashPost Politics",
@@ -8410,7 +8410,7 @@
       "author": "Jeremy Roebuck",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:24.040198+00:00"
+      "retrieved_at": "2026-08-09T23:18:28.217037+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/08/08/hunter-biden-opens-up-about-his-pardon-joe-bidens-cancer/": {
       "source": "WashPost Politics",
@@ -8420,7 +8420,7 @@
       "author": "Brianna Sacks",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:25.516585+00:00"
+      "retrieved_at": "2026-08-09T23:18:29.720074+00:00"
     },
     "https://www.washingtonpost.com/national-security/2026/08/08/senate-narrowly-approves-todd-blanche-ag-capping-tough-confirmation-fight/": {
       "source": "WashPost Politics",
@@ -8430,7 +8430,7 @@
       "author": "Jeremy Roebuck, Theodoric Meyer, Jarrell Dillard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:26.986889+00:00"
+      "retrieved_at": "2026-08-09T23:18:31.196878+00:00"
     },
     "https://www.washingtonpost.com/national-security/2026/08/08/pirro-trumps-longtime-champion-is-outs-over-reflecting-pool-move/": {
       "source": "WashPost Politics",
@@ -8440,7 +8440,7 @@
       "author": "Salvador Rizzo",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:28.448242+00:00"
+      "retrieved_at": "2026-08-09T23:18:32.684262+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/08/08/voter-turnout-surges-tennessee-after-black-majority-district-is-erased/": {
       "source": "WashPost Politics",
@@ -8450,7 +8450,7 @@
       "author": "Clara Ence Morse, Gregory S. Schneider, Brady Dennis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:29.911738+00:00"
+      "retrieved_at": "2026-08-09T23:18:34.162123+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/08/08/longtime-san-francisco-nonprofit-will-close-city-gets-tougher-crime/": {
       "source": "WashPost Politics",
@@ -8460,7 +8460,7 @@
       "author": "Katie Mettler",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:31.401741+00:00"
+      "retrieved_at": "2026-08-09T23:18:35.635498+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/08/08/democratic-voters-who-used-back-susan-collins-arent-so-sure-anymore/": {
       "source": "WashPost Politics",
@@ -8470,7 +8470,7 @@
       "author": "Liz Goodwin, Alexei Koseff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:32.865553+00:00"
+      "retrieved_at": "2026-08-09T23:18:37.128261+00:00"
     },
     "https://www.washingtonpost.com/national-security/2026/08/07/justice-department-faces-competing-pressures-it-decides-whether-prosecute-fauci/": {
       "source": "WashPost Politics",
@@ -8570,7 +8570,7 @@
       "author": "Michelle Singletary",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:42.954832+00:00"
+      "retrieved_at": "2026-08-09T23:18:49.379230+00:00"
     },
     "https://www.washingtonpost.com/business/2026/08/08/senate-passes-bill-avert-government-shutdown-before-midterm-elections/": {
       "source": "WashPost Business",
@@ -8580,7 +8580,7 @@
       "author": "Jarrell Dillard, Theodoric Meyer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:44.547844+00:00"
+      "retrieved_at": "2026-08-09T23:18:50.956314+00:00"
     },
     "https://www.washingtonpost.com/business/2026/08/07/viral-20-burrito-is-dividing-conservatives-online/": {
       "source": "WashPost Business",
@@ -8630,7 +8630,7 @@
       "author": "Brady Dennis",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:50:02.865323+00:00"
+      "retrieved_at": "2026-08-09T23:19:10.209443+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/": {
       "source": "WashPost National",
@@ -8640,7 +8640,7 @@
       "author": "Danielle Paquette, Amy B Wang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:50:04.452580+00:00"
+      "retrieved_at": "2026-08-09T23:19:11.761945+00:00"
     },
     "https://www.washingtonpost.com/obituaries/2026/08/08/benjamin-alire-senz-prizewinning-latino-writer-with-ya-hit-dies-71/": {
       "source": "WashPost National",
@@ -8650,7 +8650,7 @@
       "author": "Harrison Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:50:06.052281+00:00"
+      "retrieved_at": "2026-08-09T23:19:13.246471+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/": {
       "source": "WashPost National",
@@ -8660,7 +8660,7 @@
       "author": "Casey Parks",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:50:07.693759+00:00"
+      "retrieved_at": "2026-08-09T23:19:14.721927+00:00"
     },
     "https://www.washingtonpost.com/investigations/2026/08/08/3-5-things-we-learned-probe/": {
       "source": "WashPost National",
@@ -8670,7 +8670,7 @@
       "author": "Craig Whitlock",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:50:09.247855+00:00"
+      "retrieved_at": "2026-08-09T23:19:16.182870+00:00"
     },
     "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/": {
       "source": "WashPost National",
@@ -12220,7 +12220,7 @@
       "author": "Jeff Foust",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:50:27.873798+00:00"
+      "retrieved_at": "2026-08-09T23:19:38.806964+00:00"
     },
     "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/": {
       "source": "Space News",
@@ -12230,7 +12230,7 @@
       "author": "Sandra Erwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:50:31.442925+00:00"
+      "retrieved_at": "2026-08-09T23:19:42.384936+00:00"
     },
     "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/": {
       "source": "Space News",
@@ -19000,7 +19000,7 @@
       "author": "Aaron Boxerman and Adam Rasgon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:05.155200+00:00"
+      "retrieved_at": "2026-08-09T23:00:37.430590+00:00"
     },
     "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html": {
       "source": "NYT World",
@@ -19010,7 +19010,7 @@
       "author": "Nazaneen Ghaffar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:15.690134+00:00"
+      "retrieved_at": "2026-08-09T23:00:47.931382+00:00"
     },
     "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html": {
       "source": "NYT World",
@@ -19020,7 +19020,7 @@
       "author": "Raja Abdulrahim",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:12.167374+00:00"
+      "retrieved_at": "2026-08-09T23:00:44.432461+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html": {
       "source": "NYT Politics",
@@ -19030,7 +19030,7 @@
       "author": "Tim Balk and Bayliss Wagner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:19.340750+00:00"
+      "retrieved_at": "2026-08-09T23:04:51.799099+00:00"
     },
     "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html": {
       "source": "NYT Politics",
@@ -19040,7 +19040,7 @@
       "author": "Annie Karni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:26.433413+00:00"
+      "retrieved_at": "2026-08-09T23:04:58.963397+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html": {
       "source": "NYT Politics",
@@ -19050,7 +19050,7 @@
       "author": "Mack Liederman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:51.096598+00:00"
+      "retrieved_at": "2026-08-09T23:05:23.580260+00:00"
     },
     "https://www.nytimes.com/2026/08/08/us/politics/trump-save-america-act-republican-voting-bill-senate.html": {
       "source": "NYT Politics",
@@ -19060,7 +19060,7 @@
       "author": "Michael Gold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:35:54.620895+00:00"
+      "retrieved_at": "2026-08-09T23:05:27.104984+00:00"
     },
     "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran": {
       "source": "NPR News",
@@ -19560,7 +19560,7 @@
       "author": "Lior Soroka, Sammy Westfall",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:04.220905+00:00"
+      "retrieved_at": "2026-08-09T23:18:09.448997+00:00"
     },
     "https://www.washingtonpost.com/politics/2026/08/09/window-closes-ohio-gop-replace-rep-max-miller-ballot/": {
       "source": "WashPost Politics",
@@ -19570,7 +19570,7 @@
       "author": "Alexei Koseff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:21.040006+00:00"
+      "retrieved_at": "2026-08-09T23:18:25.227266+00:00"
     },
     "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/": {
       "source": "TechCrunch",
@@ -21510,7 +21510,7 @@
       "author": "Steven Erlanger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:30:54.635264+00:00"
+      "retrieved_at": "2026-08-09T23:00:26.895037+00:00"
     },
     "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html": {
       "source": "NYT World",
@@ -21520,7 +21520,7 @@
       "author": "Yeganeh Torbati, Aaron Boxerman, Steven Erlanger and Eric Nagourney",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:30:58.134648+00:00"
+      "retrieved_at": "2026-08-09T23:00:30.408516+00:00"
     },
     "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html": {
       "source": "NYT World",
@@ -21530,7 +21530,7 @@
       "author": "Yeganeh Torbati",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:01.634735+00:00"
+      "retrieved_at": "2026-08-09T23:00:33.915587+00:00"
     },
     "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html": {
       "source": "NYT World",
@@ -21540,7 +21540,7 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:31:40.183832+00:00"
+      "retrieved_at": "2026-08-09T23:01:12.499793+00:00"
     },
     "https://www.nytimes.com/2026/08/09/travel/flight-canceled-child-seatbelt-porter-canada.html": {
       "source": "NYT Business",
@@ -21550,7 +21550,7 @@
       "author": "Johnny Diaz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:06.939446+00:00"
+      "retrieved_at": "2026-08-09T23:09:39.696710+00:00"
     },
     "https://www.nytimes.com/article/climate-change-global-warming-faq.html": {
       "source": "NYT Climate",
@@ -21560,7 +21560,7 @@
       "author": "Julia Rosen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:43:14.187668+00:00"
+      "retrieved_at": "2026-08-09T23:12:46.491740+00:00"
     },
     "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas": {
       "source": "NPR News",
@@ -22000,7 +22000,7 @@
       "author": "Perry Stein",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:49:18.050746+00:00"
+      "retrieved_at": "2026-08-09T23:18:22.202682+00:00"
     },
     "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/": {
       "source": "TechCrunch",
@@ -22360,7 +22360,7 @@
       "author": "Ryan Mancini",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:18.995845+00:00"
+      "retrieved_at": "2026-08-09T23:20:27.331425+00:00"
     },
     "https://thehill.com/newsletters/this-week-on-the-hill/6018937-minnesota-wisconsin-south-carolina-primaries-max-miller/": {
       "source": "The Hill",
@@ -22370,7 +22370,7 @@
       "author": "Sudiksha Kochi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:23.016641+00:00"
+      "retrieved_at": "2026-08-09T23:20:35.588021+00:00"
     },
     "https://thehill.com/policy/technology/6017968-senate-clarity-act-crypto-bill/": {
       "source": "The Hill",
@@ -22380,7 +22380,7 @@
       "author": "Julia Shapero",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:27.218007+00:00"
+      "retrieved_at": "2026-08-09T23:20:31.362325+00:00"
     },
     "https://thehill.com/homenews/senate/6019377-murphy-israel-us-not-aligned/": {
       "source": "The Hill",
@@ -22390,7 +22390,7 @@
       "author": "Ashleigh Fields",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:31.256385+00:00"
+      "retrieved_at": "2026-08-09T23:20:39.614880+00:00"
     },
     "https://thehill.com/homenews/state-watch/6019305-florida-investigates-fauci-pandemic-actions/": {
       "source": "The Hill",
@@ -22400,7 +22400,7 @@
       "author": "Ryan Mancini",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:35.559824+00:00"
+      "retrieved_at": "2026-08-09T23:20:43.645431+00:00"
     },
     "https://thehill.com/homenews/campaign/6019297-sanders-predicts-tight-minnesota-primary/": {
       "source": "The Hill",
@@ -22410,7 +22410,7 @@
       "author": "Tara Suter",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:39.800610+00:00"
+      "retrieved_at": "2026-08-09T23:20:47.834995+00:00"
     },
     "https://thehill.com/homenews/house/6019248-aoc-abc-this-week-interview/": {
       "source": "The Hill",
@@ -22420,7 +22420,7 @@
       "author": "Ashleigh Fields",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:44.070081+00:00"
+      "retrieved_at": "2026-08-09T23:20:52.111950+00:00"
     },
     "https://thehill.com/homenews/campaign/6019233-rnc-predicts-congress-majorities/": {
       "source": "The Hill",
@@ -22430,7 +22430,7 @@
       "author": "Ryan Mancini",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:48.302713+00:00"
+      "retrieved_at": "2026-08-09T23:20:56.244739+00:00"
     },
     "https://thehill.com/homenews/campaign/6019203-el-sayed-responds-trump-truth-social/": {
       "source": "The Hill",
@@ -22440,7 +22440,7 @@
       "author": "Tara Suter",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:52.356216+00:00"
+      "retrieved_at": "2026-08-09T23:21:00.299895+00:00"
     },
     "https://thehill.com/homenews/senate/6019150-jim-banks-max-miller-allegations/": {
       "source": "The Hill",
@@ -22450,7 +22450,7 @@
       "author": "Ashleigh Fields",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:56.516018+00:00"
+      "retrieved_at": "2026-08-09T23:21:04.464296+00:00"
     },
     "https://thehill.com/homenews/administration/6019115-esper-iran-emboldened-conflict/": {
       "source": "The Hill",
@@ -22460,7 +22460,7 @@
       "author": "Ashleigh Fields",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:52:00.741161+00:00"
+      "retrieved_at": "2026-08-09T23:21:08.694150+00:00"
     },
     "https://thehill.com/opinion/energy-environment/6017593-engaging-evangelical-religious-values/": {
       "source": "The Hill",
@@ -22470,7 +22470,7 @@
       "author": "Robert Klitzman, opinion contributor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:52:04.956012+00:00"
+      "retrieved_at": "2026-08-09T23:21:12.731622+00:00"
     },
     "https://thehill.com/homenews/campaign/6019094-abdul-elsayed-obama-michigan-senate/": {
       "source": "The Hill",
@@ -22480,7 +22480,7 @@
       "author": "Ashleigh Fields",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:52:09.138053+00:00"
+      "retrieved_at": "2026-08-09T23:21:17.141513+00:00"
     },
     "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/": {
       "source": "The Hill",
@@ -23188,9 +23188,9 @@
       "title": "Calls for system review after lowest alert in force during record-breaking heat",
       "date": "Sun, 09 Aug 2026 15:42:54 +0000",
       "author": "Ng Kang-chung,Leopold Chen",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-08-09T22:53:19.746228+00:00"
+      "text": "Amber heat-stress warning remained in place despite scorching temperatures\n\nLabour unionists, joined by a leading meteorologist, also proposed relaxing the law to recognise heatstroke as a work-related injury, thus entitling workers to compensation.\n\nA scorching 36.9 degrees Celsius (98.4 Fahrenheit) was recorded at the Hong Kong Observatory in Tsim Sha Tsui on Sunday afternoon, the highest since records began in 1884, sparking a fresh debate over protecting employees working outdoors in the heat.\n\nChau Sze-kit, chairman of the Hong Kong Construction Industry Employees General Union, said: “The heat stress alert seems to have made a mockery of the record-breaking heat. It has stayed at the lowest amber level throughout the day.\n\n“The requirements for triggering a higher alert are set too rigidly. There were cases when the amber warning was in force but the temperature at a site was already close to 40 degrees.”\n\nThe Heat Stress at Work Warning system was formulated by the Labour Department based on a heat index developed by the Observatory and the Chinese University of Hong Kong.\n\nIt takes into account air temperature, humidity, wind speed, solar radiation and hospital admission figures to measure heat stress. There are three warning levels – amber, red and black – to tell employers and workers the level of heat stress while working outdoors or in indoor workplaces without air conditioning.\n\nUnder the department’s guidelines, employers should arrange additional rest time for affected workers under the amber alert.\n\nThose with “very heavy” workloads should suspend their duties under the red alert, while workers with “heavy” workloads should do so under the black warning.\n\nAppropriate rest breaks should also be arranged every hour “as far as reasonably practicable”, depending on warning levels, to reduce employees’ risk of heatstroke, according to the department.\n\nIn practice, the department will issue the heat stress at work warning based on the heat index measured by the Observatory at King’s Park and incorporate additional data from nine other monitoring stations.\n\nIf four or more of the other nine stations indicate that the heat stress situation has reached a certain level, the corresponding warning will be issued even if the index at King’s Park has not reached that level.\n\nA search of the department’s notification archive found that more than 200 heat stress at work warnings had been issued since May 2023, when the mechanism was launched, all of which were amber.\n\nRed and black warnings have never been issued.\n\nUnder the mechanism, an amber alert is issued when the heat index is a figure from 30 to below 32. Red is issued for a threshold from 32 to below 34. When the index is 34 or above, a black alert will be issued.\n\nFormer Observatory director Lam Chiu-ying also called for reform of the system.\n\n“Given the heat today, no one should work outdoors for extended periods,” Lam said, adding that a more comprehensive and internationally accepted measure – the wet-bulb globe temperature – should be used to determine heat stress in direct sunlight.\n\n“The heat index is only suitable for people who spend most of their time indoors,” Lam added.\n\nBut Chau said: “Many workers would not dare to take a rest for fear of being regarded as lazy by the contractors. One reason is that heatstroke is in general not regarded as a work-related injury and workers can hardly get compensation if they suffer heatstroke after working under hot weather for too long.”\n\nFay Siu Sin-man, the chief executive of the Association for the Rights of Industrial Accident Victims, echoed Chau’s views and called for the law to cover heatstroke.\n\n“Sometimes, the cause of death is a heart attack, or some underlying illness of the workers. But they are heat-related,” Siu said.\n\n“But once the death is certified as having been caused by a heart problem or some underlying illness, it will not be regarded as a work-related injury and the victims will not be entitled to any work injury compensation.”\n\nLawmaker Ray Wong Wing-wai, who represents the Federation of Hong Kong Industries, however argued that classifying heatstroke as a work injury without a clear definition would complicate labour rights issues.\n\n“If a worker collapses because of low blood sugar level, should it be determined as a result of heatstroke? Fainting from low blood sugar is not a work injury,” he said.\n\n“It would be meaningful to review the matter only after we can have a very clear medical definition [for heatstroke].”\n\nFellow legislator Peter Shiu Ka-fai, chairman of the pro-business Liberal Party, shared Wong’s views but he agreed there was a need to reform the heat stress alert system.\n\n“I can’t see any reason why we still have the amber alert when we are suffering from record heat.”\n\nUnionist legislator Lee Kwong-yu conceded it was sometimes difficult to determine whether a particular incident was a result of the worker’s chronic conditions or heatstroke.\n\nBut Lee, of the Federation of Trade Unions, added that it was worth exploring the feasibility of listing heatstroke as a work injury. He said the federation would seek to meet the department to discuss allowing more rest time and hydration breaks for workers during hot days.\n\nA department spokesman said that the temperature was only one of the risk factors for heat stress.\n\n“Although the temperature was exceptionally high [on Sunday], the relative humidity was below the summer average and the wind conditions were good too,” he said.\n\n“The heat index measured at 10 stations was mostly between 30 and 32. Therefore, the department issued an amber warning according to the established mechanism.\n\n“The department will closely monitor the hot weather and the operation of the heat stress at work warning to see if there are needs for further optimisation.”",
+      "summary": " A scorching 36.9 degrees Celsius (98.4 Fahrenheit) was recorded at the Hong Kong Observatory in Tsim Sha Tsui on Sunday. Labour unionists have called for a law to recognise heatstroke as a work-related injury. A leading meteorologist has also proposed relaxing the law to allow workers to compensation.",
+      "retrieved_at": "2026-08-09T23:21:44.392840+00:00"
     },
     "https://www.scmp.com/news/asia/southeast-asia/article/3363460/thai-school-shooter-had-watched-violent-content-online-police?utm_source=rss_feed": {
       "source": "South China Morning Post",
@@ -23208,9 +23208,9 @@
       "title": "Air India pilot undergoes ‘confirmatory’ drug test after flight plunge",
       "date": "Sun, 09 Aug 2026 15:16:32 +0000",
       "author": "Agence France-Presse",
-      "text": "",
-      "summary": null,
-      "retrieved_at": "2026-08-09T22:53:23.816853+00:00"
+      "text": "The incident is the latest in a series of setbacks for the Indian carrier, which appointed a new executive on Wednesday\n\nThe Airbus A320, carrying 137 passengers and eight crew, lost around 300 feet (91 metres) on August 4 while flying from Phuket in Thailand to New Delhi, before stabilising and landing safely, the civil aviation ministry said.\n\nEight passengers and four cabin crew members were admitted to hospitals after landing in the Indian capital, whose conditions were described as “stable”, after which both pilots were given a standard “psychoactive substance screening test”, the statement read.\n\n“The screening test in respect of the Pilot-in-Command (PIC) indicated a result requiring confirmatory testing,” it said.\n\n“Samples have accordingly been sent to the designated laboratory for confirmatory analysis, and the final report is awaited.”\n\nThe ministry said the flight has been classified as a “Serious Incident”, and that India’s Aircraft Accident Investigation Bureau (AAIB) has launched an investigation.\n\nBoth pilots have been removed from the flying roster pending outcomes of the investigation.\n\n“Further action, as appropriate, will be taken based on the outcome of the investigation and confirmatory test results,” it added.\n\nVideos of the incident’s aftermath showed cabin baggage strewn across the aisle. Some of those injured were taken to hospital on stretchers.\n\nAir India, in a statement earlier on Sunday, confirmed that a “post-flight screening test” had been conducted on the flight’s pilots, but it said the results had not been shared with the company.\n\nThe incident is the latest in a series of setbacks for the Indian carrier, which appointed a new executive on Wednesday.\n\nSince taking over Air India in 2022, India’s Tata Group has embarked on an ambitious overhaul, ordering hundreds of aircraft and upgrading its ageing fleet.\n\nWhile the airline has managed to modernise operations and integrate the group’s aviation businesses, it has faced persistent headwinds including aircraft delivery delays and airspace closures caused by the 2025 India-Pakistan conflict.\n\nBut the biggest blow to the airline’s image came in June 2025, when Air India Flight 171 – a London-bound Boeing 787 Dreamliner – crashed shortly after take-off from Ahmedabad, killing all but one of the 242 people on board and 19 people on the ground.\n\nThe carrier has now turned to former Ethiopian Airlines chief Tewolde Gebremariam, widely seen as an industry veteran capable of righting the ship, as its new CEO as it seeks to execute a turnaround.",
+      "summary": " The Airbus A320, carrying 137 passengers and eight crew, lost around 300 feet (91 metres) on August 4. Eight passengers and four cabin crew members were admitted to hospitals after landing in the Indian capital. Both pilots have been removed from the flying roster pending outcomes of the investigation.",
+      "retrieved_at": "2026-08-09T23:21:49.852337+00:00"
     },
     "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed": {
       "source": "South China Morning Post",
@@ -23280,7 +23280,7 @@
       "author": "Jeré Longman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:39:24.118859+00:00"
+      "retrieved_at": "2026-08-09T23:08:56.881162+00:00"
     },
     "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html": {
       "source": "NYT Business",
@@ -23290,7 +23290,7 @@
       "author": "Veronica Majerol",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:40:03.361935+00:00"
+      "retrieved_at": "2026-08-09T23:09:36.094387+00:00"
     },
     "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah": {
       "source": "NPR News",
@@ -23430,7 +23430,7 @@
       "author": "Ryan Mancini",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:10.282541+00:00"
+      "retrieved_at": "2026-08-09T23:20:19.080647+00:00"
     },
     "https://thehill.com/homenews/campaign/6019458-scott-claims-el-sayed-helps-gop/": {
       "source": "The Hill",
@@ -23440,7 +23440,7 @@
       "author": "Ashleigh Fields",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-08-09T22:51:14.833077+00:00"
+      "retrieved_at": "2026-08-09T23:20:23.030568+00:00"
     },
     "https://www.abc.net.au/news/2026-08-10/three-people-rescued-from-flood-waters-as-heavy-rain-barrages-sa/107015594": {
       "source": "ABC Australia",
@@ -23581,6 +23581,136 @@
       "text": "The 95-year-old sinologist gives his take on the superpower rivalry, the US advantage and Taiwan, and explains why the past is so important\n\nProfessor Wang Gungwu is regarded internationally as an authority on Chinese history. The 95-year-old is best known for his explorations of Chinese history in the long view, and for his writings on the Chinese diaspora. He has been a professor at the National University of Singapore since 2007 and emeritus professor at the Australian National University since 1988. He was vice-chancellor of the University of Hong Kong from 1986 to 1995.",
       "summary": " Professor Wang Gungwu is regarded internationally as an authority on Chinese history. He has been a professor at the National University of Singapore since 2007. He was vice-chancellor of the University of Hong Kong from 1986 to 1995.",
       "retrieved_at": "2026-08-09T22:53:15.519678+00:00"
+    },
+    "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "date": "Sun, 09 Aug 2026 23:01:25 +0000",
+      "author": "Al Jazeera Staff",
+      "text": "The Palestinian Journalists Syndicate has documented 108 attacks by Israeli forces and settlers against Palestinian journalists and media workers in the occupied West Bank last month.\n\nThe syndicate’s Freedoms Committee said in a statement on Sunday that the violations ranged from detention and beating to interrogation, obstruction of coverage and the seizure or destruction of press equipment, describing a pattern that has made it increasingly difficult for journalists to document Israeli military raids and settler violence on the ground.\n\nBrief detentions and restrictions on reporting were the most common violations, with 58 cases recorded.\n\nThe committee also documented 11 settler attacks on journalists, including physical assaults, shoving and threats, mostly while crews covered settler attacks and military raids elsewhere in the occupied West Bank, along with 12 cases in which Israeli forces fired stun grenades or tear gas at journalists, causing some to suffocate.\n\nSix journalists were beaten, and four sustained bleeding injuries while covering developments in Gaza, including from shrapnel. Two others were detained and four interrogated about their reporting.\n\nThe committee recorded four raids on journalists’ homes or media offices, including the closure of one outlet, three cases of equipment being confiscated or destroyed, two instances of deleted footage, and two expulsions of journalists from the vicinity of Al-Aqsa Mosque.\n\nThe syndicate called for journalists to be allowed to work “free from threats, attacks and pursuit”, and demanded accountability for those responsible.\n\nThe July toll adds to a surging record already considered the deadliest in history for journalists.\n\nRights groups have documented that Israeli attacks have killed more than 270 journalists amid a sweeping campaign of arbitrary press detentions since October 2023.\n\nAl Jazeera has confirmed that 12 of its own journalists have been killed in Gaza since the start of Israel’s campaign in 2023, more than any other media outlet.",
+      "summary": " The Palestinian Journalists Syndicate has documented 108 attacks by Israeli forces and settlers against Palestinian journalists and media workers in the occupied West Bank last month. The committee also documented 11 settler attacks on journalists, including physical assaults, shoving and threats. The group called for journalists to be allowed to work “free from threats, attacks and pursuit’",
+      "retrieved_at": "2026-08-09T23:16:24.143027+00:00"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+      "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+      "date": "Sun, 09 Aug 2026 22:37:11 +0000",
+      "author": "",
+      "text": "What's driving unrest in Pakistan-administered Kashmir?\n\nPakistan-administered Kashmir is facing its biggest political crisis in years, with deadly protests ahead of a final round of voting in regional elections. Al Jazeera’s Ava Warriner explains why the wider territory is divided and what’s driving the latest unrest.\n\nFollow Al Jazeera English:\n\nYour browser does not support the audio element.",
+      "summary": " Pakistan-administered Kashmir is facing its biggest political crisis in years. The region is facing a final round of voting in regional elections. Al Jazeera's Ava Warriner explains why the wider territory is divided and what’s driving the latest unrest.",
+      "retrieved_at": "2026-08-09T23:16:29.395192+00:00"
+    },
+    "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html": {
+      "source": "Phys.org",
+      "link": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
+      "title": "How dogs evolved differently across the globe to match human traits",
+      "date": "Sun, 09 Aug 2026 19:10:01 EDT",
+      "author": "",
+      "text": "We’re checking your connection to prevent automated abuse",
+      "summary": "We're checking your connection to prevent automated abuse. We're checking to prevent automatic abuse. The latest link is being used to prevent abuse by automated phone calls.",
+      "retrieved_at": "2026-08-09T23:19:33.659397+00:00"
+    },
+    "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/?utm_campaign=rss": {
+      "source": "STAT News",
+      "link": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/?utm_campaign=rss",
+      "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
+      "date": "Sun, 09 Aug 2026 23:16:45 +0000",
+      "author": "Ed Silverman",
+      "text": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease, and the problem emerged shortly after the Food and Drug Administration warned the company over manufacturing issues at the Irish facility where the drugs are made.\n\nIn recent days, the drugmaker has alerted patient groups and physicians in both the U.S. and Europe that supplies of Myozyme, an older standard of care, and Nexviazyme, a newer treatment, are dwindling due to what has been described as a bottleneck in the final manufacturing phase, as well as quality control issues at its Waterford plant.\n\nThe site is responsible for what is known as batch release, which refers to the final quality assurance and regulatory process where a manufactured amount of medicine is formally certified, approved, and cleared for distribution and use by patients. This step is supposed to verify the batch of medicine meets safety and potency requirements.\n\nTo read the rest of this story subscribe to STAT+.\n\nBy Jason Mast and Brian Yang\n\nBy Jason Mast and Allison DeAngelis\n\nBy Jason Mast and Brian Yang\n\nBy Jason Mast and Allison DeAngelis",
+      "summary": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease. The drugmaker has alerted patient groups and physicians in both the U.S. and Europe that supplies of Myozyme, an older standard of care, and Nexviazyme, a newer treatment, are dwindling.",
+      "retrieved_at": "2026-08-09T23:19:47.744539+00:00"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-09/how-david-ellison-won-over-major-movie-theaters": {
+      "source": "Bloomberg Tech",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-09/how-david-ellison-won-over-major-movie-theaters",
+      "title": "How David Ellison Won Over Major Movie Theaters",
+      "date": "Sun, 09 Aug 2026 23:00:01 GMT",
+      "author": "Lucas Shaw",
+      "text": "To continue, please click the box below to let us know you're not a robot.\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below.\n\nGet the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+      "summary": " The Daily Discussion is a weekly, weekly look at the most important global markets news. Use the Daily Discussion to help you understand today's featured news stories.",
+      "retrieved_at": "2026-08-09T23:19:56.607352+00:00"
+    },
+    "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html": {
+      "source": "CNBC Top News",
+      "link": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+      "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+      "date": "Thu, 06 Aug 2026 23:42:20 GMT",
+      "author": "Justina Lee,Lisa Kim",
+      "text": "Brokerage accounts of kids under the age of one have nearly tripled from a year ago: Mirae Asset Securities.\n\nThose aged 0 to 9 recorded a jump in new accounts of nearly 60% to around 185,000.\n\nDespite the wild swings, South Korea’s market rally has helped spark parents’ interest in investing.\n\nSouth Korean parents are ramping up efforts to give their children a head start in building long-term wealth by opening investment accounts even before they learn to crawl out of their cribs.\n\nBrokerage accounts of kids under the age of one have nearly tripled from a year ago to about 15,000 in June at Mirae Asset Securities, the country’s largest brokerage by market cap.\n\nNew accounts openings for those under 9 have soared nearly 60% to around 185,000, the brokerage said, excluding duplicate accounts.\n\nThat enthusiasm, triggered by Korea’s AI-powered market rally, has sparked a trend toward generational wealth-planning, though the volatility in the domestic stock market has prompted investors to look for value beyond the border as well.\n\nLee Hye-won, who works as a nurse, told CNBC that she and her spouse believed investing long term was a better choice than keeping money in savings or deposit accounts.\n\n“We felt that, when it comes to managing our children’s accounts, the length of time invested matters more than the investment amount, so we opened an account for our first child at age 4, and for our second child right after birth,” she said. The family invests about 300,000 won ($210) to 400,000 won per month in U.S. exchange-traded funds, mainly those tracking the S&P 500.\n\nOther parents are doing similar things.\n\n“I wanted to give my child the gift of time and the power of compounding during those years — that’s why I opened the account right after her birth,” said Lee Jun-hyeok, an office worker.\n\n“I’m also making small, regular investments in the Korean semiconductor sector and U.S. physical AI–related stocks, both of which I see as having high growth potential,” he said.\n\nJae-joon Woo, professor of economics at DePaul University, told CNBC that parents will continue to open investment accounts for their children even if markets become more volatile. The phenomenon is here to stay “as long as equity investing—whether in Korea or overseas markets—is viewed as a reliable way to build long-term wealth,” Woo said.\n\n“This could represent a gradual but meaningful shift from the traditional preference for real estate, which has long been the dominant form of household wealth in Korea,” he added.\n\nHouseholds held around three-quarters of their wealth in physical assets, primarily real estate, and the rest in financial assets, according to a survey by Ministry of Data and Statistics.\n\nThe relatively high capital gains tax on property, particularly for short holding periods or multiple-home ownership, is another factor attracting more Koreans to the stock market, said Jeong-woo Park, senior economist for South Korea at financial services firm Nomura.\n\nKorea applies a progressive tax rate of 6% to 45% on capital gains from properties owned for two years or longer, according to the National Tax Service. The tax rate jumps to 40% to 70% for properties owned for less than two years.\n\nBy contrast, most retail investors are not subject to capital gains tax when selling Korea-listed shares, unless they are a major shareholder.\n\nGift tax is another reason parents are flocking to the stock market. Gifts of up to 20 million won from parents to a minor child are tax-exempt within once in a 10-year period, according to the Ministry of Government Legislation. So parents use that tax-exempt cash gift to invest in stocks.\n\n“At first, our bigger concern wasn’t which stocks to buy via our children’s accounts, but rather how to handle gift tax. We looked into the relevant details ourselves and consulted with a tax accountant,” said “leecoach_mom.”\n\nHowever, for most middle-income households, the main motivation to invest in stocks for their children would be to save up for education or financial security, rather than reduce taxes, Woo of DePaul University said.\n\nKakaopay Securities, an online brokerage linked to the Korean internet conglomerate Kakao Corp., said last month that it plans to hand out stocks worth 100,000 won per infant born next year in an effort to expand its customer base.\n\nThe government is also doing its part to make the stock market more accessible.\n\nIn 2023, financial authorities revised guidelines to allow guardians to open accounts for their children remotely from their smartphones, without having to visit a branch. “Allowing parents to open accounts remotely has removed a significant practical barrier,” Nomura’s Park said.\n\n“Further simplification would probably increase the number of minors’ accounts, especially among households making small and regular investments,” he said.\n\n“However, it would mainly affect participation rather than the total amount invested, which will continue to depend more heavily on household wealth, market conditions and tax considerations.”",
+      "summary": " South Korean parents are ramping up efforts to give their children a head start in building long-term wealth. Those aged 0 to 9 recorded a jump in new accounts of nearly 60% to around 185,000. The enthusiasm, triggered by Korea’s AI-powered market rally, has sparked a trend toward generational wealth-planning",
+      "retrieved_at": "2026-08-09T23:20:02.289092+00:00"
+    },
+    "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html": {
+      "source": "CNBC Top News",
+      "link": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+      "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
+      "date": "Fri, 07 Aug 2026 14:18:00 GMT",
+      "author": "Lee Ying Shan",
+      "text": "The unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.\n\n“When increasingly scarce national assets are spent in unison on the same target by two major sovereigns, markets will have to listen,” said Monex’s Jesper Koll.\n\nThe unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.\n\nJapan has intervened in currency markets before, but this episode was bigger than usual. It was backed by Washington, reportedly executed using the euro-yen cross rather than directly in dollar-yen, and accompanied by explicit political support.\n\nSome investors consider this a major step.\n\n“Japan’s Ministry of Finance and the U.S. Treasury have successfully weaponized the yen,” said Jesper Koll, expert director for Monex Group, referring to market deterrence. The intervention went beyond conventional foreign exchange management because the countries deployed public balance sheets in concert to influence market psychology, he said.\n\n“When increasingly scarce national assets are spent in unison on the same target by two major sovereigns, markets will have to listen,” he added.\n\nThe coordinated intervention was the first U.S.-Japan joint operation to buy yen since 1998, and the first coordinated intervention involving the two countries since the G7 acted to weaken the yen after the 2011 earthquake.\n\nKoll also pointed to what he sees as unprecedented political signaling. By combining political backing and financial firepower, Washington and Tokyo sought to raise the cost of betting against the yen by putting two sovereign balance sheets on the other side of the trade.\n\nCornell University professor Eswar Prasad sees it as more of a defensive move, saying the operation nevertheless signals that foreign exchange policy has become increasingly intertwined with geopolitics.\n\n“Currency market intervention has clearly taken on a geopolitical tinge,” Prasad said, with Donald Trump’s administration appearing more willing to support central banks of countries it views as aligned with U.S. priorities.\n\nSome analysts drew parallels with Washington’s support for Argentina’s peso under President Javier Milei, when the country was battling currency instability ahead of key midterm elections. In September and October 2025, the Trump administration stepped in with a support package, using the Treasury’s Exchange Stabilization Fund to provide a $20 billion currency swap with Argentina’s central bank while also purchasing pesos in the open market.\n\n“Bessent is the common thread. Same Treasury, same ESF, same playbook of using foreign-currency operations as an instrument of statecraft,” said Michael Gayed, chief investment strategist at Tactical Rotation Management. “Argentina was about propping up a friend.”\n\nSimilarly, Quantum Strategy’s strategist David Roche said Washington’s motives likely extended beyond financial stability or Treasury markets, and that political considerations could also have played a role.\n\n“He might just want to do nice things for his buddy Takaichi.”\n\nThe U.S. Treasury Department did not respond to CNBC’s request for comment.\n\nThe intervention has altered the way investors will think about the currency, strategists said.\n\n“It changes the calculus for funding trades specifically,” said Billy Leung, investment strategist at Global X ETFs. “If investors now see intervention risk as a live and coordinated threat, they will likely become more cautious running large short-yen positions and rotate toward alternative funding currencies.”\n\nThe yen has long been the world’s preferred funding currency for carry trades, where investors borrow cheaply in yen to invest in higher-yielding assets elsewhere.\n\nLeung added that the broader consequence is that “currency policy itself” has returned as a source of market risk after fading into the background over the past decade. If investors increasingly migrate to other funding currencies such as the euro, that could reshape positioning across major FX markets.\n\nMasahiko Loo, senior fixed income strategist at State Street Investment, agreed the episode means traders must increasingly price in geopolitical developments.\n\n“The biggest shift is that traders now have a new variable to price: policy reaction functions, not just macro fundamentals,” he said.",
+      "summary": " U.S.-Japan intervention to support the yen may end up shaping market behavior, analysts say. The unprecedented U. S. intervention to help the yen could be a major step, analysts said. The intervention was the first U.N. joint operation to buy yen since 1998.",
+      "retrieved_at": "2026-08-09T23:20:07.067924+00:00"
+    },
+    "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html": {
+      "source": "CNBC Top News",
+      "link": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+      "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+      "date": "Fri, 07 Aug 2026 04:11:09 GMT",
+      "author": "Priyanka Salve",
+      "text": "An Indian parliamentary panel has threatened to remove Meta’s safe harbor immunity, demanding an apology from Mark Zuckerberg for a dispute over a post by PM Modi.\n\nMeta’s chief global affairs officer, Joel Kaplan, has apologized “for the error restricting PM Modi’s post.”\n\nExperts told CNBC it would be almost impossible for Meta to operate in India without harbor protection immunity, but the withdrawal would require existing laws to be amended.\n\nTensions are high between Meta Platforms\n and Indian regulators after the company came under fire in the country twice in short succession.\n\nThe tech behemoth briefly restricted a Facebook post by Prime Minister Narendra Modi addressing students during the Gen Z protests in July, just days after regulators summoned the company over concerns about child-abuse content. While it later said the restriction was due to an “error,” initially the post reportedly indicated the content was blocked due to a “legal request.”\n\nA parliamentary panel on Wednesday demanded an apology from Mark Zuckerberg within three days for the restriction on Modi’s post — failing which it recommends revoking the social media giant’s safe harbor immunity in the country. This would make Meta liable for the user-generated content on its platform.\n\nIndia is a key market for Meta, with the largest user bases for WhatsApp, Instagram, and Facebook, and legal experts told CNBC that it would become almost impossible for Meta to operate in the country if the safe harbor protection is withdrawn.\n\nThey added, however, that India would need to amend the broader legal framework to remove the safe harbor rights of the platform.\n\nMeta, though, is keen to assuage concerns of the regulators, especially those around Modi’s post.\n\nJoel Kaplan, Meta’s chief global affairs officer, who was in a meeting with India’s Information Technology Minister Ashwini Vaishnaw on Wednesday, said he “apologized” to the minister “for the error restricting PM Modi’s post,” the company said in a press statement.\n\nBut local media reports the same day, quoting government sources, said that it was Meta’s founder and CEO Zuckerberg who made the apology for the presence of child abuse content, deepfake material and errors in operating the platform.\n\nMeta did not comment on the authenticity of these claims in the official statement shared with CNBC.\n\nIn an interview with ANI on Wednesday, Nishikant Dubey, the chair of a parliamentary panel on communications and information technology, wrote to India’s information technology and home ministry, demanding an apology from Zuckerberg himself.\n\n“Zuckerberg must apologize within three days” for deleting Modi’s video addressing students, Dubey said, saying the platform was misusing the privilege of safe harbor protection -- adding that if it is revoked “there could be a nationwide flood” of formal police complaints against Meta, he added.\n\nDuring the Gen Z protests in India last month, Instagram, Meta’s short video app, became a popular platform for public discourse in the country. Modi started to make reels to appeal to the young protesters.\n\nBut this growing influence is also exposing the U.S. company to intense government scrutiny over lapses in content moderation and concerns over user privacy. The Indian government last month issued a stern warning to Instagram to remove child abuse ads on its platform that followed a warning to WhatsApp over the rollout of a username feature.\n\nMeta’s global team will remain in India to conduct “three to four” additional meetings with the ministry that will assess whether the social media company is complying with Indian laws, Indian news agency ANI reported on Thursday.\n\nMeanwhile, Saurav Das, spokesperson of the Cockroach Janta Party which steered the Gen Z protest in India, said that Meta was restricting access to his content and claimed it was succumbing to “high-handed pressure from the government.”\n\nIndia’s Ministry of Electronics and Information Technology didn’t respond to CNBC’s calls and emails seeking comment on the proposal to withdraw Meta’s safe harbor immunity.\n\nSafe harbor protection grants conditional immunity to social media companies, explained Udit Mendiratta, technology and disputes partner at Argus Partners.\n\nHe added that this immunity can be removed if a social media platform has abetted an unlawful action, if it has failed to remove content “expeditiously” after a court or government order, and if it fails “due diligence obligations” in removing child sexual abuse material, deepfakes and hate speech.\n\nHowever, he said that under the existing Indian law, “loss of immunity is content specific,” and the law would need to be amended to remove the safe harbor immunity of an entire platform.\n\nWhile the Indian government is yet to take any official action, experts said any decision affecting safe harbor would be monitored by the technology industry because it will alter the liability framework.\n\n“Safe harbor protection is the cornerstone of digital regulation dating back to the earliest days of the internet,” Vikram Jeet Singh, partner at law firm BTG Advaya, told CNBC, adding that the loss of this immunity might expose social media companies to further civil and regulatory actions.",
+      "summary": "Tensions are high between Meta Platforms and Indian regulators after the company came under fire in the country twice in short succession. The tech behemoth briefly restricted a Facebook post by Prime Minister Narendra Modi addressing students during the Gen Z protests in July. The withdrawal would require existing laws to be amended to make Meta liable for user-",
+      "retrieved_at": "2026-08-09T23:20:11.224337+00:00"
+    },
+    "https://www.abc.net.au/news/2026-08-10/fifo-ghost-population-worries-mining-cities-census/106950408": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-08-10/fifo-ghost-population-worries-mining-cities-census/106950408",
+      "title": "Mining cities concerned census fails to count FIFO 'ghost population'",
+      "date": "Sun, 09 Aug 2026 23:03:36 +0000",
+      "author": "Jarrod Lucas, Ivo da Silva, Mikki Cusack, and Kimberley Putland",
+      "text": "BERITA BAHASA INDONESIA\n\nSun 9 Aug 2026 at 11:03pm\n\nFly-in, fly-out workers arrive at Kalgoorlie-Boulder Airport. (ABC Goldfields: Jarrod Lucas)\n\nA lobby group representing some of Australia's most historic mining regions has been pushing for the census to better capture data around fly-in fly-out workers.\n\nThe Australian Mining Cities Alliance comprises six local governments, including councils from Kalgoorlie-Boulder, Mount Isa and Broken Hill.\n\nThe Australian Bureau of Statistics is expected to begin releasing the data gathered on census night next year.\n\nAs households across Australia begin filling out their forms for the 2026 Census, mining communities fear the count will fail to capture the nation's growing fly-in fly-out (FIFO) workforce.\n\nThe historic mining city of Kalgoorlie-Boulder, about 600 kilometres east of Perth, is experiencing one of the biggest booms in its history.\n\nAn aerial view of Kalgoorlie's Super Pit gold mine. (ABC Goldfields: Ivo Da Silva)\n\nThe rise in FIFO work practices has been so dramatic that Kalgoorlie-Boulder Airport is now among the busiest in regional WA, with more than half a million passenger movements.\n\nMayor Glenn Wilson has made regular use of the airport travelling to Canberra to lobby for changes to the Census while casting doubt on the accuracy of previous data.\n\n\"What we've continually done through lobbying of the ABS (Australian Bureau of Statistics) is to make sure our ghost populations are included,\" he said.\n\n\"We have got a baseline population, and then with the mining activities, those populations increase and put added strain on our infrastructure and our services.\"\n\nHe chairs the Australian Mining Cities Alliance which counts the City of Broken Hill, City of Karratha, Mount Isa City Council, Isaac Regional Council and the Shire of East Pilbara among its members.\n\nGlenn Wilson is concerned \"ghost populations\" are not being included in the data. (ABC Goldfields: Jarrod Lucas)\n\nWhen the first national census was held in 1911, the population of Kalgoorlie and Boulder, then separate towns, was estimated at a combined 19,605.\n\nThat grew to 29,306 as of the 2021 Census, with 20 per cent of the population employed in gold mining.\n\nAccording to the latest ABS data, Kalgoorlie-Boulder's population was 31,268 at June 30 last year.\n\nAn aerial view of the Kalgoorlie CBD.   (ABC Goldfields: Jarrod Lucas)\n\nMr Wilson estimates there could be as many as 10,000 FIFO workers in Kalgoorlie-Boulder due to the current boom.\n\n\"We know since the last census there's been more dwellings built in Kalgoorlie-Boulder, there are less rentals available, less houses for sale, so if this data comes back and tells us our population is going south, there is an issue with how the census is done,\" he said.\n\n\"Why is it important? Because funding opportunities at a state and federal level rely on up-to-date population figures.\n\n\"An increase in population gives us more opportunity to get more funding. It's as simple as that, because many of the grant mechanisms take your population into account.\"\n\nPassengers line up for security screening at Kalgoorlie-Boulder Airport.   (Supplied: Cass Be)\n\nKalgoorlie-Boulder Airport was built for 100,000 passenger movements a year back in the early 1990s.\n\nCity of Kalgoorlie-Boulder figures show there were 562,710 passenger movements in the 12 months to June 30, eclipsing the previous year's record of 458,876 passengers.\n\n\"Based on the airport figures, I am very optimistic we're going to see a population increase,\" Mr Wilson said.\n\nFIFO workers on the tarmac at Karratha Airport.   (ABC News: Cody Fenner)\n\nThe FIFO workforce has been a long-term feature of the iron ore heartland of WA's Pilbara, where the 2021 census put the population at 82,000.\n\nBut Regional Development Australia's Pilbara chief executive Daiva Gillam said infrastructure was struggling to meet the needs of the local and FIFO population.\n\n\"I'm going to give you a real world example,\" she said.\n\n\"The Shire of East Pilbara in Newman are spending over $50 million of their own money to upgrade the wastewater treatment plant because it can't cope.\n\n\"For every person in Newman that lives there, there are up to three FIFOs all flushing the toilet in the East Pilbara.\n\n\"The infrastructure is not built to cope, but those workers aren't usually counted in the Pilbara as being residents.\"\n\nNewman sits in WA's east Pilbara region.     (ABC Pilbara: Charlie McLean)\n\nRobert Powell is on a two and one roster, working two weeks in Port Hedland as a grounds person at a camp and spending the week off in Perth.\n\nDespite spending more time up north, he will list his Perth home as his primary residence.\n\n\"Home is home, work is work, and it needs to be reflected that way in the census,\" he said.\n\n\"It's, to me, no different to saying I live in Armadale and work in Welshpool. It's where I live, it's where I want the services provided.\"\n\nHe suggested adding more questions to the census would help properly account for the FIFO workforce.\n\nWorkers leave a FIFO flight at Karratha Airport. (ABC News: Cody Fenner)\n\nCensus spokesperson Emily Walter said FIFO workers were similar to seasonal farm workers who can be a challenging demographic to collect data on.\n\nShe said the ABS had employed a dedicated team to coordinate with mine sites to enable workers to complete the census in the most accurate way.\n\n\"The census creates a snapshot at a point in time, like taking a photograph,\" she said.\n\n\"FIFO workers are often in a location for several days or weeks at a time, and the concept of a usual residence is one that we use to capture where someone is for more than six months of the year.\n\n\"If they are spending more than six months of the year at the location where they work, then they need to use that as their usual residence.\n\n\"That 'usual residence' concept is something that is really important for how we understand the data, and an internationally comparable definition.\"\n\nOrganisational psychiatrist Cheryl Yam said the question ran deeper than data for affected FIFO workers.\n\n\"The question isn't simply 'where do I sleep most nights?' It's more where do I belong?\" she said.\n\nCities like Kalgoorlie previously relied on a chiefly residential workforce, but the FIFO population is growing. (ABC News: Erin Parke)\n\n\"The camp really isn't necessarily home, but it's also more than just a workplace; because it's where they spend much of their day-to-day life.\"\n\nDr Yam said workers often felt the remote camp was where they stayed and home being where they lived.\n\nOfficials understand the sentiment, but say the workforce and infrastructure pressures across regional Australia meant every worker needed to be accurately counted.\n\nIn keeping with that growth theme, Ms Gillam said it was vital for regional areas that every worker was counted.\n\n\"Nobody wants to say that they live where they work,\" she said.\n\n\"But for the purpose of the census only, if you're here for six months, yeah, this is where you live.\"\n\nThe census data is scheduled to be released in June 2027.\n\nSee more ABC coverage in your search results\n\nTopic:\nSuperannuation\n\nAnalysis by Alan Kohler\n\nTopic:\nRegional Communities\n\nEmployment Statistics\n\nMining and Metals Industry\n\nTopic:\nSuperannuation\n\nAnalysis by Alan Kohler\n\nSun 9 Aug 2026 at 11:03pm\n\nSun 9 Aug 2026 at 10:54pm\n\nTopic:\nExtreme Weather Events\n\nSun 9 Aug 2026 at 11:20pm\n\nSun 9 Aug 2026 at 10:06pm\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " The question ran deeper than data for affected FIFO workers, says psychiatrist Cheryl Yam. The question is \"where do I sleep most nights?\" The census data is scheduled to be released in June 2027.",
+      "retrieved_at": "2026-08-09T23:21:23.728806+00:00"
+    },
+    "https://www.abc.net.au/news/2026-08-10/qld-house-party-murder-charges/107015578": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-08-10/qld-house-party-murder-charges/107015578",
+      "title": "Four more teens charged with Queensland man's murder",
+      "date": "Sun, 09 Aug 2026 22:54:57 +0000",
+      "author": "",
+      "text": "BERITA BAHASA INDONESIA\n\nSun 9 Aug 2026 at 10:54pm\n\nThe man was found unconscious with critical head injuries on a Bahrs Scrub street by police on July 26 after reports of an out-of-control house party nearby.   (Supplied)\n\nFour more teenagers have been charged with murder after a 21-year-old died days after an alleged assault in Logan, south of Brisbane, late last month.\n\nEight people have now been charged with murdering the Redbank Plains man.\n\nHe was found unconscious with critical head injuries on Orchard Avenue at Bahrs Scrub by police on July 26 after reports of an out-of-control house party on Discovery Boulevard.\n\nHe was taken to hospital but died on August 1 from his injuries.\n\nFour teenagers — three 18-year-olds and a 17-year-old — were arrested at Morayfield on Sunday and are due to face court today.\n\nA total of nine people have now been charged in relation to the death.\n\nOn Thursday, three teenagers — Joshua Jackson John Jirima, 18, Amnaud Nduwayo, 19 and Kandour Khalil Tagelsir, 18 — were charged with murder.\n\nA fourth — Sunday Obol, 19 — was charged with murder, intimidation, harassing or abuse, unlawful stalking, robbery, extortion, and deprivation of liberty.\n\nA 22-year-old was charged with contravening an order to provide information necessary to access electronically stored information.\n\nPolice thanked the community for \"significant cooperation\" with the investigation, particularly \"residents, community leaders and representatives who have worked with investigators and encouraged members of the community to come forward with information\".\n\nSee more ABC coverage in your search results\n\nTopic:\nSuperannuation\n\nAnalysis by Alan Kohler\n\nTopic:\nSuperannuation\n\nAnalysis by Alan Kohler\n\nSun 9 Aug 2026 at 11:03pm\n\nSun 9 Aug 2026 at 10:54pm\n\nTopic:\nExtreme Weather Events\n\nSun 9 Aug 2026 at 11:08pm\n\nSun 9 Aug 2026 at 10:06pm\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " Man found unconscious with critical head injuries on Bahrs Scrub street by police on July 26. Four teenagers — three 18-year-olds and a 17-year old — were arrested at Morayfield on Sunday. A total of nine people have now been charged in relation to the death.",
+      "retrieved_at": "2026-08-09T23:21:27.897632+00:00"
+    },
+    "https://timesofindia.indiatimes.com/india/to-bypass-bosphorus-hormuz-russia-moots-direct-rail-link-to-india/articleshow/133076764.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/india/to-bypass-bosphorus-hormuz-russia-moots-direct-rail-link-to-india/articleshow/133076764.cms",
+      "title": "Russia proposes direct rail link to India to bypass Bosphorus &amp; Hormuz straits",
+      "date": "Mon, 10 Aug 2026 04:20:37 +0530",
+      "author": "TNN",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines\n\n2024 StreetRod Golf Cars LE29 Short Canopy\n\nGATEWAY C. | sellwild.com\n\n1923 Ford Model T Roadster\n\nGATEWAY C. | sellwild.com",
+      "summary": " The StreetRod Golf Cars are a 1923 Ford Model T Roadster GATEWAY C. The car is a 1923 Model T roadster.",
+      "retrieved_at": "2026-08-09T23:21:32.384640+00:00"
+    },
+    "https://timesofindia.indiatimes.com/india/dope-test-of-turbulent-ai-flights-pilot-not-negative-sent-for-confirmation-says-government/articleshow/133076744.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/india/dope-test-of-turbulent-ai-flights-pilot-not-negative-sent-for-confirmation-says-government/articleshow/133076744.cms",
+      "title": "Turbulent AI flight’s pilot dope test ‘not negative’, sent for confirmation: govt",
+      "date": "Mon, 10 Aug 2026 04:07:51 +0530",
+      "author": "SAURABH SINHA",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines\n\n2024 StreetRod Golf Cars LE29 Short Canopy\n\nGATEWAY C. | sellwild.com\n\n1923 Ford Model T Roadster\n\nGATEWAY C. | sellwild.com",
+      "summary": " The StreetRod Golf Cars are a 1923 Ford Model T Roadster GATEWAY C. The car is a 1923 Model T roadster.",
+      "retrieved_at": "2026-08-09T23:21:37.446420+00:00"
+    },
+    "https://www.dw.com/en/netanyahu-says-israel-rejects-trump-s-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf": {
+      "source": "DW All",
+      "link": "https://www.dw.com/en/netanyahu-says-israel-rejects-trump-s-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "title": "Netanyahu says Israel rejects Trump’s Gaza peace plan",
+      "date": "2026-08-09T23:11:00Z",
+      "author": "",
+      "text": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, putting him at odds with a US-backed roadmap endorsed by the group.\n\nIsraeli Prime Minister Benjamin Netanyahu on Sunday rejected US President Donald Trump's plan for Gaza, saying Israeli troops would not withdraw from the territory until Hamas was fully disarmed.\n\n\"Israel rejects the 15-point document,\" Netanyahu told a Cabinet meeting, referring to the US-backed roadmap agreed to by Hamas in late July.\n\nThe Israeli military \"will not carry out any withdrawal until Hamas is genuinely disarmed,\" Netanyahu said, adding that this included \"heavy weaponry, lighter weaponry, all weaponry.\"\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nNetanyahu said Israel remained in talks with Washington despite its objections. He described Trump as \"our greatest friend in the White House,\" but added: \"They have ideas; some of them are acceptable to us and some are not, and we know how to stand our ground on these matters.\"\n\nThe White House did not immediately comment.\n\nTrump announced last month that there had been a breakthrough on a 15-point roadmap aimed at ending the war in the Gaza Strip.\n\nThe plan drawn up by his Board of Peace calls for Israeli troops to withdraw as Hamas gives up its weapons. An International Stabilization Force would then work alongside a new Palestinian police force to secure Gaza.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nHamas is designated as a terrorist organization by Israel, the United States, the European Union and several other countries.\n\nThe group has avoided using the term \"disarmament.\" It says it agreed to hand over its weapons for storage under a US-backed Palestinian technocratic administration that would govern Gaza under the supervision of the Board of Peace.\n\nHamas has said implementation also depends on Israel meeting its obligations, including withdrawing troops and halting attacks.\n\n\"We expect the mediators and the American guarantor to pressure Netanyahu and his government to adhere to the roadmap, and not obstruct the process for internal political and electoral reasons,\" Hamas political bureau member Bassem Naim said.\n\nHamas said Sunday it remained committed to the roadmap.\n\nNickolay Mladenov, the Board of Peace's high representative for Gaza, said Israel would face no obligations until Hamas had surrendered all its weapons, including assault rifles.\n\nHowever, Mladenov told Israel's Channel 12 that Israeli troops would eventually have to withdraw \"sector by sector\" once Hamas' weapons had been collected and rendered unusable.\n\n\"The option we are offering today is the only way forward that ensures this tragedy does not happen again,\" he said, referring to the Hamas-led attacks on Israel on October 7, 2023, which triggered the war against Hamas in the Gaza Strip.\n\nMladenov said discussions with Israel were continuing and that he hoped for a \"positive outcome.\"\n\nThe disagreement comes at a politically sensitive moment for Netanyahu ahead of elections scheduled for October 27, Israel's first national vote since the Hamas led attacks that sparked an ongoing Israeli military campaign in Gaza.\n\nThe prime minister is running level with or behind rivals in some polls and faces pressure from far-right members of his government who oppose concessions to Hamas.\n\nFinance Minister Bezalel Smotrich welcomed Netanyahu's position.\n\n\"We went to war with a central goal: the destruction of Hamas,\" he said. \"The [military] cannot withdraw even a millimetre from the Gaza Strip.\"\n\nThe dispute is the latest sign of differences between Netanyahu and Trump. The two leaders are considered as close allies, but have recently disagreed over how to deal with the conflicts in Iran, Lebanon and Gaza.\n\nThe Gaza roadmap builds on a US-mediated ceasefire reached in October 2025.\n\nGaza health officials say more than 1,250 Palestinians have been killed in Israeli attacks since then. The Israeli military says five of its soldiers have been killed during the same period.\n\nDespite the ongoing negotiations over the roadmap, Israeli forces continue to control large parts of Gaza, while most of the enclave's more than 2 million residents have been displaced and are living in a much smaller coastal area, many in tents or damaged buildings.\n\nEdited by: Louis Oelofse\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+      "summary": " Israeli PM Benjamin Netanyahu rejects US President Donald Trump's plan for Gaza. Netanyahu says Israel will not withdraw until Hamas is fully disarmed. The dispute is the latest sign of differences between Netanyahu and Trump.",
+      "retrieved_at": "2026-08-09T23:21:55.661140+00:00"
     }
   }
 }
