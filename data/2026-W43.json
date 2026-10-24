@@ -1,6 +1,6 @@
 {
   "week": "2026-W43",
-  "count": 9516,
+  "count": 9550,
   "articles": {
     "http://money.cnn.com/2017/02/13/news/economy/mexico-trump-us-corn/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -10,7 +10,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:14:40.248317+00:00"
+      "retrieved_at": "2026-10-24T11:48:45.103418+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -20,7 +20,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:14:44.496238+00:00"
+      "retrieved_at": "2026-10-24T11:48:49.351534+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/india-h1b-visa-trump-nandan-nilekani/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -30,7 +30,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:14:48.438776+00:00"
+      "retrieved_at": "2026-10-24T11:48:53.212713+00:00"
     },
     "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -40,7 +40,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:14:52.267944+00:00"
+      "retrieved_at": "2026-10-24T11:48:57.057831+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/stocks-all-time-highs-donald-trump-janet-yellen-fed/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -50,7 +50,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:14:56.259868+00:00"
+      "retrieved_at": "2026-10-24T11:49:00.960770+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -60,7 +60,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:00.336912+00:00"
+      "retrieved_at": "2026-10-24T11:49:04.784001+00:00"
     },
     "http://money.cnn.com/2017/02/13/news/economy/nafta-canada-trudeau-trump-mexico/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -70,7 +70,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:04.623733+00:00"
+      "retrieved_at": "2026-10-24T11:49:08.656112+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/verizon-stock-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -80,7 +80,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:08.529328+00:00"
+      "retrieved_at": "2026-10-24T11:49:12.488539+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/oil-prices-opec-deal/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -90,7 +90,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:12.367816+00:00"
+      "retrieved_at": "2026-10-24T11:49:16.511764+00:00"
     },
     "http://money.cnn.com/2017/02/13/investing/tesla-uae-elon-musk/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -100,7 +100,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:16.306489+00:00"
+      "retrieved_at": "2026-10-24T11:49:20.376057+00:00"
     },
     "http://money.cnn.com/2017/02/13/technology/uber-ola-india-pranay-jivrajka/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -110,7 +110,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:20.575201+00:00"
+      "retrieved_at": "2026-10-24T11:49:24.472593+00:00"
     },
     "http://money.cnn.com/2017/02/11/media/fake-news-apple-ceo-tim-cook/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -120,7 +120,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:24.476181+00:00"
+      "retrieved_at": "2026-10-24T11:49:28.747059+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/trump-brand-sears-kmart/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -130,7 +130,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:28.417330+00:00"
+      "retrieved_at": "2026-10-24T11:49:32.747876+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/thailand-bamboo-cassava-packaging-universal-biopack/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -140,7 +140,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:32.361223+00:00"
+      "retrieved_at": "2026-10-24T11:49:36.899548+00:00"
     },
     "http://money.cnn.com/2017/02/12/news/companies/nike-equality-lebron-serena/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -150,7 +150,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:36.223796+00:00"
+      "retrieved_at": "2026-10-24T11:49:40.840796+00:00"
     },
     "http://money.cnn.com/2017/02/12/media/lego-batman-movie-steven-mnuchin/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -160,7 +160,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:40.156313+00:00"
+      "retrieved_at": "2026-10-24T11:49:44.689550+00:00"
     },
     "http://money.cnn.com/2017/02/08/news/economy/greece-imf-bailout-eurozone/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -170,7 +170,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:44.070055+00:00"
+      "retrieved_at": "2026-10-24T11:49:48.626043+00:00"
     },
     "http://money.cnn.com/2017/02/12/technology/verizon-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -180,7 +180,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:47.972443+00:00"
+      "retrieved_at": "2026-10-24T11:49:52.581511+00:00"
     },
     "http://money.cnn.com/2017/02/10/news/economy/visa-ban-rural-doctor-shortage/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -190,7 +190,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:52.269519+00:00"
+      "retrieved_at": "2026-10-24T11:49:56.433059+00:00"
     },
     "http://money.cnn.com/2017/02/10/investing/stocks-united-states-trump-europe-china-japan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -200,7 +200,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:15:56.349805+00:00"
+      "retrieved_at": "2026-10-24T11:50:00.197865+00:00"
     },
     "http://edition.cnn.com/2008/TECH/space/12/02/planetsalign.irpt/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -210,7 +210,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:16:00.768448+00:00"
+      "retrieved_at": "2026-10-24T11:50:04.827200+00:00"
     },
     "https://www.cnn.com/collections/intl-trump-040223/": {
       "source": "CNN World",
@@ -220,7 +220,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:14:29.723443+00:00"
+      "retrieved_at": "2026-10-24T11:48:34.793845+00:00"
     },
     "https://www.cnn.com/collections/intl-ukraine-030423/": {
       "source": "CNN World",
@@ -230,7 +230,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:14:34.532396+00:00"
+      "retrieved_at": "2026-10-24T11:48:39.557718+00:00"
     },
     "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html": {
       "source": "NYT Climate",
@@ -340,7 +340,7 @@
       "author": "Gregory Schmidt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:31.605385+00:00"
+      "retrieved_at": "2026-10-24T11:47:47.130086+00:00"
     },
     "https://www.nytimes.com/2026/10/08/business/economy/wto-global-trade-resilient.html": {
       "source": "NYT Economy",
@@ -350,7 +350,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:35.604652+00:00"
+      "retrieved_at": "2026-10-24T11:47:50.894113+00:00"
     },
     "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html": {
       "source": "NYT Economy",
@@ -360,7 +360,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:39.501516+00:00"
+      "retrieved_at": "2026-10-24T11:47:54.761484+00:00"
     },
     "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html": {
       "source": "NYT Economy",
@@ -370,7 +370,7 @@
       "author": "Patricia Cohen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:43.313670+00:00"
+      "retrieved_at": "2026-10-24T11:47:58.603870+00:00"
     },
     "https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html": {
       "source": "NYT Climate",
@@ -380,7 +380,7 @@
       "author": "Raymond Zhong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:07.122385+00:00"
+      "retrieved_at": "2026-10-24T11:45:25.478693+00:00"
     },
     "https://www.nytimes.com/2026/10/08/climate/tom-cruise-digger.html": {
       "source": "NYT Climate",
@@ -680,7 +680,7 @@
       "author": "Alexa Robles-Gil",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:32.578199+00:00"
+      "retrieved_at": "2026-10-24T11:46:49.346951+00:00"
     },
     "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html": {
       "source": "NYT Tech",
@@ -700,7 +700,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:27.791169+00:00"
+      "retrieved_at": "2026-10-24T11:47:43.337457+00:00"
     },
     "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/": {
       "source": "Space News",
@@ -710,7 +710,7 @@
       "author": "Jena-Optronik",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:18:01.741211+00:00"
+      "retrieved_at": "2026-10-24T11:52:00.529571+00:00"
     },
     "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html": {
       "source": "NYT Tech",
@@ -740,7 +740,7 @@
       "author": "Patricia Cohen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:23.871480+00:00"
+      "retrieved_at": "2026-10-24T11:47:39.539818+00:00"
     },
     "https://www.nytimes.com/2026/10/13/science/four-winged-dinosaur-early-birds-flight.html": {
       "source": "NYT Science",
@@ -780,7 +780,7 @@
       "author": "Julia O’Malley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:24.781830+00:00"
+      "retrieved_at": "2026-10-24T11:46:41.709958+00:00"
     },
     "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html": {
       "source": "NYT Tech",
@@ -820,7 +820,7 @@
       "author": "David Gelles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:20.820977+00:00"
+      "retrieved_at": "2026-10-24T11:46:37.899737+00:00"
     },
     "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html": {
       "source": "NYT Business",
@@ -900,7 +900,7 @@
       "author": "Suhasini Raj",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:16.737898+00:00"
+      "retrieved_at": "2026-10-24T11:46:34.105263+00:00"
     },
     "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html": {
       "source": "NYT World",
@@ -1070,7 +1070,7 @@
       "author": "Space Inventor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:57.891952+00:00"
+      "retrieved_at": "2026-10-24T11:51:56.786014+00:00"
     },
     "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html": {
       "source": "NYT World",
@@ -1100,7 +1100,7 @@
       "author": "Sydney Ember",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:16.085815+00:00"
+      "retrieved_at": "2026-10-24T11:47:31.974732+00:00"
     },
     "https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html": {
       "source": "NYT Economy",
@@ -1110,7 +1110,7 @@
       "author": "Sydney Ember",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:12.232770+00:00"
+      "retrieved_at": "2026-10-24T11:47:28.045061+00:00"
     },
     "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html": {
       "source": "NYT Science",
@@ -1130,7 +1130,7 @@
       "author": "Tony Romm",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:08.461216+00:00"
+      "retrieved_at": "2026-10-24T11:47:24.228041+00:00"
     },
     "https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html": {
       "source": "NYT Tech",
@@ -1160,7 +1160,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:04.528083+00:00"
+      "retrieved_at": "2026-10-24T11:47:20.325863+00:00"
     },
     "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html": {
       "source": "NYT Economy",
@@ -1170,7 +1170,7 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:19.989507+00:00"
+      "retrieved_at": "2026-10-24T11:47:35.757223+00:00"
     },
     "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html": {
       "source": "NYT World",
@@ -1260,7 +1260,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:08.591142+00:00"
+      "retrieved_at": "2026-10-24T11:46:26.480551+00:00"
     },
     "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html": {
       "source": "NYT Tech",
@@ -1300,7 +1300,7 @@
       "author": "Raymond Zhong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:12.682255+00:00"
+      "retrieved_at": "2026-10-24T11:46:30.273331+00:00"
     },
     "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html": {
       "source": "NYT Business",
@@ -1340,7 +1340,7 @@
       "author": "Lisa Lerer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:13:00.613510+00:00"
+      "retrieved_at": "2026-10-24T11:47:16.503502+00:00"
     },
     "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html": {
       "source": "NYT Business",
@@ -1500,7 +1500,7 @@
       "author": "Agile Space Industries",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:53.947019+00:00"
+      "retrieved_at": "2026-10-24T11:51:53.043821+00:00"
     },
     "https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html": {
       "source": "NYT Business",
@@ -1560,7 +1560,7 @@
       "author": "Gregory Schmidt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:52.929415+00:00"
+      "retrieved_at": "2026-10-24T11:47:08.869124+00:00"
     },
     "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html": {
       "source": "NYT Business",
@@ -1580,7 +1580,7 @@
       "author": "Conor Dougherty",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:56.801181+00:00"
+      "retrieved_at": "2026-10-24T11:47:12.678198+00:00"
     },
     "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html": {
       "source": "NYT Economy",
@@ -1610,7 +1610,7 @@
       "author": "Chico Harlan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:04.658329+00:00"
+      "retrieved_at": "2026-10-24T11:46:22.687591+00:00"
     },
     "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/": {
       "source": "Space News",
@@ -1620,7 +1620,7 @@
       "author": "SpaceNews Editor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:50.124348+00:00"
+      "retrieved_at": "2026-10-24T11:51:49.340472+00:00"
     },
     "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html": {
       "source": "NYT World",
@@ -1720,7 +1720,7 @@
       "author": "Rebecca Dzombak",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:00.865522+00:00"
+      "retrieved_at": "2026-10-24T11:46:18.892700+00:00"
     },
     "https://spacenews.com/applying-ai-to-the-geoint-mission-event/": {
       "source": "Space News",
@@ -1890,7 +1890,7 @@
       "author": "Somini Sengupta, Suhasini Raj and Anindito Mukherjee",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:56.982454+00:00"
+      "retrieved_at": "2026-10-24T11:46:15.132403+00:00"
     },
     "https://timesofindia.indiatimes.com/science/earth/meet-gunisha-kaur-the-16-year-old-from-ludhiana-who-won-third-place-at-the-2026-international-young-eco-hero-awards-her-pollinator-gardens-increased-recorded-species-richness-by-155/articleshow/134980682.cms": {
       "source": "Times of India",
@@ -2200,7 +2200,7 @@
       "author": "Catrin Einhorn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:49.310292+00:00"
+      "retrieved_at": "2026-10-24T11:46:07.595514+00:00"
     },
     "https://www.nytimes.com/2026/10/16/books/review/bogland-merritt-turetsky.html": {
       "source": "NYT Climate",
@@ -2210,7 +2210,7 @@
       "author": "Lauren Redniss",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:53.109414+00:00"
+      "retrieved_at": "2026-10-24T11:46:11.360102+00:00"
     },
     "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html": {
       "source": "NYT Tech",
@@ -2420,7 +2420,7 @@
       "author": "Sheryl Gay Stolberg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:40.292442+00:00"
+      "retrieved_at": "2026-10-24T11:42:01.682768+00:00"
     },
     "https://www.nytimes.com/2026/10/16/us/oregon-shooting-bystander-kaylub-gianmaco.html": {
       "source": "NYT US",
@@ -6530,7 +6530,7 @@
       "author": "Pranav Baskar and Brian O. Otieno",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:32.566156+00:00"
+      "retrieved_at": "2026-10-24T11:41:54.124044+00:00"
     },
     "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html": {
       "source": "NYT World",
@@ -6840,7 +6840,7 @@
       "author": "Jeré Longman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:36.429468+00:00"
+      "retrieved_at": "2026-10-24T11:41:57.915870+00:00"
     },
     "https://www.nytimes.com/2026/10/17/well/family/firearms-elderly-dementia-risks-prevention.html": {
       "source": "NYT Health",
@@ -6860,7 +6860,7 @@
       "author": "Ben Casselman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:49.027633+00:00"
+      "retrieved_at": "2026-10-24T11:47:05.095206+00:00"
     },
     "https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html": {
       "source": "NYT Business",
@@ -11420,7 +11420,7 @@
       "author": "Jack Tamisiea",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:28.691974+00:00"
+      "retrieved_at": "2026-10-24T11:41:50.334641+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs": {
       "source": "Guardian World",
@@ -16670,7 +16670,7 @@
       "author": "SpaceNews Editor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:46.201899+00:00"
+      "retrieved_at": "2026-10-24T11:51:45.567297+00:00"
     },
     "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss": {
       "source": "STAT News",
@@ -20690,7 +20690,7 @@
       "author": "William J. Broad, Kenneth Chang and Carl Zimmer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:45.499453+00:00"
+      "retrieved_at": "2026-10-24T11:46:03.772449+00:00"
     },
     "https://www.nytimes.com/2026/10/19/climate/tree-pandemics-northeast-forests.html": {
       "source": "NYT Climate",
@@ -20700,7 +20700,7 @@
       "author": "Catrin Einhorn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:03.210083+00:00"
+      "retrieved_at": "2026-10-24T11:45:21.671464+00:00"
     },
     "https://www.nytimes.com/2026/10/19/business/michigan-primary-disinformation-campaign.html": {
       "source": "NYT Business",
@@ -21300,7 +21300,7 @@
       "author": "Jin Yu Young",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:06:18.433990+00:00"
+      "retrieved_at": "2026-10-24T11:40:41.408767+00:00"
     },
     "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html": {
       "source": "NYT World",
@@ -21370,7 +21370,7 @@
       "author": "Jan Hoffman and Erin Schaff",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:24.844630+00:00"
+      "retrieved_at": "2026-10-24T11:41:46.522202+00:00"
     },
     "https://www.nytimes.com/2026/10/19/us/billionaire-tax-california-signature-gatherers.html": {
       "source": "NYT US",
@@ -30380,7 +30380,7 @@
       "author": "Apoorva Mandavilli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:20.966488+00:00"
+      "retrieved_at": "2026-10-24T11:41:42.729254+00:00"
     },
     "https://www.npr.org/2026/10/19/nx-s1-5995649/this-summers-fire-season-was-bigger-and-deadlier-than-most": {
       "source": "NPR World",
@@ -30940,7 +30940,7 @@
       "author": "Kenneth Chang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:06:14.641065+00:00"
+      "retrieved_at": "2026-10-24T11:40:37.613813+00:00"
     },
     "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal": {
       "source": "NPR News",
@@ -37290,7 +37290,7 @@
       "author": "Michael Crowley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:45.093690+00:00"
+      "retrieved_at": "2026-10-24T11:47:01.263368+00:00"
     },
     "https://www.nytimes.com/2026/10/20/us/politics/ai-fortunes-could-bring-critical-funds-to-global-health-the-scramble-is-on.html": {
       "source": "NYT Politics",
@@ -37350,7 +37350,7 @@
       "author": "David Quammen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:05:12.751290+00:00"
+      "retrieved_at": "2026-10-24T11:39:36.776959+00:00"
     },
     "https://www.nytimes.com/2026/10/20/health/aids-hiv-jeffrey-schmalz-new-york-times-history.html": {
       "source": "NYT Health",
@@ -37360,7 +37360,7 @@
       "author": "Maureen Dowd",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:17.102593+00:00"
+      "retrieved_at": "2026-10-24T11:41:38.956425+00:00"
     },
     "https://www.nytimes.com/2026/10/20/business/knicks-tickets.html": {
       "source": "NYT Business",
@@ -39510,7 +39510,7 @@
       "author": "Carl Zimmer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:13.309616+00:00"
+      "retrieved_at": "2026-10-24T11:41:35.163802+00:00"
     },
     "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html": {
       "source": "NYT Business",
@@ -40990,7 +40990,7 @@
       "author": "AnySignal",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:42.339560+00:00"
+      "retrieved_at": "2026-10-24T11:51:41.854623+00:00"
     },
     "https://www.bloomberg.com/news/articles/2026-10-20/higher-ed-startup-uses-ai-to-help-colleges-prevent-dropouts": {
       "source": "Bloomberg Markets",
@@ -41870,7 +41870,7 @@
       "author": "Andrew Jacobs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:05.483367+00:00"
+      "retrieved_at": "2026-10-24T11:41:27.581012+00:00"
     },
     "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html": {
       "source": "NYT Business",
@@ -45890,7 +45890,7 @@
       "author": "Claire Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:41.701618+00:00"
+      "retrieved_at": "2026-10-24T11:45:59.989524+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau": {
       "source": "Guardian World",
@@ -47430,7 +47430,7 @@
       "author": "Lisa Friedman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:37.906550+00:00"
+      "retrieved_at": "2026-10-24T11:45:56.193833+00:00"
     },
     "https://www.npr.org/2026/10/20/nx-s1-6008040/supreme-court-recusals-over-books-raise-questions-about-policy": {
       "source": "NPR Politics",
@@ -49120,7 +49120,7 @@
       "author": "Ryan Green",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:05:16.618293+00:00"
+      "retrieved_at": "2026-10-24T11:39:40.591423+00:00"
     },
     "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening": {
       "source": "Guardian World",
@@ -51480,7 +51480,7 @@
       "author": "Chico Harlan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:34.033446+00:00"
+      "retrieved_at": "2026-10-24T11:45:52.409632+00:00"
     },
     "https://www.npr.org/2026/10/21/nx-s1-6003553/america-oil-gas-coal-climate-change-trump-carbon-emissions": {
       "source": "NPR News",
@@ -52490,7 +52490,7 @@
       "author": "Lisa Friedman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:30.185940+00:00"
+      "retrieved_at": "2026-10-24T11:45:48.621936+00:00"
     },
     "https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -54180,7 +54180,7 @@
       "author": "Katrina Miller",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:05:04.864304+00:00"
+      "retrieved_at": "2026-10-24T11:39:28.770615+00:00"
     },
     "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html": {
       "source": "NYT Health",
@@ -54190,7 +54190,7 @@
       "author": "Sophie Haigney",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:01.654451+00:00"
+      "retrieved_at": "2026-10-24T11:41:23.794828+00:00"
     },
     "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html": {
       "source": "NYT Business",
@@ -54200,7 +54200,7 @@
       "author": "Jesse Drucker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:27.489389+00:00"
+      "retrieved_at": "2026-10-24T11:44:46.719929+00:00"
     },
     "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html": {
       "source": "NYT Business",
@@ -54210,7 +54210,7 @@
       "author": "Alex Travelli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:31.352592+00:00"
+      "retrieved_at": "2026-10-24T11:44:50.555738+00:00"
     },
     "https://www.nytimes.com/2026/10/21/business/taiwan-gender-quotas.html": {
       "source": "NYT Business",
@@ -54220,7 +54220,7 @@
       "author": "Li Yuan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:35.260690+00:00"
+      "retrieved_at": "2026-10-24T11:44:54.355741+00:00"
     },
     "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy": {
       "source": "NPR News",
@@ -56140,7 +56140,7 @@
       "author": "Ryan Mac and Jack Ewing",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:23.636840+00:00"
+      "retrieved_at": "2026-10-24T11:44:42.925000+00:00"
     },
     "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls": {
       "source": "NPR News",
@@ -56790,7 +56790,7 @@
       "author": "Craft Prospect",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:38.583518+00:00"
+      "retrieved_at": "2026-10-24T11:51:38.112690+00:00"
     },
     "https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-peaks-oct-21-22-2026-heres-the-best-time-to-spot-shooting-stars": {
       "source": "Space.com",
@@ -57170,7 +57170,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:19.703336+00:00"
+      "retrieved_at": "2026-10-24T11:44:39.124084+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i": {
       "source": "Guardian World",
@@ -57650,7 +57650,7 @@
       "author": "Mike Abrams, Chloe W. Shakin, Stuart A. Thompson, Aisha Khan and Mark Scheffler",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:15.906543+00:00"
+      "retrieved_at": "2026-10-24T11:44:35.340646+00:00"
     },
     "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests": {
       "source": "Guardian World",
@@ -58890,7 +58890,7 @@
       "author": "Emily Anthes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:06:57.755484+00:00"
+      "retrieved_at": "2026-10-24T11:41:19.982523+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last": {
       "source": "Guardian World",
@@ -59070,7 +59070,7 @@
       "author": "Space Nuclear Power Corporation",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:34.722177+00:00"
+      "retrieved_at": "2026-10-24T11:51:34.380455+00:00"
     },
     "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review": {
       "source": "Space.com",
@@ -59880,7 +59880,7 @@
       "author": "Dustin Volz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:30.105663+00:00"
+      "retrieved_at": "2026-10-24T11:38:53.886397+00:00"
     },
     "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html": {
       "source": "NYT Politics",
@@ -59950,7 +59950,7 @@
       "author": "Jack Ewing",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:00.302708+00:00"
+      "retrieved_at": "2026-10-24T11:44:20.149148+00:00"
     },
     "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html": {
       "source": "NYT Business",
@@ -59960,7 +59960,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:04.190386+00:00"
+      "retrieved_at": "2026-10-24T11:44:23.932034+00:00"
     },
     "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html": {
       "source": "NYT Tech",
@@ -59970,7 +59970,7 @@
       "author": "Eli Tan and Cecilia Kang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:37.587500+00:00"
+      "retrieved_at": "2026-10-24T11:39:01.545709+00:00"
     },
     "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html": {
       "source": "NYT Tech",
@@ -59980,7 +59980,7 @@
       "author": "Eli Tan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:26.253265+00:00"
+      "retrieved_at": "2026-10-24T11:38:49.967103+00:00"
     },
     "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html": {
       "source": "NYT Tech",
@@ -59990,7 +59990,7 @@
       "author": "Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:22.407382+00:00"
+      "retrieved_at": "2026-10-24T11:38:46.164288+00:00"
     },
     "https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html": {
       "source": "NYT Health",
@@ -60000,7 +60000,7 @@
       "author": "Apoorva Mandavilli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:06:53.841474+00:00"
+      "retrieved_at": "2026-10-24T11:41:16.190508+00:00"
     },
     "https://www.nytimes.com/2026/10/21/climate/disaster-aid-politics-trump-north-carolina.html": {
       "source": "NYT Climate",
@@ -60010,7 +60010,7 @@
       "author": "Scott Dance",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:59.174986+00:00"
+      "retrieved_at": "2026-10-24T11:45:17.758179+00:00"
     },
     "https://www.nytimes.com/2026/10/21/travel/new-national-park-chiricahua.html": {
       "source": "NYT Science",
@@ -60020,7 +60020,7 @@
       "author": "Ryley Ober",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:06:02.934393+00:00"
+      "retrieved_at": "2026-10-24T11:40:26.214489+00:00"
     },
     "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html": {
       "source": "NYT Business",
@@ -60030,7 +60030,7 @@
       "author": "Jack Ewing",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:56.462172+00:00"
+      "retrieved_at": "2026-10-24T11:44:16.356266+00:00"
     },
     "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html": {
       "source": "NYT Business",
@@ -60040,7 +60040,7 @@
       "author": "Vanessa Friedman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:08.012710+00:00"
+      "retrieved_at": "2026-10-24T11:44:27.723276+00:00"
     },
     "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html": {
       "source": "NYT Business",
@@ -60050,7 +60050,7 @@
       "author": "Erik Wemple and Ash Adams",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:12.006923+00:00"
+      "retrieved_at": "2026-10-24T11:44:31.557691+00:00"
     },
     "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval": {
       "source": "NPR News",
@@ -61970,7 +61970,7 @@
       "author": "TechnoMile",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:26.826083+00:00"
+      "retrieved_at": "2026-10-24T11:51:26.895306+00:00"
     },
     "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/": {
       "source": "Space News",
@@ -61980,7 +61980,7 @@
       "author": "Novaspace",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:30.819986+00:00"
+      "retrieved_at": "2026-10-24T11:51:30.637975+00:00"
     },
     "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026": {
       "source": "Space.com",
@@ -64840,7 +64840,7 @@
       "author": "Ismaeel Naar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:59:05.432517+00:00"
+      "retrieved_at": "2026-10-24T11:33:35.988865+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html": {
       "source": "NYT World",
@@ -64850,7 +64850,7 @@
       "author": "Valerie Hopkins",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:59:09.218773+00:00"
+      "retrieved_at": "2026-10-24T11:33:39.792657+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html": {
       "source": "NYT World",
@@ -64860,7 +64860,7 @@
       "author": "Catherine Porter",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:53.681741+00:00"
+      "retrieved_at": "2026-10-24T11:33:24.603673+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html": {
       "source": "NYT World",
@@ -64870,7 +64870,7 @@
       "author": "Koba Ryckewaert",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:49.731112+00:00"
+      "retrieved_at": "2026-10-24T11:33:20.801354+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html": {
       "source": "NYT World",
@@ -64880,7 +64880,7 @@
       "author": "Andrew Higgins",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:59:16.979692+00:00"
+      "retrieved_at": "2026-10-24T11:33:47.438927+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html": {
       "source": "NYT Business",
@@ -64890,7 +64890,7 @@
       "author": "Lynsey Chutel, Amelia Nierenberg and Brian O. Otieno",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:33.311991+00:00"
+      "retrieved_at": "2026-10-24T11:43:52.979489+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html": {
       "source": "NYT World",
@@ -64900,7 +64900,7 @@
       "author": "Lily Kuo and Pei-Lin Wu",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:57.597159+00:00"
+      "retrieved_at": "2026-10-24T11:33:28.413010+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html": {
       "source": "NYT World",
@@ -64910,7 +64910,7 @@
       "author": "Ephrat Livni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:59:13.098772+00:00"
+      "retrieved_at": "2026-10-24T11:33:43.625704+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html": {
       "source": "NYT World",
@@ -64930,7 +64930,7 @@
       "author": "Muktita Suhartono",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:59:20.768810+00:00"
+      "retrieved_at": "2026-10-24T11:33:51.301815+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html": {
       "source": "NYT World",
@@ -64950,7 +64950,7 @@
       "author": "Josephine de La Bruyère",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:37.917556+00:00"
+      "retrieved_at": "2026-10-24T11:33:09.287939+00:00"
     },
     "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html": {
       "source": "NYT Health",
@@ -64960,7 +64960,7 @@
       "author": "Apoorva Mandavilli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:09.356791+00:00"
+      "retrieved_at": "2026-10-24T11:41:31.375679+00:00"
     },
     "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html": {
       "source": "NYT Business",
@@ -64970,7 +64970,7 @@
       "author": "Karla Adam and Dustin Volz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:13.955466+00:00"
+      "retrieved_at": "2026-10-24T11:43:33.832117+00:00"
     },
     "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html": {
       "source": "NYT Science",
@@ -64980,7 +64980,7 @@
       "author": "Jennifer Sinco Kelleher",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:05:51.143272+00:00"
+      "retrieved_at": "2026-10-24T11:40:14.796869+00:00"
     },
     "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html": {
       "source": "NYT World",
@@ -65060,7 +65060,7 @@
       "author": "Alan Rappeport, Bayliss Wagner and Rebecca Gratz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:37.195489+00:00"
+      "retrieved_at": "2026-10-24T11:43:56.790444+00:00"
     },
     "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html": {
       "source": "NYT US",
@@ -65260,7 +65260,7 @@
       "author": "Cecilia Kang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:55.729774+00:00"
+      "retrieved_at": "2026-10-24T11:38:19.491248+00:00"
     },
     "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html": {
       "source": "NYT Tech",
@@ -65270,7 +65270,7 @@
       "author": "Eli Tan and Theodore Schleifer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:59.453800+00:00"
+      "retrieved_at": "2026-10-24T11:38:23.294177+00:00"
     },
     "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html": {
       "source": "NYT Tech",
@@ -65280,7 +65280,7 @@
       "author": "Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:03.353959+00:00"
+      "retrieved_at": "2026-10-24T11:38:27.146683+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html": {
       "source": "NYT Business",
@@ -65290,7 +65290,7 @@
       "author": "Tiffany Hsu, Steven Lee Myers and Julian E. Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:17.910216+00:00"
+      "retrieved_at": "2026-10-24T11:43:37.689887+00:00"
     },
     "https://www.nytimes.com/2026/10/22/science/space/earth-mars-formed-different.html": {
       "source": "NYT Science",
@@ -65300,7 +65300,7 @@
       "author": "Robin George Andrews",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:57.145085+00:00"
+      "retrieved_at": "2026-10-24T11:39:21.134843+00:00"
     },
     "https://www.nytimes.com/2026/10/22/science/alzheimers-disease-brain-head-shape.html": {
       "source": "NYT Health",
@@ -65310,7 +65310,7 @@
       "author": "Carolyn Y. Johnson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:06:50.065388+00:00"
+      "retrieved_at": "2026-10-24T11:41:12.407163+00:00"
     },
     "https://www.nytimes.com/2026/10/22/climate/nearly-all-of-the-worlds-shallow-coral-reefs-are-now-critically-endangered.html": {
       "source": "NYT Climate",
@@ -65320,7 +65320,7 @@
       "author": "Catrin Einhorn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:51.347976+00:00"
+      "retrieved_at": "2026-10-24T11:45:10.137838+00:00"
     },
     "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html": {
       "source": "NYT Climate",
@@ -65330,7 +65330,7 @@
       "author": "Brad Plumer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:55.243278+00:00"
+      "retrieved_at": "2026-10-24T11:45:13.946514+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html": {
       "source": "NYT Business",
@@ -65350,7 +65350,7 @@
       "author": "Gregory Schmidt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:10.063343+00:00"
+      "retrieved_at": "2026-10-24T11:43:30.034346+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html": {
       "source": "NYT Business",
@@ -65360,7 +65360,7 @@
       "author": "James Paton",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:21.695064+00:00"
+      "retrieved_at": "2026-10-24T11:43:41.522436+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/dealbook/zuckerbergs-big-deal.html": {
       "source": "NYT Business",
@@ -65370,7 +65370,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:25.566488+00:00"
+      "retrieved_at": "2026-10-24T11:43:45.351493+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html": {
       "source": "NYT Business",
@@ -65380,7 +65380,7 @@
       "author": "Aruni Soni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:29.482800+00:00"
+      "retrieved_at": "2026-10-24T11:43:49.165043+00:00"
     },
     "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html": {
       "source": "NYT Business",
@@ -65390,7 +65390,7 @@
       "author": "Ben Casselman, Nour Idriss, Stephanie Swart and Edward Vega",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:41.079342+00:00"
+      "retrieved_at": "2026-10-24T11:44:00.694712+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html": {
       "source": "NYT Economy",
@@ -65400,7 +65400,7 @@
       "author": "Ben Casselman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:41.221767+00:00"
+      "retrieved_at": "2026-10-24T11:46:57.430701+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html": {
       "source": "NYT Business",
@@ -65410,7 +65410,7 @@
       "author": "Jim Zarroli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:48.766435+00:00"
+      "retrieved_at": "2026-10-24T11:44:08.751395+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html": {
       "source": "NYT Business",
@@ -65420,7 +65420,7 @@
       "author": "Jenny Gross",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:52.667307+00:00"
+      "retrieved_at": "2026-10-24T11:44:12.553346+00:00"
     },
     "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino": {
       "source": "NPR News",
@@ -71530,7 +71530,7 @@
       "author": "Remy Tumin and James McManagan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:34.010647+00:00"
+      "retrieved_at": "2026-10-24T11:33:05.415170+00:00"
     },
     "https://www.nytimes.com/2026/10/22/us/politics/hakeem-jeffries-hudson-valley-campaign-midterms.html": {
       "source": "NYT Politics",
@@ -71550,7 +71550,7 @@
       "author": "Christina Jewett",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:05:39.658463+00:00"
+      "retrieved_at": "2026-10-24T11:40:03.329247+00:00"
     },
     "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations": {
       "source": "NPR News",
@@ -72350,7 +72350,7 @@
       "author": "SpaceNews Editor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:23.013804+00:00"
+      "retrieved_at": "2026-10-24T11:51:23.150103+00:00"
     },
     "https://www.space.com/astronomy/van-goghs-the-starry-night-depicts-the-sky-on-july-22-1889-researchers-find": {
       "source": "Space.com",
@@ -73340,7 +73340,7 @@
       "author": "Erika Solomon and Sanam Mahoozi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:26.280565+00:00"
+      "retrieved_at": "2026-10-24T11:32:57.809201+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html": {
       "source": "NYT World",
@@ -73350,7 +73350,7 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:30.123626+00:00"
+      "retrieved_at": "2026-10-24T11:33:01.612386+00:00"
     },
     "https://www.nytimes.com/2026/10/22/us/politics/maine-aoc-jackson-collins-manchin-senate.html": {
       "source": "NYT Politics",
@@ -73410,7 +73410,7 @@
       "author": "",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:26.289890+00:00"
+      "retrieved_at": "2026-10-24T11:45:44.719443+00:00"
     },
     "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html": {
       "source": "NYT Business",
@@ -73420,7 +73420,7 @@
       "author": "Scott Reyburn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:06.302393+00:00"
+      "retrieved_at": "2026-10-24T11:43:26.252220+00:00"
     },
     "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead": {
       "source": "NPR News",
@@ -75220,7 +75220,7 @@
       "author": "Raymond Zhong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:10:47.448617+00:00"
+      "retrieved_at": "2026-10-24T11:45:06.175413+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/oct/22/caricom-reparations-commission-king-charles": {
       "source": "Guardian World",
@@ -76470,7 +76470,7 @@
       "author": "Finbarr O’Reilly",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:14.747126+00:00"
+      "retrieved_at": "2026-10-24T11:32:46.362186+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html": {
       "source": "NYT World",
@@ -76480,7 +76480,7 @@
       "author": "David M. Halbfinger, Natan Odenheimer and Johnatan Reiss",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:18.593705+00:00"
+      "retrieved_at": "2026-10-24T11:32:50.195388+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html": {
       "source": "NYT World",
@@ -76490,7 +76490,7 @@
       "author": "Alexandra Stevenson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:22.467452+00:00"
+      "retrieved_at": "2026-10-24T11:32:54.008348+00:00"
     },
     "https://www.nytimes.com/2026/10/22/us/elections/trump-rally-iowa-senate-race.html": {
       "source": "NYT US",
@@ -77910,7 +77910,7 @@
       "author": "Choe Sang-Hun",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:10.919271+00:00"
+      "retrieved_at": "2026-10-24T11:32:42.517453+00:00"
     },
     "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment": {
       "source": "Guardian World",
@@ -79220,7 +79220,7 @@
       "author": "Jenny Gross",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:09:02.435235+00:00"
+      "retrieved_at": "2026-10-24T11:43:22.417045+00:00"
     },
     "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia": {
       "source": "Guardian Science",
@@ -80320,7 +80320,7 @@
       "author": "Pete Wells",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:42.844716+00:00"
+      "retrieved_at": "2026-10-24T11:43:03.406132+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html": {
       "source": "NYT Business",
@@ -80330,7 +80330,7 @@
       "author": "Tony Romm",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:46.706036+00:00"
+      "retrieved_at": "2026-10-24T11:43:07.249316+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html": {
       "source": "NYT Business",
@@ -80340,7 +80340,7 @@
       "author": "Jeff Sommer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:50.591340+00:00"
+      "retrieved_at": "2026-10-24T11:43:11.062055+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/trump-ground-beef-imports.html": {
       "source": "NYT Business",
@@ -80350,7 +80350,7 @@
       "author": "Kevin Draper",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:54.453414+00:00"
+      "retrieved_at": "2026-10-24T11:43:14.835382+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare": {
       "source": "NPR News",
@@ -80890,7 +80890,7 @@
       "author": "Adam Rasgon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:54.150909+00:00"
+      "retrieved_at": "2026-10-24T11:32:23.381232+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html": {
       "source": "NYT World",
@@ -80900,7 +80900,7 @@
       "author": "Valerie Hopkins",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:55.443589+00:00"
+      "retrieved_at": "2026-10-24T11:32:27.217467+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html": {
       "source": "NYT World",
@@ -80910,7 +80910,7 @@
       "author": "Adam B. Ellick and Seth Kugel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:03.061470+00:00"
+      "retrieved_at": "2026-10-24T11:32:34.901916+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html": {
       "source": "NYT World",
@@ -80920,7 +80920,7 @@
       "author": "Ephrat Livni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:58:06.957161+00:00"
+      "retrieved_at": "2026-10-24T11:32:38.714826+00:00"
     },
     "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html": {
       "source": "NYT World",
@@ -80930,7 +80930,7 @@
       "author": "Adam B. Ellick, Seth Kugel and Jeb Banegas",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:59.276735+00:00"
+      "retrieved_at": "2026-10-24T11:32:31.060189+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank": {
       "source": "NPR News",
@@ -82200,7 +82200,7 @@
       "author": "Max Read, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Marion Lozano and Rowan Niemisto",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:10.958958+00:00"
+      "retrieved_at": "2026-10-24T11:38:34.763610+00:00"
     },
     "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc": {
       "source": "NPR News",
@@ -82890,7 +82890,7 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:35.179050+00:00"
+      "retrieved_at": "2026-10-24T11:42:55.755866+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html": {
       "source": "NYT Business",
@@ -82900,7 +82900,7 @@
       "author": "Michael J. de la Merced",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:39.012343+00:00"
+      "retrieved_at": "2026-10-24T11:42:59.596801+00:00"
     },
     "https://www.npr.org/sections/world-cafe/2026/10/23/nx-s1-6011098/social-distortions-born-to-kill-is-the-punk-bands-first-album-in-15-years": {
       "source": "NPR Health",
@@ -83790,7 +83790,7 @@
       "author": "Raja Abdulrahim and Euan Ward",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:01.747669+00:00"
+      "retrieved_at": "2026-10-24T11:32:15.668636+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html": {
       "source": "NYT World",
@@ -83800,7 +83800,7 @@
       "author": "Frances Robles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:51.580130+00:00"
+      "retrieved_at": "2026-10-24T11:32:19.551646+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html": {
       "source": "NYT Politics",
@@ -83820,7 +83820,7 @@
       "author": "Patricia Mazzei",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:47.595086+00:00"
+      "retrieved_at": "2026-10-24T11:38:11.128043+00:00"
     },
     "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html": {
       "source": "NYT Business",
@@ -83830,7 +83830,7 @@
       "author": "Ann Carrns",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:27.493248+00:00"
+      "retrieved_at": "2026-10-24T11:42:48.067741+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html": {
       "source": "NYT Business",
@@ -83840,7 +83840,7 @@
       "author": "James Paton",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:31.265457+00:00"
+      "retrieved_at": "2026-10-24T11:42:51.870824+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london": {
       "source": "Guardian World",
@@ -84350,7 +84350,7 @@
       "author": "Aurelien Breeden and Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:47.677273+00:00"
+      "retrieved_at": "2026-10-24T11:32:11.866022+00:00"
     },
     "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html": {
       "source": "NYT Business",
@@ -84360,7 +84360,7 @@
       "author": "Nina Agrawal",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:58.337152+00:00"
+      "retrieved_at": "2026-10-24T11:43:18.647397+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed": {
       "source": "Guardian World",
@@ -84830,7 +84830,7 @@
       "author": "Jack Nicas",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:46.515645+00:00"
+      "retrieved_at": "2026-10-24T11:31:22.063597+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/midterms-wisconsin-governor-trump.html": {
       "source": "NYT Politics",
@@ -84840,7 +84840,7 @@
       "author": "Robert Draper",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:40.004549+00:00"
+      "retrieved_at": "2026-10-24T11:38:03.432849+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/trump-bbc-lawsuit-deposition.html": {
       "source": "NYT US",
@@ -84850,7 +84850,7 @@
       "author": "Mark Walker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:01:48.538941+00:00"
+      "retrieved_at": "2026-10-24T11:36:09.813733+00:00"
     },
     "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html": {
       "source": "NYT Tech",
@@ -84860,7 +84860,7 @@
       "author": "Brian X. Chen and Camille Cohen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:51.808384+00:00"
+      "retrieved_at": "2026-10-24T11:38:15.385526+00:00"
     },
     "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html": {
       "source": "NYT Science",
@@ -84870,7 +84870,7 @@
       "author": "Taylor Mitchell Brown",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:53.332011+00:00"
+      "retrieved_at": "2026-10-24T11:39:17.318988+00:00"
     },
     "https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html": {
       "source": "NYT Health",
@@ -84880,7 +84880,7 @@
       "author": "Declan Walsh and Arlette Bashizi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:06:42.242364+00:00"
+      "retrieved_at": "2026-10-24T11:41:04.842123+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread": {
       "source": "Guardian World",
@@ -85390,7 +85390,7 @@
       "author": "Ségolène Le Stradic",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:43.795341+00:00"
+      "retrieved_at": "2026-10-24T11:32:08.042995+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/karen-bass-la-mayor-race.html": {
       "source": "NYT US",
@@ -85400,7 +85400,7 @@
       "author": "Shawn Hubler",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:01:40.459347+00:00"
+      "retrieved_at": "2026-10-24T11:36:02.061833+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html": {
       "source": "NYT Business",
@@ -85410,7 +85410,7 @@
       "author": "Andrew Duehren",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:23.628522+00:00"
+      "retrieved_at": "2026-10-24T11:42:43.831853+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak": {
       "source": "NPR News",
@@ -85890,7 +85890,7 @@
       "author": "Michael D. Shear",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:32.282850+00:00"
+      "retrieved_at": "2026-10-24T11:31:56.459417+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html": {
       "source": "NYT World",
@@ -85900,7 +85900,7 @@
       "author": "Amelia Nierenberg and Lara McCoy",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:36.145431+00:00"
+      "retrieved_at": "2026-10-24T11:32:00.361693+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html": {
       "source": "NYT World",
@@ -85910,7 +85910,7 @@
       "author": "Karla Adam",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:39.930524+00:00"
+      "retrieved_at": "2026-10-24T11:32:04.194459+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html": {
       "source": "NYT Politics",
@@ -85920,7 +85920,7 @@
       "author": "Katie Rogers",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:32.432580+00:00"
+      "retrieved_at": "2026-10-24T11:37:55.616796+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/medicaid-repayment-claims-questions.html": {
       "source": "NYT US",
@@ -85930,7 +85930,7 @@
       "author": "Chris Hamby",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:01:36.470852+00:00"
+      "retrieved_at": "2026-10-24T11:35:58.104284+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html": {
       "source": "NYT Politics",
@@ -85940,7 +85940,7 @@
       "author": "Devlin Barrett and Kellen Browning",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:24.720645+00:00"
+      "retrieved_at": "2026-10-24T11:37:48.007727+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html": {
       "source": "NYT Business",
@@ -85950,7 +85950,7 @@
       "author": "Joe Rennison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:04.200089+00:00"
+      "retrieved_at": "2026-10-24T11:42:24.907866+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html": {
       "source": "NYT Climate",
@@ -85960,7 +85960,7 @@
       "author": "Rebecca F. Elliott and Maddie McGarvey",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:22.361393+00:00"
+      "retrieved_at": "2026-10-24T11:45:40.831063+00:00"
     },
     "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html": {
       "source": "NYT Science",
@@ -85970,7 +85970,7 @@
       "author": "Azeen Ghorayshi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:49.480223+00:00"
+      "retrieved_at": "2026-10-24T11:39:13.515828+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html": {
       "source": "NYT Economy",
@@ -85980,7 +85980,7 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:12:37.268535+00:00"
+      "retrieved_at": "2026-10-24T11:46:53.542345+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html": {
       "source": "NYT Business",
@@ -85990,7 +85990,7 @@
       "author": "Peter Coy",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:15.915510+00:00"
+      "retrieved_at": "2026-10-24T11:42:36.236063+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html": {
       "source": "NYT Business",
@@ -86000,7 +86000,7 @@
       "author": "Tiffany Hsu",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:19.745100+00:00"
+      "retrieved_at": "2026-10-24T11:42:40.052547+00:00"
     },
     "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop": {
       "source": "NPR News",
@@ -87210,7 +87210,7 @@
       "author": "Fatima AbdulKarim, Gabby Sobelman, Azam Ahmed and Ivor Prickett",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:57.870184+00:00"
+      "retrieved_at": "2026-10-24T11:31:52.635132+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/collins-jackson-maine-shut-up-ad.html": {
       "source": "NYT US",
@@ -87220,7 +87220,7 @@
       "author": "Evan Gorelick",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:01:20.821108+00:00"
+      "retrieved_at": "2026-10-24T11:35:42.761061+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/democratic-agenda.html": {
       "source": "NYT Politics",
@@ -87680,7 +87680,7 @@
       "author": "Edward Wong and Julie Turkewitz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:17.137539+00:00"
+      "retrieved_at": "2026-10-24T11:37:40.320646+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/bard-college-president-marvin-krislov.html": {
       "source": "NYT US",
@@ -87690,7 +87690,7 @@
       "author": "Alan Blinder",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:01:16.925407+00:00"
+      "retrieved_at": "2026-10-24T11:35:38.945691+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html": {
       "source": "NYT Politics",
@@ -87700,7 +87700,7 @@
       "author": "Annie Karni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:20.979030+00:00"
+      "retrieved_at": "2026-10-24T11:37:44.196239+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point": {
       "source": "NPR News",
@@ -88040,7 +88040,7 @@
       "author": "Robert Jimison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:13.287850+00:00"
+      "retrieved_at": "2026-10-24T11:37:36.507854+00:00"
     },
     "https://www.npr.org/2026/10/20/nx-s1-5888427/leon-bridges-new-album-happiness-anytime-interview": {
       "source": "NPR Health",
@@ -88420,7 +88420,7 @@
       "author": "Alan Feuer, Charlie Savage and Zach Montague",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:09.519926+00:00"
+      "retrieved_at": "2026-10-24T11:37:32.683888+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters": {
       "source": "NPR News",
@@ -89000,7 +89000,7 @@
       "author": "Danny Hakim",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:57.719180+00:00"
+      "retrieved_at": "2026-10-24T11:35:19.758429+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html": {
       "source": "NYT Politics",
@@ -89010,7 +89010,7 @@
       "author": "Kenneth P. Vogel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:05.649683+00:00"
+      "retrieved_at": "2026-10-24T11:37:28.841209+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html": {
       "source": "NYT Business",
@@ -89020,7 +89020,7 @@
       "author": "Alan Rappeport and Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:08:00.267357+00:00"
+      "retrieved_at": "2026-10-24T11:42:21.135185+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war": {
       "source": "NPR News",
@@ -89250,7 +89250,7 @@
       "author": "Patricia Mazzei",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:03:43.842340+00:00"
+      "retrieved_at": "2026-10-24T11:38:07.284359+00:00"
     },
     "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada": {
       "source": "Guardian World",
@@ -89330,7 +89330,7 @@
       "author": "SpaceNews Editor",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:17:19.008884+00:00"
+      "retrieved_at": "2026-10-24T11:51:19.195537+00:00"
     },
     "https://www.bloomberg.com/news/videos/2026-10-23/oncologists-cheer-melanoma-data-video": {
       "source": "Bloomberg Markets",
@@ -89580,7 +89580,7 @@
       "author": "Michael Levenson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:50.023613+00:00"
+      "retrieved_at": "2026-10-24T11:35:12.073773+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html": {
       "source": "NYT Politics",
@@ -89590,7 +89590,7 @@
       "author": "Mattathias Schwartz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:57.969950+00:00"
+      "retrieved_at": "2026-10-24T11:37:21.179898+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well": {
       "source": "NPR Science",
@@ -90300,7 +90300,7 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:47.334613+00:00"
+      "retrieved_at": "2026-10-24T11:53:08.049982+00:00"
     },
     "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/": {
       "source": "The Hill",
@@ -90310,7 +90310,7 @@
       "author": "Tara Suter",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:51.327348+00:00"
+      "retrieved_at": "2026-10-24T11:53:11.819461+00:00"
     },
     "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/": {
       "source": "The Hill",
@@ -90320,7 +90320,7 @@
       "author": "Miranda Nazzaro",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:55.341291+00:00"
+      "retrieved_at": "2026-10-24T11:53:15.885783+00:00"
     },
     "https://thehill.com/policy/energy-environment/6169430-wv-ag-subpoenas-environmental-groups/": {
       "source": "The Hill",
@@ -90750,7 +90750,7 @@
       "author": "Luke Broadwater",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:54.176460+00:00"
+      "retrieved_at": "2026-10-24T11:37:17.383991+00:00"
     },
     "https://www.nytimes.com/live/2026/10/23/us/midterm-elections-trump/alaska-courts-ruled-months-ago-on-the-two-dan-sullivans-in-the-senate-race": {
       "source": "NYT US",
@@ -90770,7 +90770,7 @@
       "author": "Eshe Nelson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:56.382855+00:00"
+      "retrieved_at": "2026-10-24T11:42:17.314536+00:00"
     },
     "https://www.npr.org/2026/10/23/nx-s1-6003856/at-a-texas-high-school-football-game-fans-offer-a-glimpse-into-evolving-politics": {
       "source": "NPR Politics",
@@ -90870,7 +90870,7 @@
       "author": "Nathaniel Weixel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:31.464251+00:00"
+      "retrieved_at": "2026-10-24T11:52:53.038237+00:00"
     },
     "https://thehill.com/newsletters/defense-national-security/6169593-pressure-mounts-on-trump-administration-over-starlink-slowdown/": {
       "source": "The Hill",
@@ -90880,7 +90880,7 @@
       "author": "Ellen Mitchell",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:35.470951+00:00"
+      "retrieved_at": "2026-10-24T11:52:56.800954+00:00"
     },
     "https://thehill.com/newsletters/energy-environment/6169571-trump-uses-dpa-to-give-150m-for-gas-and-diesel/": {
       "source": "The Hill",
@@ -90890,7 +90890,7 @@
       "author": "Rachel Frazin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:39.460140+00:00"
+      "retrieved_at": "2026-10-24T11:53:00.554050+00:00"
     },
     "https://thehill.com/newsletters/business-economy/6169583-stocks-slide-as-oil-prices-rise-again-ahead-of-midterms/": {
       "source": "The Hill",
@@ -90900,7 +90900,7 @@
       "author": "Max Rego",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:43.431735+00:00"
+      "retrieved_at": "2026-10-24T11:53:04.306686+00:00"
     },
     "https://www.abc.net.au/news/2026-10-24/drivers-celebrate-vintage-model-a-cars/107303644": {
       "source": "ABC Australia",
@@ -91020,7 +91020,7 @@
       "author": "Charlie Savage",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:38.388278+00:00"
+      "retrieved_at": "2026-10-24T11:35:00.563817+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html": {
       "source": "NYT Politics",
@@ -91030,7 +91030,7 @@
       "author": "Jess Bidgood",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:50.330542+00:00"
+      "retrieved_at": "2026-10-24T11:37:13.589796+00:00"
     },
     "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom": {
       "source": "Guardian World",
@@ -91160,7 +91160,7 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:27.621869+00:00"
+      "retrieved_at": "2026-10-24T11:52:49.259649+00:00"
     },
     "https://www.abc.net.au/news/2026-10-24/helen-haines-condition-update/107304464": {
       "source": "ABC Australia",
@@ -91220,7 +91220,7 @@
       "author": "Tim Balk and Kellen Browning",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:46.118574+00:00"
+      "retrieved_at": "2026-10-24T11:35:08.255957+00:00"
     },
     "https://www.nytimes.com/2026/10/23/science/space/nasa-artemis-program-update.html": {
       "source": "NYT Science",
@@ -91230,7 +91230,7 @@
       "author": "Kenneth Chang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:04:45.598077+00:00"
+      "retrieved_at": "2026-10-24T11:39:09.553097+00:00"
     },
     "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia": {
       "source": "Guardian World",
@@ -91270,7 +91270,7 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:23.788406+00:00"
+      "retrieved_at": "2026-10-24T11:52:45.493058+00:00"
     },
     "https://www.abc.net.au/news/2026-10-24/capel-mother-calls-for-longer-type-1-diabetes-school-support/107296556": {
       "source": "ABC Australia",
@@ -91390,7 +91390,7 @@
       "author": "Anton Troianovski and Eric Lipton",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:46.575708+00:00"
+      "retrieved_at": "2026-10-24T11:37:09.736487+00:00"
     },
     "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -91790,7 +91790,7 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:19.866429+00:00"
+      "retrieved_at": "2026-10-24T11:52:41.740730+00:00"
     },
     "https://www.abc.net.au/news/2026-10-24/australian-cattle-prices-hit-record-highs-as-rain-tumbles-down/107303254": {
       "source": "ABC Australia",
@@ -91980,7 +91980,7 @@
       "author": "Laurel Rosenhall and Shawn Hubler",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:26.856987+00:00"
+      "retrieved_at": "2026-10-24T11:34:49.144205+00:00"
     },
     "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale": {
       "source": "Guardian World",
@@ -92020,7 +92020,7 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:15.867099+00:00"
+      "retrieved_at": "2026-10-24T11:52:37.997282+00:00"
     },
     "https://timesofindia.indiatimes.com/city/hyderabad/15-yr-old-sexually-assaulted-7-held/articleshow/135153608.cms": {
       "source": "Times of India",
@@ -92180,7 +92180,7 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:11.992908+00:00"
+      "retrieved_at": "2026-10-24T11:52:34.254384+00:00"
     },
     "https://www.abc.net.au/news/2026-10-24/former-port-adelaide-afl-player-daniel-stewart-dies-at-37/107304782": {
       "source": "ABC Australia",
@@ -92456,11 +92456,11 @@
       "source": "NYT World",
       "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
       "title": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
-      "date": "Sat, 24 Oct 2026 10:37:08 +0000",
+      "date": "Sat, 24 Oct 2026 11:21:46 +0000",
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:11.836699+00:00"
+      "retrieved_at": "2026-10-24T11:30:32.027861+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html": {
       "source": "NYT World",
@@ -92470,7 +92470,7 @@
       "author": "Isabel Kershner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:15.809526+00:00"
+      "retrieved_at": "2026-10-24T11:30:47.594738+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html": {
       "source": "NYT World",
@@ -92480,7 +92480,7 @@
       "author": "Marc Santora",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:19.689768+00:00"
+      "retrieved_at": "2026-10-24T11:30:43.756403+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html": {
       "source": "NYT World",
@@ -92490,7 +92490,7 @@
       "author": "Ben Hubbard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:23.518649+00:00"
+      "retrieved_at": "2026-10-24T11:30:55.215988+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html": {
       "source": "NYT World",
@@ -92500,7 +92500,7 @@
       "author": "Choe Sang-Hun and Chris Buckley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:31.239251+00:00"
+      "retrieved_at": "2026-10-24T11:30:59.033845+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html": {
       "source": "NYT Politics",
@@ -92510,7 +92510,7 @@
       "author": "Steve Fisher, Jack Nicas, Eric Schmitt, Maria Abi-Habib, Julian E. Barnes and Zolan Kanno-Youngs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:16.005381+00:00"
+      "retrieved_at": "2026-10-24T11:36:39.258493+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html": {
       "source": "NYT World",
@@ -92520,7 +92520,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:38.955848+00:00"
+      "retrieved_at": "2026-10-24T11:31:06.709097+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html": {
       "source": "NYT World",
@@ -92530,7 +92530,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:42.769195+00:00"
+      "retrieved_at": "2026-10-24T11:31:10.505734+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html": {
       "source": "NYT World",
@@ -92540,7 +92540,7 @@
       "author": "Somini Sengupta",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:56:50.387469+00:00"
+      "retrieved_at": "2026-10-24T11:31:18.210219+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html": {
       "source": "NYT World",
@@ -92550,17 +92550,17 @@
       "author": "Leo Sands",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:09.370455+00:00"
+      "retrieved_at": "2026-10-24T11:31:29.707050+00:00"
     },
     "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest": {
       "source": "NYT World",
       "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
       "title": "Here’s the latest.",
-      "date": "Sat, 24 Oct 2026 09:47:54 +0000",
+      "date": "Sat, 24 Oct 2026 10:58:46 +0000",
       "author": "Mark Landler",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:13.174991+00:00"
+      "retrieved_at": "2026-10-24T11:31:33.519272+00:00"
     },
     "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html": {
       "source": "NYT World",
@@ -92570,7 +92570,7 @@
       "author": "Ana Ionova, Leila Medina and Thomas Vollkommer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:16.989726+00:00"
+      "retrieved_at": "2026-10-24T11:31:37.381068+00:00"
     },
     "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html": {
       "source": "NYT World",
@@ -92580,7 +92580,7 @@
       "author": "Marta Giaccone",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:20.842826+00:00"
+      "retrieved_at": "2026-10-24T11:31:41.217083+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html": {
       "source": "NYT Politics",
@@ -92590,7 +92590,7 @@
       "author": "Edward Wong, Jonathan Swan and Julian E. Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:42.706782+00:00"
+      "retrieved_at": "2026-10-24T11:37:05.934265+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html": {
       "source": "NYT Politics",
@@ -92600,7 +92600,7 @@
       "author": "Reid J. Epstein and Campbell Robertson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:08.371109+00:00"
+      "retrieved_at": "2026-10-24T11:36:31.434244+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/el-sayed-black-voters-arab-tensions.html": {
       "source": "NYT Politics",
@@ -92610,7 +92610,7 @@
       "author": "Shane Goldmacher and Michael Kruse",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:12.213881+00:00"
+      "retrieved_at": "2026-10-24T11:36:35.422522+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/trump-muslim-voters-feel-used.html": {
       "source": "NYT Politics",
@@ -92620,7 +92620,7 @@
       "author": "Zolan Kanno-Youngs and Hamed Aleaziz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:19.855303+00:00"
+      "retrieved_at": "2026-10-24T11:36:43.084785+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/toddler-alive-morgue-parents-lawsuit-arizona.html": {
       "source": "NYT US",
@@ -92630,7 +92630,7 @@
       "author": "Rebecca Chao",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:59:44.430907+00:00"
+      "retrieved_at": "2026-10-24T11:34:07.190720+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html": {
       "source": "NYT Politics",
@@ -92640,7 +92640,7 @@
       "author": "Linda Qiu and Daniel Fetherston",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:23.618925+00:00"
+      "retrieved_at": "2026-10-24T11:36:46.878624+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html": {
       "source": "NYT US",
@@ -92650,7 +92650,7 @@
       "author": "Reid J. Epstein and Ruth Igielnik",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:59:52.224203+00:00"
+      "retrieved_at": "2026-10-24T11:34:14.836903+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html": {
       "source": "NYT Politics",
@@ -92660,7 +92660,7 @@
       "author": "Lisa Lerer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:27.365041+00:00"
+      "retrieved_at": "2026-10-24T11:36:50.667599+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html": {
       "source": "NYT Politics",
@@ -92670,7 +92670,7 @@
       "author": "Tim Balk",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:31.234409+00:00"
+      "retrieved_at": "2026-10-24T11:36:54.511651+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html": {
       "source": "NYT US",
@@ -92680,7 +92680,7 @@
       "author": "Jessica Contrera",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:03.754171+00:00"
+      "retrieved_at": "2026-10-24T11:34:26.296453+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/jamie-ager-western-north-carolina.html": {
       "source": "NYT Politics",
@@ -92690,7 +92690,7 @@
       "author": "Eduardo Medina",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:35.077089+00:00"
+      "retrieved_at": "2026-10-24T11:36:58.314799+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/transgender-midterm-election.html": {
       "source": "NYT US",
@@ -92700,7 +92700,7 @@
       "author": "Amy Harmon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:11.379939+00:00"
+      "retrieved_at": "2026-10-24T11:34:33.901804+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html": {
       "source": "NYT Politics",
@@ -92710,7 +92710,7 @@
       "author": "Madeleine Ngo and David Ovalle",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:38.859523+00:00"
+      "retrieved_at": "2026-10-24T11:37:02.139480+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html": {
       "source": "NYT US",
@@ -92720,7 +92720,7 @@
       "author": "Maya King and Jeffery C. Mays",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:00:19.085929+00:00"
+      "retrieved_at": "2026-10-24T11:34:41.560231+00:00"
     },
     "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html": {
       "source": "NYT Politics",
@@ -92730,7 +92730,7 @@
       "author": "Lulu Garcia-Navarro",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:04.513657+00:00"
+      "retrieved_at": "2026-10-24T11:36:26.859621+00:00"
     },
     "https://www.nytimes.com/2026/10/24/science/dig-peacock-archaeology-amy-poehler.html": {
       "source": "NYT Science",
@@ -92740,7 +92740,7 @@
       "author": "Stella Raine Chu",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:05:20.425233+00:00"
+      "retrieved_at": "2026-10-24T11:39:44.383100+00:00"
     },
     "https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html": {
       "source": "NYT Science",
@@ -92750,7 +92750,7 @@
       "author": "Katrina Miller and Billy Hickey",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:05:24.302764+00:00"
+      "retrieved_at": "2026-10-24T11:39:48.166050+00:00"
     },
     "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html": {
       "source": "NYT Business",
@@ -92760,7 +92760,7 @@
       "author": "Niraj Chokshi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:07:44.680334+00:00"
+      "retrieved_at": "2026-10-24T11:42:05.870415+00:00"
     },
     "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html": {
       "source": "NYT Climate",
@@ -92770,7 +92770,7 @@
       "author": "Maxine Joselow and Eric Lipton",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:14.699641+00:00"
+      "retrieved_at": "2026-10-24T11:45:33.134880+00:00"
     },
     "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html": {
       "source": "NYT Climate",
@@ -92780,7 +92780,7 @@
       "author": "Eric Lipton, Maxine Joselow and Mira Rojanasakul",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:18.562373+00:00"
+      "retrieved_at": "2026-10-24T11:45:36.946390+00:00"
     },
     "https://www.nytimes.com/video/climate/100000011186318/how-trump-rolled-back-limits-on-toxic-air-pollution.html": {
       "source": "NYT Climate",
@@ -92790,7 +92790,7 @@
       "author": "Eric Lipton, Jon Miller, Paul Abowd, Rafaela Balster and Nikolay Nikolov",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:11:10.916965+00:00"
+      "retrieved_at": "2026-10-24T11:45:29.297471+00:00"
     },
     "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan": {
       "source": "NPR News",
@@ -93740,7 +93740,7 @@
       "author": "Sarah Fortinsky",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:00.096948+00:00"
+      "retrieved_at": "2026-10-24T11:52:22.902138+00:00"
     },
     "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/": {
       "source": "The Hill",
@@ -93750,7 +93750,7 @@
       "author": "Caroline Vakil",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:04.065261+00:00"
+      "retrieved_at": "2026-10-24T11:52:26.728023+00:00"
     },
     "https://thehill.com/business/6169485-trump-farm-relief-diesel-prices/": {
       "source": "The Hill",
@@ -93760,7 +93760,7 @@
       "author": "Max Rego",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:19:08.070302+00:00"
+      "retrieved_at": "2026-10-24T11:52:30.491415+00:00"
     },
     "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again": {
       "source": "France 24",
@@ -93910,7 +93910,7 @@
       "author": "ABHAY",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:20:26.651376+00:00"
+      "retrieved_at": "2026-10-24T11:54:01.232486+00:00"
     },
     "https://timesofindia.indiatimes.com/city/aurangabad/838-number-plate-pool-of-blood-screams-chilling-video-captures-daylight-murder-in-maharashtras-chhatrapati-sambhajinagar/articleshow/135164176.cms": {
       "source": "Times of India",
@@ -93920,7 +93920,7 @@
       "author": "MOHAMMED AKHEF",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:20:52.910578+00:00"
+      "retrieved_at": "2026-10-24T11:55:01.745135+00:00"
     },
     "https://timesofindia.indiatimes.com/india/will-not-sign-aisa-chief-neha-bora-defies-delhi-police-peace-bond-notice-after-hc-setback/articleshow/135165284.cms": {
       "source": "Times of India",
@@ -93950,7 +93950,7 @@
       "author": "TOI TECH DESK",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:20:44.384703+00:00"
+      "retrieved_at": "2026-10-24T11:53:44.433576+00:00"
     },
     "https://timesofindia.indiatimes.com/india/no-hesitation-in-detaining-youth-congress-targets-government-over-us-national-vandykes-release-in-myanmar-arms-case/articleshow/135166874.cms": {
       "source": "Times of India",
@@ -94080,7 +94080,7 @@
       "author": "AASTHA JHA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:27.292981+00:00"
+      "retrieved_at": "2026-10-24T11:55:14.605072+00:00"
     },
     "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-breaks-world-record-during-india-vs-new-zealand-2nd-t20i/articleshow/135165617.cms": {
       "source": "Times of India",
@@ -94100,7 +94100,7 @@
       "author": "PRANJAL PANDEY",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:31.427159+00:00"
+      "retrieved_at": "2026-10-24T11:55:18.940992+00:00"
     },
     "https://timesofindia.indiatimes.com/world/middle-east/how-jeffrey-epstein-became-houthis-new-weapon-against-saudi-arabia/articleshow/135163049.cms": {
       "source": "Times of India",
@@ -94110,7 +94110,7 @@
       "author": "AASTHA JHA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:35.804440+00:00"
+      "retrieved_at": "2026-10-24T11:55:23.233667+00:00"
     },
     "https://timesofindia.indiatimes.com/world/rest-of-world/did-van-goghs-starry-night-depict-real-sky-from-july-1889-these-scientists-believe-so/articleshow/135162600.cms": {
       "source": "Times of India",
@@ -94120,7 +94120,7 @@
       "author": "MAHIMA SHARMA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:40.070887+00:00"
+      "retrieved_at": "2026-10-24T11:55:27.700920+00:00"
     },
     "https://timesofindia.indiatimes.com/sports/cricket/news/four-years-i-never-chased-this-indian-jersey-bhuvneshwar-kumar-credits-ipl-for-india-comeback/articleshow/135164299.cms": {
       "source": "Times of India",
@@ -94140,7 +94140,7 @@
       "author": "PRABIN KALITA",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:44.388785+00:00"
+      "retrieved_at": "2026-10-24T11:55:31.990223+00:00"
     },
     "https://timesofindia.indiatimes.com/city/bareilly/13k-pilibhit-voter-details-changed-up-ceo-calls-it-a-deliberate-crime/articleshow/135159697.cms": {
       "source": "Times of India",
@@ -94150,7 +94150,7 @@
       "author": "KESHAV AGARWAL",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:48.457805+00:00"
+      "retrieved_at": "2026-10-24T11:55:36.292397+00:00"
     },
     "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2027-steffan-jones-joins-mumbai-indians-as-bowling-consultant/articleshow/135164826.cms": {
       "source": "Times of India",
@@ -94160,7 +94160,7 @@
       "author": "PRATYUSH RAJ",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:52.643079+00:00"
+      "retrieved_at": "2026-10-24T11:55:40.545246+00:00"
     },
     "https://timesofindia.indiatimes.com/sports/cricket/news/australian-umpires-ranji-trophy-sojourn-aeroplanes-overhead-at-palam-bkcs-red-soil-pitch-love-for-garlic-naan-and-vada-pav/articleshow/135164369.cms": {
       "source": "Times of India",
@@ -94760,7 +94760,7 @@
       "author": "Siobhán O’Grady",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:02:00.625042+00:00"
+      "retrieved_at": "2026-10-24T11:36:22.341962+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html": {
       "source": "NYT World",
@@ -94770,7 +94770,7 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T10:57:05.496341+00:00"
+      "retrieved_at": "2026-10-24T11:31:25.878507+00:00"
     },
     "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait": {
       "source": "Guardian US",
@@ -95060,7 +95060,7 @@
       "author": "ADVITYA BAHL",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:20:35.757947+00:00"
+      "retrieved_at": "2026-10-24T11:54:35.815744+00:00"
     },
     "https://timesofindia.indiatimes.com/world/us/us-on-alert-iran-plots-to-target-american-personnel-abroad-reach-advanced-stages-report/articleshow/135167534.cms": {
       "source": "Times of India",
@@ -95070,7 +95070,7 @@
       "author": "TRISHA MAHAJAN",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:20:39.827316+00:00"
+      "retrieved_at": "2026-10-24T11:53:22.448132+00:00"
     },
     "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kieron-pollard-doesnt-want-to-see-yellows-and-reds-at-wankhede-in-ipl-urges-mi-players-to-put-team-above-self/articleshow/135168237.cms": {
       "source": "Times of India",
@@ -95090,7 +95090,7 @@
       "author": "TOI WORLD DESK",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:20:57.431109+00:00"
+      "retrieved_at": "2026-10-24T11:54:31.584109+00:00"
     },
     "https://timesofindia.indiatimes.com/world/us/a-wisconsin-mother-and-her-9-year-old-son-spotted-a-century-old-tugboat-beneath-lake-superior-after-visiting-the-same-beach-for-years-unusually-clear-water-revealed-the-a-h-pitz-abandoned-near-the-amnicon-river-in-1951/articleshow/135167993.cms": {
       "source": "Times of India",
@@ -95100,7 +95100,7 @@
       "author": "TOI WORLD DESK",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:01.719179+00:00"
+      "retrieved_at": "2026-10-24T11:54:23.045936+00:00"
     },
     "https://timesofindia.indiatimes.com/world/us/at-a-historic-virginia-plantation-linked-to-the-lee-family-480-acres-along-the-potomac-river-have-been-permanently-protected-the-new-easement-connects-with-around-7000-acres-of-conserved-landscapes/articleshow/135165101.cms": {
       "source": "Times of India",
@@ -95120,7 +95120,7 @@
       "author": "TOI TECH DESK",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:10.692015+00:00"
+      "retrieved_at": "2026-10-24T11:54:18.845293+00:00"
     },
     "https://timesofindia.indiatimes.com/world/europe/ukraine-drone-attacks-cut-power-and-water-in-crimea-hit-russian-petrochemical-plant/articleshow/135166893.cms": {
       "source": "Times of India",
@@ -95130,7 +95130,7 @@
       "author": "PRANJAL PANDEY",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:19.048500+00:00"
+      "retrieved_at": "2026-10-24T11:55:06.145715+00:00"
     },
     "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms": {
       "source": "Times of India",
@@ -95140,7 +95140,7 @@
       "author": "PRANJAL PANDEY",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-24T11:21:23.172425+00:00"
+      "retrieved_at": "2026-10-24T11:55:10.429883+00:00"
     },
     "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong": {
       "source": "South China Morning Post",
@@ -95161,6 +95161,346 @@
       "text": "With his coalition under pressure, Merz delivered an address at the close of the CSU conference in Munich. Meanwhile, fire has largely destroyed Hitler's former Eagle's Nest retreat. DW has more\n\nRead below for a roundup of stories making news in Germany for the weekend of October 24-25.\n\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google. Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed.\n\nChancellor Friedrich Merz gave an indication that the electricity tax could be lowered next year.\n\n\"If it’s possible — and I think it is — then the electricity tax must be lowered next year,\" Merz said Saturday at the CSU party convention in Munich.\n\nHis coalition partners have already agreed to lower the electricity tax for everyone to the European minimum as quickly as possible.\n\nTo date, the federal government has only approved reductions for industry, agriculture, and forestry and Germany's Finance Minister Lars Klingbeil (SPD) has said there is not much wiggle room, despite forecasts of higher tax revenues.\n\nFederal chancellor and CDU leader Friedrich Merz called on the CDU its Bavarian sister party, the CSU, to show maximum unity.\n\n\"The CDU and CSU must stand together more closely than ever,\" Merz said at the close of the CSU's party convention in Munich.\n\nHe said the Union is being attacked by \"extremists\" from the political fringes and said that the Union does not want to — and will not leave Germany in the hands of these forces.\n\nMerz emphasized his relationship with CSU leader Markus Söder, saying that he was \"the strong voice\" for the CSU in Bavaria, but also at the federal level.\n\n\"We are united by a deep-seated sense of responsibility for our country,\" Merz said, adding that it was a shared responsibility.\n\nGerman police have arrested a Ukrainian man accused of spying for a Russian intelligence service with a focus on \"militarily relevant information,\" federal prosecutors said. DW's correspondent reports.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nGerman Chancellor Friedrich Merz is set to make an address at the Munich Exhibition Halls as the Bavarian Christian Social Union (CSU) closes its two-day party conference.\n\nMerz's speech comes at a turbulent time for the CDU/CSU alliance and expectations among delegates for the speech by the leader of the conservative bloc are mixed.\n\nThe CSU is the Bavarian sister party of Friedrich Merz's Christian Democratic Union (CDU) and there remain a number of key issues that have many in the CSU concerned over the future of the party at a national level.\n\nA point of contention is who from the conservative bloc will succeed outgoing President Frank-Walter Steinmeier, with there being no clarity as yet from Merz or CSU leader Markus Söder, as to who their candidate would be.\n\nCoupled with that leadership question, there is discontent over the pace of implementation of reforms of Germany's retirement, nursing care and health insurance systems.\n\nThere is also concern over a strategy to deal with the rise of the far-right in the form of the Alternative for Germany party (AfD).\n\nA fire broke out on Friday evening at the Kehlsteinhaus in Bavaria more commonly known as the Eagle's Nest and used as a retreat by Adolf Hitler and Nazi officials.\n\nThe Kehlsteinhaus was engulfed in flames, a police statement read, adding that a suspect has been arrested and the incident was being criminally investigated.\n\nRead more about that here.\n\nGuten Morgen  from a chilly newsroom here in Bonn.\n\nChancellor Friedrich Merz is set to address his CDU's Bavarian sister party the Christian Social Union (CSU) as their 2-day party conference wraps up in Munich.\n\nThe coalition government that Merz's Christian Democratic Union (CDU) and the CSU belong to along with the center-left Social Democratic Party (SPD) is facing a number of challenges.\n\nThere has been speculation over the political future of Merz's coalition, consiting of CDU, the CSU and the center-left Social Democratic Party (SPD), folllowing a string of electoral setbacks and policy issues.\n\nAnd then overnight, a fire has ripped through the one-time retreat in the Bavarian Alps, built for Nazi leader Adolf Hitler.\n\nStay tuned for the latest on these stories and more from Germany this weekend.",
       "summary": " German Chancellor Friedrich Merz says electricity tax could be lowered next year. Fire has largely destroyed Hitler's former Eagle's Nest retreat in Bavaria. Merz's coalition partners have already agreed to lower the electricity tax for everyone to the European minimum as quickly as possible.",
       "retrieved_at": "2026-10-24T11:22:30.578502+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "date": "Sat, 24 Oct 2026 11:17:35 GMT",
+      "author": "",
+      "text": "Ukraine now has a \"stable connection\" to Starlink, its defence minister has said, after its military suffered days of restricted connectivity on the satellite network.\n\nKyiv relies on the Starlink and its military-grade counterpart Starshield for piloting drones and operations within Ukraine, but last week accused US President Donald Trump of telling owner Elon Musk to place limits on it.\n\nThis meant drones would lose connection when travelling at 161km/h (100mph) or more, it said. Trump denied doing so before saying Musk had \"put it back\".\n\nDefence Minister Yevhenii Khmara said that speeds of more than 400km/h were now possible on the network, indicating that full capability had been restored.\n\n\"This result is above all important for our front, for our soldiers, for the operation of drones, for logistics and for communications,\" he said in a statement on Saturday.\n\nUkraine's military uses the network of 10,000 low Earth orbit satellites extensively for military operations, particularly in remote areas on the battlefield.\n\nUkraine uses both the civilian service Starlink and the more secure Starshield, which Musk said was controlled by the US military when he suggested the Pentagon could be behind the recent issues.\n\nRussia is not authorised to use Starlink, so when Ukraine sends long-range missiles or drones deep into Russia to hit oil refineries, the network does not work.\n\nThe debacle over Starlink began last week, and emerged during a broader diplomatic row between Trump and his Ukrainian counterpart Volodymyr Zelensky over Ukrainian strikes on Russian oil infrastructure.\n\nFaced with midterm elections next month, Trump has waived some sanctions on Russia and agreed a deal to import Russian diesel for the US market - a move criticised by Ukraine and its European allies.\n\nTrump said the strikes on Russian oil refineries, which Kyiv says are crucial to stemming the main revenue source for Moscow's war effort, have pushed global prices higher.\n\nWhile the attacks have had an impact on global fuel prices, rises seen this year have primarily been due to the Iran war.\n\nZelensky said that, as well as seemingly limiting Starlink capability in Ukraine, the US had also threatened to withdraw intelligence sharing if the strikes did not stop, something Trump also denied.\n\nMeanwhile, fighting on the ground continues.\n\nRussian authorities said on Saturday there were power cuts in Russian-annexed Crimea following a Ukrainian drone attack.\n\nSergey Aksyonov, the Moscow-backed governor of the region, said restrictions on electricity and water had been put in place.\n\nSeparately, Russian-backed authorities said at least three people had been killed and another wounded in a separate Ukrainian strike in Kharkiv.",
+      "summary": " Ukraine's military relies on the Starlink and its military-grade Starshield for piloting drones and operations within Ukraine. But last week, US President Donald Trump accused owner Elon Musk of limiting access to the network. This meant drones would lose connection when travelling at 161km/h (100mph) or more, it",
+      "retrieved_at": "2026-10-24T11:30:18.513684+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "date": "Sat, 24 Oct 2026 09:45:47 GMT",
+      "author": "",
+      "text": "A woman has died after attempting to rescue her two sons when they were swept away while snorkelling in the Bahamas.\n\nThe Royal Bahamas Police Force said officers on the island of Bimini launched an investigation into the sudden death of a 36-year-old British woman on Tuesday.\n\nThe force said it believed the woman - believed to be from Stapleford in Nottinghamshire - was snorkelling with her husband and two sons near the southern point of the island when a strong current reportedly swept both children away.\n\nIn an attempt to rescue her sons, \"the woman was also swept away\", police said. The children were subsequently rescued from the water.\n\nIn a statement, posted on social media, the Royal Bahamas Police Force said: \"According to the preliminary report, shortly after 10am, officers at the Alice Town police station received information that a female was unresponsive at the North Bimini Ferry Dock.\n\n\"Officers responded and, upon arrival, learned that the woman had been transported to the local clinic for medical attention, where she was subsequently pronounced dead by a local doctor despite efforts to save her life.\n\n\"Preliminary information indicates that the deceased was snorkelling with her husband and two sons near the southern point of the island when a strong current reportedly swept both children away.\n\n\"In an attempt to rescue her sons, the woman was also swept away.\n\n\"She was later rescued and transported to the ferry dock, where CPR was reportedly administered.\n\n\"Foul play is not suspected at this time.\n\n\"An autopsy will be conducted to assist in determining the exact cause of death.\"\n\nA spokesperson for the Foreign Office added: \"Our thoughts are with the family of a British woman who has died in the Bahamas.\n\n\"We are in contact with the local authorities and providing support to her family.\"\n\nListen to BBC Radio Nottingham on Sounds and follow BBC Nottingham on Facebook, on X, or on Instagram. Send your story ideas to eastmidsnews@bbc.co.uk or via WhatsApp on 0808 100 2210.",
+      "summary": " British woman, 36, died after being swept away while snorkelling in the Bahamas. Police say she was snorking with her husband and two sons near the southern point of the island. The children were subsequently rescued from the water and taken to a local clinic.",
+      "retrieved_at": "2026-10-24T11:30:22.605785+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC Politics",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "date": "Sat, 24 Oct 2026 11:03:57 GMT",
+      "author": "",
+      "text": "Giving the north of England a crack at hosting the globe's biggest sports event might seem about as Brand Burnham as it gets.\n\nSeven million pounds of taxpayers' cash is a teeny drop in the context of the overall Budget, to pay for the government to take a closer look at possible plans. But the idea is sure to get tongues wagging - and headline writers scribbling.\n\nA \"Northern Games\" in 2040 or beyond just might create a massive sense of national feel-good, jobs and development, as the Olympics in east London did more than a decade ago.\n\nBut it's a promise of a possibility at least a decade away. And what could be more in tune with the Manchester-loving prime minister and his proud Yorkshireman chancellor than a sporting plan fixed firmly on the top geographical chunk of the country?\n\nIt's Brand Burnham alright, popular with most of the Labour backbenches, just add the Twiglets and the pint in the stands.\n\nThe prime minister and his team are proud of a distinct feature of their government so far, focusing on small things that might make a big difference: fines for blaring out music on your phone on the bus, cracking down on \"rip-off\" parking charges, investing a small amount of cash in a big ambition for a sporting event in future.\n\nIt's what some ministers call \"the politics of trying\" – putting time and effort into ideas that you don't pretend are revolutionary, but give direction, and a sense of sympathy to the public.\n\nIt's an echo, deliberate or not, of another Labour Prime Minister, Harold Wilson, who sent memos to his cabinet in 1974 demanding \"little things that mean a lot\".\n\nHe ended up with a list of plans including nationalising small breweries to stop them being gulped up by big firms (paging Andy Burnham), freezing phone installation charges for pensioners, and plans for empty office blocks.\n\nBut the next few days could bring an end to that \"politics of trying\" phase, with one senior official describing the coming Budget as \"the first proper moment for the government, which will then be in the pipeline for the 10-year plan, then a very difficult spending review\".\n\nAn influential Labour MP told me: \"The Budget has to be the beginning of the future story.\"\n\nA fancy way of saying, beyond the short-term announcements and clear long-term aspirations, what is this government actually going to do?\n\n\"Steady as she goes,\" is what one well-connected senior MP predicts, and how expectations of the Budget are being managed across Westminster. They tell me: \"Not doing a lot might be more reassuring to people than promising the earth with whose money?\"\n\nThe boss of one well-known high street business told me they are even hoping there won't be any big bazookas. \"Just do no harm,\" they implored the Chancellor John Healey.\n\n\"The hole is too big that they are trying to fill, so my view is don't try and do anything big to help because you don't have the money, but don't do anything to harm us either.\"\n\nAfter all, the chancellor is bound by Labour's manifesto promises not to fiddle with the main taxes – income tax, VAT, National Insurance for workers. And you don't need me to remind you that public spending, borrowing and tax are all at historic highs.\n\nChuck in prices jacking up again because of war in the Middle East and there isn't much money to spray around. In fact, some big cuts to public spending are already pencilled in for the later years of this parliament.\n\nBut the widespread suggestion that you'll be able to blink and miss the Budget has got some hackles up in the Treasury. A budget, by its very nature, can never be a small event - it sets billions upon billions of taxes and spending decisions.\n\nAnd there are likely to be extra taxes on banks, vows to sweep away some business regulation, particularly for small business, more powers passing to local leaders under the guise of devolution and more action on energy bills which are heading back up again.\n\nJohn Healey has made it clear publicly and to staff, that he wants to encourage people with the guts and drive to start a business. One source said: \"If you are taking on John's mantra about talking up Britain then you can't say, 'Nothing to see here'.\"\n\nWhatever else the chancellor brings to Parliament in his red box, do not expect him to arrive with all the solutions to the country's very well-documented problems, whether that's getting the economy growing more convincingly, sorting out gaps in defence cash, welfare, social care, or new ways to pay off the country's groaning debts more quickly.\n\nOne former minister suggests even if Healey and Burnham had stumbled upon all the answers in a few months, it's just not possible to fix everything at the same time because of the constraints on the economy.\n\nThey wondered: \"Is he going to invest in growth? Is he going to put everything he has into the challenges people will face this winter? Is he going to throw it at defence? There is just not enough to tackle all these problems simultaneously - ministers are going to be exposed to the cold light of day.\"\n\nBurnham and Healey have to find a way of maintaining the balance in an unusually happy Labour Party.\n\nMPs talk of ministers and Burnham himself being more visible and approachable in Parliament, knocking around with colleagues in the evening, fewer \"golden slips\" doled out when ministers were excused from voting alongside colleagues so they could get on with their important jobs.\n\nOne minister told me they'd had to tell their private office not to arrange for them to be \"slipped\" , from going to the Commons in the evening to see backbenchers.\n\nIt's paying off in the mood among MPs. One told me: \"You're not feeling like the only way you can ever have a chat with a minister is by arranging an appointment for three months down the line – the soft touches really matter.\"\n\nA party that feels the boss has their back is more likely to be receptive to hard decisions, that's simple psychology, and guess what? Politicians are humans too.\n\nBut the equilibrium is fragile. One source involved in the Budget prep told me the government \"is like a seesaw\".\n\n\"It's John and James on the right (Healey and Purnell, Burnham's chief of staff), Lou (Haigh) on the left, and Andy balancing it in the middle,\" adding that \"Andy is not as on the left as many of his supporters want to believe\".\n\nThat balance could be more strained in the coming weeks as choices over immigration and welfare reform loom after the Budget. And how the numbers stack up on Wednesday matters intensely too.\n\nThe Labour left will be looking keenly to see if people who are really struggling financially receive meaningful support.\n\nThose on the right will be scouring the statement for measures that display a tight control on spending and help businesses grow. Even small moves could upset the seesaw.\n\nOne former minister doubts there will be anything major enough to upset the delicate balance, not because of an abundance of caution but they suggest, \"John has been struggling a bit - he hasn't gone into this with a philosophical direction\".\n\nThere is also a risk that by deferring big decisions until the Spending Review next year - which sets out longer-term spending than an annual budget - it looks like the government is just putting off the hard stuff.\n\nAnother acknowledges the danger of looking like it's a budget on the never-never, delaying decisions on \"welfare, defence and social care – Andy goes in with political stock quite high – he needs to spend it on difficult stuff and there isn't much sign of it yet\".\n\nIn an interview with The Times, Andy Haldane, a former chief economist at the Bank of England and an ally of Burnham, said he feared the government would deliver a \"mañana budget\" that deferred difficult decisions on public spending and \"doesn't speak to the urgency of now\".\n\nWith friends like these…\n\nIt's a good bet that the opposition parties will pile in on this angle, accusing Healey and Burnham of ignoring the long-term pressures next week. One prominent opposition politician said: \"This Budget can only be postponing, you have to assume that's cynical because you are going to have an early election, or you are storing up a car crash for next year (the Spending Review).\"\n\nDowning Street sources counter that argument with Burnham's decision to unpick the expensive triple lock to pay, at least in part, for future social care. Or his bolder approach to potentially ask to re-enter the EU, or certainly pursue much closer ties.\n\nAnd remember that list of small things that could make a big difference? They have made political decisions that the polls suggest voters have noticed.\n\nEven some of Burnham's backers admit quietly that he is aware his first job in office was clear: to show action, to cheer up his party, and that seems to have had a positive effect in the polls.\n\nHis long-term view of the UK he wants is well known – with devolution, a national care service, and greater public involvement in the economy.\n\nOne official says: \"Unless the prime minister has said something quite specific about something everyone is scrambling around trying to work out what he wants to do.\"\n\nAnother well-connected source says: \"The challenge has always been with this project, how do people feel in the medium term – it's huge.\"\n\n​​Burnham and his chancellor's start in office has been broadly successful if you look at the polling, or read the mood inside the Labour party.\n\nTheir dreams of future glories, long-term plans and policies, and gold medals on UK soil could point ahead to many years time.\n\nBut neither deal with the issues that need to be confronted in the middle.\n\nThe chancellor was working late in his Downing Street flat last night, finishing off his plans after having fish pie for tea, conscious his first Budget starts the between times - and they're almost here.\n\nLead image: Future Publishing via Getty\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here",
+      "summary": " A \"Northern Games\" in 2040 or beyond just might create a massive sense of national feel-good, jobs and development. But it's a promise of a possibility at least a decade away. It's what some ministers call \"the politics of trying\"",
+      "retrieved_at": "2026-10-24T11:30:27.487143+00:00"
+    },
+    "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html": {
+      "source": "NYT World",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "title": "Israel Launches Crackdown in West Bank After Deadly Attack",
+      "date": "Sat, 24 Oct 2026 11:04:10 +0000",
+      "author": "Aaron Boxerman",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:30:36.076690+00:00"
+    },
+    "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html": {
+      "source": "NYT World",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+      "date": "Sat, 24 Oct 2026 11:10:50 +0000",
+      "author": "Christopher F. Schuetze",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:30:39.928773+00:00"
+    },
+    "https://www.nytimes.com/article/france-student-protests-why.html": {
+      "source": "NYT World",
+      "link": "https://www.nytimes.com/article/france-student-protests-why.html",
+      "title": "Why Are There Protests in France?",
+      "date": "Sat, 24 Oct 2026 11:08:49 +0000",
+      "author": "Catherine Porter, Ségolène Le Stradic and Lynsey Chutel",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:31:14.328577+00:00"
+    },
+    "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year": {
+      "source": "NPR Politics",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
+      "title": "The rise of the economic populist: What voters want from both parties this year",
+      "date": "Sat, 24 Oct 2026 07:42:08 -0400",
+      "author": "Mara Liasson",
+      "text": "A new kind of economic populism is surging in both parties this year as voters search for a political party that can solve growing concerns about financial stability.\n\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+      "summary": "A new kind of economic populism is surging in both parties this year as voters search for a political party that can solve growing concerns about financial stability. NPR does not offer or accept money for coverage or interviews. Anyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+      "retrieved_at": "2026-10-24T11:48:03.137480+00:00"
+    },
+    "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate": {
+      "source": "NPR Politics",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
+      "title": "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
+      "date": "Sat, 24 Oct 2026 07:42:06 -0400",
+      "author": "Scott Simon",
+      "text": "Ohio GOP gubernatorial candidate Vivek Ramaswamy refuses to withdrawal an explosive attack ad, and President Trump greenlights the DOJ to file a lawsuit about Alaska's senate race.\n\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+      "summary": "Ohio GOP gubernatorial candidate Vivek Ramaswamy refuses to withdraw an explosive attack ad. President Trump greenlights the DOJ to file a lawsuit about Alaska's senate race. NPR does not offer or accept money for coverage or interviews.",
+      "retrieved_at": "2026-10-24T11:48:09.964402+00:00"
+    },
+    "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk": {
+      "source": "Guardian World",
+      "link": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+      "title": "Storm Boelo to bring gusts of up to 80mph and heavy rain to parts of UK",
+      "date": "Sat, 24 Oct 2026 11:24:19 GMT",
+      "author": "Priya Bharadia",
+      "text": "Second named storm in as many days will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen\n\nThe UK is bracing for a second storm this weekend, as strong winds and heavy rain are expected to disrupt travel and cause further power cuts in the north.\n\nStorm Boelo, the second named storm of the season, is expected to bring heavy, frequent showers and winds potentially exceeding 80mph to northern parts of the UK.\n\nThousands of homes in the south-west of England have already been left without power after Storm Austen hit the region on Friday.\n\nThe Met Office has advised people to stay indoors as much as possible, and said the storm will bring danger to life from flying debris and crashing waves.\n\nThe forecaster has issued an amber alert, its second most severe weather warning, covering Scotland, the north of England down to Carlisle from 9pm Saturday to the same time on Sunday. Another amber warning is also in place for the north-east of Northern Ireland from 9pm Saturday to 10am Sunday.\n\nA large yellow warning for very wet and windy weather will cover the whole of the UK’s north from midday Saturday to 9pm on Sunday. Another warning for heavy rain covers Wales and parts of western and southern England from 11am to 11pm Saturday.\n\nWidespread travel disruption is expected on ferries and trains. TransPennine Express has warned against making all but essential train journeys on Saturday and Sunday, while Avanti West Coast has strongly advised users not to travel north of Preston on Sunday.\n\nThe Met Office has also warned that power cuts across the south-west of England could be replicated across amber areas in the north this weekend.\n\nIn the south-west of England, 31,000 homes were without power at one stage on Friday. More than 3,700 were still without electricity on Saturday morning, according to the National Grid map.\n\nHuman-driven climate change has continued to reshape rainfall patterns and weather conditions globally. The UK experienced its hottest summer on record this year, with five heatwaves and a record-breaking 40 days of temperatures above 30C.\n\nMet Office meteorologist Alex Burkill said: “Storm Boelo is arriving. It’s going to bring widespread rain and some very strong winds indeed, and it’s quick on the tails of Storm Austen which is now clearing away towards the east.\n\nSign up to First Edition\n\nOur morning email breaks down the key stories of the day, telling you what’s happening and why it matters\n\nafter newsletter promotion\n\n“It’s the winds that were perhaps most concerned about, they’re really going to whip up some strong gusty winds across Northern Ireland, northern parts of England and also Scotland through the day – strengthening as we head towards the evening.\n\n“Temperatures will be a little more than the seasonal average but “obviously with the wind and rain it’s going to feel pretty unpleasant out there,” Burkhill added. “A very, well, different side of autumn compared with what we’ve seen through much of the season so far.”\n\nStorm Boelo’s winds are expected to peak from Saturday evening. The wet weather will clear overnight in many areas, while more rain continues to hit Scotland and northern Ireland.\n\nAttending a summit on the summer’s record wildfires on Friday, Andy Burnham warned that the UK could face “a winter of greater flooding”.\n\nThe prime minister denied suggestions that the government was playing catch-up with civil preparedness, but said “we’re living in a world where unexpected events seem to be becoming more and more common”.",
+      "summary": " Second named storm of the season to hit northern parts of UK this weekend. Storm Boelo expected to bring heavy, frequent showers and winds potentially exceeding 80mph. Thousands of homes in the south-west of England have already been left without power after Storm Austen hit the region on Friday.",
+      "retrieved_at": "2026-10-24T11:48:17.712923+00:00"
+    },
+    "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
+      "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+      "date": "Sat, 24 Oct 2026 11:01:05 +0000",
+      "author": "Caolán Magee",
+      "text": "German police have detained a suspect after a fire engulfed the Eagle’s Nest, Adolf Hitler’s notorious Nazi-era mountain retreat in Bavaria, prompting an overnight emergency operation involving about 200 firefighters.\n\nNo injuries were reported at the building, known locally as the Kehlsteinhaus. Police said investigators were examining whether a “suspicious person” taken into temporary custody was connected to the blaze.\n\nThe fire alarm was triggered by a smoke detector at about 9:50pm (19:50 GMT) on Friday. Emergency crews could see flames rising above the building as they approached and found it “completely ablaze”, according to police.\n\nThe retreat’s remote Alpine location, at an altitude of more than 1,800 metres (about 6,000 feet), complicated efforts to extinguish the fire, police spokesperson Lisa Maier said.\n\nWhile authorities have not announced a cause, German media reported that investigators suspected arson.\n\nThe newspaper Bild said emergency responders had encountered a motorcyclist travelling towards them on their way to the scene and that he was subsequently detained. His possible involvement remained under investigation.\n\nMaier said inquiries were continuing, with police planning a news conference later on Saturday.\n\nBuilt between 1937 and 1938, the stone-and-granite retreat stands on the Kehlstein mountain above Obersalzberg, near Berchtesgaden in southern Germany.\n\nDesigned as a monument to Hitler’s rule and a setting for receiving foreign diplomats, it offers sweeping views across the Bavarian Alps. Hitler himself visited the resort.\n\nThe site, which remains part of the legacy of Nazi Germany, survived World War II undamaged. It has operated as a restaurant since 1952 and also houses an exhibition examining its Nazi history.",
+      "summary": " Fire alarm triggered by smoke detector at 9:50pm (19:50 GMT) on Friday. Emergency crews could see flames rising above the building as they approached. Police say they found it ‘completely ablaze’ and no injuries reported.",
+      "retrieved_at": "2026-10-24T11:48:23.589315+00:00"
+    },
+    "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
+      "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
+      "date": "Sat, 24 Oct 2026 10:59:34 +0000",
+      "author": "",
+      "text": "Bayern Munich expect coach Vincent Kompany to miss an extended period as he continues his hospital treatment for a virus after collapsing on the training pitch.\n\nSpeaking at a news conference on Saturday, a day after the collapse, Bayern Director of Sport Max Eberl confirmed Kompany was still hospitalised in a “stable” condition.\n\nKompany’s English assistant coach Aaron Danks will replace the 40-year-old for Sunday’s Bundesliga match at Freiburg.\n\nEberl told reporters “examinations were continuing” to determine the nature of the former Manchester City and Belgium captain’s condition with a recovery timeframe yet to be determined.\n\n“Vinnie will be given all the time he needs. We’re not starting to put together any timeframes.\n\n“We need to firstly figure out what it is, and then we’ll discuss calmly what the recovery time is to be. We won’t be talking about days but weeks. We need to all be clear on that.”\n\nTaking Saturday’s news conference in Kompany’s absence, Danks said he had spoken with the former centre back briefly on Friday but only to wish him well.\n\n“I explained to him that we wouldn’t be having no football conversations. It was just checking in on his health and making sure he’s OK.\n\n“All the football operations are in our hands, and we’ll work together as a team to keep the club moving forward.”\n\nBayern’s second team’s game was postponed on Friday after Kompany’s collapse, but Eberl said the club did not consider trying to postpone Sunday’s Bundesliga game.\n\n“I think the greatest joy for Vinnie would be for us to play well tomorrow and, ideally, get a positive result,” Eberl said.\n\n“That would probably be one of the best things we could do to help him recover.”\n\nDanks confirmed Germany captain Joshua Kimmich, who has been on bereavement leave since Tuesday, would also miss Sunday’s game.\n\nKompany returned to the dugout for Wednesday’s home clash against Arsenal despite missing the pre-match news conference due to the virus.\n\nSpeaking after the Arsenal game, Kompany said his body reacted after he tried to push through the illness.\n\n“I caught a pretty nasty virus last week, and of course, I didn’t listen to my body, and then at some point, my body just said, ‘Enough is enough!'”\n\nThe defending champions sit on top of the Bundesliga table before Sunday’s game, one point above Freiburg.\n\nTheir next Champions League match is on November 3 in Madrid against Atletico.",
+      "summary": " Vincent Kompany still in hospital in a'stable' condition after collapsing on training pitch. German coach will miss Sunday's game against Freiburg in Bundesliga. Kompan's condition is yet to be determined but he is expected to be given all the time he needs.",
+      "retrieved_at": "2026-10-24T11:48:28.713508+00:00"
+    },
+    "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/": {
+      "source": "Wired",
+      "link": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+      "date": "Sat, 24 Oct 2026 11:30:00 +0000",
+      "author": "Fernanda González",
+      "text": "AN EXPERIMENTAL VACCINE offers new hope to patients with melanoma, one of the most aggressive forms of skin cancer. The pharmaceutical companies Merck and Moderna released the results of a Phase 3 clinical trial that evaluated the efficacy of a personalized mRNA-based vaccine that, when combined with immunotherapy, reduced the risk of disease recurrence or death by 42 percent compared to treatment with the immunotherapy drug alone.\n\nGeorgina Long, medical director of the Australian Melanoma Institute and the study’s principal investigator, said in a statement that these results are “transformative” and “have the potential to make a foundational shift in how we treat patients with earlier-stage melanoma.”\n\nThe trial, known as INTerpath-001, included 1,137 people with high-risk melanoma who had undergone surgery to completely remove their tumors. The participants were divided into two groups. Those in the first group received only Pembrolizumab, a drug that helps the immune system detect and fight cancer cells, while those in the second group were treated with the same drug in combination with the mRNA vaccine, called Intismeran Autogene.\n\nAfter monitoring the participants for an average of 24.6 months, the researchers determined that addition of the vaccine reduced the risk of cancer recurrence or death by 42 percent compared to Pembrolizumab alone.\n\nThe results also showed that the experimental treatment reduced the risk of the disease spreading to other parts of the body by 38 percent. At the end of the follow-up period, 82.2 percent of patients who received both treatments remained recurrence-free, compared with 70 percent of those who received Pembrolizumab alone.\n\n“The results of the INTerpath-001 study represent a major breakthrough in the treatment of melanoma and, in particular, in the development of personalized medicine,” Eva Muñoz Couselo—who leads a melanoma research group at the Vall d’Hebron Institute of Oncology, in Barcelona and who was not involved in the study—told SMC Spain. “For the first time, a Phase III trial has demonstrated that an individualized therapeutic vaccine, designed on the basis of the molecular characteristics of each patient’s tumor, can significantly improve the outcomes of conventional immunotherapy.”\n\nThe laboratories explained that the vaccine was developed from a tumor sample taken from each patient, which was used to identify specific mutations that would create distinct proteins the immune system could learn to recognize in order to attack cancer cells. The scientists selected up to three of these molecular signatures per patient.\n\nDuring the trial, some participants experienced mild side effects such as fever, fatigue, and pain at the injection site. These side effects were seen in earlier trials as well, and the Phase 3 findings demonstrate similar safety when the vaccine is used in the combination with Pembrolizumab.\n\n“These results reinforce our conviction that mRNA has the potential to fundamentally change how we treat cancer,” Stéphane Bancel, CEO of Moderna, said in a statement.\n\nThe pharmaceutical companies emphasized that the vaccine is not designed to prevent melanoma but rather to reduce the risk of recurrence and death following prior medical treatment. They also noted that the therapy remains under investigation to validate its efficacy and obtain approval from health authorities before widespread use.\n\nMost people diagnosed with melanoma have a high chance of survival, especially if detected early, but as one of the most common cancers, melanoma kills over 50,000 people globally each year. In theory, similar vaccines could be developed for other kinds of tumors in the future. Earlier this year, another trial demonstrated that personalized mRNA vaccines can greatly improve survival among patients with pancreatic cancer, one of the deadliest kinds of tumor.\n\n“This is the major breakthrough, because conceptually it would make it possible to treat not only melanoma but also other tumors in which the immune system can be reactivated,” Marisol Soengas—a leading melanoma researcher at Spain’s National Cancer Research Center also not involved in the trial—told SMC Spain.\n\nThat doesn’t mean a cure for cancer is right around the corner. “The challenge is to ensure that this personalization can be scaled up to a large number of patients and that the cost is affordable for health care systems,” Soengas said. “It is logistically complex. It is literally a bespoke vaccine.”\n\nThis story originally appeared on WIRED en Español and has been translated from Spanish.",
+      "summary": " Merck and Moderna released the results of a Phase 3 clinical trial that evaluated the efficacy of a personalized mRNA-based vaccine. The vaccine reduced the risk of disease recurrence or death by 42 percent compared to treatment with the immunotherapy drug alone. The pharmaceutical companies emphasized that the vaccine is not designed to prevent melanoma but rather",
+      "retrieved_at": "2026-10-24T11:51:00.003362+00:00"
+    },
+    "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html": {
+      "source": "Hacker News THN",
+      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "date": "Sat, 24 Oct 2026 16:33:33 +0530",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "text": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of the LiteLLM Agent Platform, an open source tool we use for orchestrating agents,\" LiteLLM's Oliver Jensen and Mateo Wang said.\n\n\"The error was quickly identified, the commit force-pushed over, and we identified the exposed keys as requiring revocation. However, key revocation did not occur for the master key.\"\n\nLiteLLM said the unknown attacker (operating from \"69.48.229[.]143\") used this unrevoked key on October 10, 2026, to gain access to the Agent Platform and extracted a GitHub CLI OAuth token the service was configured with to allow self-hosted cloud agents to file pull requests to GitHub repositories.\n\nThe token, per the developers of the open-source large language model (LLM) gateway, was \"not scoped down\" and associated with its GitHub organization owner's account.\n\nGaining access to the token allowed the attacker to possess owner-level access to all repositories across the organization and perform additional credential exfiltration. The sequence of actions performed by the threat actor following this step is as follows -\n\n\"In typical operation, building and publishing a release requires being kicked off by an authorized engineer and being approved by a special account locked to a physical device in our office,\" LiteLLM said.\n\n\"This restriction was relaxed earlier this week to accommodate the temporary push for more frequent releases and bugfix backports, allowing any two engineers to trigger and approve a release. As such, the threat actor used one of the tokens to trigger the release (after having repointed the deployer to their malicious repository), and another to approve it.\"\n\nIn addition, the project maintainers noted that the threat actor could have very well loosened this restriction (or removed it entirely) themselves given that they were already in possession of a token belonging to an organization owner. It's suspected that this was not done to evade detection.\n\nLiteLLM also said the workflows are designed to identify and exfiltrate additional keys and tokens, specifically focusing on upstream inference API tokens. In response to the incident, the company said it's working to revoke each and every token associated with every internal system and vendor platform.\n\nSocket, which published its own investigation into the malicious workflows, said it recovered two malicious commits that each added a workflow at \".github/workflows/cache.yml.\" The first commit was made on October 10, 2026, at 10:11:45 p.m. UTC. It was followed by a second commit on October 12.\n\n\"Neither commit was pushed to a branch that still exists,\" Socket security researcher Karlo Zanki said in a report shared with The Hacker News. \"Both were pushed to short-lived branches named ci-tmp-<hex> that were created, used, and deleted within minutes, which is why the activity leaves almost nothing behind in the repository's ordinary history.\"\n\nAccording to the application security firm's analysis of the repository's activity log records, both commits rely on a legitimate commit as the branch base to make the push look seemingly harmless -\n\nBoth workflows, as highlighted by LiteLLM, are equipped to harvest GitHub tokens and API keys for the organization's Linear workspace, LiteLLM deployment, and Together AI, along with the identifier and signing key of a GitHub App.\n\nThe October 12 run extends the collection to more secrets, including API keys for Anthropic, OpenAI, AWS Bedrock, Tavily, and GitGuardian's secret-scanning tenant. It also captures Playwright storage state, PostgreSQL database information (connection string, account name, password), Redis endpoint address, port, and authentication password.\n\nThe data gathered from the two workflows is exfiltrated to two different webhook[.]site endpoints -\n\n\"A GitHub token and a GitHub App private key are credentials for the platform hosting the repository, not for a third-party service,\" Zanki said. \"GITGUARDIAN_API_KEY is a credential for the secret-scanning platform itself, which gives an attacker visibility into, and potentially control over, the alerts that would surface this activity.\n\n\"E2E_LINEAR_STORAGE_STATE_B64 is serialized browser session state used by Playwright for end-to-end tests; a valid storage state permits authenticated access to the associated Linear account without a password and without satisfying multi-factor authentication.\"\n\nThe findings rule out LiteLLM's initial hypothesis that the GitHub CLI OAuth tokens were stolen from the logs of an internal LiteLLM deployment. \"The investigation was a process in which we continually learned additional information, meaning some of our assumptions and beliefs were later proven to be inaccurate or incomplete,\" Jensen acknowledged.\n\nMultiple reports have revealed that the files bundled with LiteLLM version 1.107.0 are engineered to execute automatically when Python starts, even if an application did not import LiteLLM.\n\nThe malware features two execution paths: a credential harvesting module that targets authentication material across developer tools, AI applications, cloud environments, and web browsers, and a Unix-oriented backdoor that's launched as a background process to fetch and execute arbitrary code supplied by the attacker every one hour.\n\nThe stealer also collects system information, SSH files, Git and GitLab credentials and tokens, environment variables, and tokens associated with npm, PyPI, pip, Yarn, Maven, Gradle, Composer, RubyGems, and Cargo. The data is then compressed and sent to \"litellm[.]dev/healthcheck\" using an HTTP POST request. The domain was registered on October 13, 2026.\n\n\"Together, these mechanisms extended potential exposure beyond active LiteLLM deployments: simply starting Python in an affected environment could activate the malicious code, even when LiteLLM itself was never imported,\" the Microsoft Security Research team said.\n\n\"Because the startup files resided outside the LiteLLM application directory, removing only the application files could leave the malicious startup components behind.\"",
+      "summary": " The error was quickly identified and identified as requiring revocation. The threat actor used the key to gain access to the Agent Platform. The malicious code could activate the malicious code.",
+      "retrieved_at": "2026-10-24T11:51:06.790390+00:00"
+    },
+    "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html": {
+      "source": "Hacker News THN",
+      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "date": "Sat, 24 Oct 2026 16:06:33 +0530",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "text": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service,\" reads a policy update effective October 16, 2026.\n\n\"For example, Search may process some of the data that you allow Search to access to personalize content, including ads.\"\n\nGoogle also notes in its revised policy that \"We don't show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads.\"\n\nNews of the policy update was first reported by Android Authority.\n\nPersonal Intelligence, unveiled by Google in Gemini in January 2026, allows users to connect other services like Gmail, Google Photos, and YouTube as a way to provide tailored answers in combination with their chat history preferences.\n\nThe feature is currently rolling out as a beta to eligible users over the age of 18 globally, except in the European Economic Area, Switzerland, the U.K., and Nigeria.\n\nIt's worth noting that the policy states it doesn't use content from Gmail, Drive, or Photos to personalize ads by default. However, that changes should users opt to share photos or emails with AI Mode and other Search tools via the Personal Intelligence feature.\n\nIn other words, if users interact with AI Mode or Gemini while Personal Intelligence is enabled, the data that informs those answers (i.e., content from Gmail or Photos) could be used as a signal to serve targeted ads. The privacy policy aims to make it clear that feeding personal data into its AI tools could contribute to ad personalization.\n\nUsers should be mindful of the privacy trade-off when connecting their apps to enable AI features. Those who prefer to opt out can do so by selecting the apps they want to disconnect from Personal Intelligence or disable Personalized Recommendations entirely via the Search Services Personalization settings (\"www.google[.]com/search-personalization\").\n\nIn January 2026, OpenAI began showing ads to logged-in adult U.S. users in both the free and ChatGPT Go tiers, while emphasizing that users' data and conversations are protected and never sold to advertisers. It has also said the ads do not influence responses from the chatbot, and that users are in control of the experience.\n\nEarlier this week, the AI company said it's expanded advertising on ChatGPT to 26 more countries, ​bringing the total to 89. This includes 14 more ​Latin American countries and several markets across Europe, Africa, and Asia.\n\n\"We keep conversations private from advertisers and do not sell customer data,\" OpenAI stressed. \"Ads in ChatGPT are clearly labeled and separate from ChatGPT's answers, and advertising does not influence the answers ChatGPT provides.\"",
+      "summary": " Google has updated its privacy policy to allow users to use personal intelligence (AI) features in Search or Gemini apps. The policy update is effective October 16, 2026. Users can opt out of using the feature by choosing to opt out.",
+      "retrieved_at": "2026-10-24T11:51:10.882545+00:00"
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-24/oil-markets-brace-for-renewed-iran-fighting-video": {
+      "source": "Bloomberg Markets",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-24/oil-markets-brace-for-renewed-iran-fighting-video",
+      "title": "Oil Markets Brace for Renewed Iran Fighting",
+      "date": "Sat, 24 Oct 2026 11:39:37 GMT",
+      "author": "",
+      "text": "To continue, please click the box below to let us know you're not a robot.\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below.\n\nGet the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+      "summary": " The Daily Discussion is a weekly, weekly look at the most important global markets news. Use the Daily Discussion to help you understand today's featured news stories.",
+      "retrieved_at": "2026-10-24T11:52:09.079265+00:00"
+    },
+    "https://fortune.com/2026/10/24/rick-lazio-we-lost-auto-race-to-japan-china-should-alarm-us/": {
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/10/24/rick-lazio-we-lost-auto-race-to-japan-china-should-alarm-us/",
+      "title": "Rick Lazio: We’ve lost an auto race before, China’s EV climb should worry us",
+      "date": "Sat, 24 Oct 2026 11:15:00 +0000",
+      "author": "Rick Lazio",
+      "text": "Tesla’s newly unveiled Roadster is a reminder that America can still produce breakthroughs that capture the world’s imagination. The car can accelerate from zero-60 in less than a second and perform feats that once belonged in science fiction.\n\nThe engineering is thrilling. Give Tesla an A for design innovation. The harder question is whether it can commercialize even the base Performance model. It includes the fan-powered suction system but none of the thrusters behind the Roadster’s headline-grabbing acceleration or airborne maneuvers. Or will Chinese manufacturers use their state-supported supply chains and generous R&D incentives to make comparable technology affordable first?\n\nChinese automakers are already gaining ground in Britain with vehicles that combine advanced technology and aggressive pricing. The Jaecoo 7, a Chinese-built SUV nicknamed the “Temu Range Rover,” became Britain’s best-selling new vehicle in September. Chinese brands captured nearly a quarter of the country’s new-car market that month.\n\nAmerican ingenuity is not the problem. The challenge is converting it into affordable products at scale, something China has become remarkably effective at doing. The next auto race will be decided by which country can excel at both.\n\nAmericans have been largely shielded from direct competition with Chinese automakers. The United States imposed a 100% Section 301 tariff on Chinese electric vehicles in 2024, effectively closing the market to them. The policy sought to prevent the heavily subsidized vehicles from undercutting domestic production.\n\nThe rationale is understandable. American companies operating in a market economy cannot compete on equal terms with a state-directed industrial system. China spent years supporting battery production and vehicle manufacturing, giving its automakers advantages that tariffs are meant to counter.\n\nThe problem is, protection alone cannot make an American factory more productive, lower the cost of a battery, or bring a better vehicle to market.\n\nAmerican automakers have learned this lesson once already.\n\nDuring the 1970s and 1980s, Japanese competitors won over American consumers with better fuel economy and higher quality. They also found more efficient ways to build cars. But American companies were slow to respond. One recent analysis estimates that the Big Three took between 10 and 15 years to catch up with Japanese advances in production efficiency.\n\nPolicymakers recognized that American companies needed a stronger reason to invest in innovation. Congress responded in 1981 by creating the federal research and development tax credit amid concern about declining private-sector R&D spending and U.S. competitiveness. The same principle applies today. New discoveries matter only if companies have the incentive and capital to bring them to market.\n\nChina enters this race with advantages spanning the battery supply chain and the factory floor. The International Energy Agency reports that China remains the world’s largest EV manufacturing hub. Vehicles shipped from China accounted for 40% of global electric-car exports in 2024. China also has a cost advantage. Battery pack prices fell globally in 2024, but the decline was steeper in China. The average Chinese battery pack price dropped by about 30%, compared with a 15% decline in the United States.\n\nTariffs have kept much of that cost advantage from reaching American showrooms. But they haven’t closed the underlying price gap.\n\nThat leaves the United States with a commercialization problem. Our research and engineering remain world-class, but our record of getting ideas to market and improving how products are made has been less stellar.\n\nI saw the consequences of that gap while serving on the board of Polaroid, one of the most brilliant technology companies of its era. Its scientists understood the future of digital photography, but the company could not bring the right product to market. Others, including Japanese manufacturers, jumped in with both feet. Polaroid ended in bankruptcy.\n\nBrilliant technology does not guarantee commercial success.\n\nThe United States needs an advanced manufacturing ecosystem that includes more than behemoths with access to capital markets and giant lines of credit. It must also include smaller, nimbler companies that take risks, develop intellectual property, and solve productions problems that larger manufacturers can then scale.\n\nThose smaller companies need better access to capital. Federal policy now allows businesses to deduct domestic research costs immediately, leaving more capital available for engineers, prototypes, and equipment. Some states, however, have chosen not to adopt the federal rule because of concerns about near-term revenue losses. That protects state budgets but leaves businesses within their borders with less money to invest.\n\nPolicymakers should acknowledge that trade-off. Federal and state taxes can eat the seeds of innovation. I’m not arguing for no taxes, of course. But a dollar paid in tax cannot also finance an engineer’s salary or a new production line.\n\nChina has deliberately used tax policy to encourage sustained research. Its R&D super-deduction differs from the American credit, so the headline percentages cannot be compared dollar for dollar. The broader lesson is clear: countries that reward research give manufacturers more reason to invest.\n\nResearch incentives are only part of the answer. New technology will not help if American factories cannot produce it efficiently. Automakers and their suppliers need incentives to invest in robotics and advanced equipment. Smaller suppliers deserve particular attention since they often lack the capital available to their largest customers.\n\nCompanies also need dependable rules, because they cannot plan a battery plant or major factory upgrade around policies that may disappear. Government should set a clear course and let businesses decide which technologies make commercial sense.\n\nTesla’s new Roadster shows why that investment environment is essential. Making technology like this affordable will require advances across the automotive supply chain, including contributions from smaller manufacturers willing to take risks that larger companies may avoid.\n\nChinese automakers’ gains in Britain show how quickly consumers will consider a new competitor when the product delivers. American buyers will make the same judgment based on quality and value.\n\nProtection may delay the competition, but it cannot determine the winner. America must become better at turning breakthrough ideas into products the world can afford.\n\nThe opinions expressed in Fortune.com commentary pieces are solely the views of their authors and do not necessarily reflect the opinions and beliefs of Fortune.",
+      "summary": " U.N. policy is to protect U.K. companies from Chinese automakers from undercutting domestic production. U.S. companies can't compete on equal terms with a state-directed industrial system, David Frum says.",
+      "retrieved_at": "2026-10-24T11:52:15.370522+00:00"
+    },
+    "https://timesofindia.indiatimes.com/city/delhi/jamia-tensions-rise-university-shifts-all-classes-online-aisa-alleges-assault-on-students-during-negotiations/articleshow/135167040.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/city/delhi/jamia-tensions-rise-university-shifts-all-classes-online-aisa-alleges-assault-on-students-during-negotiations/articleshow/135167040.cms",
+      "title": "Tensions mount at Jamia: Classes shift online; AISA alleges assault on students",
+      "date": "Sat, 24 Oct 2026 15:09:01 +0530",
+      "author": "LAIRENLAKPAM WARLI",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:53:27.099867+00:00"
+    },
+    "https://timesofindia.indiatimes.com/india/insult-to-uttarakhand-akhilesh-yadavs-infiltrator-jibe-draws-sharp-response-from-cm-dhami/articleshow/135167869.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/india/insult-to-uttarakhand-akhilesh-yadavs-infiltrator-jibe-draws-sharp-response-from-cm-dhami/articleshow/135167869.cms",
+      "title": "'Insult to Uttarakhand': Dhami slams Akhilesh over 'infiltrator' jibe",
+      "date": "Sat, 24 Oct 2026 16:25:27 +0530",
+      "author": "KARAN MANRAL",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines",
+      "summary": " ToI community guidelines are a form of community service. The community service is a form for the community of people who volunteer for the service.",
+      "retrieved_at": "2026-10-24T11:53:31.926772+00:00"
+    },
+    "https://timesofindia.indiatimes.com/city/ludhiana/ludhiana-murder-assailants-barge-into-house-chop-off-mans-hand-severed-limb-handed-to-shopkeeper-in-a-bag/articleshow/135166924.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/city/ludhiana/ludhiana-murder-assailants-barge-into-house-chop-off-mans-hand-severed-limb-handed-to-shopkeeper-in-a-bag/articleshow/135166924.cms",
+      "title": "Ludhiana: Assailants chop off man’s hand, hand severed limb to shopkeeper",
+      "date": "Sat, 24 Oct 2026 15:47:35 +0530",
+      "author": "SHARIQ MAJEED",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:53:36.241617+00:00"
+    },
+    "https://timesofindia.indiatimes.com/india/sem-shares-breach-of-peace-details-with-aisa-chief-neha-bora-next-hearing-on-oct-29/articleshow/135169570.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/india/sem-shares-breach-of-peace-details-with-aisa-chief-neha-bora-next-hearing-on-oct-29/articleshow/135169570.cms",
+      "title": "SEM shares breach-of-peace details with AISA chief Neha Bora; next hearing on Oct 29",
+      "date": "Sat, 24 Oct 2026 17:03:13 +0530",
+      "author": "AADRITA HALDER",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines",
+      "summary": " ToI community guidelines are a form of community service. The community service is a form for the community of people who volunteer for the service.",
+      "retrieved_at": "2026-10-24T11:53:40.369110+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/europe/beyond-starlink-how-ukraine-plans-to-cut-its-reliance-on-musks-satellite-network/articleshow/135168443.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/europe/beyond-starlink-how-ukraine-plans-to-cut-its-reliance-on-musks-satellite-network/articleshow/135168443.cms",
+      "title": "Beyond Starlink: How Ukraine plans to cut its reliance on Musk's satellite network",
+      "date": "Sat, 24 Oct 2026 16:18:25 +0530",
+      "author": "AADRITA HALDER",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:53:48.696033+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/us/after-12-years-of-marriage-and-a-13-day-divorce-trial-a-florida-judge-ordered-a-husband-to-pay-his-former-wife-50000-in-legal-fees-over-withheld-rental-property-records-an-appeals-court-upheld-the-sanction-but-questioned-the-amount/articleshow/135167809.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-12-years-of-marriage-and-a-13-day-divorce-trial-a-florida-judge-ordered-a-husband-to-pay-his-former-wife-50000-in-legal-fees-over-withheld-rental-property-records-an-appeals-court-upheld-the-sanction-but-questioned-the-amount/articleshow/135167809.cms",
+      "title": "Florida court upholds divorce sanction but questions $50,000 in legal fees",
+      "date": "Sat, 24 Oct 2026 17:04:29 +0530",
+      "author": "TOI WORLD DESK",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:53:52.738960+00:00"
+    },
+    "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/2nd-t20i-tilak-varma-nitish-kumar-reddy-rescue-india-from-112/6-to-seal-a-thrilling-4-wicket-win-against-new-zealand/articleshow/135168697.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/2nd-t20i-tilak-varma-nitish-kumar-reddy-rescue-india-from-112/6-to-seal-a-thrilling-4-wicket-win-against-new-zealand/articleshow/135168697.cms",
+      "title": "Tilak, Nitish rescue India from 112/6 to seal thrilling 4-wicket win vs New Zealand",
+      "date": "Sat, 24 Oct 2026 16:34:31 +0530",
+      "author": "NITESH DUBEY",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines",
+      "summary": " ToI community guidelines are a form of community service. The community service is a form for the community of people who volunteer for the service.",
+      "retrieved_at": "2026-10-24T11:53:57.031775+00:00"
+    },
+    "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-scripts-history-breaks-bhuvneshwar-kumars-record-to-set-new-india-mark-in-t20is/articleshow/135168839.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-scripts-history-breaks-bhuvneshwar-kumars-record-to-set-new-india-mark-in-t20is/articleshow/135168839.cms",
+      "title": "Arshdeep Singh scripts history, breaks Bhuvneshwar’s record to set new India mark",
+      "date": "Sat, 24 Oct 2026 16:40:31 +0530",
+      "author": "HIJAM RAJU SINGH",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines",
+      "summary": " ToI community guidelines are a form of community service. The community service is a form for the community of people who volunteer for the service.",
+      "retrieved_at": "2026-10-24T11:54:05.722998+00:00"
+    },
+    "https://timesofindia.indiatimes.com/real-estate/news/in-2018-adam-levine-bought-ben-affleck-and-jennifer-garners-three-acre-los-angeles-estate-for-31-95-million-redesigned-the-former-gregory-peck-property-and-sold-it-for-51-million-in-2022/articleshow/135168620.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2018-adam-levine-bought-ben-affleck-and-jennifer-garners-three-acre-los-angeles-estate-for-31-95-million-redesigned-the-former-gregory-peck-property-and-sold-it-for-51-million-in-2022/articleshow/135168620.cms",
+      "title": "Adam Levine bought Affleck-Garner estate for $31.95m, sold it for $51m in 2022",
+      "date": "Sat, 24 Oct 2026 17:03:59 +0530",
+      "author": "TOI REAL ESTATE DESK",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:54:10.046270+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/us/louisiana-volunteers-used-200-tons-of-discarded-oyster-shells-to-build-a-400-foot-barrier-near-an-indigenous-village-two-years-later-live-oyster-density-jumped-from-52-to-130-per-square-metre/articleshow/135167758.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/us/louisiana-volunteers-used-200-tons-of-discarded-oyster-shells-to-build-a-400-foot-barrier-near-an-indigenous-village-two-years-later-live-oyster-density-jumped-from-52-to-130-per-square-metre/articleshow/135167758.cms",
+      "title": "Louisiana's 200-ton shell reef sees oyster density rise from 52 to 130 per sq m",
+      "date": "Sat, 24 Oct 2026 17:03:35 +0530",
+      "author": "TOI WORLD DESK",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:54:14.523137+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/us/ai-tools-may-flag-h-1b-visa-filings-discrepancies-as-us-immigration-checks-get-more-stringent/articleshow/135168275.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/us/ai-tools-may-flag-h-1b-visa-filings-discrepancies-as-us-immigration-checks-get-more-stringent/articleshow/135168275.cms",
+      "title": "AI may flag H-1B visa filings discrepancies as US immigration checks get more stringent",
+      "date": "Sat, 24 Oct 2026 16:21:53 +0530",
+      "author": "LUBNA KABLY",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:54:27.382379+00:00"
+    },
+    "https://timesofindia.indiatimes.com/sports/nfl/news/life-was-going-to-end-marshall-faulks-nfl-career-was-defined-by-speed-and-power-his-parkinsons-journey-is-now-about-something-different/articleshow/135169178.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/sports/nfl/news/life-was-going-to-end-marshall-faulks-nfl-career-was-defined-by-speed-and-power-his-parkinsons-journey-is-now-about-something-different/articleshow/135169178.cms",
+      "title": "Marshall Faulk’s Parkinson’s journey: How the NFL legend found a new purpose",
+      "date": "Sat, 24 Oct 2026 16:47:18 +0530",
+      "author": "GLOBAL SPORTS DESK",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines",
+      "summary": " ToI community guidelines are a form of community service. The community service is a form for the community of people who volunteer for the service.",
+      "retrieved_at": "2026-10-24T11:54:40.046399+00:00"
+    },
+    "https://timesofindia.indiatimes.com/sports/nfl/news/in-2015-aaron-rodgers-bought-a-wisconsin-estate-10-years-later-his-3-7-million-listing-put-it-back-in-the-spotlight/articleshow/135166088.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/sports/nfl/news/in-2015-aaron-rodgers-bought-a-wisconsin-estate-10-years-later-his-3-7-million-listing-put-it-back-in-the-spotlight/articleshow/135166088.cms",
+      "title": "Aaron Rodgers’ $3.7 million Wisconsin estate back in spotlight after 10 years",
+      "date": "Sat, 24 Oct 2026 17:00:00 +0530",
+      "author": "GLOBAL SPORTS DESK",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines",
+      "summary": " ToI community guidelines are a form of community service. The community service is a form for the community of people who volunteer for the service.",
+      "retrieved_at": "2026-10-24T11:54:44.583079+00:00"
+    },
+    "https://timesofindia.indiatimes.com/city/kolkata/kolkata-couples-pandal-hopping-reel-on-real-happiness-wins-hearts-online/articleshow/135153191.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-couples-pandal-hopping-reel-on-real-happiness-wins-hearts-online/articleshow/135153191.cms",
+      "title": "Kolkata couple’s pandal-hopping reel on ‘real happiness’ wins hearts online",
+      "date": "Fri, 23 Oct 2026 23:38:41 +0530",
+      "author": "TAMAGHNA BANERJEE",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:54:48.895641+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/us/us-contractor-accused-of-leaking-classified-defence-info-to-journalist-girlfriend-who-runs-substack-newsletter/articleshow/135169248.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-contractor-accused-of-leaking-classified-defence-info-to-journalist-girlfriend-who-runs-substack-newsletter/articleshow/135169248.cms",
+      "title": "US contractor accused of leaking classified defence info to journalist girlfriend",
+      "date": "Sat, 24 Oct 2026 16:49:53 +0530",
+      "author": "AASHISH VASHISTHA",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:54:53.212988+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/rest-of-world/days-after-deadly-quake-fresh-5-4-tremor-jolts-tibet/articleshow/135168197.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/days-after-deadly-quake-fresh-5-4-tremor-jolts-tibet/articleshow/135168197.cms",
+      "title": "Days after deadly quake, fresh 5.4 tremor jolts Tibet",
+      "date": "Sat, 24 Oct 2026 16:29:59 +0530",
+      "author": "VIJAYA SRIVASTAVA",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-24T11:54:57.561554+00:00"
+    },
+    "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf": {
+      "source": "DW All",
+      "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf",
+      "title": "Will Guinea-Bissau remain trapped in political chaos?",
+      "date": "2026-10-24T11:36:00Z",
+      "author": "",
+      "text": "Elections scheduled for December 6 in Guinea-Bissau have been postponed indefinitely. No new date has been set, leaving the country's return to civilian rule uncertain.\n\nThe parliamentary and presidential elections scheduled for December 6, 2026, in Guinea-Bissau will not take place as planned. Aly Silva, spokesperson for transitional Prime Minister Ilidio Vieira Te, confirmed to DW that the vote had been postponed until further notice. No new date has been set. The government first intends to discuss the matter in cabinet before publicly announcing when the elections will be held. It remains unclear whether they will take place in 2027 or not until 2028.\n\nThe country's political crisis dates back to November 26, 2025. Three days earlier, voters in Guinea-Bissau had elected a new parliament and president. Before the official results could be announced, the military seized power and halted the electoral process. Both then-President Umaro Sissoco Embalo and his challenger, Fernando Dias da Costa, had claimed victory. The military leadership promised a return to constitutional order.\n\nFor lawyer and political analyst Cabi Sanha, the postponement comes as no surprise. Since the coup, little has been done to create the conditions for credible elections, he says.\n\n\"The postponement was foreseeable,\" Sanha told DW. December 6 had indeed been set as the new election date. \"But nothing was done to ensure that these elections could actually take place.\"\n\nThe transitional government has justified the postponement by citing the lack of organizational and political conditions necessary for elections. The deadline for submitting candidacies had already passed on October 6. Political parties and potential candidates had not submitted their applications. According to the prime minister, the parties had also failed to hold congresses to select their candidates.\n\nSanha sees this as more than an organizational problem. He points to restrictions on political activities and the lack of dialogue with key actors in the electoral process. Political parties and civil society have not been sufficiently involved, he says. Mediation efforts by the Economic Community of West African States (ECOWAS) and Senegal have so far failed to produce a solution.\n\n\"Free, transparent and inclusive elections are only possible if the necessary conditions are established beforehand,\" the lawyer says.\n\nHe therefore also views the parties' failure to nominate candidates as a consequence of the political environment. \"How are parties supposed to nominate candidates when political activities are restricted in the country? They cannot hold party congresses or organize rallies.\"\n\nLeading opposition figures are also staying abroad. Domingos Simoes Pereira, head of the main opposition party, the African Party for the Independence of Guinea and Cape Verde (PAIGC), was allowed to travel to Portugal in July 2026 for medical treatment after being released from detention. He had previously been held in pretrial detention in connection with an investigation into an alleged coup attempt. His defense team denies the allegations and has criticized the proceedings as politically motivated.\n\nThe absence of key opposition figures and restrictions on political organizing are making it harder to conduct an electoral process intended to pave the way for a return to civilian government.\n\nWhat happens next remains unclear. Government spokesperson Aly Silva says the transitional government will first discuss the matter in cabinet. Only afterward will a new election date be announced publicly. So far, there is no concrete timetable.\n\nIt is therefore also unclear when political parties will be able to complete their internal selection procedures, nominate candidates and begin campaigning. For Sanha, this is another indication that there is still insufficient evidence of the political will needed to restore constitutional order.\n\n\"I do not believe that logistical problems are the main issue. Rather, there appears to be a lack of political will to move the electoral process forward,\" he says.\n\nThe political crisis has been compounded by a controversial constitutional reform. In a referendum on August 30, 2026, voters approved constitutional amendments that expand the president's powers and reduce the size of parliament from 102 to 65 seats. Critics question the legitimacy of the process because the reform was prepared under military rule and without a regularly elected parliament. The opposition had called for a boycott of the vote.\n\nFernando Vaz, spokesperson for the National Transitional Council, defends the changes. He says the process was not a comprehensive rewriting of the constitution but a targeted revision. The reform is intended to help overcome the country's political instability, he argues.\n\n\"The constitution must be one of the instruments that lead our country toward greater stability,\" Vaz told DW. The transitional period had provided an opportunity to amend provisions that, in the military leadership's view, were obstructing the country's political development.\n\nVaz also rejects criticism that the reform gives the president additional powers at the expense of the prime minister. \"The president of the republic is the head of state, while the prime minister is the head of government,\" he emphasizes.\n\nCritics see it differently. The new constitutional framework strengthens the presidency: the president is to appoint and dismiss the prime minister and the government and, under certain conditions, dissolve parliament. At the same time, the number of parliamentary seats is being reduced. It remains disputed whether the reform will genuinely contribute to stability or instead concentrate more power in the presidency.\n\nThe transitional government has announced plans to hold local elections in 2027. Sanha broadly welcomes the proposal: Guinea-Bissau has never held such elections since independence. Nevertheless, he stresses that they must not replace the outstanding national elections.\n\n\"First, parliamentary and presidential elections must take place so that the country can return to constitutional order. Local elections can follow afterward,\" he says.\n\nLocal elections cannot compensate for the lack of democratic legitimacy at the national level. Political freedoms must also be restored so that parties can select their candidates and voters can genuinely choose between political alternatives.\n\nGuinea-Bissau has endured decades of political instability, marked by military coups, institutional crises and repeated interruptions of democratic processes. The latest coup continues this pattern.\n\nThe renewed postponement of the elections shows how far the country remains from a return to constitutional order. Setting a new election date alone will not be enough. Political activities must be permitted again, parties must be included in the process, and reliable conditions for elections must be established, lawyer Cabi Sanha told DW.\n\nThis article was originally published in German.",
+      "summary": " The parliamentary and presidential elections scheduled for December 6, 2026 will not take place as planned. Guinea-Bissau has endured decades of political instability. The country's political crisis dates back to November 26, 2025.",
+      "retrieved_at": "2026-10-24T11:55:47.788063+00:00"
+    },
+    "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf": {
+      "source": "DW All",
+      "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
+      "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+      "date": "2026-10-24T07:29:00Z",
+      "author": "",
+      "text": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.\n\nNorth Korean leader Kim Jong Un arrived in China via the newly opened bridge on Saturday. He arrived in the Chinese border city of Dandong via the New Yalu River Bridge linking the two countries.\n\nChina’s top political adviser Wang Huning met North Korean leader Kim Jong Un, Chinese state media reported.\n\nWang conveyed President Xi Jinping’s \"greetings and best wishes to Kim,\" Xinhua reported.\n\nChina and North Korea pledged to \"strengthen strategic communication and cooperation to safeguard their sovereignty, security and development interests,\" Chinese state media said.\n\nThe two countries also vowed to expand people-to-people exchanges and economic and trade cooperation through the opening of the New Yalu River Bridge.\n\nThe four-lane bridge was completed in 2014 but remained unused for 12 years due to a lack of connecting roads and customs facilities on the North Korean side.\n\nIt officially opened about a week ago, marking a step towards strengthening economic ties between the neighbouring countries.\n\nChina is North Korea’s largest trading partner and a key source of diplomatic, economic and political support for the isolated, nuclear-armed state, although relations between the two have not always been smooth.\n\nThe trip coincides with the anniversary of China’s entry into the Korean War, known in China as the \"War to Resist US Aggression and Aid Korea.\" It remains unclear whether Kim will attend commemorative events.\n\nDuring the 1950-53 war, Chinese troops fought alongside North Korea against South Korea and US-led United Nations forces.\n\nKim’s visit also comes ahead of a key political meeting in Beijing on Monday, when Chinese President Xi Jinping and other senior officials gather for the fifth plenary session of the Communist Party’s powerful Central Committee.\n\nThe New Yalu River Bridge opened just over a month after North Korea and Russia inaugurated their first road bridge, which Pyongyang hailed as a sign of closer ties.\n\nWhile North Korea’s trade with Russia largely involves military supplies, trade with China could provide goods needed to develop its civilian economy, analysts say.\n\nEdited by: Zac Crellin\n\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+      "summary": " North Korean leader Kim Jong Un arrived in China via the newly opened bridge on Saturday. He arrived in the Chinese border city of Dandong via the New Yalu River Bridge. China's top political adviser Wang Huning met North Korean president Xi Jinping. The trip coincides with the anniversary of China’s entry into",
+      "retrieved_at": "2026-10-24T11:55:52.426609+00:00"
     }
   }
 }
