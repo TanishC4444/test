@@ -1,6 +1,6 @@
 {
   "week": "2026-W43",
-  "count": 9516,
+  "count": 9519,
   "articles": {
     "http://money.cnn.com/2017/02/13/news/economy/mexico-trump-us-corn/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -46690,7 +46690,7 @@
       "author": "Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:55.893346+00:00"
+      "retrieved_at": "2026-10-25T23:59:53.915688+00:00"
     },
     "https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html": {
       "source": "NYT Health",
@@ -51583,14 +51583,14 @@
       "retrieved_at": "2026-10-24T19:18:20.856391+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html": {
-      "source": "NYT Business",
+      "source": "NYT Tech",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
       "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "date": "Thu, 22 Oct 2026 16:01:36 +0000",
       "author": "Lynsey Chutel, Amelia Nierenberg and Brian O. Otieno",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:38:29.287321+00:00"
+      "retrieved_at": "2026-10-25T23:59:46.285803+00:00"
     },
     "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html": {
       "source": "NYT World",
@@ -51663,14 +51663,14 @@
       "retrieved_at": "2026-10-25T23:35:29.509385+00:00"
     },
     "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html": {
-      "source": "NYT Business",
+      "source": "NYT Tech",
       "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
       "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
       "date": "Thu, 22 Oct 2026 21:31:29 +0000",
       "author": "Karla Adam and Dustin Volz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:38:10.261666+00:00"
+      "retrieved_at": "2026-10-25T23:59:38.651542+00:00"
     },
     "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html": {
       "source": "NYT Science",
@@ -51960,7 +51960,7 @@
       "author": "Cecilia Kang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:44.444446+00:00"
+      "retrieved_at": "2026-10-25T23:59:42.459762+00:00"
     },
     "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html": {
       "source": "NYT Tech",
@@ -51970,7 +51970,7 @@
       "author": "Eli Tan and Theodore Schleifer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:29.227881+00:00"
+      "retrieved_at": "2026-10-25T23:59:27.190771+00:00"
     },
     "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html": {
       "source": "NYT Tech",
@@ -51980,7 +51980,7 @@
       "author": "Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:52.080280+00:00"
+      "retrieved_at": "2026-10-25T23:59:50.100980+00:00"
     },
     "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html": {
       "source": "NYT Business",
@@ -67590,7 +67590,7 @@
       "author": "Adam Rasgon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:58.755547+00:00"
+      "retrieved_at": "2026-10-25T23:56:56.441665+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html": {
       "source": "NYT World",
@@ -67600,7 +67600,7 @@
       "author": "Valerie Hopkins",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:30:02.566227+00:00"
+      "retrieved_at": "2026-10-25T23:57:00.269020+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html": {
       "source": "NYT World",
@@ -68900,7 +68900,7 @@
       "author": "Max Read, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Marion Lozano and Rowan Niemisto",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:36.843785+00:00"
+      "retrieved_at": "2026-10-25T23:59:34.834568+00:00"
     },
     "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc": {
       "source": "NPR News",
@@ -70490,7 +70490,7 @@
       "author": "Raja Abdulrahim and Euan Ward",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:51.141976+00:00"
+      "retrieved_at": "2026-10-25T23:56:48.770548+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html": {
       "source": "NYT World",
@@ -70500,7 +70500,7 @@
       "author": "Frances Robles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:54.944183+00:00"
+      "retrieved_at": "2026-10-25T23:56:52.608487+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html": {
       "source": "NYT Politics",
@@ -71050,7 +71050,7 @@
       "author": "Aurelien Breeden and Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:47.338254+00:00"
+      "retrieved_at": "2026-10-25T23:56:44.951863+00:00"
     },
     "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html": {
       "source": "NYT Business",
@@ -71560,7 +71560,7 @@
       "author": "Brian X. Chen and Camille Cohen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:25.409777+00:00"
+      "retrieved_at": "2026-10-25T23:59:23.373506+00:00"
     },
     "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html": {
       "source": "NYT Science",
@@ -72590,7 +72590,7 @@
       "author": "Michael D. Shear",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:35.934436+00:00"
+      "retrieved_at": "2026-10-25T23:56:33.471692+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html": {
       "source": "NYT World",
@@ -72600,7 +72600,7 @@
       "author": "Amelia Nierenberg and Lara McCoy",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:39.744444+00:00"
+      "retrieved_at": "2026-10-25T23:56:37.302917+00:00"
     },
     "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html": {
       "source": "NYT World",
@@ -72610,7 +72610,7 @@
       "author": "Karla Adam",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:43.535026+00:00"
+      "retrieved_at": "2026-10-25T23:56:41.128120+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html": {
       "source": "NYT Politics",
@@ -72653,14 +72653,14 @@
       "retrieved_at": "2026-10-25T23:37:01.646151+00:00"
     },
     "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html": {
-      "source": "NYT Climate",
+      "source": "NYT Tech",
       "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
       "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
       "date": "Fri, 23 Oct 2026 16:00:09 +0000",
       "author": "Rebecca F. Elliott and Maddie McGarvey",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:39:34.580466+00:00"
+      "retrieved_at": "2026-10-25T23:59:31.017737+00:00"
     },
     "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html": {
       "source": "NYT Science",
@@ -73910,7 +73910,7 @@
       "author": "Fatima AbdulKarim, Gabby Sobelman, Azam Ahmed and Ivor Prickett",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:32.128407+00:00"
+      "retrieved_at": "2026-10-25T23:56:29.628018+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/collins-jackson-maine-shut-up-ad.html": {
       "source": "NYT US",
@@ -74380,7 +74380,7 @@
       "author": "Edward Wong and Julie Turkewitz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:28.323587+00:00"
+      "retrieved_at": "2026-10-25T23:56:25.777672+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/bard-college-president-marvin-krislov.html": {
       "source": "NYT US",
@@ -79170,7 +79170,7 @@
       "author": "Isabel Kershner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:16.908313+00:00"
+      "retrieved_at": "2026-10-25T23:56:18.108115+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html": {
       "source": "NYT World",
@@ -79180,7 +79180,7 @@
       "author": "Marc Santora",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:38.076546+00:00"
+      "retrieved_at": "2026-10-25T23:54:30.806217+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html": {
       "source": "NYT World",
@@ -79190,7 +79190,7 @@
       "author": "Ben Hubbard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:50.292622+00:00"
+      "retrieved_at": "2026-10-25T23:55:47.400172+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html": {
       "source": "NYT World",
@@ -79200,7 +79200,7 @@
       "author": "Choe Sang-Hun and Chris Buckley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:09.300964+00:00"
+      "retrieved_at": "2026-10-25T23:56:06.593204+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html": {
       "source": "NYT Politics",
@@ -79210,7 +79210,7 @@
       "author": "Steve Fisher, Jack Nicas, Eric Schmitt, Maria Abi-Habib, Julian E. Barnes and Zolan Kanno-Youngs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:09.439172+00:00"
+      "retrieved_at": "2026-10-25T23:59:10.921488+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html": {
       "source": "NYT World",
@@ -79220,7 +79220,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:01.688484+00:00"
+      "retrieved_at": "2026-10-25T23:55:58.910908+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html": {
       "source": "NYT World",
@@ -79230,7 +79230,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:54.088997+00:00"
+      "retrieved_at": "2026-10-25T23:55:51.224839+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html": {
       "source": "NYT World",
@@ -79240,7 +79240,7 @@
       "author": "Somini Sengupta",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:20.709787+00:00"
+      "retrieved_at": "2026-10-25T23:56:14.265194+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html": {
       "source": "NYT World",
@@ -79250,7 +79250,7 @@
       "author": "Leo Sands",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:42.687554+00:00"
+      "retrieved_at": "2026-10-25T23:55:39.722604+00:00"
     },
     "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest": {
       "source": "NYT World",
@@ -79260,7 +79260,7 @@
       "author": "Mark Landler",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:46.490950+00:00"
+      "retrieved_at": "2026-10-25T23:55:43.564645+00:00"
     },
     "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html": {
       "source": "NYT World",
@@ -79270,7 +79270,7 @@
       "author": "Ana Ionova, Leila Medina and Thomas Vollkommer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:05.498617+00:00"
+      "retrieved_at": "2026-10-25T23:56:02.745509+00:00"
     },
     "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html": {
       "source": "NYT World",
@@ -79280,7 +79280,7 @@
       "author": "Marta Giaccone",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:13.109134+00:00"
+      "retrieved_at": "2026-10-25T23:56:10.415464+00:00"
     },
     "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html": {
       "source": "NYT World",
@@ -79290,7 +79290,7 @@
       "author": "Edward Wong, Jonathan Swan and Julian E. Barnes",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:29:24.527945+00:00"
+      "retrieved_at": "2026-10-25T23:56:21.944113+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html": {
       "source": "NYT Politics",
@@ -79300,7 +79300,7 @@
       "author": "Reid J. Epstein and Campbell Robertson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:01.785742+00:00"
+      "retrieved_at": "2026-10-25T23:59:03.330864+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/el-sayed-black-voters-arab-tensions.html": {
       "source": "NYT Politics",
@@ -79310,7 +79310,7 @@
       "author": "Shane Goldmacher and Michael Kruse",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:05.626589+00:00"
+      "retrieved_at": "2026-10-25T23:59:07.127403+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/trump-muslim-voters-feel-used.html": {
       "source": "NYT Politics",
@@ -79430,7 +79430,7 @@
       "author": "Lulu Garcia-Navarro",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:57.973297+00:00"
+      "retrieved_at": "2026-10-25T23:58:59.531266+00:00"
     },
     "https://www.nytimes.com/2026/10/24/science/dig-peacock-archaeology-amy-poehler.html": {
       "source": "NYT Science",
@@ -81460,7 +81460,7 @@
       "author": "Sheera Frenkel, Siobhán O’Grady and Liubov Sholudko",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:21.619976+00:00"
+      "retrieved_at": "2026-10-25T23:59:19.548161+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html": {
       "source": "NYT World",
@@ -81470,7 +81470,7 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:38.891638+00:00"
+      "retrieved_at": "2026-10-25T23:55:35.883108+00:00"
     },
     "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait": {
       "source": "Guardian US",
@@ -81900,7 +81900,7 @@
       "author": "Aaron Boxerman and Fatima AbdulKarim",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:35.089517+00:00"
+      "retrieved_at": "2026-10-25T23:55:32.040504+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html": {
       "source": "NYT World",
@@ -81910,7 +81910,7 @@
       "author": "Christopher F. Schuetze",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:34.279720+00:00"
+      "retrieved_at": "2026-10-25T23:54:27.002243+00:00"
     },
     "https://www.nytimes.com/article/france-student-protests-why.html": {
       "source": "NYT World",
@@ -84340,7 +84340,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:50.362373+00:00"
+      "retrieved_at": "2026-10-25T23:58:51.924096+00:00"
     },
     "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html": {
       "source": "NYT World",
@@ -84350,7 +84350,7 @@
       "author": "Mark Landler and Catherine Porter",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:31.293427+00:00"
+      "retrieved_at": "2026-10-25T23:55:28.202866+00:00"
     },
     "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -84730,7 +84730,7 @@
       "author": "Glenn Thrush, Katie Rogers and Zolan Kanno-Youngs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:46.563158+00:00"
+      "retrieved_at": "2026-10-25T23:58:48.118448+00:00"
     },
     "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": {
       "source": "NPR News",
@@ -85280,7 +85280,7 @@
       "author": "Mark Landler, Catherine Porter and Ségolène Le Stradic",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:23.689220+00:00"
+      "retrieved_at": "2026-10-25T23:55:20.547292+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html": {
       "source": "NYT Politics",
@@ -85290,7 +85290,7 @@
       "author": "Tim Balk",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:42.751756+00:00"
+      "retrieved_at": "2026-10-25T23:58:44.302681+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/ruling-trump-california-national-guard.html": {
       "source": "NYT US",
@@ -86010,7 +86010,7 @@
       "author": "David C. Adams and Frances Robles",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:19.885284+00:00"
+      "retrieved_at": "2026-10-25T23:55:16.723581+00:00"
     },
     "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement": {
       "source": "NPR News",
@@ -86433,14 +86433,14 @@
       "retrieved_at": "2026-10-25T00:21:58.843861+00:00"
     },
     "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html": {
-      "source": "NYT Business",
+      "source": "NYT Politics",
       "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
       "title": "Audi to Build Factory in Georgia, Trump Says",
       "date": "Sun, 25 Oct 2026 15:30:20 +0000",
       "author": "Jack Ewing",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:36:31.054487+00:00"
+      "retrieved_at": "2026-10-25T23:58:40.477942+00:00"
     },
     "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration": {
       "source": "Guardian World",
@@ -86560,7 +86560,7 @@
       "author": "Farnaz Fassihi and Leily Nikounazar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:26.678272+00:00"
+      "retrieved_at": "2026-10-25T23:54:19.423417+00:00"
     },
     "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html": {
       "source": "NYT Politics",
@@ -86570,7 +86570,7 @@
       "author": "David E. Sanger, Julian E. Barnes, Jonathan Swan, Maggie Haberman, Farnaz Fassihi and Eric Schmitt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:35.163422+00:00"
+      "retrieved_at": "2026-10-25T23:58:36.677087+00:00"
     },
     "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -86770,7 +86770,7 @@
       "author": "Josephine de La Bruyère",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:30.485670+00:00"
+      "retrieved_at": "2026-10-25T23:54:23.209506+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move": {
       "source": "Guardian World",
@@ -87270,7 +87270,7 @@
       "author": "Andrew Higgins",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:16.095628+00:00"
+      "retrieved_at": "2026-10-25T23:55:12.894594+00:00"
     },
     "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers": {
       "source": "NPR News",
@@ -87500,7 +87500,7 @@
       "author": "Nick Schönfeld and Julia Gunther",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:19.070465+00:00"
+      "retrieved_at": "2026-10-25T23:54:11.817556+00:00"
     },
     "https://www.abc.net.au/news/2026-10-25/pennsylvania-us-measles-outbreak-impacts-amish-communities/107287196": {
       "source": "ABC Australia",
@@ -87830,17 +87830,17 @@
       "author": "Nate Cohn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:00.235003+00:00"
+      "retrieved_at": "2026-10-25T23:57:58.059496+00:00"
     },
     "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html": {
       "source": "NYT Politics",
       "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
       "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
-      "date": "Sun, 25 Oct 2026 22:35:20 +0000",
+      "date": "Sun, 25 Oct 2026 23:49:35 +0000",
       "author": "Nate Cohn",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:31.338902+00:00"
+      "retrieved_at": "2026-10-25T23:58:32.878513+00:00"
     },
     "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester": {
       "source": "Guardian World",
@@ -88180,7 +88180,7 @@
       "author": "Yan Zhuang, Sejal Govindarao and Ishani Desai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:30:56.436232+00:00"
+      "retrieved_at": "2026-10-25T23:57:54.250876+00:00"
     },
     "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-a-vs-nz-a-1st-unofficial-test-devdutt-padikkal-sai-sudharsan-hit-back-after-kl-rahul-yashasvi-jaiswal-failures/articleshow/135184733.cms": {
       "source": "Times of India",
@@ -89070,7 +89070,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:03.826486+00:00"
+      "retrieved_at": "2026-10-25T23:53:56.594096+00:00"
     },
     "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html": {
       "source": "NYT World",
@@ -89080,7 +89080,7 @@
       "author": "Ephrat Livni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:15.273015+00:00"
+      "retrieved_at": "2026-10-25T23:54:08.021559+00:00"
     },
     "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html": {
       "source": "NYT World",
@@ -89090,7 +89090,7 @@
       "author": "Bethlehem Feleke, Alex Pena, Meg Felling and Monika Cvorak",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:12.293919+00:00"
+      "retrieved_at": "2026-10-25T23:55:09.049330+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html": {
       "source": "NYT Politics",
@@ -89100,7 +89100,7 @@
       "author": "Shane Goldmacher and Ruth Igielnik",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:16.074768+00:00"
+      "retrieved_at": "2026-10-25T23:58:17.659693+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/berkeley-california-public-bank.html": {
       "source": "NYT US",
@@ -89110,7 +89110,7 @@
       "author": "Soumya Karlamangla",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:30:33.636423+00:00"
+      "retrieved_at": "2026-10-25T23:57:31.426428+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html": {
       "source": "NYT US",
@@ -89130,7 +89130,7 @@
       "author": "Kellen Browning, Christina Shaman, Rafaela Balster, Chris Whitworth and Mark Oltmanns",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:30:37.431216+00:00"
+      "retrieved_at": "2026-10-25T23:57:35.240747+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/politics/roger-marshall-kansas-senate.html": {
       "source": "NYT Politics",
@@ -89140,7 +89140,7 @@
       "author": "Robert Jimison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:19.878494+00:00"
+      "retrieved_at": "2026-10-25T23:58:21.463435+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/politics/zach-lahn-iowa-governor-kansas-kochs.html": {
       "source": "NYT Politics",
@@ -89150,7 +89150,7 @@
       "author": "Shane Goldmacher and Beth Reinhard",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:23.693277+00:00"
+      "retrieved_at": "2026-10-25T23:58:25.261315+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/politics/he-took-big-risks-to-make-billions-he-wants-georgia-voters-to-bet-on-him.html": {
       "source": "NYT Politics",
@@ -89160,7 +89160,7 @@
       "author": "Rick Rojas and Reed Abelson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:27.516406+00:00"
+      "retrieved_at": "2026-10-25T23:58:29.066554+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html": {
       "source": "NYT US",
@@ -89170,7 +89170,7 @@
       "author": "Shaila Dewan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:30:48.837601+00:00"
+      "retrieved_at": "2026-10-25T23:57:46.650959+00:00"
     },
     "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html": {
       "source": "NYT Tech",
@@ -90530,7 +90530,7 @@
       "author": "Mark Landler and Ségolène Le Stradic",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:07.679803+00:00"
+      "retrieved_at": "2026-10-25T23:54:00.387252+00:00"
     },
     "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html": {
       "source": "NYT World",
@@ -90540,7 +90540,7 @@
       "author": "Vivian Nereim",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:11.476083+00:00"
+      "retrieved_at": "2026-10-25T23:54:04.216411+00:00"
     },
     "https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them": {
       "source": "NPR Politics",
@@ -91840,7 +91840,7 @@
       "author": "Bayliss Wagner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:12.266498+00:00"
+      "retrieved_at": "2026-10-25T23:58:13.858314+00:00"
     },
     "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile": {
       "source": "NPR News",
@@ -92490,7 +92490,7 @@
       "author": "Julie Turkewitz, Edward Wong and Adam Entous",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:26:56.191829+00:00"
+      "retrieved_at": "2026-10-25T23:53:48.990701+00:00"
     },
     "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html": {
       "source": "NYT Tech",
@@ -92500,7 +92500,7 @@
       "author": "Brian X. Chen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:32:17.616784+00:00"
+      "retrieved_at": "2026-10-25T23:59:15.672745+00:00"
     },
     "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html": {
       "source": "NYT Business",
@@ -93090,7 +93090,7 @@
       "author": "Adam B. Ellick and Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:08.510833+00:00"
+      "retrieved_at": "2026-10-25T23:55:05.225146+00:00"
     },
     "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -93310,7 +93310,7 @@
       "author": "Bayliss Wagner and Evan Gorelick",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:08.465480+00:00"
+      "retrieved_at": "2026-10-25T23:58:10.050785+00:00"
     },
     "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music": {
       "source": "Guardian Tech",
@@ -93480,7 +93480,7 @@
       "author": "Zane Irwin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:04.713284+00:00"
+      "retrieved_at": "2026-10-25T23:55:01.370981+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html": {
       "source": "NYT Politics",
@@ -93490,7 +93490,7 @@
       "author": "Zolan Kanno-Youngs",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:31:04.596832+00:00"
+      "retrieved_at": "2026-10-25T23:58:06.251763+00:00"
     },
     "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race": {
       "source": "Guardian World",
@@ -93860,7 +93860,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:49.510367+00:00"
+      "retrieved_at": "2026-10-25T23:54:46.079271+00:00"
     },
     "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html": {
       "source": "NYT World",
@@ -93870,7 +93870,7 @@
       "author": "Julie Turkewitz, Jonathan Wolfe and Ephrat Livni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:53.310247+00:00"
+      "retrieved_at": "2026-10-25T23:54:49.904914+00:00"
     },
     "https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html": {
       "source": "NYT World",
@@ -93880,17 +93880,17 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:57.105497+00:00"
+      "retrieved_at": "2026-10-25T23:54:53.731635+00:00"
     },
     "https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election": {
       "source": "NYT World",
       "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election",
       "title": "A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election.",
-      "date": "Sun, 25 Oct 2026 19:43:01 +0000",
+      "date": "Sun, 25 Oct 2026 23:33:37 +0000",
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:28:00.907767+00:00"
+      "retrieved_at": "2026-10-25T23:54:57.562325+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/trump-catholic-bishops-meeting-apology.html": {
       "source": "NYT US",
@@ -93900,7 +93900,7 @@
       "author": "Mitch Smith",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:30:14.585930+00:00"
+      "retrieved_at": "2026-10-25T23:57:12.376070+00:00"
     },
     "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania": {
       "source": "NPR News",
@@ -94730,7 +94730,7 @@
       "author": "Andrew Higgins and Alisa Dogramadzieva",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:00.012246+00:00"
+      "retrieved_at": "2026-10-25T23:53:52.790504+00:00"
     },
     "https://www.nytimes.com/live/2026/10/25/world/brazil-election/lula-has-accused-meta-of-helping-his-opponent": {
       "source": "NYT World",
@@ -94740,7 +94740,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:45.707828+00:00"
+      "retrieved_at": "2026-10-25T23:54:42.253483+00:00"
     },
     "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham": {
       "source": "Guardian World",
@@ -94926,11 +94926,11 @@
       "source": "NYT World",
       "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
       "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
-      "date": "Sun, 25 Oct 2026 23:14:40 +0000",
+      "date": "Sun, 25 Oct 2026 23:41:52 +0000",
       "author": "The New York Times",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:26:52.339744+00:00"
+      "retrieved_at": "2026-10-25T23:53:45.139225+00:00"
     },
     "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins": {
       "source": "NYT World",
@@ -94940,7 +94940,7 @@
       "author": "Sergio Peçanha and Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:27:41.879224+00:00"
+      "retrieved_at": "2026-10-25T23:54:38.423667+00:00"
     },
     "https://www.nytimes.com/2026/10/25/us/elections/midterms-california-mail-ballots-trump.html": {
       "source": "NYT US",
@@ -94950,7 +94950,7 @@
       "author": "Zach Montague",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-10-25T23:30:10.738828+00:00"
+      "retrieved_at": "2026-10-25T23:57:08.575822+00:00"
     },
     "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": {
       "source": "Guardian World",
@@ -95161,6 +95161,36 @@
       "text": "Votes are being tallied after polling was extended two more hours. The result between leftist Lula and right-wing Bolsonaro is expected to be very close. DW has the latest.\n\nKeep reading for the latest updates from the second round of Brazil's presidential election on Sunday, October 25:\n\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google. Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed.\n\nThe electronic voting system used in the country means that a final result could be determined within a matter of hours, although that final result is expected to be tight.\n\nHere's a DW infographic on where the results stand:\n\nBrazil's Supreme Court has moved to extend voting time in the presidential election until 7 p.m. local time (2200 GMT), giving voters an additional two hours.\n\nThe decision comes amid complaints from Lula's team that public bus services had been hampered, blocking people from getting to polling stations.\n\nAt the same time, Bolsonaro's team complained of weather conditions in certain regions making it more difficult for people to get out and vote.\n\nPresident Lula has requested an extension to poll opening hours after buses were taken out of circulation in Sao Paolo, the country's largest city, which he said prevented many people from voting.\n\n\"We are asking the Supreme Court to extend the electoral process so that those who were effectively barred from voting, due to the dirty tactics of mayors, can still cast their votes,\" Lula said, according to AFP.\n\nLula said 40% of buses in the city had been prevented from going into service, a claim that matched local media reports saying 75 buses had been blocked from leaving garages.\n\n\"I've never complained about anything in any election before. Whether I won or lost, I'd just accept it and get ready for the next one. But this time, something abominable is happening,\" he said.\n\n\"No one should give up on voting just because some scoundrel of a business owner or some crooked, criminal mayor tried to stop the people from casting their ballots.\"\n\nBrazilians in Germany have voted overwhelmingly for Lula, according to figures posted by Brazilian Embassies across the country and seen by DW's Portuguese service.\n\nThe left-wing incumbent, Lula, won 79.09% of the ballots cast by the 20,923 voters across Germany. This marks an increase on the 71.9% he won in the first round.\n\nBrazilian voters in Germany could vote at embassies in Berlin, Hamburg, Cologne, Frankfurt and Munich.\n\nThe German capital saw the greatest support for Lula, with 88.77% of the votes going his way. Frankfurt was the city with the greatest support for Bolsonaro, but on 29.03% he still trailed his opponent by some margin.\n\nThe turnout also increased in the second round in comparison to the first round when it stood at 19,322. However, for both rounds, only around half of the 41,552 eligible voters turned out to vote. Across the world, there are some 918,900 eligible voters for Sunday's election.\n\nAlthough he hasn't endorsed either candidate, US President Donald Trump is close to the Bolsonaro family.\n\nNot only did the senior Bolsonaro imitate Trump's rhetoric and policies, he also refused to concede defeat after losing to Lula in 2022, leading to his imprisonment for an attempted coup, provoking comparisons with Trump's own defeat to Joe Biden in 2020.\n\nOn the other side, Lula has presented himself as a defense against US interference.\n\nThe right \"wants to govern with the American flag,\" Lula said after casting his ballot on Sunday.\n\nA Bolsonaro win would mark a further move in Latin America toward pro-US far-right leaders, following in the footsteps of countries such as Colombia, Chile and Peru.\n\nThe president of Brazil's Superior Electoral Court, Kassio Nunes Marques, has said he expects the winner of Sunday's vote to be announced officially between 8.30 p.m. and 9 p.m. (2330 and 0000 GMT), according to A Folha de Sao Paolo.\n\nBrazil uses an electronic voting system meaning that ballots can be tallied quicker than in elections where paper votes are counted by hand.\n\nHowever, the gap between the winner and loser is expected to be small, with the two running head-to-head in pre-election polls.\n\nThe head of Brazil's Supreme Federal Court, Edson Fachin, has called for the candidates to respect the result of Sunday's vote.\n\n\"It's important to remember that all authority and power comes from the people and, thus, it is fundamental that the choices that derive from the manifestation of popular sovereignty are respected,\" he said as he left his local polling station, according to A Folha de Sao Paulo.\n\n\"Brazil needs peace and calm to, from tomorrow, be able to confront the major challenges in many areas that demand the presence of the state.\"\n\nSome observers have posited that Flavio Bolsonaro could refuse to accept a Lula victory, like his father before him, with the potential for violence to erupt.\n\nBrazil is heading back to the polls, but the impact could be felt worldwide.\n\nWith the Amazon vital to the health of the planet, the election could help shape its future.\n\nRead DW's full story on the planet-sized consequences of Brazil's election.\n\nRio's deadliest police raid left 122 people dead and divided a community. As voters weigh crime against police violence, Brazil's election battle is playing out in the streets of the district of Penha.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nBrazilian presidential candidate Flavio Bolsonaro has urged voters to turn out \"rain or shine\" to change the country's direction, accusing President Luiz Inacio Lula da Silva of leaving Brazilians fearful.\n\n\"Brazil will change. Brazil will win,\" said the son of former President Jair Bolsonaro, arguing that conditions had worsened over the past four years.\n\nThe opposition candidate criticized Lula's record on security and the economy, saying voters should not persist with a \"mistake.\"\n\nBolsonaro cast his ballot at a school in Rio de Janeiro's Vila Isabel neighborhood around 20 minutes after polls opened. Wearing a yellow shirt, he arrived in the rain with his wife, Fernanda, amid heavy security.\n\nBrazilian President Luiz Inacio Lula da Silva says voters are choosing between a candidate who defends Brazil's flag and one who prefers the US flag, referring to his right-wing challenger Flavio Bolsonaro.\n\nThe right \"wants to govern with the American flag,\" the leftist incumbent said after casting his ballot in Sao Bernardo do Campo, near Sao Paulo.\n\nLula, who is seeking a fourth, nonconsecutive term, also said Brazilians had taken to the streets to defend their gains.\n\n\"What I saw in this runoff was not about a political party or a trade union. People took to the streets to defend their gains,\" he told reporters.\n\nHe also warned about political violence, citing a brick thrown at a supporter of his leftist Workers' Party (PT) in Montes Claros. \"It shows what is at stake,\" he said.\n\nThank you for joining us today as we bring you the latest from the final round of Brazil's presidential election.\n\nPolls opened at 8 a.m. this morning (1100 GMT) and are set to close at 5 p.m. (2000 GMT), based on time in the capital Brasilia. The first results are expected 30-60 minutes after polls close.\n\nPresident Lula, 80, is hoping to turn around his defeat in the first round to Flavio Bolsonaro, 45, the son of former President Jair Bolsonaro who is currently imprisoned for trying to overturn the previous election.\n\nFlavio has said he would free his father if he wins and give him a role in his cabinet.",
       "summary": "Brazil's Supreme Court has extended voting time to 7 p.m. local time (2200 GMT) The result between leftist Lula and right-wing Bolsonaro is expected to be very close. Lula won 79.09% of the ballots cast by the 20,923 voters across Germany. Germany saw the greatest support",
       "retrieved_at": "2026-10-25T23:47:31.742385+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "date": "Sun, 25 Oct 2026 23:44:34 GMT",
+      "author": "",
+      "text": "Until a few years ago many of us may have been blissfully unaware of what a data centre was.\n\nThese giant, warehouse-like buildings power virtually all our internet activity, from our web searches and emails to movie downloads and online banking.\n\nThey are at the heart of the AI boom, housing the advanced computer chips and servers needed to run services like ChatGPT and Claude.\n\nBut the speed at which they're growing, the enormous amount of electricity they consume and concerns about their environmental impact are fuelling a public backlash around the world.\n\nIn the US, they've become a huge issue ahead of the midterm elections on 3 November, with both Republicans and opposition Democrats coming out against their development.\n\nIt's putting opponents of data centre expansion on a collision course with US President Donald Trump, who has dismissed the pushback as a \"sick conspiracy\", even as public anger grows.\n\nHere's what you need to know about the data centre boom, and why opposition is growing.\n\nThere are about 12,250 data centres around the world, according to Data Center Map, a company that tracks both operational and pre-operational sites.\n\nThat's up sharply from 2021, when there were around 8,000 operational sites.\n\nAs the chart below shows, data centres are most densely clustered in the US which has 4,767 sites. It is followed by Europe, where the UK and Germany lead.\n\nData centres have typically been located near to cities where it's easier to access high voltage power lines or water resources for cooling. But as they get bigger, more are being built in rural areas.\n\nBut when it comes to actual capacity, the US is ahead by a much larger margin, with China in second place and Europe lagging far behind.\n\nThis gap is set to widen in the coming years, leading some to warn Europe risks missing out on the potential economic benefits of the AI boom.\n\nData centres vary wildly in size, ranging from ones that fit inside a garden shed to others covering vast expanses of land.\n\nThe world's largest operational data centre is widely reported to be one run by China Telecom in Hohhot, Inner Mongolia, covering an area of approximately one million square metres (10.7 million sq ft). That is equivalent to about 140 Fifa football pitches.\n\nHowever, much larger sites are under construction as the graphic below shows.\n\nAll these sites are being built exclusively to provide the immense computing power needed to run AI services.\n\nFor instance, Colossus 2, which is part of the wider Colossus campus, will house hundreds of thousands of advanced AI chips made by tech giant Nvidia.\n\nIt will also be used to train xAI's chatbot Grok. Elon Musk's company will use 41 methane gas turbines to help power the site, which activists say could \"significantly increase\" local air pollution. Local regulators say the turbines will meet air quality standards.\n\nThe pressure data centres put on local resources has sparked increasing concern. These facilities can use significant amounts of water to cool their systems, which could lead to water shortages, some experts say.\n\nData centres worldwide are also thought to consume more electricity than the whole of France, as the chart below shows.\n\nThis growing hunger for power is driving up carbon emissions, analysis shows, while putting pressure on local grids, which some fear could push up energy prices.\n\nWith others worried about the noise data centres make and the space they take up, a public backlash is gathering steam.\n\nSome 16 US states have proposed laws to ban or temporarily block new facilities, and it could be a key issue in November's midterm elections.\n\nOutside the US, opposition to data centres has emerged in countries like Mexico, France, Indonesia and the UK.\n\nBut supporters say data centres are critical to national security, and the development of AI.\n\nThey also say they are good for the economy, attracting investment, generating tax revenue and creating jobs in areas like construction.\n\nA recent report by the Brookings Center suggests data centres do create local jobs, although fewer than industry advocates claim.\n\nThe type of data centre matters too. So-called hyperscale facilities - massive sites owned and run by tech giants like Amazon and Microsoft - have a bigger positive effect on jobs, it found.\n\nBut \"colocation\" facilities, which lease space to remote tenants without a local presence, brought fewer benefits.\n\nAs the debate over their merits intensifies, the data centre rollout continues.\n\nThis year, the tech industry is expected to spend a combined $765bn ($544bn) on AI infrastructure in 2026, with this topping $1tn next year.\n\nBut as concerns about the environmental impact grow, the tech industry is exploring alternatives.\n\nOne idea is to put data centres in space or on the Moon, where they could harness abundant solar energy.\n\nOthers predict that more AI processing could eventually be carried out by the hardware already inside our computers and smartphones, reducing the need for vast data centres altogether.\n\nAdditional reporting and design by Erwan Rivault, Matt Faraci and Dominic Bailey.",
+      "summary": null,
+      "retrieved_at": "2026-10-25T23:53:39.704189+00:00"
+    },
+    "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker": {
+      "source": "NYT World",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
+      "title": "The presidential election in Brazil is a test of Trump’s power as a kingmaker.",
+      "date": "Sun, 25 Oct 2026 23:41:49 +0000",
+      "author": "Ana Ionova and Adam B. Ellick",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-25T23:54:34.617988+00:00"
+    },
+    "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html": {
+      "source": "NYT Politics",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+      "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+      "date": "Sun, 25 Oct 2026 23:35:31 +0000",
+      "author": "Tim Balk",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-10-25T23:58:02.424707+00:00"
     }
   }
 }
