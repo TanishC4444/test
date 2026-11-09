@@ -1,6 +1,6 @@
 {
   "week": "2026-W45",
-  "count": 2560,
+  "count": 2561,
   "articles": {
     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss": {
       "source": "BBC World",
@@ -1900,7 +1900,7 @@
       "author": "Ephrat Livni and Aaron Boxerman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:29.738358+00:00"
+      "retrieved_at": "2026-11-08T23:54:29.172373+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html": {
       "source": "NYT World",
@@ -1910,7 +1910,7 @@
       "author": "David M. Halbfinger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:55.782211+00:00"
+      "retrieved_at": "2026-11-08T23:54:55.713837+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html": {
       "source": "NYT World",
@@ -1920,7 +1920,7 @@
       "author": "Andrew Higgins and Carlos Barragán",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:37.166471+00:00"
+      "retrieved_at": "2026-11-08T23:54:36.848698+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html": {
       "source": "NYT World",
@@ -1930,17 +1930,17 @@
       "author": "Shuaib Almosawa and Ismaeel Naar",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:03.743963+00:00"
+      "retrieved_at": "2026-11-08T23:54:02.765683+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html": {
-      "source": "NYT Business",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
       "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
       "date": "Sat, 07 Nov 2026 20:17:15 +0000",
       "author": "Zane Irwin and Laurence Blair",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:34:27.862787+00:00"
+      "retrieved_at": "2026-11-08T23:54:06.499719+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html": {
       "source": "NYT World",
@@ -1950,7 +1950,7 @@
       "author": "Michael D. Shear",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:59.455791+00:00"
+      "retrieved_at": "2026-11-08T23:54:59.544946+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html": {
       "source": "NYT Politics",
@@ -1960,7 +1960,7 @@
       "author": "Somini Sengupta",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:42.985650+00:00"
+      "retrieved_at": "2026-11-08T23:58:52.102596+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html": {
       "source": "NYT World",
@@ -1970,7 +1970,7 @@
       "author": "Carlotta Gall, Kamila Hrabchuk and Mauricio Lima",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:48.358606+00:00"
+      "retrieved_at": "2026-11-08T23:54:48.185495+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html": {
       "source": "NYT World",
@@ -1980,7 +1980,7 @@
       "author": "Adam Goldman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:44.616403+00:00"
+      "retrieved_at": "2026-11-08T23:54:44.318861+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html": {
       "source": "NYT World",
@@ -1990,7 +1990,7 @@
       "author": "Declan Walsh",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:11.156505+00:00"
+      "retrieved_at": "2026-11-08T23:54:10.307614+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html": {
       "source": "NYT World",
@@ -2000,7 +2000,7 @@
       "author": "Mark Landler and Ségolène Le Stradic",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:03.149417+00:00"
+      "retrieved_at": "2026-11-08T23:55:03.489484+00:00"
     },
     "https://www.nytimes.com/article/france-student-protests-why.html": {
       "source": "NYT World",
@@ -2020,7 +2020,7 @@
       "author": "Paul Sonne, Andrew E. Kramer and Marc Santora",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:36.488838+00:00"
+      "retrieved_at": "2026-11-08T23:55:37.673709+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html": {
       "source": "NYT World",
@@ -2030,7 +2030,7 @@
       "author": "Motoko Rich, Emma Bubola and Julie Turkewitz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:58.753786+00:00"
+      "retrieved_at": "2026-11-08T23:56:00.481922+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html": {
       "source": "NYT World",
@@ -2040,17 +2040,17 @@
       "author": "John Eligon",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:52.675639+00:00"
+      "retrieved_at": "2026-11-08T23:53:51.275459+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html": {
-      "source": "NYT Climate",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
       "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
       "date": "Sun, 08 Nov 2026 16:16:51 +0000",
       "author": "Jeremy W. Peters and Suhasini Raj",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:37:26.707864+00:00"
+      "retrieved_at": "2026-11-08T23:53:55.144478+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html": {
       "source": "NYT World",
@@ -2060,7 +2060,7 @@
       "author": "Victoria Kim and Tatsiana Chypsanava",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:00.047799+00:00"
+      "retrieved_at": "2026-11-08T23:53:58.982171+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html": {
       "source": "NYT World",
@@ -2070,7 +2070,7 @@
       "author": "Karla Adam",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:26.013338+00:00"
+      "retrieved_at": "2026-11-08T23:54:25.470469+00:00"
     },
     "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html": {
       "source": "NYT World",
@@ -2080,7 +2080,7 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:40.901271+00:00"
+      "retrieved_at": "2026-11-08T23:54:40.574968+00:00"
     },
     "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html": {
       "source": "NYT World",
@@ -2090,7 +2090,7 @@
       "author": "Frances Robles, Michael Anthony Adams, Danielle Miller and André Paultre",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:52.052520+00:00"
+      "retrieved_at": "2026-11-08T23:54:51.925419+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html": {
       "source": "NYT World",
@@ -2100,17 +2100,17 @@
       "author": "Victoria Kim and Laura Chung",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:06.887541+00:00"
+      "retrieved_at": "2026-11-08T23:55:07.216831+00:00"
     },
     "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html": {
-      "source": "NYT Business",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
       "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
       "date": "Fri, 06 Nov 2026 18:58:23 +0000",
       "author": "Ceylan Yeğinsu",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:34:35.302062+00:00"
+      "retrieved_at": "2026-11-08T23:55:10.952124+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html": {
       "source": "NYT World",
@@ -2120,17 +2120,17 @@
       "author": "Adam Rasgon, Adina Renner, Pablo Robles and Aaron Boxerman",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:41.571625+00:00"
+      "retrieved_at": "2026-11-08T23:53:39.929966+00:00"
     },
     "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html": {
-      "source": "NYT Health",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
       "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
       "date": "Fri, 06 Nov 2026 17:17:40 +0000",
       "author": "Apoorva Mandavilli",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:32:39.535751+00:00"
+      "retrieved_at": "2026-11-08T23:55:14.869517+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html": {
       "source": "NYT World",
@@ -2140,7 +2140,7 @@
       "author": "Matthew Mpoke Bigg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:17.966784+00:00"
+      "retrieved_at": "2026-11-08T23:55:18.658666+00:00"
     },
     "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html": {
       "source": "NYT World",
@@ -2150,7 +2150,7 @@
       "author": "Remy Tumin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:21.660851+00:00"
+      "retrieved_at": "2026-11-08T23:55:22.429347+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html": {
       "source": "NYT World",
@@ -2160,7 +2160,7 @@
       "author": "Megan Specia",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:25.347134+00:00"
+      "retrieved_at": "2026-11-08T23:55:26.255684+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html": {
       "source": "NYT World",
@@ -2170,7 +2170,7 @@
       "author": "Brian O. Otieno",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:29.074195+00:00"
+      "retrieved_at": "2026-11-08T23:55:30.118885+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html": {
       "source": "NYT World",
@@ -2180,7 +2180,7 @@
       "author": "Josephine de La Bruyère and Carlos Barragán",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:32.763067+00:00"
+      "retrieved_at": "2026-11-08T23:55:33.884886+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html": {
       "source": "NYT World",
@@ -2190,7 +2190,7 @@
       "author": "Sanjana Varghese, Vivian Nereim and Shuaib Almosawa",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:40.182829+00:00"
+      "retrieved_at": "2026-11-08T23:55:41.571123+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html": {
       "source": "NYT World",
@@ -2200,7 +2200,7 @@
       "author": "Jeanna Smialek, Koba Ryckewaert and Jim Tankersley",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:43.875078+00:00"
+      "retrieved_at": "2026-11-08T23:55:45.295208+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html": {
       "source": "NYT World",
@@ -2210,7 +2210,7 @@
       "author": "Vjosa Isai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:47.640026+00:00"
+      "retrieved_at": "2026-11-08T23:55:49.008956+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html": {
       "source": "NYT World",
@@ -2220,7 +2220,7 @@
       "author": "Steven Erlanger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:51.334045+00:00"
+      "retrieved_at": "2026-11-08T23:55:52.822860+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html": {
       "source": "NYT World",
@@ -2230,7 +2230,7 @@
       "author": "Motoko Rich",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:25:55.028715+00:00"
+      "retrieved_at": "2026-11-08T23:55:56.758946+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html": {
       "source": "NYT World",
@@ -2240,7 +2240,7 @@
       "author": "Ségolène Le Stradic",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:02.445562+00:00"
+      "retrieved_at": "2026-11-08T23:56:04.254567+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html": {
       "source": "NYT World",
@@ -2250,7 +2250,7 @@
       "author": "David Pierson and Berry Wang",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:06.140393+00:00"
+      "retrieved_at": "2026-11-08T23:56:08.087529+00:00"
     },
     "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html": {
       "source": "NYT World",
@@ -2260,7 +2260,7 @@
       "author": "Amelia Nierenberg, Christina Anderson and Lynsey Chutel",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:09.830794+00:00"
+      "retrieved_at": "2026-11-08T23:56:11.905767+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html": {
       "source": "NYT World",
@@ -2270,7 +2270,7 @@
       "author": "Laurence Blair",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:13.525354+00:00"
+      "retrieved_at": "2026-11-08T23:56:15.646135+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html": {
       "source": "NYT World",
@@ -2280,17 +2280,17 @@
       "author": "Ian Austen",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:17.221153+00:00"
+      "retrieved_at": "2026-11-08T23:56:19.496712+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html": {
-      "source": "NYT Business",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
       "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
       "date": "Thu, 05 Nov 2026 21:16:14 +0000",
       "author": "Jonathan Kandell",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:35:30.961141+00:00"
+      "retrieved_at": "2026-11-08T23:56:23.410399+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html": {
       "source": "NYT World",
@@ -2300,17 +2300,17 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:24.639183+00:00"
+      "retrieved_at": "2026-11-08T23:56:27.136834+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html": {
-      "source": "NYT Business",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
       "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
       "date": "Thu, 05 Nov 2026 19:39:19 +0000",
       "author": "Josephine de La Bruyère and Amelia Nierenberg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:35:34.673281+00:00"
+      "retrieved_at": "2026-11-08T23:56:30.844311+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html": {
       "source": "NYT World",
@@ -2320,7 +2320,7 @@
       "author": "Ana Ionova",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:32.022450+00:00"
+      "retrieved_at": "2026-11-08T23:56:34.740719+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html": {
       "source": "NYT World",
@@ -2330,7 +2330,7 @@
       "author": "Declan Walsh",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:35.709893+00:00"
+      "retrieved_at": "2026-11-08T23:56:38.458998+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html": {
       "source": "NYT World",
@@ -2340,7 +2340,7 @@
       "author": "Adam Rasgon, Vivian Nereim, Tyler Pager and Farnaz Fassihi",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:39.456017+00:00"
+      "retrieved_at": "2026-11-08T23:56:42.162312+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html": {
       "source": "NYT World",
@@ -2350,7 +2350,7 @@
       "author": "Elisabetta Povoledo",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:43.141317+00:00"
+      "retrieved_at": "2026-11-08T23:56:45.959130+00:00"
     },
     "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html": {
       "source": "NYT World",
@@ -2440,7 +2440,7 @@
       "author": "Erica L. Green",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:31.845727+00:00"
+      "retrieved_at": "2026-11-08T23:58:40.834359+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/alien-throne-king-of-wings-new-mexico.html": {
       "source": "NYT US",
@@ -2450,7 +2450,7 @@
       "author": "Rebecca Chao",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:27:43.019834+00:00"
+      "retrieved_at": "2026-11-08T23:57:51.111829+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/florida-jet-crash-father-pilot.html": {
       "source": "NYT US",
@@ -2460,7 +2460,7 @@
       "author": "Emmett Lindner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:27:46.708422+00:00"
+      "retrieved_at": "2026-11-08T23:57:54.960133+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/washington-judge-special-master-trump-golf.html": {
       "source": "NYT Politics",
@@ -2470,7 +2470,7 @@
       "author": "Zach Montague and Alan Feuer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:35.540172+00:00"
+      "retrieved_at": "2026-11-08T23:58:44.541765+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/doj-texas-fraud-lawsuit-planned-parenthood.html": {
       "source": "NYT Politics",
@@ -2480,7 +2480,7 @@
       "author": "Katie Benner and Lauren McGaughy",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:39.237148+00:00"
+      "retrieved_at": "2026-11-08T23:58:48.404266+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html": {
       "source": "NYT Politics",
@@ -2490,7 +2490,7 @@
       "author": "Zolan Kanno-Youngs and Hamed Aleaziz",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:46.654800+00:00"
+      "retrieved_at": "2026-11-08T23:58:55.813595+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html": {
       "source": "NYT Politics",
@@ -2500,7 +2500,7 @@
       "author": "Bayliss Wagner",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:50.347653+00:00"
+      "retrieved_at": "2026-11-08T23:58:59.640443+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/uss-cole-trial-jury-selection.html": {
       "source": "NYT Politics",
@@ -2510,7 +2510,7 @@
       "author": "Carol Rosenberg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:54.035087+00:00"
+      "retrieved_at": "2026-11-08T23:59:03.514726+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html": {
       "source": "NYT Politics",
@@ -2520,7 +2520,7 @@
       "author": "Carl Hulse",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:57.724832+00:00"
+      "retrieved_at": "2026-11-08T23:59:07.214698+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html": {
       "source": "NYT Politics",
@@ -2530,7 +2530,7 @@
       "author": "Emily Davies",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:01.469348+00:00"
+      "retrieved_at": "2026-11-08T23:59:10.912147+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html": {
       "source": "NYT Politics",
@@ -2540,7 +2540,7 @@
       "author": "Shane Goldmacher and Tim Balk",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:05.190654+00:00"
+      "retrieved_at": "2026-11-08T23:59:14.782380+00:00"
     },
     "https://www.nytimes.com/2026/11/07/us/elections/north-carolina-republicans.html": {
       "source": "NYT US",
@@ -2690,7 +2690,7 @@
       "author": "Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:20.733632+00:00"
+      "retrieved_at": "2026-11-08T23:59:26.623778+00:00"
     },
     "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html": {
       "source": "NYT Tech",
@@ -2703,14 +2703,14 @@
       "retrieved_at": "2026-11-08T23:29:50.440134+00:00"
     },
     "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html": {
-      "source": "NYT Business",
+      "source": "NYT Tech",
       "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
       "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
       "date": "Fri, 06 Nov 2026 17:09:36 +0000",
       "author": "Ryan Mac, Kalley Huang, Cade Metz and Georgia Gee",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:36:11.871890+00:00"
+      "retrieved_at": "2026-11-08T23:59:30.472385+00:00"
     },
     "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html": {
       "source": "NYT Tech",
@@ -2720,7 +2720,7 @@
       "author": "Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Diane Wong",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:43.043660+00:00"
+      "retrieved_at": "2026-11-08T23:59:49.301868+00:00"
     },
     "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html": {
       "source": "NYT Tech",
@@ -2730,17 +2730,17 @@
       "author": "David Streitfeld",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:31.881965+00:00"
+      "retrieved_at": "2026-11-08T23:59:37.961208+00:00"
     },
     "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html": {
-      "source": "NYT Business",
+      "source": "NYT Tech",
       "link": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
       "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
       "date": "Sat, 07 Nov 2026 02:55:47 +0000",
       "author": "Lauren McCarthy and Stuart A. Thompson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:34:24.159736+00:00"
+      "retrieved_at": "2026-11-08T23:59:41.842917+00:00"
     },
     "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html": {
       "source": "NYT Tech",
@@ -2750,7 +2750,7 @@
       "author": "Victor Mather",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:39.328109+00:00"
+      "retrieved_at": "2026-11-08T23:59:45.576156+00:00"
     },
     "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html": {
       "source": "NYT Tech",
@@ -2760,7 +2760,7 @@
       "author": "Victor Mather",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:46.743383+00:00"
+      "retrieved_at": "2026-11-08T23:59:53.094529+00:00"
     },
     "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html": {
       "source": "NYT Tech",
@@ -19346,21 +19346,21 @@
       "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
       "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
-      "date": "Sun, 08 Nov 2026 23:13:56 +0000",
+      "date": "Sun, 08 Nov 2026 23:36:32 +0000",
       "author": "Emma Bubola, Motoko Rich and Sarah Pabst",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:22.874933+00:00"
+      "retrieved_at": "2026-11-08T23:53:20.402668+00:00"
     },
     "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html": {
-      "source": "NYT Climate",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
       "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
       "date": "Sun, 08 Nov 2026 10:01:50 +0000",
       "author": "Chico Harlan",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:37:19.295532+00:00"
+      "retrieved_at": "2026-11-08T23:54:21.746198+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html": {
       "source": "NYT Politics",
@@ -19380,7 +19380,7 @@
       "author": "Campbell Robertson and Emily Cochrane",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:27:13.384356+00:00"
+      "retrieved_at": "2026-11-08T23:57:20.728901+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html": {
       "source": "NYT US",
@@ -19390,7 +19390,7 @@
       "author": "J. David Goodman and Edgar Sandoval",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:27:17.071536+00:00"
+      "retrieved_at": "2026-11-08T23:57:24.477731+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html": {
       "source": "NYT Politics",
@@ -19400,7 +19400,7 @@
       "author": "Patricia Mazzei",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:20.732743+00:00"
+      "retrieved_at": "2026-11-08T23:58:29.469692+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html": {
       "source": "NYT US",
@@ -19410,7 +19410,7 @@
       "author": "Ruth Graham",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:27:24.507092+00:00"
+      "retrieved_at": "2026-11-08T23:57:32.038877+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/texas-border-immigration-ice.html": {
       "source": "NYT US",
@@ -19420,17 +19420,17 @@
       "author": "Jazmine Ulloa",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:27:28.225943+00:00"
+      "retrieved_at": "2026-11-08T23:57:35.765381+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html": {
-      "source": "NYT Science",
+      "source": "NYT US",
       "link": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
       "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
       "date": "Sun, 08 Nov 2026 22:54:56 +0000",
       "author": "Ishani Desai",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:31:31.455818+00:00"
+      "retrieved_at": "2026-11-08T23:57:39.620844+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html": {
       "source": "NYT Politics",
@@ -19440,7 +19440,7 @@
       "author": "Annie Karni",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:28.147378+00:00"
+      "retrieved_at": "2026-11-08T23:58:37.073965+00:00"
     },
     "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html": {
       "source": "NYT Politics",
@@ -19450,7 +19450,7 @@
       "author": "Ben Blatt",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:24.459569+00:00"
+      "retrieved_at": "2026-11-08T23:58:33.220600+00:00"
     },
     "https://www.nytimes.com/2026/11/08/climate/with-hopes-low-and-temperatures-high-climate-summit-opens-in-turkey.html": {
       "source": "NYT Climate",
@@ -20510,7 +20510,7 @@
       "author": "Aaron Boxerman, Johnatan Reiss and David M. Halbfinger",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:45.261441+00:00"
+      "retrieved_at": "2026-11-08T23:53:43.729723+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html": {
       "source": "NYT World",
@@ -20520,7 +20520,7 @@
       "author": "Vivian Nereim",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:37.860880+00:00"
+      "retrieved_at": "2026-11-08T23:53:36.215473+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html": {
       "source": "NYT World",
@@ -20530,7 +20530,7 @@
       "author": "Amelia Nierenberg",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:48.951589+00:00"
+      "retrieved_at": "2026-11-08T23:53:47.506970+00:00"
     },
     "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino": {
       "source": "NPR News",
@@ -22173,14 +22173,14 @@
       "retrieved_at": "2026-11-08T14:04:47.743579+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html": {
-      "source": "NYT Business",
+      "source": "NYT Politics",
       "link": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
       "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
       "date": "Sun, 08 Nov 2026 17:03:40 +0000",
       "author": "Mark Walker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:33:54.477369+00:00"
+      "retrieved_at": "2026-11-08T23:58:22.056368+00:00"
     },
     "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia": {
       "source": "Guardian World",
@@ -22480,7 +22480,7 @@
       "author": "Peter Baker",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:17.023130+00:00"
+      "retrieved_at": "2026-11-08T23:58:25.760255+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall": {
       "source": "Guardian World",
@@ -22840,7 +22840,7 @@
       "author": "Euan Ward",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:30.483265+00:00"
+      "retrieved_at": "2026-11-08T23:53:28.373889+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html": {
       "source": "NYT World",
@@ -22850,7 +22850,7 @@
       "author": "Katrin Bennhold",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:14.912515+00:00"
+      "retrieved_at": "2026-11-08T23:54:14.094246+00:00"
     },
     "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html": {
       "source": "NYT World",
@@ -22860,7 +22860,7 @@
       "author": "Amanda Holpuch",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:24:18.610414+00:00"
+      "retrieved_at": "2026-11-08T23:54:17.868291+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/georgia-state-house-race-memory-card.html": {
       "source": "NYT US",
@@ -22870,17 +22870,17 @@
       "author": "Sejal Govindarao",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:47.269707+00:00"
+      "retrieved_at": "2026-11-08T23:56:54.185284+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html": {
-      "source": "NYT Business",
+      "source": "NYT Tech",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
       "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
       "date": "Sun, 08 Nov 2026 22:46:30 +0000",
       "author": "Maggie Haberman, Jonathan Swan, Julian E. Barnes and Tripp Mickle",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:33:46.925418+00:00"
+      "retrieved_at": "2026-11-08T23:59:22.813727+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html": {
       "source": "NYT Politics",
@@ -22890,7 +22890,7 @@
       "author": "Robert Jimison",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:05.895680+00:00"
+      "retrieved_at": "2026-11-08T23:58:14.436929+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/tesla-cybertruck-culture-war.html": {
       "source": "NYT US",
@@ -22900,7 +22900,7 @@
       "author": "Dave Philipps",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:26:58.532269+00:00"
+      "retrieved_at": "2026-11-08T23:57:05.581813+00:00"
     },
     "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html": {
       "source": "NYT Politics",
@@ -22910,7 +22910,7 @@
       "author": "Alan Feuer",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:28:09.587511+00:00"
+      "retrieved_at": "2026-11-08T23:58:18.191808+00:00"
     },
     "https://www.nytimes.com/live/2026/11/08/us/election-democrats-trump-news/heres-the-latest": {
       "source": "NYT US",
@@ -22926,11 +22926,11 @@
       "source": "NYT Tech",
       "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
       "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-      "date": "Sun, 08 Nov 2026 23:16:09 +0000",
+      "date": "Sun, 08 Nov 2026 23:51:34 +0000",
       "author": "Tripp Mickle, Maggie Haberman, Jonathan Swan, Julian E. Barnes and Ana Swanson",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:13.075547+00:00"
+      "retrieved_at": "2026-11-08T23:59:18.957928+00:00"
     },
     "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html": {
       "source": "NYT Climate",
@@ -25010,7 +25010,7 @@
       "author": "Andrew Higgins",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:34.166655+00:00"
+      "retrieved_at": "2026-11-08T23:53:32.273760+00:00"
     },
     "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready": {
       "source": "NPR Politics",
@@ -25320,7 +25320,7 @@
       "author": "Annie Correal",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:23:26.785185+00:00"
+      "retrieved_at": "2026-11-08T23:53:24.409286+00:00"
     },
     "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html": {
       "source": "NYT Tech",
@@ -25330,7 +25330,7 @@
       "author": "Emmy Martin",
       "text": "",
       "summary": null,
-      "retrieved_at": "2026-11-08T23:29:28.141623+00:00"
+      "retrieved_at": "2026-11-08T23:59:34.191710+00:00"
     },
     "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -25601,6 +25601,16 @@
       "text": "Nvidia Corp.’s board is launching an investigation into whether Chief Executive Officer Jensen Huang was targeted by a foreign espionage plot after he admitted to employees that he was unfaithful to his wife.\n\nThe board will assemble a committee of independent directors, working with outside counsel, to oversee the investigation of the case, according to a statement Sunday. In his own memo to staff, Huang said he was “deeply sorry” for the affair.\n\n“I was unfaithful to my wife,” he said. “My actions hurt her and our children. There is no excuse for what I did.”",
       "summary": "N Nvidia Corp. CEO Jensen Huang admitted to employees that he was unfaithful to his wife. The company's board will assemble a committee of independent directors to oversee the investigation. Huang said he was “deeply sorry’ for the affair.",
       "retrieved_at": "2026-11-08T23:47:23.138404+00:00"
+    },
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html": {
+      "source": "NYT Politics",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
+      "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+      "date": "Sun, 08 Nov 2026 23:49:53 +0000",
+      "author": "David E. Sanger and Eric Schmitt",
+      "text": "",
+      "summary": null,
+      "retrieved_at": "2026-11-08T23:58:02.989675+00:00"
     }
   }
 }
