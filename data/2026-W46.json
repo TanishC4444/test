@@ -1,6 +1,10 @@
 {
   "week": "2026-W46",
+<<<<<<< Updated upstream
   "count": 8917,
+=======
+  "count": 8928,
+>>>>>>> Stashed changes
   "articles": {
     "http://money.cnn.com/2017/02/13/news/economy/mexico-trump-us-corn/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -10,7 +14,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:13.624727+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:50.656273+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -20,7 +28,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:18.627406+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:55.162505+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/india-h1b-visa-trump-nandan-nilekani/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -30,7 +42,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:23.148517+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:59.297361+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -40,7 +56,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:27.798841+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:03.322964+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/stocks-all-time-highs-donald-trump-janet-yellen-fed/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -50,7 +70,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:32.306526+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:07.537659+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -60,7 +84,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:36.808587+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:11.771854+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/news/economy/nafta-canada-trudeau-trump-mexico/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -70,7 +98,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:41.307531+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:15.914791+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/verizon-stock-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -80,7 +112,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:45.906645+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:20.273052+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/oil-prices-opec-deal/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -90,7 +126,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:50.409823+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:24.425743+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/investing/tesla-uae-elon-musk/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -100,7 +140,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:54.926902+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:28.589116+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/13/technology/uber-ola-india-pranay-jivrajka/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -110,7 +154,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:59.445766+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:32.750793+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/11/media/fake-news-apple-ceo-tim-cook/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -120,7 +168,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:04.037843+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:36.899272+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/news/companies/trump-brand-sears-kmart/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -130,7 +182,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:08.528979+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:40.963858+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/news/thailand-bamboo-cassava-packaging-universal-biopack/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -140,7 +196,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:13.032965+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:45.085059+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/news/companies/nike-equality-lebron-serena/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -150,7 +210,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:17.559273+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:49.358468+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/media/lego-batman-movie-steven-mnuchin/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -160,7 +224,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:22.239305+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:53.600032+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/08/news/economy/greece-imf-bailout-eurozone/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -170,7 +238,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:26.744125+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:34:57.822013+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/12/technology/verizon-unlimited-data-plan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -180,7 +252,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:31.253262+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:01.992472+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/10/news/economy/visa-ban-rural-doctor-shortage/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -190,7 +266,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:35.905358+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:06.161254+00:00"
+>>>>>>> Stashed changes
     },
     "http://money.cnn.com/2017/02/10/investing/stocks-united-states-trump-europe-china-japan/index.html?section=money_news_international": {
       "source": "CNN Business",
@@ -200,7 +280,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:40.397081+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:10.272453+00:00"
+>>>>>>> Stashed changes
     },
     "http://edition.cnn.com/2008/TECH/space/12/02/planetsalign.irpt/index.html?eref=edition_space": {
       "source": "CNN Space",
@@ -210,7 +294,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:12:45.676247+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:14.955234+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.cnn.com/collections/intl-trump-040223/": {
       "source": "CNN World",
@@ -220,7 +308,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:02.272825+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:39.981938+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.cnn.com/collections/intl-ukraine-030423/": {
       "source": "CNN World",
@@ -230,7 +322,11 @@
       "author": "",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:11:07.249308+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:44.665978+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html": {
       "source": "NYT Economy",
@@ -12860,7 +12956,11 @@
       "author": "CesiumAstro",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:50.032889+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:42.306613+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/": {
       "source": "Space News",
@@ -12870,7 +12970,11 @@
       "author": "Amorim Cork Solutions",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:54.522983+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:46.271742+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/": {
       "source": "Space News",
@@ -12880,7 +12984,11 @@
       "author": "SpaceNews Editor",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:58.985741+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:50.342747+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/": {
       "source": "Space News",
@@ -12890,7 +12998,11 @@
       "author": "Spacemanic",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:03.417661+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:54.234516+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/": {
       "source": "Space News",
@@ -12900,7 +13012,11 @@
       "author": "Airbus",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:07.852813+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:58.151775+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/": {
       "source": "Space News",
@@ -12910,7 +13026,11 @@
       "author": "Exolaunch",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:12.293939+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:02.205345+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/": {
       "source": "Space News",
@@ -31590,7 +31710,11 @@
       "author": "CCIA",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:45.492938+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:38.295478+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.space.com/technology/aerospace/futuristic-aircraft-takes-flight-at-nasa-space-photo-of-the-day-for-nov-9-2026": {
       "source": "Space.com",
@@ -44790,7 +44914,11 @@
       "author": "Keith Schneider",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:46.891422+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:16.930880+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/11/us/democratic-dark-money-super-pac-complaint.html": {
       "source": "NYT US",
@@ -49680,7 +49808,11 @@
       "author": "Horizon Microtechnologies",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:32.087585+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:25.843464+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/": {
       "source": "Space News",
@@ -49690,7 +49822,11 @@
       "author": "Seagate Space",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:36.544466+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:30.109907+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/": {
       "source": "Space News",
@@ -49700,7 +49836,11 @@
       "author": "Jeff Foust",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:41.063876+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:34.115199+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review": {
       "source": "Space.com",
@@ -57320,7 +57460,11 @@
       "author": "Alexei Koseff, Erin Cox",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:35.275185+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:50.878198+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/11/one-month-shutdown-congress-is-far-deal-fund-government/": {
       "source": "WashPost Politics",
@@ -59570,7 +59714,11 @@
       "author": "Jeff Foust",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:23.193500+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:17.633598+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/": {
       "source": "Space News",
@@ -59580,7 +59728,11 @@
       "author": "Moog Inc.",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:27.632581+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:21.751069+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review": {
       "source": "Space.com",
@@ -66030,7 +66182,11 @@
       "author": "UARX Space",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:14.224389+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:09.307643+00:00"
+>>>>>>> Stashed changes
     },
     "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/": {
       "source": "Space News",
@@ -66040,7 +66196,11 @@
       "author": "SpaceNews Editor",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:18.656921+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:13.382519+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.space.com/entertainment/space-movies-shows/man-of-tomorrow-release-date-plot-cast-and-everything-we-know-about-the-superman-sequel": {
       "source": "Space.com",
@@ -68750,7 +68910,11 @@
       "author": "Erin Cox, Theodoric Meyer",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:52.275234+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:05.752701+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang": {
       "source": "The Verge",
@@ -69140,7 +69304,11 @@
       "author": "Jeff Foust",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:09.771639+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:05.245297+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.medscape.com/viewarticle/glutathione-supplements-health-benefits-or-just-hype-2026a10017ju?src=rss": {
       "source": "Medscape",
@@ -71098,9 +71266,15 @@
       "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
       "date": "Fri, 13 Nov 2026 16:02:36 +0000",
       "author": "Declan Walsh and Daniel Berehulak",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:54.008991+00:00"
+=======
+      "text": "So many people are dying of Ebola that their bodies have been stacked, one atop the other, on makeshift racks in a shed by the hospital gate.\n\nThe town’s main cemetery is full, so fresh graves are being squeezed in between palm trees by the side of the road.\n\nMedicine, IVs and basic protections have been so scarce that three-quarters of Ebola patients in this besieged Congolese town have died.\n\nSix months on, Ebola continues to hack a deadly trail across eastern Democratic Republic of Congo.\n\nWhen the outbreak was first detected in May, it resembled a single, giant blaze, with infections concentrated in a handful of towns in one province.\n\nIt has since morphed into a far bigger, more elusive foe, creeping into eight provinces and splintering into numerous hot spots as it moves through one of the world’s great rainforests.\n\nInstead of one big fire, there are many now, scattered across a vast area about the size of Britain.\n\nHealth workers have corralled the virus where it was first detected, but infections are soaring elsewhere. Biakato, a small town deep in the rainforest, suddenly accounted for as many as one-quarter of new cases nationally. Yet its beleaguered residents were left almost entirely on their own, with dangerously little to defend themselves against the fastest-growing Ebola outbreak in history.\n\n“We see the same mistakes as before,” said Dr. Jean-Jacques Muyembe, who helped discover Ebola in 1976 and now heads Congo’s National Institute for Biomedical Research. “It’s as if we were starting from zero. It’s very disappointing.”\n\nAnd if that were not enough, the campaign to contain the epidemic has run into a terrifying new threat: the Islamic State.\n\nSubscribe to The Times to read as many articles as you like.\n\nDeclan Walsh is the chief Africa correspondent for The Times based in Nairobi, Kenya. He previously reported from Cairo, covering the Middle East, and Islamabad, Pakistan.\n\nDaniel Berehulak is a staff photographer for The Times based in Mexico City.",
+      "summary": " Three-quarters of Ebola patients in Congolese town have died of Ebola. Ebola continues to hack a deadly trail across eastern Democratic Republic of Congo. Health workers have corralled the virus where it was first detected. But infections are soaring elsewhere, with the Islamic State becoming a threat.",
+      "retrieved_at": "2026-11-15T03:26:30.280539+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html": {
       "source": "NYT World",
@@ -71116,11 +71290,17 @@
       "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
       "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
-      "date": "Fri, 13 Nov 2026 10:01:42 +0000",
+      "date": "Sun, 15 Nov 2026 03:16:40 +0000",
       "author": "Amanda Taub",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:02.984351+00:00"
+=======
+      "text": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.\n\nProtest movements have long relied on students as some of the most ardent foot soldiers. Young people have been on the front lines of protests against war, climate change and racial inequality. But in huge protests that have shaken India and France this fall, students have revolted against the failed promises of education itself.\n\nIn India, students took to the streets after the government abruptly canceled the results of a medical-school admissions exam because test questions had been leaked online. Aspiring doctors had to take the test again, after many spent years studying for up to 12 hours a day in hopes of winning one of the coveted spots — and the chance of upward mobility. Young people across the country saw the scandal as emblematic of a broken education system and were furious.\n\nIn France, students in poor suburbs outside Paris began protesting the decrepit physical condition of their schools, an opaque university admissions system and absent teachers. French education had long promised to serve as a “social elevator” enabling young people to advance in society, but had fallen into disrepair. Soon, demonstrations spread across the country and, in some cities, spiraled into rioting.\n\nIn both countries, the anger of the students shows no signs of abating. And while in many ways France and India could hardly be more different, their unrest was sparked by a similar source of outrage: the breakdown of a foundational social contract that one could call the meritocratic bargain.\n\nIt is a promise that lies at the core of many countries’ political compacts. Though specifics can vary, the central proposition usually goes something like this: A fair society rewards merit. Educational achievements are a good measure of merit because education is open to all and leads to valuable skills. Therefore, education should be a route to social and economic advancement.\n\nThe value of this system is not just that it selects for those with high ability, but also that it offers a justification for the resulting socioeconomic hierarchy — including who ends up at the bottom. “All selection mechanisms generate losers,” said Nicholas Kuipers, a professor at Princeton University who studies the politics of meritocracy. “The question is, Who do you want to be a loser, and who do you want to be a winner?”\n\nSubscribe to The Times to read as many articles as you like.\n\nAmanda Taub writes the Interpreter, an explanatory column and newsletter about world events. She is based in London.",
+      "summary": " India and France have been in protests against the failed promises of education itself. Students in India and French have protested over the failure of their schools and the government. The value of this system is not just that it selects for those with high ability, but also that it offers a justification for the resulting socioeconomic hierarchy.",
+      "retrieved_at": "2026-11-15T03:26:39.574570+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html": {
       "source": "NYT World",
@@ -71128,9 +71308,15 @@
       "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
       "date": "Fri, 13 Nov 2026 22:47:13 +0000",
       "author": "Jeanna Smialek",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:07.542262+00:00"
+=======
+      "text": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.\n\nReporting from Dublin, where European leaders are meeting, and from an airfield near the city where Americans and Ukrainians debriefed on Thursday night.\n\nEuropean leaders have waited on the margins of negotiations to end Russia’s war in Ukraine for months, eyeing a seat at the table. They learned this week that they would get one, and simply needed to decide which official should sit in that chair.\n\nInstead, they decided on six.\n\nEuropean Union leaders concluded in Dublin on Friday that they will tap a group of major nations — Britain, France, Germany, Poland, and Italy — along with a representative from the E.U’s leadership arms, the European Council and European Commission.\n\nIn some ways, the choice of a crowd plays into jibes Americans have made about the continent’s indecisiveness: “If Europe could identify one person to speak on their behalf, that would be a bigger achievement than getting the Russians to include them in the negotiation,” Jared Kushner, President Trump’s son-in-law and a U.S. envoy, said earlier this week.\n\nEurope’s failure to pick one negotiator leaves open the possibility that its fragmentation will diminish its influence. Even so, Europeans have underscored that they are a democracy of many nations and that many voices must be represented.\n\n“We decide on who represents us, and that is what we have done today,” said Ursula von der Leyen, the president of the European Commission.\n\n“We need to work as a team,” António Costa, president of the European Union’s political leadership arm, said at a news conference on Friday, noting that America itself has two envoys.\n\nSubscribe to The Times to read as many articles as you like.\n\nJeanna Smialek is the Brussels bureau chief for The Times.",
+      "summary": " European leaders have waited on the margins of negotiations to end Russia’s war in Ukraine for months. They learned this week that they would get one, and simply needed to decide which official should sit in that chair. Instead, they decided on six, including a representative from the E.U’S leadership arms, the",
+      "retrieved_at": "2026-11-15T03:26:44.177262+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html": {
       "source": "NYT World",
@@ -71138,9 +71324,15 @@
       "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
       "date": "Fri, 13 Nov 2026 10:02:17 +0000",
       "author": "Chris Buckley",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:12.013148+00:00"
+=======
+      "text": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.\n\nWhen China’s leader, Xi Jinping, endorsed the expulsion of dozens of disgraced officials at a recent Communist Party meeting in Beijing, one man stood out as a clear winner.\n\nTaking his new place at the front of the meeting was Gen. Zhang Shengmin, the somber-faced enforcer of Mr. Xi’s purges inside the military. He had been promoted to the Politburo, the party’s top leadership council, the latest step in his improbable rise from low-profile inspector to a position second only to Mr. Xi in China’s military hierarchy.\n\nGeneral Zhang has been the principal overseer of Mr. Xi’s campaign to purify the People’s Liberation Army. His latest elevation signaled that the investigations, indoctrination drives and loyalty tests could continue for years, as Mr. Xi searches for officers he believes are irreproachably loyal, experts and officials said.\n\n“Twist the blade inward, with strict measures to cure disorder,” China’s main military newspaper said after the party meeting that was held late last month, referring to the continued discipline campaign.\n\nThree officials in Taiwan said they believed Mr. Xi’s loyalty campaign would keep the Chinese military focused on its own problems. That could hinder preparations for possible war over Taiwan, the self-governed island democracy that Beijing claims. The officials spoke on condition of anonymity to discuss internal assessments.\n\nThe leadership uncertainty comes as China’s military has continued to pressure Taiwan. Dozens of P.L.A. ships held unannounced drills in seas off the Chinese coast in recent weeks, with some, including a carrier strike group, still remaining, Joseph Wu, the secretary-general of Taiwan’s National Security Council, posted on X on Thursday.\n\nSubscribe to The Times to read as many articles as you like.\n\nChris Buckley, the chief China correspondent for The Times, reports on China and Taiwan from Taipei, focused on politics, social change and security and military issues.",
+      "summary": " Zhang Shengmin was promoted to the Politburo, the party's top leadership council. He had been promoted to a position second only to Mr. Xi in China’s military hierarchy.",
+      "retrieved_at": "2026-11-15T03:26:48.746479+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html": {
       "source": "NYT World",
@@ -71148,9 +71340,15 @@
       "title": "Border Crossings Have Plummeted. Stephen Miller Isn’t Satisfied.",
       "date": "Fri, 13 Nov 2026 10:00:19 +0000",
       "author": "James Wagner and Jack Nicas",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:16.505272+00:00"
+=======
+      "text": "U.S. Immigration Crackdown\n\nMexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough.\n\nBy James Wagner and Jack Nicas\n\nReporting from Mexico City\n\nSince President Trump resumed office, the number of illegal crossings at the U.S.-Mexico border has dropped to the lowest point in decades.\n\nFor one of Mr. Trump’s top policy advisers, that is not enough.\n\nIn conversations with both American and Mexican officials over the last several months, Stephen Miller has insisted that illegal border crossings must be reduced, according to officials in both countries familiar with the private conversations but not authorized to discuss them.\n\nMr. Miller’s goal, they said, is zero crossings. Mexican officials have said that, with a nearly 2,000-mile border, that is simply not possible.\n\nIn his new role as chief of staff, Mr. Miller is expected to continue driving that agenda.\n\nOne of the main forums for Mr. Miller’s demands has been his near daily calls with the U.S. ambassador to Mexico, Ronald ​Johnson, some of the officials said. On calls with staff, Mr. Miller, previously the deputy chief of staff, frequently rails about the number of border crossings, despite their low figures, the officials said.\n\nThat has been especially true in recent months, they said, as border crossings increased slightly, to the highest point in Mr. Trump’s second term.\n\nNote: Includes encounters outside official border crossings.\n\nSource: U.S. Customs and Border Protection\n\nSergio Peçanha/The New York Times\n\nSubscribe to The Times to read as many articles as you like.\n\nJames Wagner covers news and culture in Latin America for The Times. He is based in Mexico City.\n\nJack Nicas is The Times’s Mexico City bureau chief, leading coverage of Mexico, Central America and the Caribbean.",
+      "summary": " U.S. Immigration Crackdown Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough.",
+      "retrieved_at": "2026-11-15T03:26:53.247014+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html": {
       "source": "NYT World",
@@ -71158,9 +71356,15 @@
       "title": "One of France’s Most Popular Athletes Is Running for President",
       "date": "Fri, 13 Nov 2026 14:47:23 +0000",
       "author": "Mark Landler",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:20.984227+00:00"
+=======
+      "text": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Enter Christine Lagarde, a former central banker — and Teddy Riner, a judo star.\n\nWhen Teddy Riner, a judo champion and one of France’s most popular athletes, announced this week that he would run for president, it was less a game changer than a welcome diversion. For all of his appeal, Mr. Riner, 37, is unlikely to win the race to replace President Emmanuel Macron next spring.\n\nYet his quixotic candidacy reveals a hard truth about France’s presidential campaign. Five months before voters go to the polls, many are eager, even desperate, for a fresh face to upend a race that looks increasingly as if it’s on a glide path to the election of France’s first far-right government since World War II.\n\nThe main far-right candidate, Marine Le Pen, has held a commanding lead over all her rivals for months — a lead that has only been reinforced by weeks of protests, marred by violence, that have shaken France. The most prominent center-right candidate, Édouard Philippe, has faded in the polls as the unrest has sharpened the appeal of far-right calls for law and order and left-wing calls for social justice.\n\nAnother beneficiary of the upheaval is a far-left firebrand, Jean-Luc Mélenchon, who now appears to be the likeliest candidate to advance into a second round against Ms. Le Pen in France’s two-round system. As things currently stand, French voters would be confronted with a choice between two poles of the political spectrum.\n\nCentrist voters are “afraid of being confronted with a duel between Marine Le Pen and Jean-Luc Mélenchon,” said Jean-Daniel Lévy, deputy director of Toluna France, a polling firm. These voters, he said, are an “orphan electorate,” lacking an inspiring candidate, and are “still looking for someone.”\n\nRaphaël LLorca, an analyst at the Jean-Jaurès Foundation, a left-leaning research group in Paris, said the search for a white knight showed “the panic of the centrist bloc.” He added, “It is clear that the election is slipping away from them.”\n\nSubscribe to The Times to read as many articles as you like.\n\nMark Landler is the Paris bureau chief of The Times, covering France, as well as American foreign policy in Europe and the Middle East. He has been a journalist for more than three decades.",
+      "summary": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Teddy Riner, a judo champion and one of France's most popular athletes, announced this week that he would run for president.",
+      "retrieved_at": "2026-11-15T03:26:58.252926+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html": {
       "source": "NYT World",
@@ -71168,9 +71372,15 @@
       "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
       "date": "Sat, 14 Nov 2026 15:43:16 +0000",
       "author": "Declan Walsh, Daniel Berehulak, Leila Medina, Rebecca Suner and Joey Sendaydiego",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:04:06.028767+00:00"
+=======
+      "text": "Make sense of the day’s news and ideas.\n\nCatch up on big news, and wind down to end your day.\n\nThe biggest stories of our time, in 20 minutes a day.\n\nA guide to understanding the news, made for readers around the globe.\n\nThe latest news for any part of the world you select.\n\nBackstories and analysis from our Canadian correspondents.\n\nThe most crucial business and policy news you need to know.\n\nOur best tech reporting from the week.\n\nOur tech journalists help you make sense of the rapidly changing tech world.\n\nReviews, news and features to help you find your next read.\n\nStreaming TV and movie recommendations.\n\nThe podcast that takes you inside the literary world.\n\nPop music news, new songs and albums, and artists of note.\n\nUnwind with stories about culture and the way we live.\n\nEssential news and guidance to live your healthiest life.\n\nThe complicated love lives of real people.\n\nMapping the new world order through interviews and conversations.\n\nYou've heard the news, here's what to make of it.\n\nDiscussions of ideas that matter, plus book recommendations.\n\nConversations with the world’s most fascinating people.\n\nYour morning listen. Top stories, in 10 minutes.\n\nA five-part series … on a deadline.\n\nYour guide to the best New York Times shows this week.\n\nBe the first to know about our new shows.\n\nWord games, logic puzzles and crosswords, including an extensive archive. Go to Games\n\nThe Midi Crossword NEW\n\nPuzzles, brain teasers, solving tips and more.\n\nGet an easy version of one of the hardest crossword puzzles of the week.\n\nRecipes, advice and inspiration for everyday cooking, special occasions and more. Go to Cooking\n\nNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.\n\nDelicious vegetarian recipes and tips from Tanya Sichynsky.\n\nDinner ideas for busy people from Emily Weinstein.\n\nReviews and recommendations for thousands of products. Go to Wirecutter\n\nThe best independent reviews, expert advice and intensively researched deals.\n\nStep-by-step advice on how to keep everything in your home squeaky clean.\n\nPersonalized coverage of your sports teams and leagues. Go to The Athletic\n\nDelivering the top stories in sports, Sunday to Friday.\n\nConnections: Sports Edition\n\nConnections: Soccer Edition\n\nnew video loaded: Why Aid Isn’t Reaching Ebola’s Epicenter",
+      "summary": " The biggest stories of our time, in 20 minutes a day, in 10 minutes a week. Be the first to know about our new shows this week. Go to The Athletic Delivering the top stories in sports, Sunday to Friday.",
+      "retrieved_at": "2026-11-15T03:27:44.494042+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html": {
       "source": "NYT Politics",
@@ -71230,7 +71440,11 @@
       "author": "Fanni Daniella Szakál",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:14.809171+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:18.783840+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html": {
       "source": "NYT Business",
@@ -71240,7 +71454,11 @@
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:18.973284+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:55.293901+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html": {
       "source": "NYT Business",
@@ -71250,7 +71468,11 @@
       "author": "Sui-Lee Wee, Adam Satariano, Xinyun Wu and River Akira Davis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:23.481463+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:59.535779+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html": {
       "source": "NYT Business",
@@ -71260,7 +71482,11 @@
       "author": "Joe Rennison",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:28.097146+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:03.662812+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html": {
       "source": "NYT Business",
@@ -71270,7 +71496,11 @@
       "author": "Tony Romm",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:32.687506+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:07.942449+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html": {
       "source": "NYT Business",
@@ -71280,7 +71510,11 @@
       "author": "Clay Risen",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:37.199345+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:12.112077+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king": {
       "source": "NPR News",
@@ -72120,7 +72354,11 @@
       "author": "Samantha Schmidt, Anthony Faiola, Víctor Zea Díaz",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:12.808466+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:38.515105+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/democrats-target-costly-dhs-prison-purchase-part-broad-immigration-probes/": {
       "source": "WashPost Politics",
@@ -72130,7 +72368,11 @@
       "author": "Alexei Koseff, David Nakamura",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:37.737069+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:53.125903+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/maga-voters-are-forced-confront-future-beyond-trump/": {
       "source": "WashPost Politics",
@@ -72140,7 +72382,11 @@
       "author": "Hannah Knowles",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:27.814154+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:44.379555+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/style/2026/11/13/hegseth-shatters-silence-arlington-dead-deserve-better/": {
       "source": "WashPost Politics",
@@ -72150,7 +72396,11 @@
       "author": "Philip Kennicott",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:40.148026+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:55.082986+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/will-democrats-pursue-national-popular-vote/": {
       "source": "WashPost Politics",
@@ -72160,7 +72410,11 @@
       "author": "Alec Dent, Dan Merica",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:42.575380+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:57.114141+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/jd-vance-still-likely-run-president-his-allies-say/": {
       "source": "WashPost Politics",
@@ -72170,7 +72424,11 @@
       "author": "Natalie Allison",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:45.004302+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:59.318621+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/movement-end-electoral-college-gets-boost-after-democratic-wins/": {
       "source": "WashPost Politics",
@@ -72180,7 +72438,11 @@
       "author": "Patrick Marley, Maegan Vazquez",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:49.851457+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:01.532732+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/technology/interactive/2026/11/13/timeline-president-trump-jensen-huang-close-relationship/": {
       "source": "WashPost Politics",
@@ -72190,7 +72452,11 @@
       "author": "Miriam Waldvogel, Cat Zakrzewski, Jarrell Dillard, Mariana Alfaro",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:47.425258+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:03.565988+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/13/an-investigation-into-private-equity-backed-childcare-companies-found-more-problems/": {
       "source": "WashPost Business",
@@ -72200,7 +72466,11 @@
       "author": "Riley Beggin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:17.645521+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:29.623106+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/13/savings-account-mistake-that-costing-you-hundreds-each-year/": {
       "source": "WashPost Business",
@@ -72210,7 +72480,11 @@
       "author": "Natasha Etzel",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:22.435917+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:27.669470+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/": {
       "source": "WashPost Business",
@@ -72220,7 +72494,11 @@
       "author": "Julia Carpenter",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:20.016744+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:31.649334+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/": {
       "source": "WashPost National",
@@ -72230,7 +72508,11 @@
       "author": "Steve Thompson",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:47.069705+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:45.105141+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/": {
       "source": "WashPost National",
@@ -72240,7 +72522,11 @@
       "author": "Casey Parks",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:44.675049+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:43.066688+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/": {
       "source": "TechCrunch",
@@ -75660,7 +75946,11 @@
       "author": "Steve Lohr",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:00.287153+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:05.580502+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html": {
       "source": "NYT Science",
@@ -75670,7 +75960,11 @@
       "author": "Kenneth Chang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:28.322254+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:27.311002+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html": {
       "source": "NYT Business",
@@ -75680,7 +75974,11 @@
       "author": "Ann Carrns",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:14.416942+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:51.093706+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/sections/world-cafe/2026/11/13/nx-s1-6039367/queens-of-the-stone-age-album-perfecth": {
       "source": "NPR Health",
@@ -75890,7 +76188,11 @@
       "author": "Maegan Vazquez",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:32.703988+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:48.625341+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/13/treasury-secretary-points-commerce-secretary-failure-restrict-nvidia-customer/": {
       "source": "WashPost National",
@@ -75900,7 +76202,11 @@
       "author": "Ian Duncan, Isaac Arnsdorf, Nancy Cook, Riley Beggin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:37.389175+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:36.702474+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/": {
       "source": "TechCrunch",
@@ -76770,7 +77076,11 @@
       "author": "Cory Weinberg",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:51.278823+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:57.108864+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html": {
       "source": "NYT Tech",
@@ -76780,7 +77090,11 @@
       "author": "Kalley Huang, Mike Isaac and Cecilia Kang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:55.808898+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:01.319019+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention": {
       "source": "Guardian World",
@@ -77108,9 +77422,15 @@
       "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
       "date": "Fri, 13 Nov 2026 09:45:38 +0000",
       "author": "David M. Halbfinger",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:58.494598+00:00"
+=======
+      "text": "Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.\n\nBy David M. Halbfinger\n\nReporting from Jerusalem\n\nGadi Eisenkot, the former military chief who has been given a chance to form Israel’s new governing coalition and replace Prime Minister Benjamin Netanyahu, is by no means assured of success.\n\nBut if he does take power, another hugely daunting challenge would immediately confront him: how to undo the vast damage done to Israel’s relationship with the United States, its closest and most important ally.\n\nIt’s hard to imagine things getting much worse.\n\nMany Americans have turned against Israel over its devastating military campaign in Gaza, and even more so over its role in pressing for war with Iran, which led to soaring gas prices.\n\nPresident Trump announced this month that he would cut off billions of dollars in annual U.S. military aid to Israel by the end of the year and blamed Israel in part for Republican losses in the midterm elections. Democratic control of Congress could quickly lead to sanctions on violent Israeli settlers and on new settlement construction in the occupied West Bank, as well as to new conditions on arms sales.\n\nIn the past, Israel could always turn to Congress for support in clashes with the White House, said Michael Oren, a former Israeli ambassador to Washington and deputy prime minister under Mr. Netanyahu. But no longer.\n\n“For the first time in the history of our relationship with the United States, we have no recourse,” he said. “We have to start from scratch. We have a lot of fence mending to do and with no guarantee of success. Zero.”\n\nSubscribe to The Times to read as many articles as you like.\n\nDavid M. Halbfinger is The Times’s Jerusalem bureau chief, leading coverage of Israel, Gaza and the West Bank. He also held that post from 2017 to 2021. He was the politics editor from 2021 to 2025.",
+      "summary": " Gadi Eisenkot is given a chance to form Israel's new governing coalition and replace Prime Minister Benjamin Netanyahu. He is by no means assured of success, but he is facing a huge challenge to undo the vast damage done to Israel's relationship with the United States.",
+      "retrieved_at": "2026-11-15T03:26:34.855256+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html": {
       "source": "NYT US",
@@ -77130,7 +77450,11 @@
       "author": "Colby Smith",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:09.918556+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:47.045029+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid": {
       "source": "NPR News",
@@ -77150,7 +77474,11 @@
       "author": "Joanna Slater",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:42.251404+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:40.861977+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/": {
       "source": "TechCrunch",
@@ -77520,7 +77848,11 @@
       "author": "Erin Griffith and Cory Weinberg",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:05.420021+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:42.862920+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle": {
       "source": "Guardian World",
@@ -77770,7 +78102,11 @@
       "author": "Ana Swanson",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:10:51.953895+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:33:21.549285+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense": {
       "source": "NPR News",
@@ -77810,7 +78146,11 @@
       "author": "Joshua Yang, Rudy Lu",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:17.846619+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:42.661000+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/world/2026/11/13/zelensky-says-starlink-limits-continued-ukraine/": {
       "source": "WashPost World",
@@ -77820,7 +78160,11 @@
       "author": "Francesca Ebel",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:20.406373+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:44.865298+00:00"
+>>>>>>> Stashed changes
     },
     "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/": {
       "source": "Ars Technica",
@@ -78343,14 +78687,20 @@
       "retrieved_at": "2026-11-14T12:43:13.887694+00:00"
     },
     "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html": {
-      "source": "NYT Business",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
       "date": "Sat, 14 Nov 2026 18:39:59 +0000",
       "author": "Jason Horowitz",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:09:24.414666+00:00"
+=======
+      "text": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.\n\nReporting from Madrid\n\nSébastien Ducros, a French data analyst who supports the widespread student protests in his country, has identified an obvious culprit for the lack of government funds for dilapidated schools.\n\n“A huge portion of the money is going toward retirees, while many other things are being neglected,” said Mr. Ducros, 36. “I honestly think — even if it feels strange to say — that people like my parents are in a position where they should and could” surrender some of their pension payments, he added, saying that they were about to retire.\n\nBut Laurent Grinwald, 72, who retired recently after decades as a postal worker, isn’t eager for his pension to be reduced, particularly to pay for other state-funded services. Especially, he said, as rents and the cost of living have shot up.\n\n“We’ve been working all this time,” Mr. Grinwald said, “and now, suddenly, the stance is, ‘Well, no, we’re going to start taking a bit more?’”\n\nThis disagreement embodies a broader question for Europe, one at the heart of the mass antigovernment demonstrations that returned to France on Saturday, as well as recent protests driven by frustrated young people in countries including Belgium, Germany, Greece, Italy and Portugal. As Europeans live longer, should the needs of the young be eclipsed by their parents’ and grandparents’ pensions, routinely the largest items in Europe’s national budgets?\n\n“It’s a generational clash,” said Jorge Galindo, the director of EsadeEcPol, an independent think tank in Spain, which has some of the most generous pensions in Europe.\n\nSubscribe to The Times to read as many articles as you like.\n\nJason Horowitz is the Madrid bureau chief for The Times, covering Spain, Portugal and the way people live throughout Europe.",
+      "summary": "As retirees live longer, governments need to spend more on pensions, says a French data analyst. He says a huge portion of the money is going toward retirees, while many other things are being neglected. But Laurent Grinwald, 72, who retired recently after decades as a postal worker, isn’t eager for his pension to",
+      "retrieved_at": "2026-11-15T03:25:56.721276+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html": {
       "source": "NYT World",
@@ -78358,9 +78708,15 @@
       "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
       "date": "Sat, 14 Nov 2026 19:23:20 +0000",
       "author": "Adam Goldman",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:26.696423+00:00"
+=======
+      "text": "War in the Middle East\n\nA wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.\n\nReporting from London\n\nAs the U.S.-Israel war in Iran raged earlier this year, a man linked to Iranian criminal networks perched in front of a computer, on a video call with a teenager in London. The man wanted to make sure the teen, who was moments away from setting fire to a synagogue, carried out his plans.\n\n“Light it up like a Christmas tree,” the man, an Iraqi named Mohammad Ali al-Hassani, urged the 17-year-old, according to U.S. prosecutors. The teen climbed over a wall and tossed a bomb through a broken window. “J’s mic is muted,” read the text on Mr. al-Hassani’s computer screen.\n\nThe synagogue arson in April was a small, violent part of Iran’s efforts to force an end to the bombing campaign that was pummeling the country, according to American investigators.\n\nThe attack was described in a federal indictment filed in New York this week. It revealed extensive new details about a wave of violence against Jewish institutions in Europe and U.S. targets, including a British air base used by American bombers. Prosecutors hold Iran’s agents responsible for the assaults.\n\nWithin days of the war starting, Mr. al-Hassani and at least two associates, including an operative for Iran’s powerful Islamic Revolutionary Guard Corps, began plotting the attacks in Europe, prosecutors said. The men talked about procuring drones and missiles from contacts in Iran. They pored over a map of London, with one saying they should “get focused” on targeting the British capital. Soon after, attacks hit temples and other Jewish sites in London.\n\nIn the fight against much stronger conventional forces, Iran has found ways to impose costs on its adversaries without inviting a full military response. One major aspect of Iran’s strategy is its embrace of small-time criminals to conduct low-cost assaults against vulnerable targets that are part of everyday life.\n\nSubscribe to The Times to read as many articles as you like.\n\nAdam Goldman is a London-based reporter for The Times who writes about global security.",
+      "summary": " Prosecutors shed new light on how Iran took aim at U.S. allies. A man linked to Iranian criminal networks perched in front of a computer, on a video call with a teenager in London. The man wanted to make sure the teen, who was moments away from setting fire to a synagogue, carried out his plans.",
+      "retrieved_at": "2026-11-15T03:26:01.651540+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html": {
       "source": "NYT World",
@@ -78368,9 +78724,15 @@
       "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
       "date": "Sat, 14 Nov 2026 13:57:36 +0000",
       "author": "Kim Barker",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:31.628694+00:00"
+=======
+      "text": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.\n\nReporting from Kyiv, Ukraine\n\nUkrainian military operations were disrupted again this week along the front lines because of restrictions on Starshield, the satellite internet system developed by Elon Musk’s SpaceX and controlled by the U.S. government, President Volodymyr Zelensky said on Friday.\n\nMr. Zelensky told reporters that speed limits of about 100 miles per hour were being enforced for Ukrainian devices connected to the system. It would be the second time in recent weeks that Ukraine’s Starshield connectivity had been throttled. The previous restrictions caused Ukrainian drones to lose their connection to the system if they flew above certain speeds.\n\nMr. Zelensky said that the latest speed limits took effect on Monday and were being enforced over Russian-occupied territories, not over all of Ukraine. That hurts Ukraine’s ability to strike Russian troops with drones in those territories.\n\nImposing restrictions on occupied territories is “very dangerous, because it already has political implications,” Mr. Zelensky said. “If you impose restrictions there, you are already partially recognizing the temporarily occupied territories as not ours,” he added.\n\nMr. Zelensky said separately in his nightly speech that the Starshield limits hurt Ukraine’s ability to use newly developed interceptors to protect its cities from Russia’s jet-powered drones. It is likely, however, that those limits would not affect interceptors in Kyiv, the capital, which is being battered by jet-powered drones but is far from the front lines.\n\nMr. Musk and SpaceX did not respond to requests for comment on Friday evening. SpaceX had earlier told Axios that the Ukrainian claim about throttled connectivity was false.\n\nSubscribe to The Times to read as many articles as you like.\n\nKim Barker is a Times reporter writing in-depth stories about the war in Ukraine.",
+      "summary": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. It would be the second time in recent weeks that Ukraine’s Starshield connectivity had been throttled.",
+      "retrieved_at": "2026-11-15T03:26:06.508503+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html": {
       "source": "NYT World",
@@ -78378,9 +78740,15 @@
       "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
       "date": "Sat, 14 Nov 2026 10:10:01 +0000",
       "author": "Simon Romero and Isayen Herrera",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:36.103164+00:00"
+=======
+      "text": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.\n\nLong-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.\n\nSunrise over the Cardón Refinery in Punta Cardón, Venezuela. Oil has shaped Venezuela to an extent rare outside the Middle East, becoming a defining feature of the country’s social fabric.\nCredit...\nAdriana Loureiro Fernandez for The New York Times\n\nBy Simon Romero and Isayen Herrera\n\nSimon Romero is a former Caracas bureau chief who has covered energy politics across Latin America. Isayen Herrera reports on Venezuela for The New York Times.\n\nLike generations before him, Leonardo Silva grew up steeped in beliefs about the extraordinarily abundant resource that made Venezuela special. All the oil under their feet was theirs, they felt. Virtually free gasoline was a birthright. To be born atop this bounty was like winning the lottery.\n\nMr. Silva, 38, said his generation viewed oil as a cornerstone of the country’s national identity, when a booming economy allowed Venezuela to occupy a privileged tier in the global order. His children, he said, have a far less rosy view.\n\n“To them oil isn’t important, it’s secondary,” said Mr. Silva, who works at a foundation in Caracas helping people with disabilities. “They don’t have that culture of us being a rich country. They just know that if you don’t work, you don’t eat.”\n\nOil has shaped Venezuela to an extent that is rare outside the Middle East for more than a century, becoming a defining feature of the social fabric like baseball, beauty pageants or the veneration of the liberation hero Simón Bolívar.\n\nBut now the U.S. government is taking control of  a huge portion of Venezuela’s oil. And, pressed by economic need, long-held nationalist convictions about oil, starting with the need for sovereign control, are giving way to a more complex web of perspectives.\n\nThe ways in which Venezuelans are re-evaluating oil, and by extension their reliance on it, are the result of immense upheaval over the last decade. Oil production plummeted because of mismanagement, political purges, corruption and sanctions.\n\nSubscribe to The Times to read as many articles as you like.\n\nSimon Romero is a Times correspondent covering Mexico, Central America and the Caribbean. He is based in Mexico City.",
+      "summary": "Long-held beliefs about sovereign control over oil are fraying as U.S. lays claim to country's oil reserves. Oil has shaped Venezuela to an extent rare outside the Middle East.",
+      "retrieved_at": "2026-11-15T03:26:11.216003+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html": {
       "source": "NYT World",
@@ -78388,9 +78756,15 @@
       "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
       "date": "Sat, 14 Nov 2026 05:01:07 +0000",
       "author": "Amanda Taub",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:45.049854+00:00"
+=======
+      "text": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.\n\nTwo recent cases have brought new attention to the ways that British laws can allow the wealthy and powerful to silence their critics.\n\nThe first was the rape and sexual assault trial of the comedian Russell Brand. Before his conviction last week, Mr. Brand had obtained an injunction prohibiting another accuser from telling almost anyone — including the police, her family and most doctors — about her claims that he assaulted her. (Mr. Brand has denied her allegations.) That injunction, first revealed by Dan Neidle, a tax lawyer and free-expression activist, apparently remains in force.\n\nIn the second instance, two British news organizations were temporarily blocked from reporting allegations of sexual misconduct against David Walliams, a television personality and author of children’s books, before a judge declined to make the injunction permanent. The Guardian newspaper and ITV News, a British broadcaster, published investigations last week into the allegations, which Mr. Walliams denies.\n\nThough both men now face public scrutiny, the revelations of how they used court injunctions — essentially gag orders — to protect their reputations have provoked no shortage of public and political outrage. Judges in other cases have issued “super injunctions,” which prohibit publishing any information even about the injunction itself.\n\n“What will the government do to prevent these abuses of process, and stop the abusive injunctions and super injunctions which stop scrutiny, accountability and the work of the free press?” Nick Timothy, the shadow justice minister, asked in Parliament on Tuesday.\n\nThe British government is now “looking at what we can do,” Alex Davies-Jones, the government minister responsible for victims of crime and violence against women and girls, said in response.\n\nSubscribe to The Times to read as many articles as you like.\n\nAmanda Taub writes the Interpreter, an explanatory column and newsletter about world events. She is based in London.",
+      "summary": " Two recent cases have brought new attention to the ways that British laws can allow the wealthy and powerful to silence their critics. The first was the rape and sexual assault trial of Russell Brand, who had an injunction preventing another accuser from telling almost anyone about her claims that he assaulted her.",
+      "retrieved_at": "2026-11-15T03:26:20.865496+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html": {
       "source": "NYT World",
@@ -78398,9 +78772,15 @@
       "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
       "date": "Fri, 13 Nov 2026 21:50:12 +0000",
       "author": "Adam Rasgon",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:49.518847+00:00"
+=======
+      "text": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.\n\nReporting from Tel Aviv\n\nGadi Eisenkot, the former military chief who is trying to form the next Israeli government, accused Prime Minister Benjamin Netanyahu on Friday of fueling a “racist” campaign against the country’s Arab citizens, in some of the strongest public criticism of his rival’s attacks on the community.\n\nThe comments were made days after Mr. Netanyahu delivered a divisive speech to the opening session of Parliament, or the Knesset, in which he referred to Arab lawmakers as “terror supporters” and “haters of Israel.” Diplomats and analysts condemned the remarks as a brazen display of hatred and incitement against Arab citizens, who make up about 20 percent of the overall population, and voted in massive numbers in inconclusive elections last month.\n\n“Since the beginning of the election campaign, they have been subjected to a racist and aggressive campaign of delegitimization, fueled by the outgoing prime minister and those around him for political purposes,” Mr. Eisenkot said in a statement on social media.\n\n“Arab citizens of Israel are an integral part of the Israeli story,” he said, adding that it was wrong to malign an entire community.\n\n“The attempt to marginalize them and vilify them collectively is a profound violation of the principles of statesmanship,” Mr. Eisenkot said. “It dishonors Israel’s Declaration of Independence and the values we take pride in as a Jewish and democratic state.”\n\nThe Declaration of Independence says all citizens have equal social and political rights “irrespective of religion, race or sex.”\n\nSubscribe to The Times to read as many articles as you like.\n\nAdam Rasgon is a reporter for The Times in Jerusalem, covering Israeli and Palestinian affairs.",
+      "summary": " Gadi Eisenkot accuses Netanyahu of fueling a “racist’s campaign against the country’'s Arab citizens. He says the attempt to marginalize them and vilify them collectively is a profound violation of the principles of statesmanship. The comments were made days after Mr. Netanyahu delivered a divisive speech to the opening session of",
+      "retrieved_at": "2026-11-15T03:26:25.446270+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html": {
       "source": "NYT World",
@@ -78408,9 +78788,15 @@
       "title": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
       "date": "Sat, 14 Nov 2026 11:00:08 +0000",
       "author": "Shawna Richer",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:38.975494+00:00"
+=======
+      "text": "Games behind paywalls and exorbitant costs forcing a drop in attendance — even to watch Connor McDavid in Edmonton — have only compounded the loss of a Saturday night ritual.\n\nThe National Hockey League season is less than two months old, and much of the focus in Canada has been on how expensive it is to attend games, and how costly and cumbersome it has become to watch them on television.\n\nAttendance has fallen in several markets, including Edmonton, where Connor McDavid has an astonishing 49 points in 20 games and is on pace to challenge Wayne Gretzky’s single-season scoring record of 215 points.\n\nThis week, The Globe and Mail reported that three TV providers had filed a complaint with the Canadian Radio-television and Telecommunications Commission asking Rogers Sportsnet to reverse its decision to put more than 50 Monday night N.H.L. games behind a paywall on its streaming service for an extra $13 a month.\n\nFurther increasing the cost and complexity of watching hockey, Wednesday night games are on Prime Video. TSN broadcasts some regional games with blackouts, and a subscription to NHL Centre Ice is needed to watch out-of-market games.\n\nUntil this season, the N.H.L. could be found for free.\n\nIn June, the CBC and Rogers Sportsnet announced that the national broadcaster would no longer air N.H.L. games on Saturday nights, a first in 75 years, ending the cultural institution “Hockey Night in Canada.” Last month, the CBC announced it would begin airing Professional Women’s Hockey League games when its season begins in December.\n\nSubscribe to The Times to read as many articles as you like.\n\nShawna Richer is a Times editor working on coverage of global sports and Canada.",
+      "summary": " The National Hockey League season is less than two months old. The focus in Canada has been on how expensive it is to attend games. The CBC and Rogers Sportsnet announced that the national broadcaster would no longer air N.H.L. games on Saturday nights.",
+      "retrieved_at": "2026-11-15T03:27:16.749036+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html": {
       "source": "NYT World",
@@ -78418,9 +78804,15 @@
       "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
       "date": "Fri, 13 Nov 2026 22:21:04 +0000",
       "author": "Motoko Rich and Mitra Taj",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:43.569511+00:00"
+=======
+      "text": "Pope Leo in Latin America\n\nLeo XIV returned to the city in Peru where he served as bishop for eight years, drawing large crowds who remembered him before he was pope.\n\nBy Motoko Rich and Mitra Taj\n\nReporting from Chiclayo, Peru\n\nIt was hard to believe that anyone who lived in Chiclayo, Peru, was not lining its streets on Friday.\n\nAs the motorcade of Pope Leo XIV, who has been in South America for over a week, made its way through the city that he calls one of his homes, an almost unbroken stream of people stood by the roadside, waving, holding signs and clutching white and yellow balloons, the colors of the Vatican flag.\n\nThe last time many of them saw him, he was “Padre Robert” —  Father Robert — but now they jubilantly welcomed him back as Papa Leon.\n\nA month after being diagnosed with cancer and undergoing surgery to remove a lobe of his right lung, Leo arrived at the destination that made this 12-day tour of Uruguay, Argentina and Peru a true homecoming.\n\nFor eight years, Leo — then known as Robert Prevost — served as bishop of Chiclayo, a coastal city where he is remembered for working side by side with the Red Cross during devastating floods or driving for hours to get to parishioners in the highlands.\n\nWhen he stepped out on the balcony in St. Peter’s Square after being elected pope last year, the one community he mentioned was his “dear Chiclayo.” It was while serving here that he became a Peruvian citizen.\n\nSubscribe to The Times to read as many articles as you like.\n\nMotoko Rich is the Times bureau chief in Rome, where she covers Italy, the Vatican and Greece.",
+      "summary": "Pope Leo XIV returned to Chiclayo, Peru, where he served as bishop for eight years. He was diagnosed with cancer and underwent surgery to remove a lobe of his right lung.",
+      "retrieved_at": "2026-11-15T03:27:21.482873+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html": {
       "source": "NYT World",
@@ -78428,9 +78820,15 @@
       "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
       "date": "Sat, 14 Nov 2026 18:44:13 +0000",
       "author": "Zane Irwin and Lucía Cholakian Herrera",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:48.081010+00:00"
+=======
+      "text": "It involved a heating pad, animal fat and a bomb scare. The police are still looking for an Italian man facing extradition on 1970s-era terrorism charges.\n\nBy Zane Irwin and Lucía Cholakian Herrera\n\nZane Irwin reported from New York. Lucia Cholakian Herrerra reported from Buenos Aires.\n\nTime was running out for Leonardo Bertulazzi. After decades of safe harbor in Argentina, Mr. Bertulazzi, once a member of a far-left terrorist group that kidnapped and murdered a former Italian prime minister in 1978, faced imminent extradition.\n\nBack in Italy, a 27-year prison sentence for terrorism-related crimes awaited Mr. Bertulazzi, according to Argentina’s defense ministry.\n\nMr. Bertulazzi, 74, was placed under house arrest. The police were stationed across the street from the fifth-floor apartment he shared with his wife in Buenos Aires, Argentina’s capital. He’d had three strokes in the past two years, his lawyer said, and he was required to wear an ankle monitor.\n\nNone of that seemed to stop Mr. Bertulazzi from planning his escape.\n\nOn Tuesday, while much of the law enforcement apparatus of Buenos Aires was focused on the visit by Pope Leo, two police officers checked on Mr. Bertulazzi during a routine shift change, according to an official with knowledge of an investigation into Mr. Bertulazzi’s flight who was not authorized to speak publicly.\n\nBut this time, when the officers rang the apartment’s doorbell, nobody answered. Investigators believe Mr. Bertulazzi had escaped between 6 a.m. and 8 a.m. that morning.\n\nMr. Bertulazzi’s ankle monitor still showed he was at the apartment, the official said. A search revealed a metal box holding a mess of wires plugged into an outlet, prompting the officers to call an explosives disposal unit, according to the official.\n\nSubscribe to The Times to read as many articles as you like.\n\nAn earlier version of this article misstated when Aldo Moro was prime minister of Italy. He was a former prime minister when he was kidnapped and killed by the Red Brigades, and not in office.\n\nWe acknowledge mistakes in our reporting with corrections. If you spot an error, please let us know at corrections@nytimes.com.Learn more.\n\nZane Irwin is an international reporter and a member of the 2026-27 Times Fellowship, a program for journalists early in their careers.",
+      "summary": " Leonardo Bertulazzi, 74, was placed under house arrest in Buenos Aires. He was once a member of a far-left terrorist group that kidnapped and murdered a former Italian prime minister in 1978. He had three strokes in the past two years, his lawyer said.",
+      "retrieved_at": "2026-11-15T03:27:26.112046+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa": {
       "source": "NYT World",
@@ -78443,34 +78841,52 @@
       "retrieved_at": "2026-11-14T12:44:25.573521+00:00"
     },
     "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html": {
-      "source": "NYT Politics",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
       "title": "African Miss Universe Contestants Struggle to Get U.S. Visas",
       "date": "Fri, 13 Nov 2026 21:01:28 +0000",
       "author": "Matthew Mpoke Bigg",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:07:09.293723+00:00"
+=======
+      "text": "U.S. Immigration Crackdown\n\nA crackdown on entry by some citizens of African countries by the U.S. immigration officials means that some contestants might not get visas in time to attend the pageant in Puerto Rico this month.\n\nBy Matthew Mpoke Bigg\n\nReporting from Nairobi, Kenya\n\nAt least two African contestants for Miss Universe said they were in danger of missing the pageant in Puerto Rico this month because they had not secured U.S. visas amid a crackdown by the Trump administration.\n\nOne contestant, Miss Zambia, Mubanga Pamela Hatyoka, said she would not travel to the annual event on Nov. 24 because she had not received her visa, according to Arm Model Management, which said it was the franchise holder of Miss Zambia 2026.\n\nHer nonattendance is “linked to the United States presidential travel restrictions affecting Zambia and other African nations,” the agency said in a statement on social media. “She earned her crown, she earned her title, and she deserves the opportunity to represent the nation she proudly serves.”\n\nSubscribe to The Times to read as many articles as you like.\n\nMatthew Mpoke Bigg is the East Africa bureau chief for The New York Times, based in Nairobi, Kenya.",
+      "summary": " U.S. immigration crackdown on African citizens by U.N. officials means some contestants might not get visas in time to attend the pageant in Puerto Rico this month. At least two African contestants for Miss Universe said they were in danger of missing the pageant.",
+      "retrieved_at": "2026-11-15T03:27:30.813240+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html": {
-      "source": "NYT Climate",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
       "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
       "date": "Fri, 13 Nov 2026 17:59:45 +0000",
       "author": "Chico Harlan and Lisa Friedman",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:10:42.266679+00:00"
+=======
+      "text": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.\n\nBy Chico Harlan and Lisa Friedman\n\nReporting from Antalya, Turkey\n\nA squabble over the publication timetable for several climate reports has turned into one of the burning issues of this year’s United Nations climate conference, as some warn that fossil fuel interests might be interfering with the world’s pre-eminent climate science organization.\n\nThe U.N.-backed Intergovernmental Panel on Climate Change produces landmark reports that generally come out every five to seven years. The next round of reports would take on topics like physical changes to the earth and greenhouse gas emissions.\n\nTiming is critical because in 2028 nations are supposed to assess their progress and then ramp up their efforts to do more, based on the best science. That process, known as a stocktake and occurring every five years, is the engine of the Paris Agreement.\n\nSaudi Arabia, India and Russia are among those pushing to delay the reports so that at least two of them come out after 2028.\n\nThe fact that those nations rank among the largest fossil fuel exporters or importers has led to accusations that coal, oil and gas interests might be interfering with science.\n\n“Saudi Arabia is trying to destroy the I.P.C.C. in order to prevent the next global stocktake from using the accurate scientific data on fossil fuels,” said former Vice President Al Gore, who is in Turkey for the talks.\n\nSubscribe to The Times to read as many articles as you like.\n\nChico Harlan is a global climate correspondent for The Times.\n\nLisa Friedman is a business correspondent covering energy for The New York Times.",
+      "summary": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies. Saudi Arabia, India and Russia are among those pushing to delay reports so that at least two of them come out after 2028.",
+      "retrieved_at": "2026-11-15T03:27:35.328081+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html": {
-      "source": "NYT Business",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
       "date": "Sat, 14 Nov 2026 13:15:55 +0000",
       "author": "Michael Levenson",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:09:47.205012+00:00"
+=======
+      "text": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.\n\nMicrosoft said early Saturday that it had fully restored its services after a global outage disrupted them for a day and a half, hampering communications and work at schools, government agencies and offices around the world.\n\nThe problems began on Thursday and cascaded around the world. The company, based in Redmond, Wash., gradually restored service through Friday until declaring an end to one of its most extensive outages of recent times in an update on Saturday around 1 a.m. Eastern time.\n\nOutages started disrupting Microsoft tools and apps around noon Eastern time on Thursday and quickly spread to more than 70 countries and territories, affecting millions of users, according to Downdetector, an outage-tracking site.\n\nSome of Microsoft’s most popular products, including the email manager Outlook, the workplace messaging and video calling app Teams and the artificial intelligence assistant Copilot, stopped working.\n\nMicrosoft said in a statement on Friday that “for now, we can confirm that there is no indication this is the result of malicious or cyber activity.” It added that the problem was “a technical issue not related to cyber or A.I.” agents.\n\nThe company said it had no indication that a Federal Aviation Administration ground stop issued late Friday afternoon, which has affected air travel nationwide, was related to the outage.\n\nSubscribe to The Times to read as many articles as you like.\n\nMichael Levenson covers breaking news for The Times from New York.",
+      "summary": "Microsoft says it has fully restored its services after a global outage disrupted them for a day and a half. The problems began on Thursday and cascaded around the world. The company gradually restored service through Friday until Saturday.",
+      "retrieved_at": "2026-11-15T03:27:39.878647+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html": {
       "source": "NYT Politics",
@@ -78480,7 +78896,11 @@
       "author": "Maggie Haberman, John Pappas, Gilad Thaler, Thomas Vollkommer, James Surdam, Edward Vega and Nikolay Nikolov",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:09.844322+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:32.042714+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/heres-the-latest": {
       "source": "NYT US",
@@ -78500,7 +78920,11 @@
       "author": "Luke Broadwater, Zolan Kanno-Youngs and Devlin Barrett",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:14.457443+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:36.164373+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/elections/alaska-house-race-felon-eric-hafner.html": {
       "source": "NYT US",
@@ -78510,7 +78934,11 @@
       "author": "Anna Griffin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:05.458338+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:40.429695+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html": {
       "source": "NYT Politics",
@@ -78520,7 +78948,11 @@
       "author": "Catie Edmondson",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:19.012331+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:40.419237+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/ex-convicts-halfway-house-oakland.html": {
       "source": "NYT US",
@@ -78530,7 +78962,11 @@
       "author": "Soumya Karlamangla",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:14.520484+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:48.944591+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/bomb-ethanol-plant-peoria-illinois.html": {
       "source": "NYT US",
@@ -78540,7 +78976,11 @@
       "author": "Mitch Smith",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:19.181466+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:53.108762+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html": {
       "source": "NYT US",
@@ -78550,7 +78990,11 @@
       "author": "Tim Balk",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:23.761439+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:57.393198+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html": {
       "source": "NYT US",
@@ -78560,7 +79004,11 @@
       "author": "Anna Griffin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:28.262882+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:01.622877+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html": {
       "source": "NYT US",
@@ -78570,7 +79018,11 @@
       "author": "Karoun Demirjian",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:32.893227+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:05.910957+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html": {
       "source": "NYT Politics",
@@ -78580,7 +79032,11 @@
       "author": "Reid J. Epstein and Lisa Lerer",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:23.523270+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:44.634142+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-outage-plane-landings.html": {
       "source": "NYT US",
@@ -78590,7 +79046,11 @@
       "author": "Niraj Chokshi",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:41.959894+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:14.613358+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-sports-nba-football.html": {
       "source": "NYT US",
@@ -78620,7 +79080,11 @@
       "author": "Emily Davies",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:28.055306+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:48.918870+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html": {
       "source": "NYT US",
@@ -78640,7 +79104,11 @@
       "author": "Katie Rogers",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:33.041490+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:53.107941+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html": {
       "source": "NYT Politics",
@@ -78650,7 +79118,11 @@
       "author": "Julian E. Barnes, Maggie Haberman and Jonathan Swan",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:37.599425+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:57.394483+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/markwayne-mullin-faa-ground-stop.html": {
       "source": "NYT US",
@@ -78690,7 +79162,11 @@
       "author": "Charlie Savage and Dustin Volz",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:42.096482+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:01.679205+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html": {
       "source": "NYT Business",
@@ -78700,7 +79176,11 @@
       "author": "Sarah Kliff and Margot Sanger-Katz",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:28.907583+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:13.941308+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html": {
       "source": "NYT Politics",
@@ -78710,7 +79190,11 @@
       "author": "Tim Balk",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:51.112534+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:10.221714+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html": {
       "source": "NYT Politics",
@@ -78720,7 +79204,11 @@
       "author": "Carl Hulse",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:55.741295+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:14.476283+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/2023-ground-stop-faa-pilot-warning-system.html": {
       "source": "NYT US",
@@ -78750,7 +79238,11 @@
       "author": "Luke Vrotsos and Evan Reynolds",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:00.258564+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:18.768570+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html": {
       "source": "NYT US",
@@ -78770,7 +79262,11 @@
       "author": "Ann E. Marimow and Hamed Aleaziz",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:13.883708+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:27.151218+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html": {
       "source": "NYT US",
@@ -78790,7 +79286,11 @@
       "author": "Anton Troianovski, Andrew E. Kramer, Jeanna Smialek, David E. Sanger and Eric Schmitt",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:18.426914+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:31.327928+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html": {
       "source": "NYT US",
@@ -78840,7 +79340,11 @@
       "author": "Amy Qin",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:51.812852+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:30.368879+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html": {
       "source": "NYT Politics",
@@ -78850,7 +79354,11 @@
       "author": "Nate Cohn and Eve Washington",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:04.776892+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:22.990443+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html": {
       "source": "NYT Tech",
@@ -78860,7 +79368,11 @@
       "author": "David Streitfeld",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:28.085811+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:40.151131+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html": {
       "source": "NYT Science",
@@ -78870,7 +79382,11 @@
       "author": "Clay Risen, Amisha Padnani and Hang Do Thi Duc",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:19.308147+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:23.143027+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html": {
       "source": "NYT Business",
@@ -78880,7 +79396,11 @@
       "author": "Neil Vigdor",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:15.428786+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:05.617532+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/business/zhang-liang-china-panama.html": {
       "source": "NYT Business",
@@ -78890,7 +79410,11 @@
       "author": "Alexandra Stevenson, Murphy Zhao, David C. Adams and Daniel Berehulak",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:19.926551+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:09.847262+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html": {
       "source": "NYT Business",
@@ -78900,7 +79424,11 @@
       "author": "Lauren Hirsch and Cory Weinberg",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:33.591516+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:18.074651+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html": {
       "source": "NYT Business",
@@ -78910,7 +79438,11 @@
       "author": "Karen Weise",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:38.151472+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:22.273783+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html": {
       "source": "NYT Business",
@@ -78920,7 +79452,11 @@
       "author": "Tripp Mickle, Gilad Thaler, Thomas Vollkommer, Shawn Paik, Nikolay Nikolov, James Surdam, Rafaela Balster, June Kim and Mark Oltmanns",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:42.665737+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:26.347975+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html": {
       "source": "NYT Business",
@@ -78930,7 +79466,11 @@
       "author": "Maureen Farrell and Rob Copeland",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:56.317029+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:34.542886+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics": {
       "source": "NPR News",
@@ -79880,7 +80420,11 @@
       "author": "Susannah George",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:05.395318+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:32.320937+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/world/2026/11/13/more-than-15-million-people-welcome-pope-leo-xiv-northern-peru/": {
       "source": "WashPost World",
@@ -79890,7 +80434,11 @@
       "author": "Samantha Schmidt, Anthony Faiola",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:07.828692+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:34.338197+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/world/2026/11/13/ukraine-critic-injured-moscow-car-bombing-russia-says/": {
       "source": "WashPost World",
@@ -79900,7 +80448,11 @@
       "author": "Natalia Abbakumova",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:10.196910+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:36.431687+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/": {
       "source": "WashPost World",
@@ -79910,7 +80462,11 @@
       "author": "Ellen Francis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:15.390528+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:40.588139+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/14/white-evangelicals-voted-less-less-gop-new-analysis-says/": {
       "source": "WashPost National",
@@ -79920,7 +80476,11 @@
       "author": "Michelle Boorstein",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:08.202684+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:12.846566+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/style/2026/11/14/stephen-millers-suits-make-radical-look-reassuringly-routine/": {
       "source": "WashPost Politics",
@@ -79930,7 +80490,11 @@
       "author": "Robin Givhan",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:46.022544+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:08.187154+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep/": {
       "source": "WashPost Politics",
@@ -79940,7 +80504,11 @@
       "author": "Isaac Arnsdorf, Cat Zakrzewski",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:48.423730+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:10.311864+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/14/nvidia-crisis-tests-stephen-miller-chief-staff-he-reorganizes/": {
       "source": "WashPost Politics",
@@ -79950,7 +80518,11 @@
       "author": "Nancy Cook",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:50.875582+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:12.388272+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/14/potential-2028-candidate-is-out-running-others-gear-up/": {
       "source": "WashPost Politics",
@@ -79960,7 +80532,11 @@
       "author": "Alec Dent",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:53.468852+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:14.583412+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/14/democrat-jonathan-kreiss-tomkins-wins-alaska-governors-race/": {
       "source": "WashPost Politics",
@@ -79970,7 +80546,11 @@
       "author": "Matthew Choi",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:55.895623+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:16.570645+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/few-colleagues-immediately-embrace-van-hollen-majority-leader-bid/": {
       "source": "WashPost Politics",
@@ -79980,7 +80560,11 @@
       "author": "Theodoric Meyer, Erin Cox",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:58.453193+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:18.643260+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/health/2026/11/13/states-can-delay-controversial-medicaid-work-requirement-six-months/": {
       "source": "WashPost Politics",
@@ -79990,7 +80574,11 @@
       "author": "Daniel Wu",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:00.910863+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:20.768012+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-putin-xi-jinping/": {
       "source": "WashPost Politics",
@@ -80000,7 +80588,11 @@
       "author": "Cleve R. Wootson Jr., Joshua Yang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:03.355738+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:22.817929+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/national-security/2026/11/13/fbi-arrests-son-former-cia-director-john-brennan-child-pornography-charges/": {
       "source": "WashPost Politics",
@@ -80010,7 +80602,11 @@
       "author": "Jeremy Roebuck",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:05.789898+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:24.978370+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/brian-monahan-out-attending-physician-congress-amid-pentagon-probe/": {
       "source": "WashPost Politics",
@@ -80020,7 +80616,11 @@
       "author": "Amy B Wang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:08.191411+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:27.358925+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/newly-elected-house-democrat-under-investigation-sexual-harassment/": {
       "source": "WashPost Politics",
@@ -80030,7 +80630,11 @@
       "author": "Mariana Alfaro, Dan Merica",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:10.673902+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:29.454479+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/supreme-court-review-trump-policy-blocking-asylum-seekers-border/": {
       "source": "WashPost National",
@@ -80040,7 +80644,11 @@
       "author": "Julian  Mark",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:34.959040+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:34.582953+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/van-hollen-no-longer-pursuing-possible-2028-bid-he-seeks-senate-leader-job/": {
       "source": "WashPost Politics",
@@ -80050,7 +80658,11 @@
       "author": "Erin Cox",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:15.549889+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:33.725484+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/lauren-boebert-loses-colorado-4th-district-election-eileen-laubacher/": {
       "source": "WashPost Politics",
@@ -80060,7 +80672,11 @@
       "author": "Praveena Somasundaram",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:17.978833+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:35.707321+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/biden-defends-his-2024-run-reckons-with-trump-new-memoir/": {
       "source": "WashPost Politics",
@@ -80070,7 +80686,11 @@
       "author": "Cleve R. Wootson Jr., Dan Merica, Dan Diamond",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:20.401342+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:37.853632+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/style/2026/11/13/stacey-abrams-told-ava-duvernay-hold-14th-until-after-midterms/": {
       "source": "WashPost Politics",
@@ -80080,7 +80700,11 @@
       "author": "Ethan Beck",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:22.943052+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:40.105829+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/trump-gives-scott-colom-lot-credit-campaigning-maga-rally/": {
       "source": "WashPost Politics",
@@ -80090,7 +80714,11 @@
       "author": "Dan Merica",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:25.391124+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:42.243616+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/13/trumps-cabinet-secretaries-get-some-bad-press/": {
       "source": "WashPost Politics",
@@ -80100,7 +80728,11 @@
       "author": "Amber Phillips",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:14:30.255756+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:46.516389+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/14/why-homeowners-gain-most-solar-panels-ev-chargers/": {
       "source": "WashPost Business",
@@ -80110,7 +80742,11 @@
       "author": "John Csiszar",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:07.868401+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:19.346982+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/13/hidden-homeownership-costs-can-catch-first-time-buyers-off-guard/": {
       "source": "WashPost Business",
@@ -80120,7 +80756,11 @@
       "author": "Natasha Etzel",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:10.334470+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:21.540958+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/business/2026/11/13/musk-joins-calls-jensen-huang-be-reinstated-ceo-nvidia/": {
       "source": "WashPost Business",
@@ -80130,7 +80770,11 @@
       "author": "Faiz Siddiqui",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:12.759673+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:23.516830+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/": {
       "source": "WashPost National",
@@ -80140,7 +80784,11 @@
       "author": "Victoria Craw, Maegan Vazquez, Liam Scott",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:53.580476+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:00.547373+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/obituaries/2026/11/14/godfather-electronic-music-juan-atkins-has-died-he-was-64/": {
       "source": "WashPost National",
@@ -80150,7 +80798,11 @@
       "author": "Amanda Covarrubias",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:10.631755+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:16.824742+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/14/she-was-14-addicted-instagram-could-she-handle-month-without-it/": {
       "source": "WashPost National",
@@ -80160,7 +80812,11 @@
       "author": "Casey Parks",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:13.066730+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:14.833920+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/": {
       "source": "WashPost National",
@@ -80170,7 +80826,11 @@
       "author": "Molly Hennessy-Fiske",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:15.499671+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:20.755685+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/": {
       "source": "WashPost National",
@@ -80180,7 +80840,11 @@
       "author": "Imogen Piper, Samuel Oakford, Zach Dorfman",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:17.942672+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:18.715831+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/health/2026/11/14/doctors-are-learning-fly-measles-surge-presents-rare-cases/": {
       "source": "WashPost National",
@@ -80190,7 +80854,11 @@
       "author": "Lena H. Sun",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:20.377573+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:22.842212+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/": {
       "source": "WashPost National",
@@ -80200,7 +80868,11 @@
       "author": "Lena H. Sun",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:22.814686+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:24.761411+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/": {
       "source": "WashPost National",
@@ -80210,7 +80882,11 @@
       "author": "Todd Frankel, Liam Scott, Maegan Vazquez, Ted Hesson, Michael Birnbaum",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:25.242622+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:26.659307+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/13/weeks-brooklyn-residents-felt-shaking-then-came-deadly-collapse/": {
       "source": "WashPost National",
@@ -80220,7 +80896,11 @@
       "author": "Tim Craig",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:27.666814+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:28.704909+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/": {
       "source": "WashPost National",
@@ -80230,7 +80910,11 @@
       "author": "Brady Dennis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:30.096870+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:30.575972+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/13/former-death-row-inmate-richard-glossip-pleads-guilty-lesser-charge/": {
       "source": "WashPost National",
@@ -80240,7 +80924,11 @@
       "author": "Maegan Vazquez",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:32.520963+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:32.541460+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/13/woman-who-crashed-into-soccer-field-killing-2-wont-face-charges/": {
       "source": "WashPost National",
@@ -80250,7 +80938,11 @@
       "author": "Amy B Wang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:39.809156+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:38.793684+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/": {
       "source": "TechCrunch",
@@ -81330,7 +82022,11 @@
       "author": "Commercial Space Federation",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:17:05.197654+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:39:01.161651+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14": {
       "source": "Space.com",
@@ -84453,14 +85149,20 @@
       "retrieved_at": "2026-11-14T14:35:00.345287+00:00"
     },
     "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html": {
-      "source": "NYT Business",
+      "source": "NYT World",
       "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
       "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
       "date": "Sat, 14 Nov 2026 13:17:58 +0000",
       "author": "Dan Watson",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:09:06.357411+00:00"
+=======
+      "text": "So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.\n\nGeopolitics have long intruded on the Eurovision Song Contest. But they were not really a factor as the event prepared to expand into Asia for the first time.\n\nThat was still true as of Saturday evening, as the inaugural Eurovision Song Contest Asia was about to start in Bangkok.\n\nOver the decades, Eurovision organizers have insisted that the contest is nonpolitical. Its organizers impose rules governing lyrics, political symbols and what can be broadcast. Even so, wars and diplomatic disputes have shaped who gets to sing, who stays home and what broadcasters are willing to air.\n\n“Politics is why we watch Eurovision,” said Dean Vuletic, a historian of the show at the University of Luxembourg.\n\nHere are some examples of geopolitics bleeding into the European edition of the contest:\n\nIn 2009, less than a year after fighting a war with Russia, the former Soviet republic of Georgia planned to send a disco song called “We Don’t Wanna Put In” to Eurovision. Eurovision’s organizers said that the apparent dig at Vladimir Putin, then Russia’s prime minister, had to go. Georgia pulled out instead of changing it.\n\nIn 2017, Russia pulled out of the contest in Kyiv after Ukraine barred its singer from entering the country. And five years later, after Russia launched its full-scale invasion of Ukraine, Eurovision barred Russia altogether.\n\nIn 2024, the war in Gaza triggered mass protests over Israel’s participation. A bitter dispute over government influence on voting followed in 2025, and there were boycotts of the contest by five countries in 2026, the biggest crisis in Eurovision’s 70-year history.\n\nThe 11 Asian countries that sent artists to Saturday’s show have plenty of offstage geopolitical friction.\n\nCambodia, for example, is set to sing in Thailand’s capital less than a year after a border war between the two neighbors killed dozens and displaced hundreds of thousands. As fighting picked up last year, Cambodia withdrew its athletes from the Southeast Asian Games in Thailand, citing safety concerns.\n\nSubscribe to The Times to read as many articles as you like.\n\nDan Watson is a Times editor based in Seoul focused on breaking news.",
+      "summary": " The inaugural Eurovision Song Contest Asia was about to start in Bangkok on Saturday evening. The European edition shows how difficult that can be. Geopolitics have long intruded on the Eurovision song Contest.",
+      "retrieved_at": "2026-11-15T03:27:12.214886+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest": {
       "source": "NYT World",
@@ -84480,7 +85182,11 @@
       "author": "Brent Crane",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:10.849426+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:32:01.474438+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary": {
       "source": "NPR News",
@@ -84660,7 +85366,11 @@
       "author": "Dhruti Shah",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:05.280208+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:17.286720+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print": {
       "source": "The Verge",
@@ -85438,9 +86148,15 @@
       "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
       "date": "Sat, 14 Nov 2026 15:27:30 +0000",
       "author": "Francesca Regalado",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:25.469401+00:00"
+=======
+      "text": "Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.\n\nBy Francesca Regalado\n\nSimon Robinson, one of the fans who traveled to Bangkok for the Eurovision Song Contest on Saturday, said that his history with the competition is nearly as long as its seven-decade run.\n\nHe was eight years old when he first watched it with his family in Yorkshire, England, when Britain's Mary Hopkin finished in second place behind Ireland’s Dana.\n\n“I really liked the concept of bringing Europe together after the war,” said Mr. Robinson, 63, who now lives in Melbourne, Australia. He described the contest’s annual broadcast as a social activity for his family and neighbors.\n\n“Eurovision helped to create the European identity,” he added.\n\nOther fans had their own motivations for traveling to see the contest’s first Asian edition.\n\nSome are Europeans living in Asia, on the hunt for nostalgia, while others are Americans who were eager to experience their first Eurovision.\n\nLee Hudson, an American television executive based in Kuala Lumpur, Malaysia, said that he gets emotional when he talks about Eurovision, which he has watched since 2012.\n\nSubscribe to The Times to read as many articles as you like.\n\nFrancesca Regalado is a Times reporter covering breaking news.",
+      "summary": "Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest. One fan said that his history with the competition is nearly as long as its seven-decade run.",
+      "retrieved_at": "2026-11-15T03:27:02.861648+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html": {
       "source": "NYT World",
@@ -85448,9 +86164,15 @@
       "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
       "date": "Sat, 14 Nov 2026 23:46:33 +0000",
       "author": "Alex Marshall and Francesca Regalado",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:03:29.995297+00:00"
+=======
+      "text": "China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leaves some of the region’s best-known musical cultures out of the mix.\n\nBy Alex Marshall and Francesca Regalado\n\nFor a competition meant to introduce the diversity of Asian pop music to the world, the lineup for the first Eurovision Song Contest Asia has several notable absences.\n\nFor starters, the continent’s four most populous nations — China, India, Pakistan and Indonesia — won’t be there. Even Japan, a country globally considered a cultural powerhouse, is absent.\n\nThat leaves some of the region’s best-known musical cultures out of the mix. India has Bollywood hits. China has produced both Mandopop and Cantopop, the genre associated with Hong Kong pop stars. JPop was once huge across Asia.\n\nSubscribe to The Times to read as many articles as you like.\n\nAlex Marshall is a Times reporter covering European culture. He is based in London.\n\nFrancesca Regalado is a Times reporter covering breaking news.",
+      "summary": " China, India, Pakistan, Indonesia and Japan won't be in the singing contest. Even Japan, a country globally considered a cultural powerhouse, is absent. China has produced both Mandopop and Cantopop, the genre associated with Hong Kong pop stars.",
+      "retrieved_at": "2026-11-15T03:27:07.603228+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court": {
       "source": "Guardian World",
@@ -85520,7 +86242,11 @@
       "author": "Rick Maese",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:40.999764+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:36:03.855238+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger": {
       "source": "Science Magazine",
@@ -86060,7 +86786,11 @@
       "author": "Karoun Demirjian",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:09:01.833742+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:57.300683+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -86080,7 +86810,11 @@
       "author": "Liam Scott",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:05.761882+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:10.899520+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/policy/healthcare/6220695-measles-cases-increase-pennsylvania-wisconsin/": {
       "source": "The Hill",
@@ -86128,9 +86862,15 @@
       "title": "South Sudan’s National Election, Its First, Will Be Delayed",
       "date": "Sat, 14 Nov 2026 16:51:55 +0000",
       "author": "Matthew Mpoke Bigg",
+<<<<<<< Updated upstream
       "text": "",
       "summary": null,
       "retrieved_at": "2026-11-15T03:02:40.571852+00:00"
+=======
+      "text": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.\n\nBy Matthew Mpoke Bigg\n\nReporting from Nairobi, Kenya\n\nOfficials in South Sudan, the world’s youngest state, said on Saturday that its first national election would be postponed, raising new questions about a vote that analysts had already said could not yield a credible result.\n\nThe National Elections Commission said in a statement that the presidential and legislative elections, which had been scheduled for Dec. 22, would be held on Feb. 11 instead. The country’s information minister, Ateny Wek Ateny, said the postponement would allow more time to register voters and educate them about the process.\n\nSouth Sudan has never held a national election. Since gaining independence from Sudan in 2011 after decades of war, it has been ruled by President Salva Kiir, and it has faced seemingly intractable political difficulties.\n\nSubscribe to The Times to read as many articles as you like.\n\nMatthew Mpoke Bigg is the East Africa bureau chief for The New York Times, based in Nairobi, Kenya.",
+      "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
+      "retrieved_at": "2026-11-15T03:26:15.887202+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/science/brain-implants-give-als-patients-the-voice-to-speak-and-sing.html": {
       "source": "NYT Science",
@@ -86180,7 +86920,11 @@
       "author": "Miriam Waldvogel",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:03.325871+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:08.650765+00:00"
+>>>>>>> Stashed changes
     },
     "https://phys.org/news/2026-11-oldest-earth-early-history.html": {
       "source": "Phys.org",
@@ -86490,7 +87234,11 @@
       "author": "Niraj Chokshi",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:04:47.318256+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:23.666955+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html": {
       "source": "NYT Health",
@@ -86500,7 +87248,11 @@
       "author": "Carolyn Y. Johnson",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:33.853159+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:31.879164+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/14/bomb-found-illinois-ethanol-plant-thousands-evacuated-fbi-investigates/": {
       "source": "WashPost National",
@@ -86510,7 +87262,11 @@
       "author": "Silvia Foster-Frau",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:56.012937+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:02.660534+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/": {
       "source": "TechCrunch",
@@ -86600,7 +87356,11 @@
       "author": "Madison Malone Kircher and Miles G. Cohen",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:04:38.336231+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:15.250491+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/repair-that-triggered-air-traffic-meltdown-was-expected-to-be-routine.html": {
       "source": "NYT US",
@@ -86610,7 +87370,11 @@
       "author": "Karoun Demirjian",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:04:42.825005+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:19.482142+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html": {
       "source": "NYT Tech",
@@ -86620,7 +87384,11 @@
       "author": "Kalley Huang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:33.059903+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:44.332756+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch": {
       "source": "NYT Science",
@@ -86690,7 +87458,11 @@
       "author": "Richard Sandomir",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:52.696459+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:48.927932+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html": {
       "source": "NYT Business",
@@ -86700,7 +87472,11 @@
       "author": "Emmett Lindner",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:57.317385+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:53.006328+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history": {
       "source": "NPR News",
@@ -86920,7 +87696,11 @@
       "author": "Jonathan Edwards",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:35.940875+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:59.479279+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/politics/2026/11/14/chris-van-hollen-revs-up-his-public-campaign-replace-chuck-schumer/": {
       "source": "WashPost National",
@@ -86930,7 +87710,11 @@
       "author": "Miriam Waldvogel, Erin Cox",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:58.432706+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:04.685837+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/14/florida-city-cancels-st-patricks-day-event-citing-desantiss-anti-dei-law/": {
       "source": "WashPost National",
@@ -86940,7 +87724,11 @@
       "author": "Silvia Foster-Frau",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:48.715519+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:56.492230+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/14/detroit-retrain-bus-drivers-after-two-horses-board-city-bus/": {
       "source": "WashPost National",
@@ -86950,7 +87738,11 @@
       "author": "Victoria Craw",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:51.166624+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:58.508634+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/nation/2026/11/14/surfers-wax-up-coastal-cities-brace-giant-waves-hit-california/": {
       "source": "WashPost National",
@@ -86960,7 +87752,11 @@
       "author": "N. Kirkpatrick",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:16:00.861932+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:38:06.664241+00:00"
+>>>>>>> Stashed changes
     },
     "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/": {
       "source": "TechCrunch",
@@ -87130,7 +87926,11 @@
       "author": "Suryatapa Chakraborty",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:03.484903+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:46.107374+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/": {
       "source": "The Hill",
@@ -87140,7 +87940,11 @@
       "author": "Suryatapa Chakraborty",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:08.574881+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:50.331484+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/": {
       "source": "The Hill",
@@ -87150,7 +87954,11 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:13.599059+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:54.578087+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/": {
       "source": "The Hill",
@@ -87160,7 +87968,11 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:18.779056+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:58.842526+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/": {
       "source": "The Hill",
@@ -87170,7 +87982,11 @@
       "author": "John Mac Ghlionn, opinion contributor",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:23.794112+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:41:03.242496+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/policy/transportation/6220851-mike-johnson-faa-ground-stop/": {
       "source": "The Hill",
@@ -87180,7 +87996,11 @@
       "author": "Suryatapa Chakraborty",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:28.871357+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:41:07.969162+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/campaign/6220813-fetterman-van-hollen-democrats/": {
       "source": "The Hill",
@@ -87190,7 +88010,11 @@
       "author": "Suryatapa Chakraborty",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:33.918358+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:41:12.247080+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/opinion/international/6218654-russia-war-crimes-ukraine/": {
       "source": "The Hill",
@@ -87200,7 +88024,11 @@
       "author": "John Fairlamb, opinion contributor",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:38.842253+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:41:16.624191+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/policy/transportation/6220783-faa-ground-stop-what-to-know/": {
       "source": "The Hill",
@@ -87210,7 +88038,11 @@
       "author": "Ford McCracken",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:43.715294+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:41:20.730396+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch": {
       "source": "France 24",
@@ -87750,7 +88582,11 @@
       "author": "Luke Broadwater",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:06:00.807294+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:23.537597+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/us/l3harris-ground-stop.html": {
       "source": "NYT US",
@@ -87760,7 +88596,11 @@
       "author": "Niraj Chokshi",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:04:33.846873+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:11.025027+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html": {
       "source": "NYT Tech",
@@ -87770,7 +88610,11 @@
       "author": "Tripp Mickle, Ana Swanson, Paul Mozur, Jonathan Swan, Julian E. Barnes and Maggie Haberman",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:07:23.464308+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:30:35.869207+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho": {
       "source": "NPR News",
@@ -87820,7 +88664,11 @@
       "author": "Mary Ilyushina, Greg Miller",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:00.331459+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:27.970014+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.washingtonpost.com/entertainment/music/2026/11/14/king-charles-stops-by-elton-johns-podcast-talk-music/": {
       "source": "WashPost World",
@@ -87830,7 +88678,11 @@
       "author": "Miriam Waldvogel",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:13:02.945322+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:35:30.137198+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing": {
       "source": "Bloomberg Markets",
@@ -88080,7 +88932,11 @@
       "author": "Rebecca Chao",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:48.188351+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:44.803343+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration": {
       "source": "Guardian World",
@@ -88120,7 +88976,11 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:53.448782+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:37.889586+00:00"
+>>>>>>> Stashed changes
     },
     "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/": {
       "source": "The Hill",
@@ -88130,7 +88990,11 @@
       "author": "Suryatapa Chakraborty",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:58.621775+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:41.929189+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-11-15/murray-mclaughlin-book-release-the-nt-a-litany-of-failure/107381238": {
       "source": "ABC Australia",
@@ -88330,7 +89194,11 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:48.282936+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:33.681752+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france": {
       "source": "France 24",
@@ -88400,7 +89268,11 @@
       "author": "Eduardo Medina",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:04:24.862273+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:28:02.537659+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html": {
       "source": "NYT Business",
@@ -88410,7 +89282,11 @@
       "author": "Kenneth Chang",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:08:43.593807+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:31:40.638720+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand": {
       "source": "Guardian World",
@@ -88480,7 +89356,11 @@
       "author": "Sarah Davis",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:43.144624+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:29.570245+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-11-15/tanker-cruise-ship-collison-investigation-new-orleans/107387198": {
       "source": "ABC Australia",
@@ -88530,7 +89410,11 @@
       "author": "Pranav Baskar",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:04:20.251168+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:27:58.274191+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss": {
       "source": "Al Jazeera",
@@ -88670,7 +89554,11 @@
       "author": "Todd Frankel, Ian Duncan, Liam Scott",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:15:45.956975+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:37:54.346428+00:00"
+>>>>>>> Stashed changes
     },
     "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html": {
       "source": "Phys.org",
@@ -88690,7 +89578,11 @@
       "author": "Martha Bellisle, Associated Press",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:38.285338+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:25.315302+00:00"
+>>>>>>> Stashed changes
     },
     "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-father-threatened-not-to-take-his-daughters-to-school-if-their-mother-came-for-a-first-day-photo-and-barred-her-from-tennis-matches-appeals-judges-upheld-her-control-of-activities-on-november-12/articleshow/135824152.cms": {
       "source": "Times of India",
@@ -88940,7 +89832,11 @@
       "author": "Zach Montague",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:05:56.183658+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:29:19.174207+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb": {
       "source": "Guardian World",
@@ -89000,7 +89896,11 @@
       "author": "Sophie Brams",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:32.847469+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:20.906789+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.abc.net.au/news/2026-11-15/catholic-provider-calvary-healthcare-ivf-vad-reproductive-health/107380082": {
       "source": "ABC Australia",
@@ -89132,6 +90032,39 @@
       "summary": " ToI community guidelines are a form of community service. The community service is a form for the community of people who volunteer for the service.",
       "retrieved_at": "2026-11-15T02:56:33.148791+00:00"
     },
+<<<<<<< Updated upstream
+=======
+    "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "date": "Sun, 15 Nov 2026 02:49:45 GMT",
+      "author": "",
+      "text": "On a visit to an isolated Andean village in his former diocese, Pope Leo XIV has spoken about the \"suffering of those who are forced to leave their homeland in search of a better future\", which he said had left communities under threat.\n\nAbout 6,000 people live in Santa Cruz de Succhabamba, which is located in a remote part of the Andes mountains in northern Peru, but the Pope's visit drew a crowd of about 20,000, according to the Vatican.\n\nAt an outdoor Mass, Pope Leo spoke of \"declining birth rates that are emptying villages,\" and the unequal distribution of the land's resources.\n\nOver 40% of the population in the Cajamarca region, where the town is located, live in poverty - the highest figure in Peru, according to official data.\n\nCajamarca has lost the highest number of people to internal migration, with 729,000 people born there now living elsewhere in Peru.\n\nIn his sermon, Pope Leo thanked those who had made the journey to him and emphasised the importance of never losing heart, despite life's difficulties.\n\nSanta Cruz is within the Diocese of Chiclayo, where Pope Leo served as bishop from 2015 to 2023. During his tenure, he visited Santa Cruz several times a year to minister to the town's rural population.\n\nOn Saturday he returned by helicopter, where he was greeted by singing and cheering. He later did a tour in a popemobile, where he waved to people who had travelled from across the region to see him.\n\nSpeaking at a local parish on Saturday, the Pope said he felt \"joy\" at being able to visit the small town once again.\n\n\"It is like a very big dream that the Lord has allowed this servant to come here,\" he said.\n\nRev. Kevin Noriega, who was ordained in 2018 by the then-bishop, told Reuters the visit had brought \"enormous hope and emotion\" to Santa Cruz.\n\nHe said: \"People are eager to experience this Holy Mass ... because after so much time they will be able to see their bishop - 'Father Robert,' as they used to call him - now as the Holy Father.\"\n\nPeru is the longest stop on the first tour of Latin America by the leader of the Catholic church, who was elected in May 2025.\n\nThe 12-day trip has included stops in Argentina and Uruguay, but his time in Peru carries personal significance.\n\nThe US-born pope not only lived in Peru for long periods between 1985 and 2023 but also became a citizen of the country in 2015, forging close ties with local communities.\n\nThe pontiff is set to leave Chiclayo on Sunday, when he will head to Cusco, and then on to a Peruvian sector of the Amazon rainforest. His tour of the region will conclude on Monday, at which point Pope Leo will return to Rome.",
+      "summary": " Pope Leo XIV visited Santa Cruz de Succhabamba, a remote Andean village in northern Peru. He spoke of the \"suffering of those who are forced to leave their homeland in search of a better future\" The Pope's visit drew a crowd of about 20,000, according to the Vatican.",
+      "retrieved_at": "2026-11-15T03:25:40.753217+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "date": "Sun, 15 Nov 2026 03:21:04 GMT",
+      "author": "",
+      "text": "A federal judge has temporarily blocked the US government's closure of a historic golf course and park in Washington DC.\n\nUS District Judge Ana Reyes has been overseeing a months-long challenge to the president's plans for East Potomac Golf Links, which he said would be closed from 15 November for extensive renovations.\n\nReyes has said Donald Trump cannot close the park or its golf course, but added that his administration was not required to actively manage either.\n\nTrump, an avid golfer, has said his plans to upgrade the 106-year-old course will create \"one of the Best and Most Spectacular Golf Courses anywhere in the World\". The BBC has contacted the White House for comment.\n\nDeclaring the current course \"Trash Island\", he announced in October it would be renovated over 15 months to create a space that \"will be open to the Public while, at the same time, designed to the Highest Level of Golf and able to hold World Class Tournaments\" - despite the ongoing litigation.\n\nIn a 30-page decision issued on Saturday, Reyes said the Trump administration's justifications for the proposed course closures were pretextual, and that the government violated at least two federal laws \"to meet an arbitrary deadline.\"\n\n\"The Government proposes to close a historic park, daily enjoyed by Washingtonians of all stripes, indefinitely,\" Reyes wrote.\n\nShe said the closure \"runs counter to the public interest in utilising national parkland\", adding that the government had not \"plausibly identified any harm it would suffer from a temporary restraining order that preserves the status quo pending further proceedings\".\n\nHer order will last until the 28 November.\n\nThe legal dispute dates back to February, when the DC Preservation League and others sued over redevelopment plans for the park.\n\nThe historic course, which sits 2 miles (3km) south of the White House, is one of three public courses run by the National Park Service in the nation's capital.\n\nThe legal fight then escalated in October, when the NPS began to cut down hundreds of trees without notifying Reyes until 15 hours before work was set to begin.\n\nAfter the trees were cut, Reyes ordered the Trump administration to stop tree removal until at least 26 October and give her three business days' notice about making any other permanent changes.\n\nDespite the work stoppage, Trump announced that the course would be closed for 15 months from 15 November to accommodate the renovations. He also shared a rendering of the course redesign.\n\n\"The current Course is old, broken, dilapidated, and of no further use or effect. It is in very poor condition, with falling, dangerous, and disease-infested trees and, importantly, a collapsing and hazardous seawall,\" he said in a post to Truth Social.\n\nReyes has since separately opened an inquiry into whether the justice department attorneys \"have made misrepresentations to the court and otherwise violated ethical rules\".\n\nThat included whether giving late notice to the court about the renovation plans was \"done in bad faith\" and whether the attorneys failed to correct previously false statements or withheld information.\n\nShe said she would carry out the inquiry with a special master, an independent third party.",
+      "summary": " Judge Ana Reyes has been overseeing a months-long challenge to the president's plans for East Potomac Golf Links. She has said Donald Trump cannot close the park or its golf course. The judge has said the government's justifications for the proposed course closures were pretextual. She said the closure \"runs counter to the",
+      "retrieved_at": "2026-11-15T03:25:45.498307+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss": {
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "title": "Living with a stink? Technology might help",
+      "date": "Thu, 15 Oct 2026 23:18:21 GMT",
+      "author": "",
+      "text": "Milpitas, an affluent city in California's Silicon Valley tech hub, has an odour problem.\n\nFor decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.\n\n\"When I first moved here, I could not open my window for over 10 years,\" says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.\n\nWhile things have got better in recent years, Kong says she and her neighbours must still contend with around \"two or three hours of bad smells a day\".\n\nPerhaps befitting Silicon Valley, the community is putting its hopes in technology.\n\nThe operators of Newby Island landfill have been ordered by local authorities to use drones and install monitors to systematically track and measure the chemicals responsible for bad odours. They have also been told to automate the collection of landfill gases responsible for smells.\n\nKong is optimistic a data-driven approach will make a difference. \"Hopefully with this continuous monitoring, it makes it easier to pinpoint problems at the moment it starts.\"\n\nThe operators of the landfill say they are committed to operating it safely and protecting air quality.\n\nJust like in Milpitas, where Kong is part of a citizen's campaign against the odours, communities around the world are raising a stink about bad smells making day-to-day life miserable. Sometimes a rubbish dump is to blame, or it might be a sewage treatment works, or a reeking factory.\n\nWhen the complaints start stacking up, resolving them is not always simple. Many countries have no regulations in place dictating how to manage smells.\n\nIn the US, for example, the Environmental Protection Agency does not regulate environmental odours as a pollutant. This leaves states and local governments to take charge of the issue.\n\nUrban sprawl is often part of the problem, bringing communities closer to stinky facilities that may historically have been kept at a distance.\n\nThis is creating more demand for technologies to monitor and prevent smells. Odour consultant Micheal Bull says people are increasingly concerned about neighbourhood stinks.\n\n\"You're getting developments being built nearer to odorous processes… as land has become more valuable, there is also infilling,\" Bull says. He is speaking about his experiences in the UK, but it's a similar story in many parts of the world.\n\nThe technologies used to tackle industrial pongs generally fall into three categories: they absorb odours; convert them into something less smelly through a chemical reaction; or burn them away.\n\nExperts on fixing industrial odours say that the best technologies, when used correctly, can remove 90% or more of the target compounds responsible for smells.\n\nBut this can be expensive and some operators opt for simpler and cheaper solutions. These include masking odours from landfill or sewage processing by spraying giant quantities of deodorisers.\n\nOdour experts contacted for this article were dubious about the effectiveness of such industrial scale air fresheners. \"In my view they're not likely to change the odours,\" says Bull, who likens them to fabric conditioner.\n\nBad smells from waste sites – a common cause of complaints – are among the stinkiest and most difficult to resolve, according to Carlos Diaz, an environmental consultant based in Spain. \"Landfill is difficult to treat because you have a very large surface,\" he says.\n\nIn some places at least, technology is making a real difference. Residents in Des Moines, Iowa, have long complained of the so-called Eastside Funk, a putrid scent that residents report drifts over parts of the city.\n\nA study commissioned by city authorities showed that a trio of industrial meat companies were among culprits.\n\n\"Within 10 miles, there's about half a million people,\" says Dalton Jacobus, who works in the Department of Neighborhood Services. \"If the winds are out of the wrong direction, 100,000 people can be in the middle of that odour plume.\"\n\nThe authorities are now paying around $240,000 (£182,000) a year on technology to track the stink, so they can take action. \"What we wanted to do was build a ring of odour monitors around the facilities that we suspected of emitting odours,\" says Jacobus.\n\nThe monitors, which measure levels of chemical compounds in the air, work in combination with a weather station to provide real-time data on the concentrations that are coming from each facility based off the wind patterns.\n\nThis has put an end to finger pointing about who's to blame each time a smell sparks complaints, says Jacobus. \"Now we can say with reasonable certainty that 'this odour event did originate from your facility, what was going on'?\"\n\nMeanwhile, some of the sites that have been blamed for causing unpleasant smells in Des Moines have spent millions of dollars to upgrade their own odour control systems.\n\nSmithfield Foods, which operates a meat processing in Des Moines, says it has invested $2m to install a regenerative thermal oxidiser that destroys the chemicals associated with bad smells. Even so, the company says it does not believe it is the source of odour complaints.\n\nBefore installing the monitors – which some local companies help pay for – officials in Des Moines would drive out to the source of a complaint to sniff the air.\n\nRelying on the human nose to sniff out industrial smells is still commonplace. Claudia Barrios Obregón from Kunak, the company behind the monitors in Des Moines, says: \"Right now, the way that cities control or measure odours is olfactometry: a human panel measures and gives an opinion of what the odour is like. But that's not that realistic.\"\n\nThe Spanish company's monitors are an example of so-called electronic noses that make it easier to detect smells.\n\nWhatever technology is used, it can be hard to keep everyone happy, as smells are so subjective. \"Unfortunately, the general rule is that the nastier we perceive the odour to be, the more sensitive towards it we are,\" says Johan Lundström, a professor in the science of smell at the Karolinska Institute in Stockholm, Sweden.",
+      "summary": " Operators of Newby Island landfill ordered to use drones and monitor and monitor chemicals responsible for bad odours. Some of the sites that have been blamed for unpleasant smells have been linked to industrial meat companies.",
+      "retrieved_at": "2026-11-15T03:25:51.029691+00:00"
+    },
+>>>>>>> Stashed changes
     "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html": {
       "source": "NYT US",
       "link": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
@@ -89140,7 +90073,31 @@
       "author": "Sejal Govindarao",
       "text": "",
       "summary": null,
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:04:11.179133+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:27:49.607016+00:00"
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+      "date": "Sun, 15 Nov 2026 03:30:29 +0000",
+      "author": "",
+      "text": "Italian artist reimagines Madonna paintings to expose Gaza’s pain\n\nItalian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel. By peeling back the painting’s outer layer, the work reveals an actual photograph from Gaza, captured by Palestinian photojournalist Omar El Qattaa.\n\nFollow Al Jazeera English:\n\nYour browser does not support the audio element.",
+      "summary": "Italian artist Eduardo Castaldo unveils artwork titled 'Holy Mothers of Gaza' inside Naples' Pappacoda Chapel. By peeling back the painting's outer layer, the work reveals an actual photograph from Gaza.",
+      "retrieved_at": "2026-11-15T03:33:28.958815+00:00"
+    },
+    "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss": {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+      "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+      "date": "Sun, 15 Nov 2026 02:59:06 +0000",
+      "author": "Al Jazeera Staff",
+      "text": "Saudi-led coalition forces fighting Yemen’s Houthis have said they intercepted two missiles and two drones targeting Riyadh, allegedly launched by the Houthis, as fighting intensifies across various front lines in Yemen.\n\n“Air defences intercepted and destroyed two ballistic missiles launched by the Houthi terrorist militia toward Riyadh,” Turki al-Maliki, the Saudi-led coalition spokesperson, said in a post on X early on Sunday.\n\nEarlier on Saturday, al-Maliki said two suspected Houthi drones “were intercepted and destroyed” in the Riyadh and southern regions.\n\nAt least 26 people have been killed in suspected Houthi drone and missile attacks in Saudi Arabia since September 23, according to the kingdom’s authorities.\n\nThe Houthis have repeatedly targeted Riyadh’s King Khalid International airport, as well as the East-West pipeline and oil infrastructure in eastern and southern Saudi Arabia.\n\nThe interceptions come as the Saudi-led forces supporting Yemen’s internationally recognised government also said they intercepted several drones launched towards the Yemeni city of Marib.\n\nYemeni army spokesman Colonel Majid al-Nuzaili said government forces had made gains against the Houthis during heavy fighting in the al-Hazm and Madghal districts of al-Jawf, as fighting intensified in Marib.\n\nAl-Nuzaili said 321 Houthi leaders had been killed or wounded in 723 targeted operations by Saudi-backed forces in the Taiz, Lahij, Marib and al-Jawf governorates, and that 117 military vehicles used by the Iran-allied rebel group had been destroyed.\n\nThe coalition carried out at least 37 air strikes and 56 drone attacks, as well as 541 artillery strikes.\n\nHouthi military spokesman Yahya Saree said the Saudi-led coalition had launched 72 air strikes against the Houthis in the Saada, Taiz, Lahij and al-Jawf governorates over the past 24 hours.\n\nSaree said the Houthis targeted Yemen’s Saudi-backed forces in the Kharaz area of the Lahij governorate with ballistic missiles.\n\nMedia outlets affiliated with the Houthis reported that two women and two children were injured as a result of artillery shelling by Saudi-backed forces in a residential neighbourhood of the Shuaub district in Yemen’s Houthi-controlled capital, Sanaa.\n\nMore than 340,000 people have been displaced as a result of fighting in Yemen since August, according to the International Organization for Migration (IOM).\n\nAs the fight between Saudi Arabia and Yemen’s Houthis escalates, the US Embassy in Riyadh issued a nationwide security alert on Saturday urging Americans in the kingdom to exercise “heightened vigilance”, citing an increased threat of Houthi attacks.\n\nThe embassy said Houthi attacks on civilian airports and other critical infrastructure in Saudi Arabia had “caused civilian casualties and severe travel disruptions”, warning that hostilities could spread “rapidly”.\n\n“Please take extreme caution if you choose to use airports in Saudi Arabia,” it said.",
+      "summary": "Saudi-led coalition forces say they intercepted two missiles and two drones. At least 26 people have been killed in suspected Houthi drone and missile attacks in Saudi Arabia since September 23. The Houthis have repeatedly targeted Riyadh’s King Khalid International airport, as well as the East-West pipeline and oil infrastructure in eastern and southern Saudi Arabia",
+      "retrieved_at": "2026-11-15T03:33:33.603443+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1": {
       "source": "Financial Times",
@@ -89150,7 +90107,71 @@
       "author": "",
       "text": "For help please visit help.ft.com. We apologise for any inconvenience.\n\nThe following information can help our support team to resolve this issue.",
       "summary": " The following information can help our support team to resolve this issue. We apologise for any inconvenience. The following Information can help us to resolve the issue.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:18:22.755238+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:40:12.159208+00:00"
+    },
+    "https://www.abc.net.au/news/2026-11-15/ettalong-lightning-strike-man-in-critical-condition/107387304": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-11-15/ettalong-lightning-strike-man-in-critical-condition/107387304",
+      "title": "Central coast man in critical condition after 'blue sky' lightning strike",
+      "date": "Sun, 15 Nov 2026 03:31:47 +0000",
+      "author": "Charles Rushforth and Ben Clifford",
+      "text": "BERITA BAHASA INDONESIA\n\nTopic:\nDisasters, Accidents and Emergency Incidents\n\nEmergency services were called to Ettalong Beach yesterday after a swimmer was struck by lightning.  (Supplied)\n\nA man struck by lightning on the New South Wales Central Coast remains in a critical but stable condition in hospital.\n\nBystanders pulled the man from the water at Ettalong Beach yesterday afternoon.\n\nMore thunderstorms are forecast across NSW today.\n\nA man is in a critical but stable condition at a Sydney hospital after a \"blue sky\" lightning strike on the Central Coast yesterday afternoon.\n\nThe man, believed to be in his 20s, was swimming at Ettalong Beach when he was struck about 3:00pm.\n\nA NSW Ambulance spokesperson said bystanders pulled the man from the water and performed CPR until paramedics arrived.\n\nBrandon Duffy witnessed the \"chaotic\" scene after arriving shortly after the strike for a morning swim.\n\n\"They were commencing CPR when I arrived. There were a lot of bystanders looking on,\" he said.\n\n\"People were very concerned. When the lightning strike happened, it was pretty clear.\"\n\nThe man was taken to Gosford Hospital by ambulance, but has been moved to the Royal North Shore Hospital in a critical but stable condition.\n\nThe incident follows severe storms across Greater Sydney, resulting in about 250 calls for help across NSW.\n\nTaylor Lee Quimby said she was visiting the beach with her three children on Saturday when she heard a \"massive bang\" about 200 metres away.\n\n\"We were shocked it was so loud, considering none of the dark clouds were above us,\" she said.\n\n\"All along the beach was so sunny.\"\n\nEmergency services attended the beach to assist the man after the lightning strike. (Supplied: @nswccincidentalerts)\n\nArriving home a short time later, Ms Quimby said she was shocked to learn that someone had been struck by lightning despite the clear skies.\n\n\"My youngest is seven months old. She was laying with my eldest son under the umbrella on the beach when it happened,\" she said.\n\nSenior meteorologist with the Bureau of Meteorology, Sarah Scully said \"blue sky\" lightning strikes have been recorded up to 30 kilometres away from the nearest storm system.\n\n\"[Blue sky lightning] develops because thunderstorms are really really tall, sometimes they push up to 30,000 feet into the atmosphere,\" Ms Scully said.\n\n\"Lightning can occasionally shoot out at the top and travel through the clear air before it strikes the ground, sometimes 15 to 30 kilometres away.\"\n\nMore thunderstorms across NSW are expected today, with the weather bureau forecasting potentially dangerous storm cells across the state's Mid North Coast and Northern Rivers.\n\nSee more ABC coverage in your search results\n\nAnalysis by Lucy Barbour\n\nAnalysis by Annabel Crabb\n\nTopic:\nFederal Government\n\nTopic:\nWeather Phenomena\n\nDisasters, Accidents and Emergency Incidents\n\nAnalysis by Lucy Barbour\n\nAnalysis by Annabel Crabb\n\nTopic:\nFederal Government\n\nTopic:\nDisasters, Accidents and Emergency Incidents\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " Man struck by lightning on the Central Coast yesterday afternoon. Man in critical but stable condition in hospital after being struck by a lightning strike. More thunderstorms are forecast across NSW today.",
+      "retrieved_at": "2026-11-15T03:41:26.992495+00:00"
+    },
+    "https://www.abc.net.au/news/2026-11-15/dhurringile-liberals-jess-wilson-crime-bootcamp/107387262": {
+      "source": "ABC Australia",
+      "link": "https://www.abc.net.au/news/2026-11-15/dhurringile-liberals-jess-wilson-crime-bootcamp/107387262",
+      "title": "Liberals announce plans for teen prison bootcamp for young offenders",
+      "date": "Sun, 15 Nov 2026 03:18:48 +0000",
+      "author": "Philippe Perez",
+      "text": "BERITA BAHASA INDONESIA\n\nThe facade of Dhurringile mansion in northern Victoria, located on the prison property. (Supplied: Hugh McGowan)\n\nVictorian Liberal leader Jess Wilson has announced a plan to allow courts to send young offenders to the former Dhurringile Prison for a new bootcamp program if the Coalition wins November's state election.\n\nThe program would include daily physical tasks such as farm work or cleaning.\n\nThe site closed in September 2024, but local environmental and Aboriginal organisations were negotiating a purchase before the election.\n\nThe Victorian opposition says it will send young offenders to a bootcamp program near Shepparton if elected in November\n\nUnder the Coalition plan, courts could send offenders aged between 14 and 17 to the program as an alternative to a community corrections order or other custodial sentence.\n\nThe former Dhurringile Prison near Murchison would serve as a base for the program, where those sentenced would undertake daily tasks including farm work, cleaning, maintenance, cooking and education.\n\nUnlike existing youth justice custodial orders, young offenders sent to the bootcamp would be required to take part in the daily program.\n\nPolitical parties are laying out their visions for the state's future, as voters prepare to head to the polls on November 28.\n\nOpposition leader Jess Wilson announced the new bootcamp program at the Coalition's campaign launch today and criticised Labor for having no plans for the facility.\n\n\"This is about instilling the discipline and respect that so many young offenders have not learned throughout their life, and crucially, giving them the skills they need to get on the right path,\" she said.\n\nJess Wilson made the announcement of the new bootcamp at her party's election launch on Sunday. (ABC News)\n\nNationals candidate for Shepparton Shane Sali said the program would benefit the local community.\n\n\"Bringing new activity to the facility will create opportunities for the local area, while helping address an issue that is affecting families, businesses and communities right across the Goulburn Valley,\" he said.\n\nA similar program for older prisoners currently runs in Langi Kal Kal, in Victoria's west, focusing on agricultural work and preparing prisoners for life in the community.\n\nTopic:\nState and Territory Elections\n\nTopic:\nState and Territory Elections\n\nLabor criticised the announcement and said it was a \"half-baked thought bubble\" and that their own mandatory rehabilitation detention plan had been successfully tested in other countries.\n\n\"Labor has a fully costed $204 million plan, a clear legislative pathway and the facilities to start putting our plan in place immediately.\"\n\nPremier Ben Carroll did not specifically respond to the plan at the Labor Party's launch today but focused on his record, saying he had built frontline services.\n\nBen Carroll told supporters on Sunday that a second police academy will be established if Labor is re-elected. (ABC News)\n\n\"We focused on community safety, boosting police powers as well as committing to hire another 1,500 more police and build a second police academy in Melbourne's west,\" he said.\n\nIn April last year, the Goulburn Broken Catchment Management Authority and the Yorta Yorta Nation Aboriginal Corporation were negotiating to purchase the site, but were awaiting a costing from the Victorian government.\n\nGreater Shepparton City Council had also expressed interest in purchasing the site early last year, but withdrew its interest.\n\nIn October last year, it was revealed in parliament that maintenance at the site had cost just over $2 million for the year after the prison closed.\n\nNo income had been generated from leasing or farming activity since then.\n\nAll fields are required unless marked optional.\n\nSee more ABC coverage in your search results\n\nAnalysis by Lucy Barbour\n\nAnalysis by Annabel Crabb\n\nTopic:\nFederal Government\n\nTopic:\nMigration Policy\n\nAnalysis by Lucy Barbour\n\nAnalysis by Annabel Crabb\n\nTopic:\nFederal Government\n\nTopic:\nDisasters, Accidents and Emergency Incidents\n\nYour home of Australian stories, conversations and events that shape our nation.\n\nThis service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.\n\nGet the latest ABC News delivered to your email inbox\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nStay informed and connected with the ABC. Covering a wide range of topics and brands including News, iview, listen, and more.",
+      "summary": " Victorian Liberal leader Jess Wilson announces plan to send young offenders to former Dhurringile Prison. Program would include daily tasks such as farm work or cleaning. The former Dhurredile Prison closed in September 2024, but local environmental and Aboriginal organisations were negotiating a purchase before the election.",
+      "retrieved_at": "2026-11-15T03:41:31.911369+00:00"
+    },
+    "https://timesofindia.indiatimes.com/india/faith-pollution-and-politics-how-yamuna-takes-centre-stage-every-chhath-puja/articleshow/135836473.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/india/faith-pollution-and-politics-how-yamuna-takes-centre-stage-every-chhath-puja/articleshow/135836473.cms",
+      "title": "How Yamuna takes centre stage every Chhath Puja",
+      "date": "Sun, 15 Nov 2026 08:30:00 +0530",
+      "author": "ROHITASHWA RANJAN",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines\n\nDo Not Sell or Share My Personal Information\n\nWe won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.",
+      "summary": " ToI community guidelines Do Not Sell or Share My Personal Information We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or share previously.",
+      "retrieved_at": "2026-11-15T03:41:36.874607+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/europe/lower-rents-higher-salaries-tens-of-thousands-protest-across-portugal-over-soaring-housing-costs/articleshow/135846076.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/europe/lower-rents-higher-salaries-tens-of-thousands-protest-across-portugal-over-soaring-housing-costs/articleshow/135846076.cms",
+      "title": "Tens of thousands protest across Portugal over soaring housing costs",
+      "date": "Sun, 15 Nov 2026 08:59:27 +0530",
+      "author": "YASHASVI VASISTHA",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines\n\nDo Not Sell or Share My Personal Information\n\nWe won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.",
+      "summary": " ToI community guidelines Do Not Sell or Share My Personal Information We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or share previously.",
+      "retrieved_at": "2026-11-15T03:41:41.976788+00:00"
+    },
+    "https://timesofindia.indiatimes.com/business/international-business/handshake-deals-could-fall-through-musk-flags-supply-chain-risks-for-nvidia-after-jensen-huangs-exit/articleshow/135845938.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/handshake-deals-could-fall-through-musk-flags-supply-chain-risks-for-nvidia-after-jensen-huangs-exit/articleshow/135845938.cms",
+      "title": "'Handshake' deals could fall: Musk flags risks for Nvidia after Jensen Huang's exit",
+      "date": "Sun, 15 Nov 2026 08:32:09 +0530",
+      "author": "SHIVANGHI PAYAL",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines\n\nDetermine the monthly installment amount for a loan\n\nEstimate the returns on investments made through SIPs\n\nFind out maturity amount and interest earned on PPF\n\nCheck maturity amount and interest earned on an FD\n\nEstimate the pension amount and corpus accumulated under NPS\n\nA Mutual Fund Calculator helps estimate the future value of investments\n\nDo Not Sell or Share My Personal Information\n\nWe won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.",
+      "summary": " Do Not Sell or Share My Personal Information We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or share previously.",
+      "retrieved_at": "2026-11-15T03:41:46.745297+00:00"
+    },
+    "https://timesofindia.indiatimes.com/world/uk/uk-pm-burnhams-speechwriter-caught-using-chatgpt-to-draft-speech/articleshow/135845919.cms": {
+      "source": "Times of India",
+      "link": "https://timesofindia.indiatimes.com/world/uk/uk-pm-burnhams-speechwriter-caught-using-chatgpt-to-draft-speech/articleshow/135845919.cms",
+      "title": "UK PM Burnham's speechwriter caught using ChatGPT to draft speech",
+      "date": "Sun, 15 Nov 2026 08:19:50 +0530",
+      "author": "PRANJAL PANDEY",
+      "text": "Share your thoughts in the comments\n\nBe respectful · TOI community guidelines\n\nNZ elected to field\nFULL SCORECARD\n\nDo Not Sell or Share My Personal Information\n\nWe won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.",
+      "summary": " ToI community guidelines NZ elected to field FULL SCORECARD Do Not Sell or Share My Personal Information. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or share previously.",
+      "retrieved_at": "2026-11-15T03:41:51.126010+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.scmp.com/news/asia/east-asia/article/3374467/top-tax-accountant-exam-scorer-south-korea-admits-using-ai-cheat": {
       "source": "South China Morning Post",
@@ -89160,7 +90181,11 @@
       "author": "The Korea Times",
       "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
       "summary": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses the security service for security purposes.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:53.518968+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:41:58.207372+00:00"
+>>>>>>> Stashed changes
     },
     "https://www.scmp.com/business/companies/article/3374426/ubs-unveils-new-west-kowloon-hub-tap-greater-bay-area-wealth": {
       "source": "South China Morning Post",
@@ -89170,7 +90195,11 @@
       "author": "Daisy Wu",
       "text": "During the first media tour of the client floor in the 20-storey tower, the Swiss lender reveals its new Hong Kong headquarters to the SCMP\n\nUBS has drawn back the curtains on its new Hong Kong headquarters in West Kowloon, a 20-storey tower with a client floor built for meetings, dinners and events, as the Swiss lender anchors its regional presence to tap growing wealth across the Greater Bay Area.",
       "summary": " Swiss lender SCMP UBS has moved to Hong Kong to anchor its regional presence to tap growing wealth across the Greater Bay Area. The new 20-storey tower has a client floor built for meetings, dinners and events.",
+<<<<<<< Updated upstream
       "retrieved_at": "2026-11-15T03:19:58.260017+00:00"
+=======
+      "retrieved_at": "2026-11-15T03:42:02.536017+00:00"
+>>>>>>> Stashed changes
     }
   }
 }
