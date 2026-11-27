@@ -1,55 +1,29 @@
 # Newsbrief Automation
 
-A scheduled Python news-briefing application that collects sources, produces summaries, and maintains generated application state.
+A news-briefing pipeline with browser-based article extraction, DistilBART summarization, a rolling 30-day store, and permanent weekly archives. It is distinct from Newsies, which uses a local GGUF model.
 
-## Overview
+## Setup
 
-The project automates a news-briefing workflow and can be run locally or through GitHub Actions. Playwright is used for browser-based source collection.
-
-## Features
-
-- Automated source collection
-- News summary generation
-- Playwright-based browser automation
-- Scheduled GitHub Actions execution
-- Manual workflow execution
-- Persistent generated state
-
-## Prerequisites
-
-- Python 3.11+
-- pip
-- Chromium/Playwright browser dependencies
-
-## Installation
-
-```bash
-git clone https://github.com/TanishC4444/test.git
-cd test
+```sh
 python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\\Scripts\\activate
+source .venv/bin/activate
 python -m pip install -r requirements.txt
 playwright install chromium
+python newsbrief.py --help
 ```
 
-## Quick Start
+On Linux, install CPU PyTorch using its official CPU index first if desired. The requirements file now uses a valid standalone `torch` requirement.
 
-```bash
-python newsbrief.py --all
+Run a small feed with `python newsbrief.py FEED_URL --max 1 --no-summarize`, or use `--all` for the configured collection. Summarization downloads a model; scraping uses Chromium. The CLI can commit generated state into the current Git repository, including on interruption, so use a deliberate working checkout.
+
+## Offline checks
+
+```sh
+python -m unittest test_store -v
 ```
 
-## Automation
+Checks cover storage round trips, summary preservation, and retaining weekly archives when old rolling entries expire. No scraping, model downloads, or Git commits occur in these checks.
 
-GitHub Actions runs the briefing on a schedule and supports manual execution.
+## Current overhead
 
-## Repository Hygiene
-
-`store.json` is generated application state. Keep production state outside source control or commit only a small, intentional example.
-
-## Status
-
-Development project.
-
-## License
-
-No separate license is currently specified in the repository.
+The default tree contains roughly 1.2 GB of generated data, with additional Git history. Current source was fetched and compared directly without cloning those datasets; it matches the local `tester/newsbrief.py`. No generated archives or unique source were deleted. Moving state to a separate data store is a future migration, not a cleanup already performed.
