@@ -2,7 +2,23 @@
 
 A news-briefing pipeline with browser-based article extraction, DistilBART summarization, a rolling 30-day store, and permanent weekly archives. It is distinct from Newsies, which uses a local GGUF model.
 
+## Get the source
+
+This repository includes substantial generated data. For a source-only checkout:
+
+```sh
+git clone --depth 1 --filter=blob:none --no-checkout https://github.com/TanishC4444/test.git newsbrief-automation
+cd newsbrief-automation
+git sparse-checkout init --no-cone
+git sparse-checkout set --no-cone '/README.md' '/requirements.txt' '/newsbrief.py' '/test_store.py' '/.github/'
+git checkout main
+```
+
+This checks out the root source and workflows without the large `store.json` or historical article directories.
+
 ## Setup
+
+Requires Python 3.10+ and internet access for collection. Run the following from the checkout root.
 
 ```sh
 python -m venv .venv
@@ -14,7 +30,7 @@ python newsbrief.py --help
 
 On Linux, install CPU PyTorch using its official CPU index first if desired. The requirements file now uses a valid standalone `torch` requirement.
 
-Run a small feed with `python newsbrief.py FEED_URL --max 1 --no-summarize`, or use `--all` for the configured collection. Summarization downloads a model; scraping uses Chromium. The CLI can commit generated state into the current Git repository, including on interruption, so use a deliberate working checkout.
+Run a small feed with `python newsbrief.py "https://feeds.bbci.co.uk/news/rss.xml" --max 1 --no-summarize`, or use `--all` for the configured collection. Summarization downloads a model; scraping uses Chromium. The CLI can commit generated state into the current Git repository, including on interruption, so use a deliberate working checkout.
 
 ## Offline checks
 
